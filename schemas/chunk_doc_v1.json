@@ -1,0 +1,43 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://example.local/schemas/chunk_doc_v1.json",
+  "title": "chunk_doc.v1",
+  "type": "object",
+  "required": [
+    "contract",
+    "parent_contract",
+    "site_id",
+    "source_url",
+    "page_id",
+    "chunk_id",
+    "title",
+    "slug",
+    "text",
+    "token_count",
+    "char_count",
+    "content_hash",
+    "page_content_hash",
+    "observed_at"
+  ],
+  "properties": {
+    "contract": {"const": "chunk_doc.v1"},
+    "parent_contract": {"const": "page_doc.v1"},
+    "site_id": {"type": "string"},
+    "source_url": {"type": "string", "format": "uri"},
+    "page_id": {"type": "string"},
+    "chunk_id": {"type": "string"},
+    "title": {"type": "string"},
+    "slug": {"type": "string"},
+    "section_path": {
+      "type": "array",
+      "items": {"type": "string"}
+    },
+    "text": {"type": "string"},
+    "token_count": {"type": "integer", "minimum": 0},
+    "char_count": {"type": "integer", "minimum": 0},
+    "content_hash": {"type": "string"},
+    "page_content_hash": {"type": "string"},
+    "observed_at": {"type": "string"}
+  },
+  "additionalProperties": true
+}

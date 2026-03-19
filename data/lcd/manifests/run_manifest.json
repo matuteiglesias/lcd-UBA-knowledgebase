@@ -1,0 +1,56 @@
+{
+  "contract": "run_manifest.v1",
+  "run_id": "lcd_ingest_sample",
+  "site_id": "lcd.exactas.uba.ar",
+  "started_at": "2026-03-19T00:00:00Z",
+  "completed_at": "2026-03-19T00:07:00Z",
+  "result": "success",
+  "entity_counts": {
+    "page": 1,
+    "post": 1
+  },
+  "artifacts": [
+    {
+      "path": "data/lcd/normalized/page_doc.v1.jsonl",
+      "kind": "normalized_page_jsonl",
+      "sha256": "sha256:5395a590383c1f7fd1372bd15f4232bddf718d97d06fb56c9f4d3d00c32d54da",
+      "rows": 1
+    },
+    {
+      "path": "data/lcd/normalized/post_doc.v1.jsonl",
+      "kind": "normalized_post_jsonl",
+      "sha256": "sha256:9ca157adfba9245bdc4403d7b31f78e33ae18ad1f5dc58aafbd0d8859d3e2d2f",
+      "rows": 1
+    },
+    {
+      "path": "data/lcd/chunks/page_chunk_doc.v1.jsonl",
+      "kind": "chunks_page_jsonl",
+      "sha256": "sha256:6f5d83d99ed84aa1702038354d300f0997280ec611e58ec941261f4b461dfd51",
+      "rows": 1
+    },
+    {
+      "path": "data/lcd/chunks/post_chunk_doc.v1.jsonl",
+      "kind": "chunks_post_jsonl",
+      "sha256": "sha256:135ec4031168ffb057d621ac3ee78f73d611b553475f65cb6ef16bc3c992dbee",
+      "rows": 1
+    },
+    {
+      "path": "data/lcd/raw/pages",
+      "kind": "raw_page",
+      "files": 1
+    },
+    {
+      "path": "data/lcd/raw/posts",
+      "kind": "raw_post",
+      "files": 1
+    },
+    {
+      "path": "data/lcd/indexes/title_slug_index.json",
+      "kind": "title_slug_index",
+      "rows": 2
+    }
+  ],
+  "notes": [
+    "Manifest generated from current raw and normalized outputs."
+  ]
+}

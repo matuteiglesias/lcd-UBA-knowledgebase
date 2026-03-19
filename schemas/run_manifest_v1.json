@@ -1,0 +1,28 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://example.local/schemas/run_manifest_v1.json",
+  "title": "run_manifest.v1",
+  "type": "object",
+  "required": [
+    "contract",
+    "run_id",
+    "site_id",
+    "started_at",
+    "completed_at",
+    "result",
+    "entity_counts",
+    "artifacts"
+  ],
+  "properties": {
+    "contract": {"const": "run_manifest.v1"},
+    "run_id": {"type": "string"},
+    "site_id": {"type": "string"},
+    "started_at": {"type": "string"},
+    "completed_at": {"type": "string"},
+    "result": {"type": "string"},
+    "entity_counts": {"type": "object"},
+    "artifacts": {"type": "array"},
+    "notes": {"type": "array"}
+  },
+  "additionalProperties": true
+}
