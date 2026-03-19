@@ -36,6 +36,8 @@ class FetchResult:
     pages_fetched: int
     records_fetched: int
     raw_files: list[str]
+    summary: dict
+    errors: list[dict]
 
 
 def default_request_json(url: str) -> tuple[list[dict], dict[str, str]]:
@@ -56,6 +58,23 @@ def build_entity_url(base_url: str, entity: str, page: int, per_page: int, field
     return f"{route}?{urlencode(query)}"
 
 
+def default_fetch_report_paths(output_dir: Path, entity: str) -> tuple[Path, Path]:
+    report_root = output_dir.parent.parent / 'reports'
+    return report_root / f'{entity}_fetch_summary.json', report_root / f'{entity}_fetch_errors.jsonl'
+
+
+def write_fetch_summary(path: Path, summary: dict) -> None:
+    path.parent.mkdir(parents=True, exist_ok=True)
+    path.write_text(json.dumps(summary, indent=2, ensure_ascii=False) + "\n", encoding="utf-8")
+
+
+def write_fetch_errors(path: Path, errors: list[dict]) -> None:
+    path.parent.mkdir(parents=True, exist_ok=True)
+    with path.open('w', encoding='utf-8') as handle:
+        for error in errors:
+            handle.write(json.dumps(error, ensure_ascii=False) + "\n")
+
+
 def fetch_entity_batches(
     *,
     base_url: str,
@@ -71,14 +90,45 @@ def fetch_entity_batches(
     pages_fetched = 0
     records_fetched = 0
     raw_files: list[str] = []
+    errors: list[dict] = []
+    stop_reason = 'completed'
+    reported_total = None
+    reported_total_pages = None
 
     while True:
         if max_pages is not None and page_number > max_pages:
+            stop_reason = 'max_pages_reached'
             break
 
         url = build_entity_url(base_url, entity, page_number, per_page, fields or DEFAULT_FIELDS)
-        payload, headers = request_json(url)
+        try:
+            payload, headers = request_json(url)
+        except Exception as exc:  # noqa: BLE001
+            errors.append(
+                {
+                    'entity': entity,
+                    'page': page_number,
+                    'source_url': url,
+                    'error_type': type(exc).__name__,
+                    'message': str(exc),
+                }
+            )
+            stop_reason = 'request_error'
+            break
+
+        if headers.get('x-wp-total') is not None:
+            try:
+                reported_total = int(headers['x-wp-total'])
+            except (TypeError, ValueError):
+                reported_total = headers['x-wp-total']
+        if headers.get('x-wp-totalpages') is not None:
+            try:
+                reported_total_pages = int(headers['x-wp-totalpages'])
+            except (TypeError, ValueError):
+                reported_total_pages = headers['x-wp-totalpages']
+
         if not payload:
+            stop_reason = 'empty_payload'
             break
 
         destination = output_dir / f"{entity}s-page-{page_number:04d}.json"
@@ -100,16 +150,34 @@ def fetch_entity_batches(
 
         total_pages = headers.get("x-wp-totalpages")
         if total_pages is not None and page_number >= int(total_pages):
+            stop_reason = 'reported_total_pages_reached'
             break
 
         if len(payload) < per_page:
+            stop_reason = 'short_page'
             break
 
         page_number += 1
 
+    summary = {
+        'entity': entity,
+        'base_url': base_url,
+        'output_dir': str(output_dir),
+        'pages_fetched': pages_fetched,
+        'records_fetched': records_fetched,
+        'raw_files': raw_files,
+        'reported_total': reported_total,
+        'reported_total_pages': reported_total_pages,
+        'max_pages': max_pages,
+        'bounded_warning': bool(max_pages is not None and reported_total_pages and pages_fetched < reported_total_pages),
+        'error_count': len(errors),
+        'stop_reason': stop_reason,
+    }
     return FetchResult(
         entity=entity,
         pages_fetched=pages_fetched,
         records_fetched=records_fetched,
         raw_files=raw_files,
+        summary=summary,
+        errors=errors,
     )

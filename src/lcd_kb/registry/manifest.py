@@ -103,6 +103,99 @@ def manifest_for_outputs(
     )
 
 
+def build_latest_success_record(
+    *,
+    run_id: str,
+    completed_at: str,
+    run_dir: Path,
+    manifest_path: Path,
+    index_path: Path,
+    validation_report_path: Path,
+    inventory_path: Path,
+) -> dict:
+    return {
+        "run_id": run_id,
+        "completed_at": completed_at,
+        "run_dir": str(run_dir),
+        "manifest_path": str(manifest_path),
+        "index_path": str(index_path),
+        "validation_report_path": str(validation_report_path),
+        "inventory_path": str(inventory_path),
+    }
+
+
+def build_artifact_inventory(
+    *,
+    run_id: str,
+    run_dir: Path,
+    manifest_path: Path,
+    manifest: dict,
+    index_path: Path,
+    validation_report_path: Path,
+    latest_success_path: Path | None,
+) -> dict:
+    relationships = [
+        {
+            "from": "raw_page",
+            "to": "normalized_page_jsonl",
+            "relationship": "normalized_into",
+        },
+        {
+            "from": "raw_post",
+            "to": "normalized_post_jsonl",
+            "relationship": "normalized_into",
+        },
+        {
+            "from": "normalized_page_jsonl",
+            "to": "chunks_page_jsonl",
+            "relationship": "chunked_into",
+        },
+        {
+            "from": "normalized_post_jsonl",
+            "to": "chunks_post_jsonl",
+            "relationship": "chunked_into",
+        },
+        {
+            "from": "normalized_page_jsonl",
+            "to": "title_slug_index",
+            "relationship": "indexed_into",
+        },
+        {
+            "from": "normalized_post_jsonl",
+            "to": "title_slug_index",
+            "relationship": "indexed_into",
+        },
+        {
+            "from": "run_manifest",
+            "to": "validation_report_json",
+            "relationship": "summarizes_validation_for",
+        },
+    ]
+    return {
+        "contract": "artifact_inventory.v1",
+        "run_id": run_id,
+        "run_dir": str(run_dir),
+        "manifest_path": str(manifest_path),
+        "index_path": str(index_path),
+        "validation_report_path": str(validation_report_path),
+        "latest_success_path": str(latest_success_path) if latest_success_path else None,
+        "manifest_result": manifest.get("result"),
+        "entity_counts": manifest.get("entity_counts", {}),
+        "artifacts": manifest.get("artifacts", []),
+        "relationships": relationships,
+    }
+
+
 def write_manifest(path: Path, manifest: dict) -> None:
     path.parent.mkdir(parents=True, exist_ok=True)
     path.write_text(json.dumps(manifest, indent=2) + "\n", encoding="utf-8")
+
+
+def write_latest_success(path: Path, record: dict) -> None:
+    path.parent.mkdir(parents=True, exist_ok=True)
+    path.write_text(json.dumps(record, indent=2) + "\n", encoding="utf-8")
+
+
+def write_inventory(path: Path, inventory: dict) -> None:
+    path.parent.mkdir(parents=True, exist_ok=True)
+    path.write_text(json.dumps(inventory, indent=2) + "\n", encoding="utf-8")

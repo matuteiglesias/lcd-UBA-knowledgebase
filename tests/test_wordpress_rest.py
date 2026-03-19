@@ -3,7 +3,13 @@ import tempfile
 import unittest
 from pathlib import Path
 
-from lcd_kb.sources.wordpress_rest import build_entity_url, fetch_entity_batches
+from lcd_kb.sources.wordpress_rest import (
+    build_entity_url,
+    default_fetch_report_paths,
+    fetch_entity_batches,
+    write_fetch_errors,
+    write_fetch_summary,
+)
 
 
 class WordpressRestTests(unittest.TestCase):
@@ -13,6 +19,11 @@ class WordpressRestTests(unittest.TestCase):
         self.assertIn("page=2", url)
         self.assertIn("per_page=10", url)
         self.assertIn("_fields=id%2Cslug", url)
+
+    def test_default_fetch_report_paths(self) -> None:
+        summary, errors = default_fetch_report_paths(Path("data/lcd/raw/pages"), "page")
+        self.assertEqual(summary, Path("data/lcd/reports/page_fetch_summary.json"))
+        self.assertEqual(errors, Path("data/lcd/reports/page_fetch_errors.jsonl"))
 
     def test_fetch_entity_batches_writes_raw_pages(self) -> None:
         responses = {
@@ -39,11 +50,40 @@ class WordpressRestTests(unittest.TestCase):
             )
             self.assertEqual(result.pages_fetched, 2)
             self.assertEqual(result.records_fetched, 3)
+            self.assertEqual(result.summary["reported_total"], 3)
+            self.assertEqual(result.summary["stop_reason"], "reported_total_pages_reached")
+            self.assertEqual(result.errors, [])
             raw_files = sorted(Path(tmpdir).glob("*.json"))
             self.assertEqual(len(raw_files), 2)
             payload = json.loads(raw_files[0].read_text(encoding="utf-8"))
             self.assertEqual(payload["entity"], "page")
             self.assertEqual(len(payload["items"]), 2)
+
+    def test_fetch_entity_batches_records_request_errors(self) -> None:
+        def fake_request(url: str):
+            raise RuntimeError(f"boom for {url}")
+
+        with tempfile.TemporaryDirectory() as tmpdir:
+            result = fetch_entity_batches(
+                base_url="https://lcd.exactas.uba.ar",
+                entity="post",
+                output_dir=Path(tmpdir),
+                request_json=fake_request,
+            )
+            self.assertEqual(result.pages_fetched, 0)
+            self.assertEqual(result.summary["error_count"], 1)
+            self.assertEqual(result.summary["stop_reason"], "request_error")
+            self.assertEqual(result.errors[0]["error_type"], "RuntimeError")
+
+    def test_write_fetch_artifacts(self) -> None:
+        with tempfile.TemporaryDirectory() as tmpdir:
+            base = Path(tmpdir)
+            summary_path = base / "reports" / "page_fetch_summary.json"
+            errors_path = base / "reports" / "page_fetch_errors.jsonl"
+            write_fetch_summary(summary_path, {"pages_fetched": 1})
+            write_fetch_errors(errors_path, [{"message": "boom"}])
+            self.assertEqual(json.loads(summary_path.read_text(encoding="utf-8"))["pages_fetched"], 1)
+            self.assertEqual(json.loads(errors_path.read_text(encoding="utf-8").strip())["message"], "boom")
 
 
 if __name__ == "__main__":
