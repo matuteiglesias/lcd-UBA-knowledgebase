@@ -1,0 +1,29 @@
+{
+  "ok": true,
+  "counts": {
+    "page_docs": 1,
+    "post_docs": 1,
+    "page_chunks": 1,
+    "post_chunks": 1
+  },
+  "checks": {
+    "duplicate_source_urls": [],
+    "empty_text_with_html": [],
+    "missing_chunk_parents": [],
+    "empty_chunks": []
+  },
+  "anomaly_counts": {
+    "duplicate_source_urls": 0,
+    "empty_text_docs": 0,
+    "orphan_chunks": 0,
+    "empty_chunks": 0,
+    "fetch_failures": 0
+  },
+  "anomaly_records": {
+    "duplicate_source_urls": [],
+    "empty_text_docs": [],
+    "orphan_chunks": [],
+    "empty_chunks": [],
+    "fetch_failures": []
+  }
+}

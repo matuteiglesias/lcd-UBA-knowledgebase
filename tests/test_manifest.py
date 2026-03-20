@@ -34,6 +34,8 @@ class ManifestTests(unittest.TestCase):
             self.assertEqual(manifest["contract"], "run_manifest.v1")
             self.assertEqual(manifest["entity_counts"]["page"], 1)
             self.assertEqual(manifest["entity_counts"]["post"], 0)
+            self.assertEqual(manifest["run_status"], "completed_untrusted")
+            self.assertEqual(manifest["trust_level"], "untrusted")
             self.assertTrue(manifest["artifacts"][0]["sha256"].startswith("sha256:"))
 
 

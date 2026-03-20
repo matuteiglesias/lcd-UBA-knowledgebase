@@ -38,6 +38,8 @@ def build_manifest(
     entity_counts: dict[str, int],
     artifacts: list[dict],
     result: str = "success",
+    run_status: str = "completed_trusted",
+    trust_level: str = "trusted",
     notes: list[str] | None = None,
 ) -> dict:
     return {
@@ -47,6 +49,8 @@ def build_manifest(
         "started_at": started_at,
         "completed_at": completed_at,
         "result": result,
+        "run_status": run_status,
+        "trust_level": trust_level,
         "entity_counts": entity_counts,
         "artifacts": artifacts,
         "notes": notes or [],
@@ -99,6 +103,8 @@ def manifest_for_outputs(
         completed_at=completed_at,
         entity_counts=entity_counts,
         artifacts=artifacts,
+        run_status="completed_untrusted",
+        trust_level="untrusted",
         notes=["Manifest generated from current raw and normalized outputs."],
     )
 

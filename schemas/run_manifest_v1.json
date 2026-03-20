@@ -10,6 +10,8 @@
     "started_at",
     "completed_at",
     "result",
+    "run_status",
+    "trust_level",
     "entity_counts",
     "artifacts"
   ],
@@ -20,9 +22,12 @@
     "started_at": {"type": "string"},
     "completed_at": {"type": "string"},
     "result": {"type": "string"},
+    "run_status": {"type": "string"},
+    "trust_level": {"type": "string"},
     "entity_counts": {"type": "object"},
     "artifacts": {"type": "array"},
-    "notes": {"type": "array"}
+    "notes": {"type": "array"},
+    "promotion": {"type": "object"}
   },
   "additionalProperties": true
 }

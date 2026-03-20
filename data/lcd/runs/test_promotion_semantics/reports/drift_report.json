@@ -1,0 +1,16 @@
+{
+  "contract": "drift_report.v1",
+  "previous_trusted_run_id": null,
+  "current_run_id": "test_promotion_semantics",
+  "page_count_delta": 1,
+  "post_count_delta": 1,
+  "added_urls": [
+    "https://lcd.exactas.uba.ar/inscripciones-2026/",
+    "https://lcd.exactas.uba.ar/plan-de-estudios/"
+  ],
+  "removed_urls": [],
+  "changed_content_hash_count": 0,
+  "changed_content_hash_urls": [],
+  "slug_churn_count": 2,
+  "suspicious_thresholds_triggered": []
+}
