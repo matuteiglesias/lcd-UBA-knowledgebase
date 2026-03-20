@@ -14,7 +14,9 @@ This repository treats LCD as a source system, not as a website to mirror. The g
 
 ## Current implementation phase
 
-The repo has now moved from planning into a **bounded corpus + local consumer** phase:
+The repo has moved beyond initial planning and bootstrap. It now sits in a **late middle-stage hardening phase**: the bounded corpus and local consumer exist, and the next work should focus on making ingestion credible, repeatable, and ready for real live-source runs. See `docs/frozen_context/current_phase_after_bootstrap.md` and `docs/frozen_context/agent_self_placement_and_next_milestone.md` for the frozen guidance used to place follow-on work.
+
+The earlier bounded corpus + local consumer milestones that are already in place are:
 
 1. governance scope frozen in `docs/lcd_ingest_scope_v1.md`
 2. core contracts defined for `page_doc.v1`, `chunk_doc.v1`, and `run_manifest.v1`
@@ -29,22 +31,30 @@ The repo has now moved from planning into a **bounded corpus + local consumer** 
 
 ```bash
 python -m lcd_kb.cli fetch --entity page --max-pages 1
+# writes data/lcd/reports/page_fetch_summary.json and page_fetch_errors.jsonl
 python -m lcd_kb.cli normalize --entity page
 python -m lcd_kb.cli chunk --entity page
-python -m lcd_kb.cli build
+python -m lcd_kb.cli build --run-id lcd_ingest_20260319T200000Z
 python -m lcd_kb.cli build-index
 python -m lcd_kb.cli search "plan de estudios"
 python -m lcd_kb.cli open --slug plan-de-estudios
 python -m lcd_kb.cli stats
 python -m lcd_kb.cli manifest
-python -m lcd_kb.cli check
+python -m lcd_kb.cli check --report-output data/lcd/reports/validation_report.json
+python -m lcd_kb.cli latest
+python -m lcd_kb.cli latest-artifacts
+python -m lcd_kb.cli inspect-run --run-id lcd_ingest_20260319T200000Z
 ```
+
+`build` now writes derived artifacts into `data/lcd/runs/<run_id>/...` by default, emits `registry/artifact_inventory.json` for that run, and updates `data/lcd/state/latest_success.json` when a run succeeds.
 
 ## Output layout
 
 ```text
 data/lcd/raw/pages/*.json
 data/lcd/raw/posts/*.json
+data/lcd/reports/page_fetch_summary.json
+data/lcd/reports/page_fetch_errors.jsonl
 data/lcd/normalized/page_doc.v1.jsonl
 data/lcd/normalized/post_doc.v1.jsonl
 data/lcd/chunks/page_chunk_doc.v1.jsonl

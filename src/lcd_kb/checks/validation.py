@@ -11,6 +11,19 @@ def load_jsonl(path: Path) -> list[dict]:
         return [json.loads(line) for line in handle if line.strip()]
 
 
+def load_raw_items(path: Path) -> tuple[list[dict], list[dict]]:
+    if not path.exists():
+        return [], []
+
+    envelopes: list[dict] = []
+    items: list[dict] = []
+    for raw_file in sorted(path.glob("*.json")):
+        payload = json.loads(raw_file.read_text(encoding="utf-8"))
+        envelopes.append(payload)
+        items.extend(payload.get("items", []))
+    return envelopes, items
+
+
 def duplicate_source_urls(records: list[dict]) -> list[str]:
     counts: dict[str, int] = {}
     for record in records:
@@ -78,12 +91,26 @@ def validate_corpus(*, page_path: Path, post_path: Path, page_chunk_path: Path, 
 
     document_records = page_records + post_records
     chunk_records = page_chunks + post_chunks
+    coverage = {
+        "page": coverage_for_entity(entity="page", records=document_records, raw_dir=raw_page_dir),
+        "post": coverage_for_entity(entity="post", records=document_records, raw_dir=raw_post_dir),
+    }
 
     checks = {
         "duplicate_source_urls": duplicate_source_urls(document_records),
         "empty_text_with_html": empty_text_with_html(document_records),
         "missing_chunk_parents": missing_chunk_parents(document_records, chunk_records),
         "empty_chunks": empty_chunks(chunk_records),
+        "page_count_mismatch_vs_raw": [] if raw_page_dir is None or coverage["page"]["normalized_count"] == coverage["page"]["fetched_item_count"] else [
+            f"normalized={coverage['page']['normalized_count']} raw_fetched={coverage['page']['fetched_item_count']}"
+        ],
+        "post_count_mismatch_vs_raw": [] if raw_post_dir is None or coverage["post"]["normalized_count"] == coverage["post"]["fetched_item_count"] else [
+            f"normalized={coverage['post']['normalized_count']} raw_fetched={coverage['post']['fetched_item_count']}"
+        ],
+        "page_missing_normalized_urls": coverage["page"]["missing_normalized_urls"],
+        "post_missing_normalized_urls": coverage["post"]["missing_normalized_urls"],
+        "page_extra_normalized_urls": coverage["page"]["extra_normalized_urls"],
+        "post_extra_normalized_urls": coverage["post"]["extra_normalized_urls"],
     }
     anomalies = anomaly_records(
         page_records=page_records,
@@ -104,3 +131,8 @@ def validate_corpus(*, page_path: Path, post_path: Path, page_chunk_path: Path, 
         "anomaly_counts": {name: len(records) for name, records in anomalies.items()},
         "anomaly_records": anomalies,
     }
+
+
+def write_validation_report(path: Path, report: dict) -> None:
+    path.parent.mkdir(parents=True, exist_ok=True)
+    path.write_text(json.dumps(report, indent=2, ensure_ascii=False) + "\n", encoding="utf-8")
