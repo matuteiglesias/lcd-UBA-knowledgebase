@@ -35,6 +35,29 @@ class PageDocTests(unittest.TestCase):
         self.assertEqual(normalized["text"], "Plan PDF")
         self.assertEqual(normalized["attachments"][0]["url"], "https://example.org/file.pdf")
 
+    def test_content_hash_is_stable_across_runs(self) -> None:
+        item = {
+            "id": 10,
+            "type": "page",
+            "slug": "plan",
+            "status": "publish",
+            "link": "https://lcd.exactas.uba.ar/plan/",
+            "title": {"rendered": "Plan"},
+            "content": {"rendered": "<p>Plan</p>"},
+            "excerpt": {"rendered": "Resumen"},
+            "author": 5,
+            "featured_media": 0,
+            "parent": 0,
+            "menu_order": 0,
+            "categories": [1],
+            "tags": [2],
+            "date_gmt": "2026-03-19T00:00:00",
+            "modified_gmt": "2026-03-19T00:00:00",
+        }
+        first = normalize_wordpress_item(item, entity="page", run_id="run-1", observed_at="2026-03-19T00:00:00Z")
+        second = normalize_wordpress_item(item, entity="page", run_id="run-2", observed_at="2026-03-20T00:00:00Z")
+        self.assertEqual(first["content_hash"], second["content_hash"])
+
     def test_normalize_entity_dir_writes_jsonl(self) -> None:
         raw_payload = {
             "entity": "page",

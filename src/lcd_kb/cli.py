@@ -9,32 +9,24 @@ from lcd_kb.consumers.indexer import build_title_slug_index, write_index
 from lcd_kb.consumers.reader import get_record_by_slug, search_records, stats
 from lcd_kb.normalize.chunking import chunk_jsonl
 from lcd_kb.normalize.page_doc import normalize_entity_dir
-from lcd_kb.registry.manifest import (
-    build_artifact_inventory,
-    build_latest_success_record,
-    default_run_id,
-    manifest_for_outputs,
-    utc_now,
-    write_inventory,
-    write_latest_success,
-    write_manifest,
+from lcd_kb.registry.manifest import default_run_id, manifest_for_outputs, utc_now, write_manifest
+from lcd_kb.registry.run_lifecycle import (
+    STATUS_BUILD_FAILED,
+    STATUS_COMPLETED_TRUSTED,
+    STATUS_STARTED,
+    STATUS_VALIDATION_FAILED,
+    build_drift_report,
+    ensure_run_layout,
+    finalize_run_artifacts,
+    load_json,
+    promote_trusted_artifacts,
+    read_pointer,
+    update_pointer,
+    write_json,
+    write_jsonl,
+    write_run_status,
 )
-from lcd_kb.sources.wordpress_rest import (
-    DEFAULT_BASE_URL,
-    FetchResult,
-    default_fetch_report_paths,
-    fetch_entity_batches,
-    write_fetch_errors,
-    write_fetch_summary,
-)
-
-
-DEFAULT_RUN_ROOT = Path('data/lcd/runs')
-DEFAULT_LATEST_SUCCESS_PATH = Path('data/lcd/state/latest_success.json')
-
-
-def load_json_file(path: Path) -> dict:
-    return json.loads(path.read_text(encoding='utf-8'))
+from lcd_kb.sources.wordpress_rest import DEFAULT_BASE_URL, FetchResult, fetch_entity_batches
 
 
 def build_parser() -> argparse.ArgumentParser:
@@ -77,13 +69,14 @@ def build_parser() -> argparse.ArgumentParser:
     build_cmd.add_argument('--latest-success', default=str(DEFAULT_LATEST_SUCCESS_PATH), help='Path to update with the latest successful run pointer')
     build_cmd.add_argument('--page-raw', default='data/lcd/raw/pages')
     build_cmd.add_argument('--post-raw', default='data/lcd/raw/posts')
-    build_cmd.add_argument('--page-output', help='Optional override for normalized page output path')
-    build_cmd.add_argument('--post-output', help='Optional override for normalized post output path')
-    build_cmd.add_argument('--page-chunks', help='Optional override for page chunk output path')
-    build_cmd.add_argument('--post-chunks', help='Optional override for post chunk output path')
-    build_cmd.add_argument('--index-output', help='Optional override for title/slug index path')
-    build_cmd.add_argument('--manifest-output', help='Optional override for manifest output path')
-    build_cmd.add_argument('--validation-report', help='Optional override for validation report path')
+    build_cmd.add_argument('--page-output', default='data/lcd/normalized/page_doc.v1.jsonl')
+    build_cmd.add_argument('--post-output', default='data/lcd/normalized/post_doc.v1.jsonl')
+    build_cmd.add_argument('--page-chunks', default='data/lcd/chunks/page_chunk_doc.v1.jsonl')
+    build_cmd.add_argument('--post-chunks', default='data/lcd/chunks/post_chunk_doc.v1.jsonl')
+    build_cmd.add_argument('--index-output', default='data/lcd/indexes/title_slug_index.json')
+    build_cmd.add_argument('--manifest-output', default='data/lcd/manifests/run_manifest.json')
+    build_cmd.add_argument('--registry-dir', default='data/lcd/registry')
+    build_cmd.add_argument('--runs-dir', default='data/lcd/runs')
     build_cmd.add_argument('--max-chars', type=int, default=400)
 
     search = subparsers.add_parser('search', help='Search chunk or page records locally')
@@ -214,50 +207,207 @@ def cmd_build(args: argparse.Namespace) -> int:
     started_at = args.started_at or utc_now()
     completed_at = args.completed_at or utc_now()
 
-    run_paths = resolve_run_artifact_paths(Path(args.run_root), run_id)
-    run_dir = run_paths['run_dir']
-    page_output = Path(args.page_output) if args.page_output else run_paths['page_output']
-    post_output = Path(args.post_output) if args.post_output else run_paths['post_output']
-    page_chunks = Path(args.page_chunks) if args.page_chunks else run_paths['page_chunks']
-    post_chunks = Path(args.post_chunks) if args.post_chunks else run_paths['post_chunks']
-    index_output = Path(args.index_output) if args.index_output else run_paths['index_output']
-    manifest_output = Path(args.manifest_output) if args.manifest_output else run_paths['manifest_output']
-    validation_report_output = Path(args.validation_report) if args.validation_report else run_paths['validation_report']
-    inventory_output = run_paths['inventory_output']
-    latest_success_output = Path(args.latest_success)
+    page_output = Path(args.page_output)
+    post_output = Path(args.post_output)
+    page_chunks = Path(args.page_chunks)
+    post_chunks = Path(args.post_chunks)
+    index_output = Path(args.index_output)
+    manifest_output = Path(args.manifest_output)
+    registry_dir = Path(args.registry_dir)
+    run_root = Path(args.runs_dir) / run_id
+    run_layout = ensure_run_layout(run_root)
 
-    page_count = normalize_entity_dir(Path(args.page_raw), page_output, entity='page', run_id=run_id, observed_at=observed_at)
-    post_count = normalize_entity_dir(Path(args.post_raw), post_output, entity='post', run_id=run_id, observed_at=observed_at)
-    page_chunk_count = chunk_jsonl(page_output, page_chunks, max_chars=args.max_chars)
-    post_chunk_count = chunk_jsonl(post_output, post_chunks, max_chars=args.max_chars)
-    index_rows = build_title_slug_index(page_path=page_output, post_path=post_output)
-    write_index(index_output, index_rows)
+    staging_paths = {
+        'page_output': run_layout['staging'] / 'page_doc.v1.jsonl',
+        'post_output': run_layout['staging'] / 'post_doc.v1.jsonl',
+        'page_chunks': run_layout['staging'] / 'page_chunk_doc.v1.jsonl',
+        'post_chunks': run_layout['staging'] / 'post_chunk_doc.v1.jsonl',
+        'index_output': run_layout['staging'] / 'title_slug_index.json',
+    }
+    final_run_paths = {
+        'page_output': run_layout['normalized'] / 'page_doc.v1.jsonl',
+        'post_output': run_layout['normalized'] / 'post_doc.v1.jsonl',
+        'page_chunks': run_layout['chunks'] / 'page_chunk_doc.v1.jsonl',
+        'post_chunks': run_layout['chunks'] / 'post_chunk_doc.v1.jsonl',
+        'index_output': run_layout['indexes'] / 'title_slug_index.json',
+    }
+    canonical_paths = {
+        'page_output': page_output,
+        'post_output': post_output,
+        'page_chunks': page_chunks,
+        'post_chunks': post_chunks,
+        'index_output': index_output,
+    }
+
+    latest_trusted_pointer = registry_dir / 'latest_trusted.json'
+    latest_success_pointer = registry_dir / 'latest_success.json'
+    latest_attempted_pointer = registry_dir / 'latest_attempted.json'
+    previous_trusted_pointer = read_pointer(latest_trusted_pointer)
+    previous_trusted_manifest = None
+    if previous_trusted_pointer and previous_trusted_pointer.get('manifest_path'):
+        previous_trusted_manifest = load_json(Path(previous_trusted_pointer['manifest_path']))
+
+    status_path = run_layout['registry'] / 'run_status.json'
+    write_run_status(
+        status_path,
+        {
+            'contract': 'run_status.v1',
+            'run_id': run_id,
+            'status': STATUS_STARTED,
+            'result': 'running',
+            'started_at': started_at,
+            'completed_at': None,
+            'promotion_performed': False,
+            'trusted': False,
+            'notes': ['Build started; artifacts will remain in staging until validation passes.'],
+        },
+    )
+
+    try:
+        page_count = normalize_entity_dir(Path(args.page_raw), staging_paths['page_output'], entity='page', run_id=run_id, observed_at=observed_at)
+        post_count = normalize_entity_dir(Path(args.post_raw), staging_paths['post_output'], entity='post', run_id=run_id, observed_at=observed_at)
+        page_chunk_count = chunk_jsonl(staging_paths['page_output'], staging_paths['page_chunks'], max_chars=args.max_chars)
+        post_chunk_count = chunk_jsonl(staging_paths['post_output'], staging_paths['post_chunks'], max_chars=args.max_chars)
+        index_rows = build_title_slug_index(page_path=staging_paths['page_output'], post_path=staging_paths['post_output'])
+        write_index(staging_paths['index_output'], index_rows)
+    except Exception as exc:
+        completed_at = args.completed_at or utc_now()
+        write_run_status(
+            status_path,
+            {
+                'contract': 'run_status.v1',
+                'run_id': run_id,
+                'status': STATUS_BUILD_FAILED,
+                'result': 'fail',
+                'started_at': started_at,
+                'completed_at': completed_at,
+                'promotion_performed': False,
+                'trusted': False,
+                'notes': [f'Build failed before validation: {exc}'],
+            },
+        )
+        update_pointer(
+            latest_attempted_pointer,
+            {
+                'run_id': run_id,
+                'status': STATUS_BUILD_FAILED,
+                'manifest_path': str(run_root / 'registry' / 'run_manifest.json'),
+                'run_status_path': str(status_path),
+                'updated_at': completed_at,
+            },
+        )
+        raise
 
     validation = validate_corpus(
-        page_path=page_output,
-        post_path=post_output,
-        page_chunk_path=page_chunks,
-        post_chunk_path=post_chunks,
-        raw_page_dir=Path(args.page_raw),
-        raw_post_dir=Path(args.post_raw),
+        page_path=staging_paths['page_output'],
+        post_path=staging_paths['post_output'],
+        page_chunk_path=staging_paths['page_chunks'],
+        post_chunk_path=staging_paths['post_chunks'],
     )
-    write_validation_report(validation_report_output, validation)
+    write_json(run_layout['reports'] / 'validation_report.json', validation)
+    anomaly_dir = run_layout['reports'] / 'anomalies'
+    anomaly_paths = {
+        'duplicate_source_urls': anomaly_dir / 'duplicate_source_urls.jsonl',
+        'empty_text_docs': anomaly_dir / 'empty_text_docs.jsonl',
+        'orphan_chunks': anomaly_dir / 'orphan_chunks.jsonl',
+        'empty_chunks': anomaly_dir / 'empty_chunks.jsonl',
+        'fetch_failures': anomaly_dir / 'fetch_failures.jsonl',
+    }
+    for anomaly_name, output_path in anomaly_paths.items():
+        write_jsonl(output_path, validation['anomaly_records'][anomaly_name])
+    drift_report = build_drift_report(
+        current_run_id=run_id,
+        current_page_path=staging_paths['page_output'],
+        current_post_path=staging_paths['post_output'],
+        previous_trusted_manifest=previous_trusted_manifest,
+    )
+    write_json(run_layout['reports'] / 'drift_report.json', drift_report)
 
+    run_status = STATUS_COMPLETED_TRUSTED if validation['ok'] else STATUS_VALIDATION_FAILED
     manifest = manifest_for_outputs(
         run_id=run_id,
         started_at=started_at,
         completed_at=completed_at,
-        normalized_paths={'page': page_output, 'post': post_output},
-        chunk_paths={'page': page_chunks, 'post': post_chunks},
+        normalized_paths={'page': staging_paths['page_output'], 'post': staging_paths['post_output']},
+        chunk_paths={'page': staging_paths['page_chunks'], 'post': staging_paths['post_chunks']},
         raw_dirs={'page': Path(args.page_raw), 'post': Path(args.post_raw)},
     )
-    manifest['artifacts'].append({'path': str(index_output), 'kind': 'title_slug_index', 'rows': len(index_rows)})
-    manifest['artifacts'].append({'path': str(validation_report_output), 'kind': 'validation_report_json'})
-    manifest['artifacts'].append({'path': str(inventory_output), 'kind': 'artifact_inventory_json'})
-    if not validation['ok']:
-        manifest['result'] = 'fail'
-        manifest['notes'].append('Validation failed during build.')
-    write_manifest(manifest_output, manifest)
+    manifest['result'] = 'pass' if validation['ok'] else 'fail'
+    manifest['run_status'] = run_status
+    manifest['trust_level'] = 'trusted' if validation['ok'] else 'untrusted'
+    manifest['promotion'] = {
+        'latest_attempted': str(latest_attempted_pointer),
+        'latest_success': str(latest_success_pointer),
+        'latest_trusted': str(latest_trusted_pointer),
+        'promoted': validation['ok'],
+    }
+    manifest['artifacts'].extend([
+        {'path': str(staging_paths['index_output']), 'kind': 'staging_title_slug_index', 'rows': len(index_rows)},
+        {'path': str(run_layout['reports'] / 'validation_report.json'), 'kind': 'validation_report'},
+        {'path': str(run_layout['reports'] / 'drift_report.json'), 'kind': 'drift_report'},
+        {'path': str(status_path), 'kind': 'run_status'},
+    ])
+    manifest['artifacts'].extend(
+        {
+            'path': str(path),
+            'kind': f'anomaly_{name}',
+            'rows': len(validation['anomaly_records'][name]),
+        }
+        for name, path in anomaly_paths.items()
+    )
+    if validation['ok']:
+        finalize_run_artifacts(staging_paths=staging_paths, final_paths=final_run_paths)
+        promote_trusted_artifacts(trusted_paths=final_run_paths, canonical_paths=canonical_paths)
+        for artifact in manifest['artifacts']:
+            if artifact.get('kind') == 'normalized_page_jsonl':
+                artifact['path'] = str(final_run_paths['page_output'])
+            elif artifact.get('kind') == 'normalized_post_jsonl':
+                artifact['path'] = str(final_run_paths['post_output'])
+            elif artifact.get('kind') == 'chunks_page_jsonl':
+                artifact['path'] = str(final_run_paths['page_chunks'])
+            elif artifact.get('kind') == 'chunks_post_jsonl':
+                artifact['path'] = str(final_run_paths['post_chunks'])
+        manifest['artifacts'].append({'path': str(final_run_paths['index_output']), 'kind': 'title_slug_index', 'rows': len(index_rows)})
+        manifest['notes'].append('Validation passed; staged outputs were finalized and promoted as trusted.')
+    else:
+        manifest['notes'].append('Validation failed; staged outputs were preserved for inspection and not promoted.')
+
+    run_manifest_path = run_layout['registry'] / 'run_manifest.json'
+    write_manifest(run_manifest_path, manifest)
+    if validation['ok']:
+        write_manifest(manifest_output, manifest)
+
+    write_run_status(
+        status_path,
+        {
+            'contract': 'run_status.v1',
+            'run_id': run_id,
+            'status': run_status,
+            'result': manifest['result'],
+            'started_at': started_at,
+            'completed_at': completed_at,
+            'promotion_performed': validation['ok'],
+            'trusted': validation['ok'],
+            'validation_ok': validation['ok'],
+            'validation_report_path': str(run_layout['reports'] / 'validation_report.json'),
+            'drift_report_path': str(run_layout['reports'] / 'drift_report.json'),
+            'anomaly_directory': str(anomaly_dir),
+            'manifest_path': str(run_manifest_path),
+            'notes': manifest['notes'],
+        },
+    )
+
+    latest_attempted_payload = {
+        'run_id': run_id,
+        'status': run_status,
+        'manifest_path': str(run_manifest_path),
+        'run_status_path': str(status_path),
+        'updated_at': completed_at,
+    }
+    update_pointer(latest_attempted_pointer, latest_attempted_payload)
+    if validation['ok']:
+        update_pointer(latest_success_pointer, latest_attempted_payload)
+        update_pointer(latest_trusted_pointer, latest_attempted_payload)
 
     inventory = build_artifact_inventory(
         run_id=run_id,
@@ -284,17 +434,17 @@ def cmd_build(args: argparse.Namespace) -> int:
         write_latest_success(latest_success_output, latest_success_record)
 
     result = {
-        'result': 'pass' if validation['ok'] else 'fail',
+        'result': manifest['result'],
         'run_id': run_id,
-        'run_dir': str(run_dir),
+        'run_status': run_status,
         'normalized': {'page': page_count, 'post': post_count},
         'chunks': {'page': page_chunk_count, 'post': post_chunk_count},
         'index_rows': len(index_rows),
         'validation': validation,
-        'manifest_output': str(manifest_output),
-        'validation_report_output': str(validation_report_output),
-        'inventory_output': str(inventory_output),
-        'latest_success_output': str(latest_success_output) if latest_success_record else None,
+        'drift_report': drift_report,
+        'anomaly_dir': str(anomaly_dir),
+        'manifest_output': str(run_manifest_path),
+        'promoted': validation['ok'],
     }
     print(json.dumps(result, indent=2, ensure_ascii=False))
     return 0 if validation['ok'] else 1

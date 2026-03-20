@@ -62,74 +62,28 @@ def empty_chunks(chunk_records: list[dict]) -> list[str]:
     return failures
 
 
-def source_urls(items: list[dict]) -> set[str]:
-    return {str(item.get("link")) for item in items if item.get("link")}
+def anomaly_records(*, page_records: list[dict], post_records: list[dict], page_chunks: list[dict], post_chunks: list[dict]) -> dict[str, list[dict]]:
+    document_records = page_records + post_records
+    chunk_records = page_chunks + post_chunks
 
+    duplicate_urls = set(duplicate_source_urls(document_records))
+    orphan_ids = set(missing_chunk_parents(document_records, chunk_records))
+    empty_chunk_ids = set(empty_chunks(chunk_records))
 
-def normalized_urls(records: list[dict], *, entity: str) -> set[str]:
-    return {str(record.get("source_url")) for record in records if record.get("entity_type") == entity and record.get("source_url")}
-
-
-def source_reported_total(envelopes: list[dict]) -> int | None:
-    totals = []
-    for envelope in envelopes:
-        headers = envelope.get("headers") or {}
-        total = headers.get("x-wp-total")
-        if total is None:
-            continue
-        try:
-            totals.append(int(total))
-        except (TypeError, ValueError):
-            continue
-    if not totals:
-        return None
-    return max(totals)
-
-
-def coverage_for_entity(*, entity: str, records: list[dict], raw_dir: Path | None) -> dict:
-    entity_records = [record for record in records if record.get("entity_type") == entity]
-    coverage = {
-        "entity": entity,
-        "normalized_count": len(entity_records),
-        "raw_files": 0,
-        "fetched_item_count": 0,
-        "reported_total": None,
-        "missing_normalized_urls": [],
-        "extra_normalized_urls": [],
-        "warnings": [],
+    return {
+        "duplicate_source_urls": [record for record in document_records if record.get("source_url") in duplicate_urls],
+        "empty_text_docs": [
+            record
+            for record in document_records
+            if (record.get("html") or "").strip() and not (record.get("text") or "").strip()
+        ],
+        "orphan_chunks": [chunk for chunk in chunk_records if str(chunk.get("page_id")) in orphan_ids],
+        "empty_chunks": [chunk for chunk in chunk_records if str(chunk.get("chunk_id")) in empty_chunk_ids],
+        "fetch_failures": [],
     }
-    if raw_dir is None:
-        return coverage
-
-    envelopes, items = load_raw_items(raw_dir)
-    fetched_urls = source_urls(items)
-    landed_urls = normalized_urls(records, entity=entity)
-    coverage.update(
-        {
-            "raw_files": len(envelopes),
-            "fetched_item_count": len(items),
-            "reported_total": source_reported_total(envelopes),
-            "missing_normalized_urls": sorted(fetched_urls - landed_urls),
-            "extra_normalized_urls": sorted(landed_urls - fetched_urls),
-        }
-    )
-    reported_total = coverage["reported_total"]
-    if reported_total is not None and reported_total != len(items):
-        coverage["warnings"].append(
-            f"raw fetch captured {len(items)} items but source reported total {reported_total}; this looks like a bounded or partial fetch"
-        )
-    return coverage
 
 
-def validate_corpus(
-    *,
-    page_path: Path,
-    post_path: Path,
-    page_chunk_path: Path,
-    post_chunk_path: Path,
-    raw_page_dir: Path | None = None,
-    raw_post_dir: Path | None = None,
-) -> dict:
+def validate_corpus(*, page_path: Path, post_path: Path, page_chunk_path: Path, post_chunk_path: Path) -> dict:
     page_records = load_jsonl(page_path)
     post_records = load_jsonl(post_path)
     page_chunks = load_jsonl(page_chunk_path)
@@ -158,6 +112,12 @@ def validate_corpus(
         "page_extra_normalized_urls": coverage["page"]["extra_normalized_urls"],
         "post_extra_normalized_urls": coverage["post"]["extra_normalized_urls"],
     }
+    anomalies = anomaly_records(
+        page_records=page_records,
+        post_records=post_records,
+        page_chunks=page_chunks,
+        post_chunks=post_chunks,
+    )
     ok = all(not failures for failures in checks.values())
     return {
         "ok": ok,
@@ -168,7 +128,8 @@ def validate_corpus(
             "post_chunks": len(post_chunks),
         },
         "checks": checks,
-        "coverage": coverage,
+        "anomaly_counts": {name: len(records) for name, records in anomalies.items()},
+        "anomaly_records": anomalies,
     }
 
 

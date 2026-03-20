@@ -10,7 +10,8 @@ This runbook describes the bounded v1 LCD ingestion workflow and the minimum evi
 2. Normalize those batches into `page_doc.v1` JSONL outputs.
 3. Chunk normalized documents into `chunk_doc.v1` JSONL outputs.
 4. Run validation checks before treating the run as trustworthy.
-5. Write `run_manifest.v1` with counts and artifact hashes.
+5. Write `run_status.v1`, `run_manifest.v1`, `drift_report.v1`, and anomaly JSONL artifacts under the run directory.
+6. Promote trusted pointers only if validation passes.
 
 ## Typical command sequence
 
@@ -26,7 +27,7 @@ python -m lcd_kb.cli check --report-output data/lcd/reports/validation_report.js
 python -m lcd_kb.cli manifest
 ```
 
-`build` now defaults to writing derived artifacts into a per-run directory under `data/lcd/runs/<run_id>/...`, emits `registry/artifact_inventory.json` for that run, and, on success, updates `data/lcd/state/latest_success.json` to point at the latest trusted run. Operators can inspect that state with `lcd-kb latest`, `lcd-kb latest-artifacts`, and `lcd-kb inspect-run --run-id ...`.
+`python -m lcd_kb.cli build` now stages outputs under `data/lcd/runs/<run_id>/staging/`, writes per-run reports plus targeted anomaly files under `reports/anomalies/`, and promotes canonical trusted outputs only when validation succeeds.
 
 ## What `check` currently validates
 
@@ -37,6 +38,16 @@ python -m lcd_kb.cli manifest
 - normalized page/post counts that do not match fetched raw item counts
 - fetched source URLs that are missing from normalized outputs, and normalized URLs that were not present in the raw fetch
 
+## Targeted anomaly artifacts
+
+Each build writes focused JSONL files so operators can jump directly to offending records:
+
+- `reports/anomalies/duplicate_source_urls.jsonl`
+- `reports/anomalies/empty_text_docs.jsonl`
+- `reports/anomalies/orphan_chunks.jsonl`
+- `reports/anomalies/empty_chunks.jsonl`
+- `reports/anomalies/fetch_failures.jsonl`
+
 ## Failure handling
 
 If `check` fails:
@@ -45,10 +56,14 @@ If `check` fails:
 2. re-open the raw batch in `data/lcd/raw/...`
 3. verify whether the issue came from fetch, normalize, or chunk stages
 4. rerun only the affected stage first, then rerun `check`
-5. regenerate the manifest once the run passes
+5. inspect the staged run artifacts in `data/lcd/runs/<run_id>/...`
+6. regenerate the manifest once the run passes
 
 ## Notes
 
 - v1 remains intentionally narrow: LCD only, REST first, no binary mirroring
 - summaries and embeddings remain downstream concerns
 - a run should not be considered good merely because files exist; `check` must pass too
+- `latest_attempted` means the newest run that reached a final status
+- `latest_success` means the newest run whose build completed and passed validation
+- `latest_trusted` means the newest run promoted for downstream use; in the current policy it advances together with `latest_success`

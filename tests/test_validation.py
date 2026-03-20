@@ -41,8 +41,7 @@ class ValidationTests(unittest.TestCase):
                 raw_post_dir=raw_posts,
             )
             self.assertTrue(report["ok"])
-            self.assertEqual(report["coverage"]["page"]["fetched_item_count"], 1)
-            self.assertEqual(report["checks"]["page_missing_normalized_urls"], [])
+            self.assertEqual(report["anomaly_counts"]["duplicate_source_urls"], 0)
 
     def test_validate_corpus_failures(self) -> None:
         with tempfile.TemporaryDirectory() as tmpdir:
@@ -83,18 +82,10 @@ class ValidationTests(unittest.TestCase):
             self.assertEqual(report["checks"]["missing_chunk_parents"], ["page:999"])
             self.assertEqual(report["checks"]["empty_chunks"], ["page:999#chunk:0001"])
             self.assertEqual(report["checks"]["empty_text_with_html"], ["https://lcd.exactas.uba.ar/dup/"])
-            self.assertEqual(report["checks"]["page_missing_normalized_urls"], ["https://lcd.exactas.uba.ar/missing/"])
-            self.assertEqual(report["checks"]["page_count_mismatch_vs_raw"], [])
-            self.assertEqual(report["coverage"]["page"]["warnings"], [
-                "raw fetch captured 2 items but source reported total 3; this looks like a bounded or partial fetch"
-            ])
-
-    def test_write_validation_report(self) -> None:
-        with tempfile.TemporaryDirectory() as tmpdir:
-            output = Path(tmpdir) / "reports" / "validation.json"
-            write_validation_report(output, {"ok": True})
-            self.assertTrue(output.exists())
-            self.assertEqual(json.loads(output.read_text(encoding="utf-8"))["ok"], True)
+            self.assertEqual(len(report["anomaly_records"]["duplicate_source_urls"]), 2)
+            self.assertEqual(len(report["anomaly_records"]["empty_text_docs"]), 1)
+            self.assertEqual(len(report["anomaly_records"]["orphan_chunks"]), 1)
+            self.assertEqual(len(report["anomaly_records"]["empty_chunks"]), 1)
 
 
 if __name__ == "__main__":

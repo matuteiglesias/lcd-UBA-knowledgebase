@@ -25,6 +25,7 @@ The earlier bounded corpus + local consumer milestones that are already in place
 5. a chunker emits `chunk_doc.v1` JSONL for local retrieval
 6. local commands can search, inspect, and summarize the current corpus artifacts
 7. integrity checks and a runbook help prevent silent pipeline drift
+8. trusted promotion now happens only after validation passes, with run-scoped status, drift reports, and anomaly artifacts
 
 ## CLI
 
@@ -60,9 +61,12 @@ data/lcd/chunks/page_chunk_doc.v1.jsonl
 data/lcd/chunks/post_chunk_doc.v1.jsonl
 data/lcd/indexes/title_slug_index.json
 data/lcd/manifests/run_manifest.json
-data/lcd/reports/validation_report.json
-data/lcd/runs/<run_id>/{normalized,chunks,indexes,manifests,reports,registry}/...
-data/lcd/state/latest_success.json
+data/lcd/registry/latest_attempted.json
+data/lcd/registry/latest_success.json
+data/lcd/registry/latest_trusted.json
+data/lcd/runs/<run_id>/registry/run_status.json
+data/lcd/runs/<run_id>/reports/drift_report.json
+data/lcd/runs/<run_id>/reports/anomalies/*.jsonl
 ```
 
 ## Development

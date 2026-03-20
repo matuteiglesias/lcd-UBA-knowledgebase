@@ -1,0 +1,19 @@
+{
+  "contract": "run_status.v1",
+  "run_id": "test_promotion_semantics",
+  "status": "completed_trusted",
+  "result": "pass",
+  "started_at": "2026-03-20T02:55:57Z",
+  "completed_at": "2026-03-20T02:55:57Z",
+  "promotion_performed": true,
+  "trusted": true,
+  "validation_ok": true,
+  "validation_report_path": "data/lcd/runs/test_promotion_semantics/reports/validation_report.json",
+  "drift_report_path": "data/lcd/runs/test_promotion_semantics/reports/drift_report.json",
+  "anomaly_directory": "data/lcd/runs/test_promotion_semantics/reports/anomalies",
+  "manifest_path": "data/lcd/runs/test_promotion_semantics/registry/run_manifest.json",
+  "notes": [
+    "Manifest generated from current raw and normalized outputs.",
+    "Validation passed; staged outputs were finalized and promoted as trusted."
+  ]
+}

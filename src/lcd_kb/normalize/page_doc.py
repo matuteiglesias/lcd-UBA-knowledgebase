@@ -52,7 +52,12 @@ def extract_links_and_attachments(html: str) -> tuple[list[dict[str, str]], list
 
 
 def compute_hash(document: dict) -> str:
-    encoded = json.dumps(document, ensure_ascii=False, sort_keys=True).encode("utf-8")
+    hashable = {
+        key: value
+        for key, value in document.items()
+        if key not in {"ingest_run_id", "observed_at", "content_hash"}
+    }
+    encoded = json.dumps(hashable, ensure_ascii=False, sort_keys=True).encode("utf-8")
     return f"sha256:{hashlib.sha256(encoded).hexdigest()}"
 
 

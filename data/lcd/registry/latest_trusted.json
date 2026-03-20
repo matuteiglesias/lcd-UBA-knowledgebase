@@ -1,0 +1,7 @@
+{
+  "run_id": "test_promotion_semantics",
+  "status": "completed_trusted",
+  "manifest_path": "data/lcd/runs/test_promotion_semantics/registry/run_manifest.json",
+  "run_status_path": "data/lcd/runs/test_promotion_semantics/registry/run_status.json",
+  "updated_at": "2026-03-20T02:55:57Z"
+}
