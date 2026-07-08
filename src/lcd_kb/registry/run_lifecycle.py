@@ -13,6 +13,10 @@ STATUS_VALIDATION_FAILED = "validation_failed"
 STATUS_COMPLETED_UNTRUSTED = "completed_untrusted"
 STATUS_COMPLETED_TRUSTED = "completed_trusted"
 
+DEFAULT_RUN_ROOT = Path("data/lcd/runs")
+DEFAULT_LATEST_ATTEMPTED_PATH = Path("data/lcd/registry/latest_attempted.json")
+DEFAULT_LATEST_SUCCESS_PATH = Path("data/lcd/registry/latest_success.json")
+DEFAULT_LATEST_TRUSTED_PATH = Path("data/lcd/registry/latest_trusted.json")
 
 def ensure_run_layout(run_root: Path) -> dict[str, Path]:
     paths = {
@@ -46,7 +50,18 @@ def write_run_status(path: Path, payload: dict) -> None:
 
 
 def copy_file(src: Path, dest: Path) -> None:
+    src = Path(src)
+    dest = Path(dest)
+
     dest.parent.mkdir(parents=True, exist_ok=True)
+
+    try:
+        if src.resolve() == dest.resolve():
+            return
+    except FileNotFoundError:
+        # Let shutil raise the useful source-missing error below.
+        pass
+
     shutil.copy2(src, dest)
 
 

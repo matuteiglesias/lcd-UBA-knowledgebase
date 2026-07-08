@@ -83,7 +83,64 @@ def anomaly_records(*, page_records: list[dict], post_records: list[dict], page_
     }
 
 
-def validate_corpus(*, page_path: Path, post_path: Path, page_chunk_path: Path, post_chunk_path: Path) -> dict:
+def coverage_for_entity(*, entity: str, records: list[dict], raw_dir: Path | None) -> dict:
+    normalized_records = [r for r in records if r.get("entity_type") == entity]
+    normalized_urls = {r.get("source_url") for r in normalized_records if r.get("source_url")}
+
+    fetched_items: list[dict] = []
+    observed_total = None
+
+    if raw_dir is not None and raw_dir.exists():
+        for path in sorted(raw_dir.glob("*.json")):
+            payload = json.loads(path.read_text(encoding="utf-8"))
+            items = payload.get("items", [])
+            fetched_items.extend(items)
+            batch_total = payload.get("source_total")
+            if batch_total is not None:
+                observed_total = max(observed_total or 0, int(batch_total))
+
+    fetched_urls = {item.get("link") for item in fetched_items if item.get("link")}
+
+    missing_normalized_urls = sorted(fetched_urls - normalized_urls)
+    extra_normalized_urls = sorted(normalized_urls - fetched_urls)
+
+    warnings = []
+    if observed_total is not None and observed_total > len(fetched_items):
+        warnings.append("bounded_fetch_incomplete")
+
+
+    if raw_dir is None or not raw_dir.exists():
+        return {
+            "entity": entity,
+            "raw_fetched_count": None,
+            "normalized_count": len(normalized_records),
+            "source_total": None,
+            "missing_normalized_urls": [],
+            "extra_normalized_urls": [],
+            "warnings": ["raw_dir_not_available"],
+        }
+
+
+    return {
+        "entity": entity,
+        "raw_fetched_count": len(fetched_items),
+        "normalized_count": len(normalized_records),
+        "source_total": observed_total,
+        "missing_normalized_urls": missing_normalized_urls,
+        "extra_normalized_urls": extra_normalized_urls,
+        "warnings": warnings,
+    }
+
+
+def validate_corpus(
+    *,
+    page_path: Path,
+    post_path: Path,
+    page_chunk_path: Path,
+    post_chunk_path: Path,
+    raw_page_dir: Path | None = None,
+    raw_post_dir: Path | None = None,
+) -> dict:
     page_records = load_jsonl(page_path)
     post_records = load_jsonl(post_path)
     page_chunks = load_jsonl(page_chunk_path)
@@ -91,6 +148,7 @@ def validate_corpus(*, page_path: Path, post_path: Path, page_chunk_path: Path, 
 
     document_records = page_records + post_records
     chunk_records = page_chunks + post_chunks
+
     coverage = {
         "page": coverage_for_entity(entity="page", records=document_records, raw_dir=raw_page_dir),
         "post": coverage_for_entity(entity="post", records=document_records, raw_dir=raw_post_dir),
@@ -101,24 +159,31 @@ def validate_corpus(*, page_path: Path, post_path: Path, page_chunk_path: Path, 
         "empty_text_with_html": empty_text_with_html(document_records),
         "missing_chunk_parents": missing_chunk_parents(document_records, chunk_records),
         "empty_chunks": empty_chunks(chunk_records),
-        "page_count_mismatch_vs_raw": [] if raw_page_dir is None or coverage["page"]["normalized_count"] == coverage["page"]["fetched_item_count"] else [
-            f"normalized={coverage['page']['normalized_count']} raw_fetched={coverage['page']['fetched_item_count']}"
-        ],
-        "post_count_mismatch_vs_raw": [] if raw_post_dir is None or coverage["post"]["normalized_count"] == coverage["post"]["fetched_item_count"] else [
-            f"normalized={coverage['post']['normalized_count']} raw_fetched={coverage['post']['fetched_item_count']}"
-        ],
+        "page_count_mismatch_vs_raw": (
+            []
+            if raw_page_dir is None or coverage["page"]["normalized_count"] == coverage["page"]["raw_fetched_count"]
+            else [f"normalized={coverage['page']['normalized_count']} raw_fetched={coverage['page']['raw_fetched_count']}"]
+        ),
+        "post_count_mismatch_vs_raw": (
+            []
+            if raw_post_dir is None or coverage["post"]["normalized_count"] == coverage["post"]["raw_fetched_count"]
+            else [f"normalized={coverage['post']['normalized_count']} raw_fetched={coverage['post']['raw_fetched_count']}"]
+        ),
         "page_missing_normalized_urls": coverage["page"]["missing_normalized_urls"],
         "post_missing_normalized_urls": coverage["post"]["missing_normalized_urls"],
         "page_extra_normalized_urls": coverage["page"]["extra_normalized_urls"],
         "post_extra_normalized_urls": coverage["post"]["extra_normalized_urls"],
     }
+
     anomalies = anomaly_records(
         page_records=page_records,
         post_records=post_records,
         page_chunks=page_chunks,
         post_chunks=post_chunks,
     )
+
     ok = all(not failures for failures in checks.values())
+
     return {
         "ok": ok,
         "counts": {
@@ -127,6 +192,7 @@ def validate_corpus(*, page_path: Path, post_path: Path, page_chunk_path: Path, 
             "page_chunks": len(page_chunks),
             "post_chunks": len(post_chunks),
         },
+        "coverage": coverage,
         "checks": checks,
         "anomaly_counts": {name: len(records) for name, records in anomalies.items()},
         "anomaly_records": anomalies,

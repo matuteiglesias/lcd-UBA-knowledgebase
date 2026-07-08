@@ -9,8 +9,21 @@ from lcd_kb.consumers.indexer import build_title_slug_index, write_index
 from lcd_kb.consumers.reader import get_record_by_slug, search_records, stats
 from lcd_kb.normalize.chunking import chunk_jsonl
 from lcd_kb.normalize.page_doc import normalize_entity_dir
-from lcd_kb.registry.manifest import default_run_id, manifest_for_outputs, utc_now, write_manifest
+# from lcd_kb.registry.manifest import default_run_id, manifest_for_outputs, utc_now, write_manifest
+from lcd_kb.registry.manifest import (
+    build_artifact_inventory,
+    default_run_id,
+    manifest_for_outputs,
+    utc_now,
+    write_inventory,
+    write_manifest,
+)
+
 from lcd_kb.registry.run_lifecycle import (
+    DEFAULT_LATEST_ATTEMPTED_PATH,
+    DEFAULT_LATEST_SUCCESS_PATH,
+    DEFAULT_LATEST_TRUSTED_PATH,
+    DEFAULT_RUN_ROOT,
     STATUS_BUILD_FAILED,
     STATUS_COMPLETED_TRUSTED,
     STATUS_STARTED,
@@ -26,8 +39,15 @@ from lcd_kb.registry.run_lifecycle import (
     write_jsonl,
     write_run_status,
 )
-from lcd_kb.sources.wordpress_rest import DEFAULT_BASE_URL, FetchResult, fetch_entity_batches
-
+# from lcd_kb.sources.wordpress_rest import DEFAULT_BASE_URL, FetchResult, fetch_entity_batches
+from lcd_kb.sources.wordpress_rest import (
+    DEFAULT_BASE_URL,
+    FetchResult,
+    default_fetch_report_paths,
+    fetch_entity_batches,
+    write_fetch_errors,
+    write_fetch_summary,
+)
 
 def build_parser() -> argparse.ArgumentParser:
     parser = argparse.ArgumentParser(prog='lcd-kb', description='LCD knowledgebase pipeline scaffold')
@@ -78,6 +98,12 @@ def build_parser() -> argparse.ArgumentParser:
     build_cmd.add_argument('--registry-dir', default='data/lcd/registry')
     build_cmd.add_argument('--runs-dir', default='data/lcd/runs')
     build_cmd.add_argument('--max-chars', type=int, default=400)
+
+    build_cmd.add_argument('--validation-report', default=None, help='Optional explicit path for validation_report.json')
+    build_cmd.add_argument('--drift-report', default=None, help='Optional explicit path for drift_report.json')
+    build_cmd.add_argument('--run-status-output', default=None, help='Optional explicit path for run_status.json')
+    build_cmd.add_argument('--inventory-output', default=None, help='Optional explicit path for artifact_inventory.json')
+
 
     search = subparsers.add_parser('search', help='Search chunk or page records locally')
     search.add_argument('query', help='Search query')
@@ -143,15 +169,19 @@ def default_chunk_path(entity: str) -> Path:
 def resolve_run_artifact_paths(run_root: Path, run_id: str) -> dict[str, Path]:
     run_dir = run_root / run_id
     return {
-        'run_dir': run_dir,
-        'page_output': run_dir / 'normalized' / 'page_doc.v1.jsonl',
-        'post_output': run_dir / 'normalized' / 'post_doc.v1.jsonl',
-        'page_chunks': run_dir / 'chunks' / 'page_chunk_doc.v1.jsonl',
-        'post_chunks': run_dir / 'chunks' / 'post_chunk_doc.v1.jsonl',
-        'index_output': run_dir / 'indexes' / 'title_slug_index.json',
-        'manifest_output': run_dir / 'manifests' / 'run_manifest.json',
-        'validation_report': run_dir / 'reports' / 'validation_report.json',
-        'inventory_output': run_dir / 'registry' / 'artifact_inventory.json',
+        "run_dir": run_dir,
+        "staging_root": run_dir / "staging",
+        "page_output": run_dir / "normalized" / "page_doc.v1.jsonl",
+        "post_output": run_dir / "normalized" / "post_doc.v1.jsonl",
+        "page_chunks": run_dir / "chunks" / "page_chunk_doc.v1.jsonl",
+        "post_chunks": run_dir / "chunks" / "post_chunk_doc.v1.jsonl",
+        "index_output": run_dir / "indexes" / "title_slug_index.json",
+        "manifest_output": run_dir / "registry" / "run_manifest.json",
+        "run_status": run_dir / "registry" / "run_status.json",
+        "inventory_output": run_dir / "registry" / "artifact_inventory.json",
+        "validation_report": run_dir / "reports" / "validation_report.json",
+        "drift_report": run_dir / "reports" / "drift_report.json",
+        "anomalies_dir": run_dir / "reports" / "anomalies",
     }
 
 
@@ -207,15 +237,41 @@ def cmd_build(args: argparse.Namespace) -> int:
     started_at = args.started_at or utc_now()
     completed_at = args.completed_at or utc_now()
 
-    page_output = Path(args.page_output)
-    post_output = Path(args.post_output)
-    page_chunks = Path(args.page_chunks)
-    post_chunks = Path(args.post_chunks)
-    index_output = Path(args.index_output)
-    manifest_output = Path(args.manifest_output)
-    registry_dir = Path(args.registry_dir)
-    run_root = Path(args.runs_dir) / run_id
-    run_layout = ensure_run_layout(run_root)
+    run_root_base = Path(args.run_root) if getattr(args, "run_root", None) else Path(args.runs_dir)
+    resolved = resolve_run_artifact_paths(run_root_base, run_id)
+    run_dir = resolved["run_dir"]
+
+    # run_root
+    
+    page_output = Path(args.page_output) if getattr(args, "page_output", None) else resolved["page_output"]
+    post_output = Path(args.post_output) if getattr(args, "post_output", None) else resolved["post_output"]
+    page_chunks = Path(args.page_chunks) if getattr(args, "page_chunks", None) else resolved["page_chunks"]
+    post_chunks = Path(args.post_chunks) if getattr(args, "post_chunks", None) else resolved["post_chunks"]
+    index_output = Path(args.index_output) if getattr(args, "index_output", None) else resolved["index_output"]
+    manifest_output = Path(args.manifest_output) if getattr(args, "manifest_output", None) else resolved["manifest_output"]
+
+
+
+    validation_report_output = (
+        Path(args.validation_report)
+        if getattr(args, "validation_report", None)
+        else resolved["validation_report"]
+    )
+    drift_report_output = (
+        Path(args.drift_report)
+        if getattr(args, "drift_report", None)
+        else resolved["drift_report"]
+    )
+    inventory_output = (
+        Path(args.inventory_output)
+        if getattr(args, "inventory_output", None)
+        else resolved["inventory_output"]
+    )
+
+
+    registry_dir = Path(args.registry_dir) if getattr(args, "registry_dir", None) else Path("data/lcd/registry")
+    run_layout = ensure_run_layout(run_dir)
+    
 
     staging_paths = {
         'page_output': run_layout['staging'] / 'page_doc.v1.jsonl',
@@ -239,9 +295,28 @@ def cmd_build(args: argparse.Namespace) -> int:
         'index_output': index_output,
     }
 
-    latest_trusted_pointer = registry_dir / 'latest_trusted.json'
-    latest_success_pointer = registry_dir / 'latest_success.json'
-    latest_attempted_pointer = registry_dir / 'latest_attempted.json'
+
+
+    latest_success_pointer = (
+        Path(args.latest_success)
+        if getattr(args, "latest_success", None)
+        else registry_dir / "latest_success.json"
+    )
+
+    latest_trusted_pointer = (
+        Path(args.latest_trusted)
+        if getattr(args, "latest_trusted", None)
+        else registry_dir / "latest_trusted.json"
+    )
+
+    latest_attempted_pointer = (
+        Path(args.latest_attempted)
+        if getattr(args, "latest_attempted", None)
+        else registry_dir / "latest_attempted.json"
+    )
+
+
+
     previous_trusted_pointer = read_pointer(latest_trusted_pointer)
     previous_trusted_manifest = None
     if previous_trusted_pointer and previous_trusted_pointer.get('manifest_path'):
@@ -291,7 +366,7 @@ def cmd_build(args: argparse.Namespace) -> int:
             {
                 'run_id': run_id,
                 'status': STATUS_BUILD_FAILED,
-                'manifest_path': str(run_root / 'registry' / 'run_manifest.json'),
+                'manifest_path': str(run_root_base / 'registry' / 'run_manifest.json'),
                 'run_status_path': str(status_path),
                 'updated_at': completed_at,
             },
@@ -303,6 +378,8 @@ def cmd_build(args: argparse.Namespace) -> int:
         post_path=staging_paths['post_output'],
         page_chunk_path=staging_paths['page_chunks'],
         post_chunk_path=staging_paths['post_chunks'],
+        raw_page_dir=Path(args.page_raw),
+        raw_post_dir=Path(args.post_raw),
     )
     write_json(run_layout['reports'] / 'validation_report.json', validation)
     anomaly_dir = run_layout['reports'] / 'anomalies'
@@ -373,6 +450,11 @@ def cmd_build(args: argparse.Namespace) -> int:
         manifest['notes'].append('Validation failed; staged outputs were preserved for inspection and not promoted.')
 
     run_manifest_path = run_layout['registry'] / 'run_manifest.json'
+
+    run_inventory_path = run_layout["registry"] / "artifact_inventory.json"
+    run_validation_report_path = run_layout["reports"] / "validation_report.json"
+    run_drift_report_path = run_layout["reports"] / "drift_report.json"
+
     write_manifest(run_manifest_path, manifest)
     if validation['ok']:
         write_manifest(manifest_output, manifest)
@@ -398,40 +480,34 @@ def cmd_build(args: argparse.Namespace) -> int:
     )
 
     latest_attempted_payload = {
-        'run_id': run_id,
-        'status': run_status,
-        'manifest_path': str(run_manifest_path),
-        'run_status_path': str(status_path),
-        'updated_at': completed_at,
+        "run_id": run_id,
+        "status": run_status,
+        "run_dir": str(run_dir),
+        "manifest_path": str(run_manifest_path),
+        "run_status_path": str(status_path),
+        "validation_report_path": str(run_validation_report_path),
+        "drift_report_path": str(run_drift_report_path),
+        "inventory_path": str(run_inventory_path),
+        "updated_at": completed_at,
     }
+
     update_pointer(latest_attempted_pointer, latest_attempted_payload)
     if validation['ok']:
         update_pointer(latest_success_pointer, latest_attempted_payload)
         update_pointer(latest_trusted_pointer, latest_attempted_payload)
 
+
     inventory = build_artifact_inventory(
         run_id=run_id,
         run_dir=run_dir,
-        manifest_path=manifest_output,
+        manifest_path=run_manifest_path,
         manifest=manifest,
-        index_path=index_output,
+        index_path=final_run_paths["index_output"] if validation["ok"] else staging_paths["index_output"],
         validation_report_path=validation_report_output,
-        latest_success_path=latest_success_output,
+        latest_success_path=latest_success_pointer if validation["ok"] else None,
     )
     write_inventory(inventory_output, inventory)
 
-    latest_success_record = None
-    if validation['ok']:
-        latest_success_record = build_latest_success_record(
-            run_id=run_id,
-            completed_at=completed_at,
-            run_dir=run_dir,
-            manifest_path=manifest_output,
-            index_path=index_output,
-            validation_report_path=validation_report_output,
-            inventory_path=inventory_output,
-        )
-        write_latest_success(latest_success_output, latest_success_record)
 
     result = {
         'result': manifest['result'],
@@ -476,7 +552,7 @@ def cmd_latest(args: argparse.Namespace) -> int:
     if not latest_success_path.exists():
         print(json.dumps({'result': 'fail', 'latest_success': str(latest_success_path)}, indent=2))
         return 1
-    print(json.dumps({'result': 'pass', 'latest': load_json_file(latest_success_path)}, indent=2, ensure_ascii=False))
+    print(json.dumps({'result': 'pass', 'latest': load_json(latest_success_path)}, indent=2, ensure_ascii=False))
     return 0
 
 
@@ -485,35 +561,106 @@ def cmd_latest_artifacts(args: argparse.Namespace) -> int:
     if not latest_success_path.exists():
         print(json.dumps({'result': 'fail', 'latest_success': str(latest_success_path)}, indent=2))
         return 1
-    latest = load_json_file(latest_success_path)
+    latest = load_json(latest_success_path)
     inventory_path = Path(latest['inventory_path'])
-    inventory = load_json_file(inventory_path)
+    inventory = load_json(inventory_path)
     print(json.dumps({'result': 'pass', 'run_id': latest['run_id'], 'artifacts': inventory.get('artifacts', [])}, indent=2, ensure_ascii=False))
     return 0
 
 
 def cmd_inspect_run(args: argparse.Namespace) -> int:
     run_dir = Path(args.run_root) / args.run_id
-    inventory_path = run_dir / 'registry' / 'artifact_inventory.json'
-    manifest_path = run_dir / 'manifests' / 'run_manifest.json'
-    validation_report_path = run_dir / 'reports' / 'validation_report.json'
-    missing = [str(path) for path in [inventory_path, manifest_path, validation_report_path] if not path.exists()]
-    if missing:
-        print(json.dumps({'result': 'fail', 'run_id': args.run_id, 'missing': missing}, indent=2))
+
+    manifest_path = run_dir / "registry" / "run_manifest.json"
+    inventory_path = run_dir / "registry" / "artifact_inventory.json"
+    validation_report_path = run_dir / "reports" / "validation_report.json"
+    status_path = run_dir / "registry" / "run_status.json"
+
+    if not run_dir.exists():
+        print(
+            json.dumps(
+                {
+                    "result": "fail",
+                    "run_id": args.run_id,
+                    "error": f"Run directory not found: {run_dir}",
+                    "run_dir": str(run_dir),
+                },
+                indent=2,
+                ensure_ascii=False,
+            )
+        )
         return 1
-    inventory = load_json_file(inventory_path)
-    manifest = load_json_file(manifest_path)
-    validation = load_json_file(validation_report_path)
-    summary = {
-        'run_id': args.run_id,
-        'run_dir': str(run_dir),
-        'manifest_result': manifest.get('result'),
-        'entity_counts': manifest.get('entity_counts', {}),
-        'artifact_count': len(inventory.get('artifacts', [])),
-        'validation_ok': validation.get('ok'),
-        'checks_with_failures': [name for name, failures in validation.get('checks', {}).items() if failures],
+
+    paths = {
+        "manifest": str(manifest_path),
+        "inventory": str(inventory_path),
+        "validation_report": str(validation_report_path),
+        "run_status": str(status_path),
     }
-    print(json.dumps({'result': 'pass', 'summary': summary, 'inventory': inventory}, indent=2, ensure_ascii=False))
+
+    exists = {
+        "manifest": manifest_path.exists(),
+        "inventory": inventory_path.exists(),
+        "validation_report": validation_report_path.exists(),
+        "run_status": status_path.exists(),
+    }
+
+    if not manifest_path.exists():
+        print(
+            json.dumps(
+                {
+                    "result": "fail",
+                    "run_id": args.run_id,
+                    "run_dir": str(run_dir),
+                    "paths": paths,
+                    "exists": exists,
+                    "missing": [str(manifest_path)],
+                    "error": f"Missing manifest: {manifest_path}",
+                },
+                indent=2,
+                ensure_ascii=False,
+            )
+        )
+        return 1
+
+    manifest = load_json(manifest_path) or {}
+    inventory = load_json(inventory_path) if inventory_path.exists() else {}
+    validation = load_json(validation_report_path) if validation_report_path.exists() else {}
+    run_status = load_json(status_path) if status_path.exists() else {}
+
+    checks = validation.get("checks", {}) if isinstance(validation, dict) else {}
+
+    summary = {
+        "run_id": args.run_id,
+        "run_dir": str(run_dir),
+        "manifest_result": manifest.get("result"),
+        "run_status": manifest.get("run_status") or run_status.get("status"),
+        "trust_level": manifest.get("trust_level"),
+        "entity_counts": manifest.get("entity_counts", {}),
+        "artifact_count": len(inventory.get("artifacts", [])) if isinstance(inventory, dict) else 0,
+        "validation_ok": validation.get("ok") if isinstance(validation, dict) else None,
+        "checks_with_failures": [
+            name for name, failures in checks.items() if failures
+        ],
+        "missing_optional": [
+            str(path)
+            for path in [inventory_path, validation_report_path, status_path]
+            if not path.exists()
+        ],
+    }
+
+    payload = {
+        "result": "pass",
+        "summary": summary,
+        "paths": paths,
+        "exists": exists,
+        "manifest": manifest,
+        "inventory": inventory,
+        "validation": validation,
+        "run_status": run_status,
+    }
+
+    print(json.dumps(payload, indent=2, ensure_ascii=False))
     return 0
 
 
@@ -525,8 +672,8 @@ def cmd_check(args: argparse.Namespace) -> int:
         post_path=Path(args.post_input),
         page_chunk_path=Path(args.page_chunks),
         post_chunk_path=Path(args.post_chunks),
-        raw_page_dir=Path(args.raw_page_dir),
-        raw_post_dir=Path(args.raw_post_dir),
+        raw_page_dir=Path(args.page_raw),
+        raw_post_dir=Path(args.post_raw),
     )
     if args.report_output:
         write_validation_report(Path(args.report_output), validation)

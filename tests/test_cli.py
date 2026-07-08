@@ -6,8 +6,23 @@ import tempfile
 import unittest
 from pathlib import Path
 
-from lcd_kb.cli import build_parser, cmd_build
+from pathlib import Path
+from unittest import TestCase
+from unittest.mock import patch
 
+
+from lcd_kb.cli import (
+    build_parser,
+    cmd_build,
+    cmd_inspect_run,
+    cmd_latest,
+    cmd_latest_artifacts,
+    resolve_run_artifact_paths,
+)
+from lcd_kb.registry.run_lifecycle import (
+    DEFAULT_LATEST_SUCCESS_PATH,
+    DEFAULT_RUN_ROOT,
+)
 
 class CliTests(unittest.TestCase):
     def test_fetch_parser(self) -> None:
@@ -47,7 +62,7 @@ class CliTests(unittest.TestCase):
     def test_resolve_run_artifact_paths(self) -> None:
         paths = resolve_run_artifact_paths(Path("/tmp/runs"), "run-1")
         self.assertEqual(paths["run_dir"], Path("/tmp/runs/run-1"))
-        self.assertEqual(paths["manifest_output"], Path("/tmp/runs/run-1/manifests/run_manifest.json"))
+        self.assertEqual(paths["manifest_output"], Path("/tmp/runs/run-1/registry/run_manifest.json"))
         self.assertEqual(paths["validation_report"], Path("/tmp/runs/run-1/reports/validation_report.json"))
         self.assertEqual(paths["inventory_output"], Path("/tmp/runs/run-1/registry/artifact_inventory.json"))
 
@@ -131,7 +146,7 @@ class CliTests(unittest.TestCase):
             self.assertTrue((run_dir / "normalized" / "page_doc.v1.jsonl").exists())
             self.assertTrue((run_dir / "chunks" / "page_chunk_doc.v1.jsonl").exists())
             self.assertTrue((run_dir / "reports" / "validation_report.json").exists())
-            self.assertTrue((run_dir / "manifests" / "run_manifest.json").exists())
+            self.assertTrue((run_dir / "registry" / "run_manifest.json").exists())
             self.assertTrue((run_dir / "registry" / "artifact_inventory.json").exists())
             latest_success = json.loads((base / "state" / "latest_success.json").read_text(encoding="utf-8"))
             self.assertEqual(latest_success["run_id"], "run-1")
@@ -162,7 +177,7 @@ class CliTests(unittest.TestCase):
             (run_dir / "manifests").mkdir(parents=True)
             (run_dir / "reports").mkdir(parents=True)
             (run_dir / "registry" / "artifact_inventory.json").write_text(json.dumps({"artifacts": [{"kind": "a"}]}), encoding="utf-8")
-            (run_dir / "manifests" / "run_manifest.json").write_text(json.dumps({"result": "success", "entity_counts": {"page": 1}}), encoding="utf-8")
+            (run_dir / "registry" / "run_manifest.json").write_text(json.dumps({"result": "success", "entity_counts": {"page": 1}}), encoding="utf-8")
             (run_dir / "reports" / "validation_report.json").write_text(json.dumps({"ok": True, "checks": {"empty_chunks": []}}), encoding="utf-8")
             with patch("builtins.print") as mock_print:
                 self.assertEqual(cmd_inspect_run(argparse.Namespace(run_root=str(base / "runs"), run_id="run-1")), 0)
