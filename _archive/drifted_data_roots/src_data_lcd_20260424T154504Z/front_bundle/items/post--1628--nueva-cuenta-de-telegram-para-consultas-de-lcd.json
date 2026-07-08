@@ -1,0 +1,30 @@
+{
+  "id": "post:1628",
+  "entity_type": "post",
+  "source_id": 1628,
+  "slug": "nueva-cuenta-de-telegram-para-consultas-de-lcd",
+  "route_slug": "post--1628--nueva-cuenta-de-telegram-para-consultas-de-lcd",
+  "title": "Nueva cuenta de telegram para consultas de LCD",
+  "source_url": "https://lcd.exactas.uba.ar/nueva-cuenta-de-telegram-para-consultas-de-lcd/",
+  "created_at": "2022-08-26T20:04:20",
+  "modified_at": "2022-08-26T20:04:20",
+  "sort_date": "2022-08-26T20:04:20",
+  "status": "publish",
+  "excerpt_plain": "Recibimos consultas en la dirección de telegram @consultaslcd. Pueden unirse […]",
+  "text": "Recibimos consultas en la dirección de telegram @consultaslcd. Pueden unirse con este link",
+  "html_clean": "<p>Recibimos consultas en la dirección de telegram @consultaslcd. Pueden unirse con <a href=\"https://t.me/consultaslcd\" target=\"_blank\" rel=\"noopener noreferrer\">este link </a></p>",
+  "render_mode": "html_clean",
+  "attachments": [],
+  "has_attachments": false,
+  "attachment_count": 0,
+  "outlinks": [
+    {
+      "url": "https://t.me/consultaslcd",
+      "kind": "external"
+    }
+  ],
+  "is_index_like": false,
+  "index_like_reason": null,
+  "content_hash": "sha256:3b707202e06bb4855cb64994e63a3d1f1943d3a72ebde4fdbda88dba8798ba17",
+  "search_text": "Nueva cuenta de telegram para consultas de LCD nueva-cuenta-de-telegram-para-consultas-de-lcd Recibimos consultas en la dirección de telegram @consultaslcd. Pueden unirse […] Recibimos consultas en la dirección de telegram @consultaslcd. Pueden unirse con este link"
+}

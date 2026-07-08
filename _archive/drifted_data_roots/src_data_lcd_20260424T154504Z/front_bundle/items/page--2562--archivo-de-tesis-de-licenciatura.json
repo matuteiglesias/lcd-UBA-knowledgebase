@@ -1,0 +1,126 @@
+{
+  "id": "page:2562",
+  "entity_type": "page",
+  "source_id": 2562,
+  "slug": "archivo-de-tesis-de-licenciatura",
+  "route_slug": "page--2562--archivo-de-tesis-de-licenciatura",
+  "title": "Archivo de tesis de licenciatura",
+  "source_url": "https://lcd.exactas.uba.ar/archivo-de-tesis-de-licenciatura/",
+  "created_at": "2024-09-02T20:51:57",
+  "modified_at": "2025-08-28T17:11:32",
+  "sort_date": "2025-08-28T17:11:32",
+  "status": "publish",
+  "excerpt_plain": "yes",
+  "text": "Ingresando a cada tesis, puede acceder al documento completo. 2025-12-17T18:20:48-03:00 Causal Machine Learning para evaluación de efectos causales heterogéneos 2025-12-17T18:20:48-03:00 Tesista: Constanza de Galvagni Director: Matías López-Rosenfeld Codirector: Gustavo Landfried Resumen. Esta tesis realiza una comparación de modelos de aprendizaje automático para la estimación de efectos causales que varían entre individuos. La motivación central consistió en extender los análisis […] 2025-09-08T18:24:14-03:00 Modelos de programación lineal entera para problemas de asignación de turnos con condiciones de estabilidad 2025-09-08T18:24:14-03:00 Tesista: Dafne Sol Yudcovsky Director: Javier Marenco Codirector: Esteban Lanzarotti Resumen. Dentro del campo de la Optimización, la Programación Lineal Entera (PLE) se destaca por su capacidad para modelar problemas de decisión en los que las variables deben asumir […] 2025-09-08T18:20:45-03:00 Clasificación de especies en bosques utilizando imágenes capturadas con vehículos aéreos no tripulados y aprendizaje profundo 2025-09-08T18:20:45-03:00 Tesista: Catherine Sophie Louys Sanso Director: Dr. Pablo De Cristóforis Codirector: Ing. Francisco Raverta Capua Resumen. En este trabajo se aborda el desafío de clasificar especies arbóreas a partir de imágenes aéreas RGB mediante técnicas de aprendizaje profundo. El […] 2025-09-08T18:14:27-03:00 Análisis de discursos polı́ticos usando procesamiento del lenguaje natural (NLP) 2025-09-08T18:14:27-03:00 Tesista: Manuel Horn Director: Pablo Balenzuela Resumen. Una cuestión fundamental en el comportamiento social colectivo se relaciona con la influencia del discurso público y mediático en la opinión electoral. En este trabajo se propone un enfoque metodológico para […] 2025-09-08T18:10:55-03:00 Mitigación y propagación de noticias falsas en redes sociales 2025-09-08T18:10:55-03:00 Tesista: Bruno Russo Directora: Inés Caridi Codirector: Pablo Balenzuela Resumen. La consolidación de las redes sociales como plataformas primarias para el consumo de información ha transformado radicalmente el ecosistema mediático. Plataformas como Twitter (actual X ), Facebook e Instagram […] 2025-09-08T18:03:09-03:00 Explorando AI Safety via Debate: un estudio sobre capacidades asimétricas y jueces débiles en el entorno MNIST 2025-09-08T18:03:09-03:00 Tesista: Joaquı́n Salvador Machulsky Director: Dr. Sergio Abriola Resumen. El paradigma de “AI Safety via Debate” propone un mecanismo para supervisar sistemas de IA avanzados, haciéndolos competir para convencer a un juez con capacidades limitadas. Basándose en el […] 2025-09-08T17:43:12-03:00 Extracción de información de datos de texto libre 2025-09-08T17:43:12-03:00 Tesista: Ignacio Rodrı́guez Sañudo Director: Germán Rosati Codirector: Juan Kamienkowski Resumen. La extracción de información a partir de datos de texto libre es un proceso fundamental para transformar grandes volúmenes de información no estructurada en formatos organizados y analizables. […] 2025-09-08T17:38:52-03:00 Ajedrezzinni Latentinni: autoencoders para interpretar el espacio latente del ajedrez 2025-09-08T17:38:52-03:00 Tesista: Julián Garbulsky Director: Juan Pablo Pinasco Resumen. En este trabajo exploramos representaciones comprimidas de posiciones de ajedrez mediante autoencoders, una clase de redes neuronales no supervisadas. A partir de una base de datos pública de partidas de ajedrez, […] 2025-09-08T17:32:04-03:00 Lo que las redes neuronales no saben: descubriendo e interpretando el conocimiento aprendido en redes neuronales convolucionales 2025-09-08T17:32:04-03:00 Tesista: Gabriel Baca Rubinztain Director: Gabriel Kreiman Codirector: Pablo Negri Resumen. Este trabajo aborda el problema de inferir el conocimiento adquirido por una red neuronal convolucional para clasificación de imágenes, sin información previa sobre sus datos de entrenamiento. En […] 2025-09-08T17:22:40-03:00 Modelos y soluciones para la restauración de imágenes fuera de foco 2025-09-08T17:22:40-03:00 Tesista: Delfina Belén Comerso Salzer Director: Gabriela Jeronimo Codirector: Malena Español Resumen. Los problemas de deconvolución ciega y semiciega que surgen en el contexto de restauración de imágenes fuera de foco pueden ser modelados como problemas de mı́nimos cuadrados […] 2025-09-08T16:52:13-03:00 Reconocimiento de objetos y análisis del desempeño de conductores a partir del comportamiento y seguimiento de movimientos oculares 2025-09-08T16:52:13-03:00 Tesista: Jhosept Levyt Sanchez Goicochea Director: Juan Kamienkowski Codirector: Joaquin Gonzalez Resumen. Los accidentes de tránsito son un problema que nos afecta a todos en nuestra vida diaria, de distintas maneras, algunas más personales, porque los sufrimos nosotros mismos […] 2025-09-08T16:19:56-03:00 Investigación sobre la aplicación de técnicas de filtrado colaborativo para la recomendación de jugadores a equipos de fútbol 2025-09-08T16:19:56-03:00 Tesista: Pablo Ariel Groisman Director: Dr. Andrés Farall Codirector: Ing. Manuel Duran Resumen. En el fútbol, la elección adecuada de futbolistas por parte de los clubes es una tarea difı́cil y a la vez fundamental para el desempeño de […] 2025-09-08T16:11:57-03:00 Degradación controlada en un Gran Modelo de Lenguaje (LLM) 2025-09-08T16:11:57-03:00 Tesista: Alejandro Wainstock Director: Dr. Enzo Tagliazucchi Resumen. La investigación en Grandes Modelos de Lenguaje (LLMs) reveló su potencial no solo como herramientas de procesamiento de lenguaje natural, sino también como análogos computacionales para comprender la cognición humana. […] 2025-08-05T18:41:33-03:00 Medición de la velocidad del habla con aprendizaje profundo 2025-08-05T18:41:33-03:00 Tesista: Pedro Ortiz Director: Pablo Riera Resumen. En esta tesis se aborda el problema de estimar la velocidad del habla —medida en fonemas por segundo (FPS) o sı́labas por segundo (SPS)— a partir de señales acústicas. Esta tarea […] 2025-08-05T18:36:32-03:00 Extracción de información de datos de texto libre 2025-08-05T18:36:32-03:00 Tesista: Ignacio Rodríguez Sañudo Director: Germán Rosati Codirector: Juan Kamienkowski Resumen. La extracción de información a partir de datos de texto libre es un proceso fundamental para transformar grandes volúmenes de información no estructurada en formatos organizados y analizables. […] 2025-08-05T18:31:12-03:00 Ciencia de datos aplicada al estudio de las desigualdades socioeconómicas y territoriales en la realización de Papanicolaou en Argentina 2025-08-05T18:31:12-03:00 Tesista: Valentina Camila Durán Directora: María Soledad Férnandez Codirectora: Luciana Bruno Resumen. El cáncer de cuello de útero es una enfermedad prevenible, pero aún causa alrededor de 2.200 muertes anuales en Argentina. La prueba de Papanicolaou (PAP) es uno […] 2025-08-05T18:27:21-03:00 Modelos de Aprendizaje Automático para identificación de estudiantes en riesgo de abandono en la Facultad de Ciencias Exactas y Naturales de la Universidad de Buenos Aires 2025-08-05T18:27:21-03:00 Tesista: Sol Anabella Calloni Director: Mtr. Martı́n Pustilnik Codirector: Dr. Guillermo Durán Resumen. En promedio, 19.96 % de los inscriptos al Ciclo Básico Común (CBC) en la Facultad de Ciencias Exactas y Naturales (FCEN) de la Universidad de Buenos […] 2025-08-05T17:58:28-03:00 Clasificación de transiciones de turno en conversaciones humano-humano utilizando LLMs 2025-08-05T17:58:28-03:00 Tesista: Tomás Ravel Director: Pablo Brusco Resumen. El análisis automático de eventos en conversaciones habladas entre humanos, o entre humanos y sistemas, es una tarea fundamental para el desarrollo de sistemas de diálogo más naturales y eficientes. En […] 2025-08-05T17:57:30-03:00 Modelando la dinámica oculta de la divagación mental y el efecto del metilfenidato 2025-08-05T17:57:30-03:00 Tesista: Nicolás Ian Rozenberg Director: Enzo Tagliazucchi Codirector: Nicolás Bruno Resumen. La divagación mental, o mind wandering (MW) en inglés, es un fenómeno cognitivo en el que la atención se desplaza de la tarea actual hacia pensamientos internos no […] 2025-08-05T17:40:49-03:00 Modelización predictiva para la identificación de variables clave y grupos vulnerables en la realización de mamografías en Argentina 2025-08-05T17:40:49-03:00 Tesista: Luz Montserrat Directora: Marı́a Soledad Fernández Codirectora: Adriana Pérez Resumen. El cáncer de mama es la principal causa de muerte por cáncer en mujeres en Argentina, y la mamografı́a es el único método reconocido de detección precoz en […] 2025-08-05T17:27:55-03:00 Generación automática de preguntas basada en grafos de conocimiento para optimización de sistemas de recuperación aumentada 2025-08-05T17:27:55-03:00 Tesista: Teo Gutter Director: Luciano Del Corro Resumen. Los sistemas de Generación por Recuperación Aumentada (RAG) permiten a los grandes modelos de lenguaje (LLMs) acceder a información externa en tiempo real, superando así las limitaciones impuestas por su […] 2025-08-05T17:31:43-03:00 Fronteras dentro de una ciudad: caso de estudio de escuelas en zonas cercanas al tren Sarmiento, CABA 2025-08-05T17:31:43-03:00 Tesista: Manuel Graña Director: Inés Caridi Codirector: Paula Mascías Resumen. En las ciudades, ciertas infraestructuras funcionan como fronteras físicas o simbólicas que pueden limitar el acceso equitativo a oportunidades fundamentales, como la educación. En esta tesis se estudia el […] 2025-08-05T17:30:26-03:00 Correspondencia entre respuesta electrofisiológica ante estı́mulos visuales y activaciones en redes neuronales convolucionales 2025-08-05T17:30:26-03:00 Tesista: Agustin de Otazua Director: Enzo Tagliazucchi Codirector: Eric Lützow Holm Resumen. El sistema visual de los primates procesa los estı́mulos visuales en forma jerárquica. En su etapa inicial, la corteza visual primaria responde a caracterı́sticas de bajo nivel, […] 2024-09-03T14:23:53-03:00 Análisis de similaridad entre representaciones de palabras generadas por modelos de audio y de texto 2024-09-03T14:23:53-03:00 Tesista: Cecilia Micaela Bolaños Director: Pablo Brusco Codirector: Leonardo Pepino Resumen. En el campo del aprendizaje automático, es muy común el uso de modelos pre-entrenados. Estos modelos, creados para resolver tareas generales y, generalmente entrenados sobre grandes cantidades de […] 2024-09-03T15:24:58-03:00 Exploración de la limpieza de ruido en habla hispana con redes neuronales 2024-09-03T15:24:58-03:00 Tesista: Axel Fridman Director: Pablo Riera Resumen. Las señales de habla pueden estar contaminadas por ruidos que dificultan nuestra capacidad de comunicarnos, para resolver esta problemática existe la tarea de eliminación de ruido. En este trabajo […]",
+  "html_clean": "",
+  "render_mode": "text_only",
+  "attachments": [],
+  "has_attachments": false,
+  "attachment_count": 0,
+  "outlinks": [
+    {
+      "url": "https://lcd.exactas.uba.ar/causal-machine-learning-para-evaluacion-de-efectos-causales-heterogeneos/",
+      "kind": "internal"
+    },
+    {
+      "url": "https://lcd.exactas.uba.ar/modelos-de-programacion-lineal-entera-para-problemas-de-asignacion-de-turnos-con-condiciones-de-estabilidad/",
+      "kind": "internal"
+    },
+    {
+      "url": "https://lcd.exactas.uba.ar/clasificacion-de-especies-en-bosques-utilizando-imagenes-capturadas-con-vehiculos-aereos-no-tripulados-y-aprendizaje-profundo/",
+      "kind": "internal"
+    },
+    {
+      "url": "https://lcd.exactas.uba.ar/analisis-de-discursos-politicos-usando-procesamiento-del-lenguaje-natural-nlp/",
+      "kind": "internal"
+    },
+    {
+      "url": "https://lcd.exactas.uba.ar/mitigacion-y-propagacion-de-noticias-falsas-en-redes-sociales/",
+      "kind": "internal"
+    },
+    {
+      "url": "https://lcd.exactas.uba.ar/explorando-ai-safety-via-debate-un-estudio-sobre-capacidades-asimetricas-y-jueces-debiles-en-el-entorno-mnist/",
+      "kind": "internal"
+    },
+    {
+      "url": "https://lcd.exactas.uba.ar/extraccion-de-informacion-de-datos-de-texto-libre-2/",
+      "kind": "internal"
+    },
+    {
+      "url": "https://lcd.exactas.uba.ar/ajedrezzinni-latentinni-autoencoders-para-interpretar-el-espacio-latente-del-ajedrez/",
+      "kind": "internal"
+    },
+    {
+      "url": "https://lcd.exactas.uba.ar/lo-que-las-redes-neuronales-no-saben-descubriendo-e-interpretando-el-conocimiento-aprendido-en-redes-neuronales-convolucionales/",
+      "kind": "internal"
+    },
+    {
+      "url": "https://lcd.exactas.uba.ar/modelos-y-soluciones-para-la-restauracion-de-imagenes-fuera-de-foco-2/",
+      "kind": "internal"
+    },
+    {
+      "url": "https://lcd.exactas.uba.ar/reconocimiento-de-objetos-y-analisis-del-desempeno-de-conductores-a-partir-del-comportamiento-y-seguimiento-de-movimientos-oculares/",
+      "kind": "internal"
+    },
+    {
+      "url": "https://lcd.exactas.uba.ar/investigacion-sobre-la-aplicacion-de-tecnicas-de-filtrado-colaborativo-para-la-recomendacion-de-jugadores-a-equipos-de-futbol/",
+      "kind": "internal"
+    },
+    {
+      "url": "https://lcd.exactas.uba.ar/degradacion-controlada-en-un-gran-modelo-de-lenguaje-llm/",
+      "kind": "internal"
+    },
+    {
+      "url": "https://lcd.exactas.uba.ar/medicion-de-la-velocidad-del-habla-con-aprendizaje-profundo/",
+      "kind": "internal"
+    },
+    {
+      "url": "https://lcd.exactas.uba.ar/extraccion-de-informacion-de-datos-de-texto-libre/",
+      "kind": "internal"
+    },
+    {
+      "url": "https://lcd.exactas.uba.ar/ciencia-de-datos-aplicada-al-estudio-de-las-desigualdades-socioeconomicas-y-territoriales-en-la-realizacion-de-papanicolaou-en-argentina/",
+      "kind": "internal"
+    },
+    {
+      "url": "https://lcd.exactas.uba.ar/modelos-de-aprendizaje-automatico-para-identificacion-de-estudiantes-en-riesgo-de-abandono-en-la-facultad-de-ciencias-exactas-y-naturales-de-la-universidad-de-buenos-aires/",
+      "kind": "internal"
+    },
+    {
+      "url": "https://lcd.exactas.uba.ar/clasificacion-de-transiciones-de-turno-en-conversaciones-humano-humano-utilizando-llms/",
+      "kind": "internal"
+    },
+    {
+      "url": "https://lcd.exactas.uba.ar/modelando-la-dinamica-oculta-de-la-divagacion-mental-y-el-efecto-del-metilfenidato/",
+      "kind": "internal"
+    },
+    {
+      "url": "https://lcd.exactas.uba.ar/modelizacion-predictiva-para-la-identificacion-de-variables-clave-y-grupos-vulnerables-en-la-realizacion-de-mamografias-en-argentina/",
+      "kind": "internal"
+    },
+    {
+      "url": "https://lcd.exactas.uba.ar/generacion-automatica-de-preguntas-basada-en-grafos-de-conocimiento-para-optimizacion-de-sistemas-de-recuperacion-aumentada/",
+      "kind": "internal"
+    },
+    {
+      "url": "https://lcd.exactas.uba.ar/fronteras-dentro-de-una-ciudad-caso-de-estudio-de-escuelas-en-zonas-cercanas-al-tren-sarmiento-caba/",
+      "kind": "internal"
+    },
+    {
+      "url": "https://lcd.exactas.uba.ar/correspondencia-entre-respuesta-electrofisiologica-ante-estimulos-visuales-y-activaciones-en-redes-neuronales-convolucionales/",
+      "kind": "internal"
+    },
+    {
+      "url": "https://lcd.exactas.uba.ar/analisis-de-similaridad-entre-representaciones-de-palabras-generadas-por-modelos-de-audio-y-de-texto/",
+      "kind": "internal"
+    },
+    {
+      "url": "https://lcd.exactas.uba.ar/exploracion-de-la-limpieza-de-ruido-en-habla-hispana-con-redes-neuronales/",
+      "kind": "internal"
+    }
+  ],
+  "is_index_like": true,
+  "index_like_reason": "embedded_post_grid",
+  "content_hash": "sha256:287a90a5f473509960cce1f34faf84e334ac3b30faef2d899dddadd29a1d7199",
+  "search_text": "Archivo de tesis de licenciatura archivo-de-tesis-de-licenciatura yes Ingresando a cada tesis, puede acceder al documento completo. 2025-12-17T18:20:48-03:00 Causal Machine Learning para evaluación de efectos causales heterogéneos 2025-12-17T18:20:48-03:00 Tesista: Constanza de Galvagni Director: Matías López-Rosenfeld Codirector: Gustavo Landfried Resumen. Esta tesis realiza una comparación de modelos de aprendizaje automático para la estimación de efectos causales que varían entre individuos. La motivación central consistió en extender los análisis […] 2025-09-08T18:24:14-03:00 Modelos de programación lineal entera para problemas de asignación de turnos con condiciones de estabilidad 2025-09-08T18:24:14-03:00 Tesista: Dafne Sol Yudcovsky Director: Javier Marenco Codirector: Esteban Lanzarotti Resumen. Dentro del campo de la Optimización, la Programación Lineal Entera (PLE) se destaca por su capacidad para modelar problemas de decisión en los que las variables deben asumir […] 2025-09-08T18:20:45-03:00 Clasificación de especies en bosques utilizando imágenes capturadas con vehículos aéreos no tripulados y aprendizaje profundo 2025-09-08T18:20:45-03:00 Tesista: Catherine Sophie Louys Sanso Director: Dr. Pablo De Cristóforis Codirector: Ing. Francisco Raverta Capua Resumen. En este trabajo se aborda el desafío de clasificar especies arbóreas a partir de imágenes aéreas RGB mediante técnicas de aprendizaje profundo. El […] 2025-09-08T18:14:27-03:00 Análisis de discursos polı́ticos usando procesamiento del lenguaje natural (NLP) 2025-09-08T18:14:27-03:00 Tesista: Manuel Horn Director: Pablo Balenzuela Resumen. Una cuestión fundamental en el comportamiento social colectivo se relaciona con la influencia del discurso público y mediático en la opinión electoral. En este trabajo se propone un enfoque metodológico para […] 2025-09-08T18:10:55-03:00 Mitigación y propagación de noticias falsas en redes sociales 2025-09-08T18:10:55-03:00 Tesista: Bruno Russo Directora: Inés Caridi Codirector: Pablo Balenzuela Resumen. La consolidación de las redes sociales como plataformas primarias para el consumo de información ha transformado radicalmente el ecosistema mediático. Plataformas como Twitter (actual X ), Facebook e Instagram […] 2025-09-08T18:03:09-03:00 Explorando AI Safety via Debate: un estudio sobre capacidades asimétricas y jueces débiles en el entorno MNIST 2025-09-08T18:03:09-03:00 Tesista: Joaquı́n Salvador Machulsky Director: Dr. Sergio Abriola Resumen. El paradigma de “AI Safety via Debate” propone un mecanismo para supervisar sistemas de IA avanzados, haciéndolos competir para convencer a un juez con capacidades limitadas. Basándose en el […] 2025-09-08T17:43:12-03:00 Extracción de información de datos de texto libre 2025-09-08T17:43:12-03:00 Tesista: Ignacio Rodrı́guez Sañudo Director: Germán Rosati Codirector: Juan Kamienkowski Resumen. La extracción de información a partir de datos de texto libre es un proceso fundamental para transformar grandes volúmenes de información no estructurada en formatos organizados y analizables. […] 2025-09-08T17:38:52-03:00 Ajedrezzinni Latentinni: autoencoders para interpretar el espacio latente del ajedrez 2025-09-08T17:38:52-03:00 Tesista: Julián Garbulsky Director: Juan Pablo Pinasco Resumen. En este trabajo exploramos representaciones comprimidas de posiciones de ajedrez mediante autoencoders, una clase de redes neuronales no supervisadas. A partir de una base de datos pública de partidas de ajedrez, […] 2025-09-08T17:32:04-03:00 Lo que las redes neuronales no saben: descubriendo e interpretando el conocimiento aprendido en redes neuronales convolucionales 2025-09-08T17:32:04-03:00 Tesista: Gabriel Baca Rubinztain Director: Gabriel Kreiman Codirector: Pablo Negri Resumen. Este trabajo aborda el problema de inferir el conocimiento adquirido por una red neuronal convolucional para clasificación de imágenes, sin información previa sobre sus datos de entrenamiento. En […] 2025-09-08T17:22:40-03:00 Modelos y soluciones para la restauración de imágenes fuera de foco 2025-09-08T17:22:40-03:00 Tesista: Delfina Belén Comerso Salzer Director: Gabriela Jeronimo Codirector: Malena Español Resumen. Los problemas de deconvolución ciega y semiciega que surgen en el contexto de restauración de imágenes fuera de foco pueden ser modelados como problemas de mı́nimos cuadrados […] 2025-09-08T16:52:13-03:00 Reconocimiento de objetos y análisis del desempeño de conductores a partir del comportamiento y seguimiento de movimientos oculares 2025-09-08T16:52:13-03:00 Tesista: Jhosept Levyt Sanchez Goicochea Director: Juan Kamienkowski Codirector: Joaquin Gonzalez Resumen. Los accidentes de tránsito son un problema que nos afecta a todos en nuestra vida diaria, de distintas maneras, algunas más personales, porque los sufrimos nosotros mismos […] 2025-09-08T16:19:56-03:00 Investigación sobre la aplicación de técnicas de filtrado colaborativo para la recomendación de jugadores a equipos de fútbol 2025-09-08T16:19:56-03:00 Tesista: Pablo Ariel Groisman Director: Dr. Andrés Farall Codirector: Ing. Manuel Duran Resumen. En el fútbol, la elección adecuada de futbolistas por parte de los clubes es una tarea difı́cil y a la vez fundamental para el desempeño de […] 2025-09-08T16:11:57-03:00 Degradación controlada en un Gran Modelo de Lenguaje (LLM) 2025-09-08T16:11:57-03:00 Tesista: Alejandro Wainstock Director: Dr. Enzo Tagliazucchi Resumen. La investigación en Grandes Modelos de Lenguaje (LLMs) reveló su potencial no solo como herramientas de procesamiento de lenguaje natural, sino también como análogos computacionales para comprender la cognición humana. […] 2025-08-05T18:41:33-03:00 Medición de la velocidad del habla con aprendizaje profundo 2025-08-05T18:41:33-03:00 Tesista: Pedro Ortiz Director: Pablo Riera Resumen. En esta tesis se aborda el problema de estimar la velocidad del habla —medida en fonemas por segundo (FPS) o sı́labas por segundo (SPS)— a partir de señales acústicas. Esta tarea […] 2025-08-05T18:36:32-03:00 Extracción de información de datos de texto libre 2025-08-05T18:36:32-03:00 Tesista: Ignacio Rodríguez Sañudo Director: Germán Rosati Codirector: Juan Kamienkowski Resumen. La extracción de información a partir de datos de texto libre es un proceso fundamental para transformar grandes volúmenes de información no estructurada en formatos organizados y analizables. […] 2025-08-05T18:31:12-03:00 Ciencia de datos aplicada al estudio de las desigualdades socioeconómicas y territoriales en la realización de Papanicolaou en Argentina 2025-08-05T18:31:12-03:00 Tesista: Valentina Camila Durán Directora: María Soledad Férnandez Codirectora: Luciana Bruno Resumen. El cáncer de cuello de útero es una enfermedad prevenible, pero aún causa alrededor de 2.200 muertes anuales en Argentina. La prueba de Papanicolaou (PAP) es uno […] 2025-08-05T18:27:21-03:00 Modelos de Aprendizaje Automático para identificación de estudiantes en riesgo de abandono en la Facultad de Ciencias Exactas y Naturales de la Universidad de Buenos Aires 2025-08-05T18:27:21-03:00 Tesista: Sol Anabella Calloni Director: Mtr. Martı́n Pustilnik Codirector: Dr. Guillermo Durán Resumen. En promedio, 19.96 % de los inscriptos al Ciclo Básico Común (CBC) en la Facultad de Ciencias Exactas y Naturales (FCEN) de la Universidad de Buenos […] 2025-08-05T17:58:28-03:00 Clasificación de transiciones de turno en conversaciones humano-humano utilizando LLMs 2025-08-05T17:58:28-03:00 Tesista: Tomás Ravel Director: Pablo Brusco Resumen. El análisis automático de eventos en conversaciones habladas entre humanos, o entre humanos y sistemas, es una tarea fundamental para el desarrollo de sistemas de diálogo más naturales y eficientes. En […] 2025-08-05T17:57:30-03:00 Modelando la dinámica oculta de la divagación mental y el efecto del metilfenidato 2025-08-05T17:57:30-03:00 Tesista: Nicolás Ian Rozenberg Director: Enzo Tagliazucchi Codirector: Nicolás Bruno Resumen. La divagación mental,"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "post:2632",
+  "entity_type": "post",
+  "source_id": 2632,
+  "slug": "cambio-climatico-machine-learning-aplicado-a-la-relacion-entre-fenomenos-atmosfericos-e-indices-climaticos",
+  "route_slug": "post--2632--cambio-climatico-machine-learning-aplicado-a-la-relacion-entre-fenomenos-atmosfericos-e-indices-climaticos",
+  "title": "Cambio climático: machine learning aplicado a la relación entre fenómenos atmosféricos e índices climáticos.",
+  "source_url": "https://lcd.exactas.uba.ar/cambio-climatico-machine-learning-aplicado-a-la-relacion-entre-fenomenos-atmosfericos-e-indices-climaticos/",
+  "created_at": "2024-11-29T21:17:02",
+  "modified_at": "2024-11-29T21:17:02",
+  "sort_date": "2024-11-29T21:17:02",
+  "status": "publish",
+  "excerpt_plain": "Resumen. Basado en 20 años de perfiles de temperatura y […]",
+  "text": "Resumen. Basado en 20 años de perfiles de temperatura y humedad atmosféricos obtenidos por el sistema de satélites de navegación global se buscan posibles relaciones espacio temporales con índices climáticos mensuales. Se comienza por un análisis de clusters geográficos para luego desarrollar los modelos que serán sometidos a entrenamiento y testeo. Los resultados pueden por ejemplo servir eventualmente para la anticipación de fenómenos como El Niño. Palabras clave. clima atmósfera “machine learning” extremos. Conocimientos deseables. Análisis de grandes cantidades de datos. ¿Qué podría aprender quien realice esta tesis? – Podrá aplicar los conocimientos adquiridos en la licenciatura a un problema concreto y actual como cambio climático. Dirección de la tesis Alexander, Peter IFIBA Contacto: peter@df.uba-ar Descargar PDF Cambio climático: machine learning aplicado a la relación entre fenómenos atmosféricos e índices climáticos.",
+  "html_clean": "<p><strong>Resumen.</strong> Basado en 20 años de perfiles de temperatura y humedad atmosféricos obtenidos por el sistema de satélites de navegación global se buscan posibles relaciones espacio temporales con índices climáticos mensuales. Se comienza por un análisis de clusters geográficos para luego desarrollar los modelos que serán sometidos a entrenamiento y testeo. Los resultados pueden por ejemplo servir eventualmente para la anticipación de fenómenos como El Niño.</p>\n<p><strong>Palabras clave.</strong> clima atmósfera &#8220;machine learning&#8221; extremos.</p>\n<p><strong>Conocimientos deseables.</strong> Análisis de grandes cantidades de datos.</p>\n<p><strong>¿Qué podría aprender quien realice esta tesis? &#8211;</strong> Podrá aplicar los conocimientos adquiridos en la licenciatura a un problema concreto y actual como cambio climático.</p>\n<p><strong>Dirección de la tesis</strong><br />\nAlexander, Peter<br />\nIFIBA<br />\nContacto: peter@df.uba-ar</p>\n<p><strong>Descargar PDF</strong><br />\n<a  class=\"download-link\" title=\"\" href=\"https://lcd.exactas.uba.ar/download/2629/?tmstv=1775083713\" rel=\"nofollow\" id=\"download-link-2629\" >\n\tCambio climático: machine learning aplicado a la relación entre fenómenos atmosféricos e índices climáticos.</a>\n</p>",
+  "render_mode": "html_clean",
+  "attachments": [
+    {
+      "url": "https://lcd.exactas.uba.ar/download/2629/?tmstv=1775083713",
+      "label": "Descargar PDF",
+      "kind": "pdf",
+      "is_download_like": true
+    }
+  ],
+  "has_attachments": true,
+  "attachment_count": 1,
+  "outlinks": [
+    {
+      "url": "https://lcd.exactas.uba.ar/download/2629/?tmstv=1775083713",
+      "kind": "internal"
+    }
+  ],
+  "is_index_like": false,
+  "index_like_reason": null,
+  "content_hash": "sha256:3d1e230cab6ccb367f94d048812bdf286d5b961ab63feddcd72089785edd13d5",
+  "search_text": "Cambio climático: machine learning aplicado a la relación entre fenómenos atmosféricos e índices climáticos. cambio-climatico-machine-learning-aplicado-a-la-relacion-entre-fenomenos-atmosfericos-e-indices-climaticos Resumen. Basado en 20 años de perfiles de temperatura y […] Resumen. Basado en 20 años de perfiles de temperatura y humedad atmosféricos obtenidos por el sistema de satélites de navegación global se buscan posibles relaciones espacio temporales con índices climáticos mensuales. Se comienza por un análisis de clusters geográficos para luego desarrollar los modelos que serán sometidos a entrenamiento y testeo. Los resultados pueden por ejemplo servir eventualmente para la anticipación de fenómenos como El Niño. Palabras clave. clima atmósfera “machine learning” extremos. Conocimientos deseables. Análisis de grandes cantidades de datos. ¿Qué podría aprender quien realice esta tesis? – Podrá aplicar los conocimientos adquiridos en la licenciatura a un problema concreto y actual como cambio climático. Dirección de la tesis Alexander, Peter IFIBA Contacto: peter@df.uba-ar Descargar PDF Cambio climático: machine learning aplicado a la relación entre fenómenos atmosféricos e índices climáticos."
+}

@@ -1,0 +1,669 @@
+{
+  "entity": "post",
+  "page": 2,
+  "per_page": 25,
+  "source_url": "https://lcd.exactas.uba.ar/wp-json/wp/v2/posts?page=2&per_page=25&_fields=id%2Cdate_gmt%2Cmodified_gmt%2Cslug%2Cstatus%2Ctype%2Clink%2Ctitle%2Ccontent%2Cexcerpt%2Cauthor%2Cfeatured_media%2Cparent%2Cmenu_order%2Ccategories%2Ctags",
+  "headers": {
+    "x-wp-total": "239",
+    "x-wp-totalpages": "10"
+  },
+  "items": [
+    {
+      "id": 2767,
+      "date_gmt": "2025-08-05T20:46:05",
+      "modified_gmt": "2025-08-05T20:57:30",
+      "slug": "modelando-la-dinamica-oculta-de-la-divagacion-mental-y-el-efecto-del-metilfenidato",
+      "status": "publish",
+      "type": "post",
+      "link": "https://lcd.exactas.uba.ar/modelando-la-dinamica-oculta-de-la-divagacion-mental-y-el-efecto-del-metilfenidato/",
+      "title": {
+        "rendered": "Modelando la din\u00e1mica oculta de la divagaci\u00f3n mental y el efecto del metilfenidato"
+      },
+      "content": {
+        "rendered": "<p><strong>Tesista:</strong> Nicol\u00e1s Ian Rozenberg</p>\n<p><strong>Director:</strong> Enzo Tagliazucchi<br />\n<strong>Codirector:</strong> Nicol\u00e1s Bruno</p>\n<p>&nbsp;</p>\n<p><strong>Resumen.</strong></p>\n<p>La divagaci\u00f3n mental, o mind wandering (MW) en ingl\u00e9s, es un fen\u00f3meno cognitivo en el que la atenci\u00f3n se desplaza de la tarea actual hacia pensamientos internos no relacionados. Pocos estudios han abordado la din\u00e1mica de los estados atencionales asociados a dicho fen\u00f3meno. Por otra parte, el metilfenidato es un psicoestimulante utilizado en el tratamiento del Trastorno por D\u00e9ficit de Atenci\u00f3n con Hiperactividad (TDAH), pero poco se conoce sobre el impacto que posee sobre el mind wandering. En este trabajo, se modela la din\u00e1mica del MW en una tarea de atenci\u00f3n sostenida mediante Modelos Ocultos de Markov (Hidden Markov Models, HMMs) bayesianos. A partir de datos de tiempos de respuesta obtenidos en una tarea de atenci\u00f3n sostenida, se construyen y comparan dos modelos dicot\u00f3micos que distinguen entre estados On Task (atenci\u00f3n en la tarea) y Mind Wandering (atenci\u00f3n desviada), basados en dos trabajos de Bastian and Sackur y Mittner et al. (en prensa). La capacidad de los modelos para capturar estados atencionales se eval\u00faa correlacionando sus estimaciones con indicadores de MW como medidas de rendimiento o reportes subjetivos. Este estudio tiene como objetivo principal evaluar el efecto del metilfenidato sobre la din\u00e1mica de la divagaci\u00f3n mental. Espec\u00edficamente, se analiza c\u00f3mo el f\u00e1rmaco modula las probabilidades de transici\u00f3n entre los estados On Task y Mind Wandering, las cuales se infieren de la distribuci\u00f3n posterior de los HMMs ajustados. A partir de estas probabilidades, se derivan estimaciones cuantitativas sobre la duraci\u00f3n promedio de los episodios en cada estado. Finalmente, se discuten los desaf\u00edos metodol\u00f3gicos encontrados y se proponen futuras l\u00edneas de investigaci\u00f3n.</p>\n<p>Palabras clave: Modelos gr\u00e1ficos probabil\u00edsticos, estimaci\u00f3n bayesiana, neurociencia computacional, atenci\u00f3n, mind wandering, TDAH, sistemas din\u00e1micos.</p>\n<p>Buenos Aires, 2025</p>\n<p><strong>Descargar PDF</strong><br />\n<a  data-e-Disable-Page-Transition=\"true\" class=\"download-link\" title=\"\" href=\"https://lcd.exactas.uba.ar/download/2764/?tmstv=1775083713\" rel=\"nofollow\" id=\"download-link-2764\" data-redirect=\"false\" >\n\tModelando la din\u00e1mica oculta de la divagaci\u00f3n mental y el efecto del metilfenidato</a>\n</p>\n",
+        "protected": false
+      },
+      "excerpt": {
+        "rendered": "<p>Tesista: Nicol\u00e1s Ian Rozenberg Director: Enzo Tagliazucchi Codirector: Nicol\u00e1s Bruno  [&#8230;]</p>\n",
+        "protected": false
+      },
+      "author": 8,
+      "featured_media": 0,
+      "categories": [
+        33
+      ],
+      "tags": []
+    },
+    {
+      "id": 2762,
+      "date_gmt": "2025-08-05T20:40:49",
+      "modified_gmt": "2025-08-05T20:40:49",
+      "slug": "modelizacion-predictiva-para-la-identificacion-de-variables-clave-y-grupos-vulnerables-en-la-realizacion-de-mamografias-en-argentina",
+      "status": "publish",
+      "type": "post",
+      "link": "https://lcd.exactas.uba.ar/modelizacion-predictiva-para-la-identificacion-de-variables-clave-y-grupos-vulnerables-en-la-realizacion-de-mamografias-en-argentina/",
+      "title": {
+        "rendered": "Modelizaci\u00f3n predictiva para la identificaci\u00f3n de variables clave y grupos vulnerables en la realizaci\u00f3n de mamograf\u00edas en Argentina"
+      },
+      "content": {
+        "rendered": "<p><strong>Tesista:</strong> Luz Montserrat</p>\n<p><strong>Directora:</strong> Mar\u0131\u0301a Soledad Fern\u00e1ndez<br />\n<strong>Codirectora:</strong> Adriana P\u00e9rez</p>\n<p>&nbsp;</p>\n<p><strong>Resumen.</strong></p>\n<p>El c\u00e1ncer de mama es la principal causa de muerte por c\u00e1ncer en mujeres en Argentina, y la mamograf\u0131\u0301a es el \u00fanico m\u00e9todo reconocido de detecci\u00f3n precoz en poblaci\u00f3n con riesgo promedio. Sin embargo, persisten brechas significativas en el acceso a esta pr\u00e1ctica preventiva. Esta tesis analiza las desigualdades en la realizaci\u00f3n de mamograf\u0131\u0301as en mujeres de 50 a 69 a\u00f1os en Argentina, utilizando t\u00e9cnicas de machine learning aplicadas a los datos de la Encuesta Nacional de Factores de Riesgo 2018 (ENFR). Se construy\u00f3 una base de datos enriquecida con recodificaciones e \u00edndices estructurales y socioecon\u00f3micos (utilizando las variables originales de la encuesta). Se entrenaron modelos supervisados (XGBoost, Random Forest y HistGradientBoosting) para identificar variables clave y perfiles con mayor riesgo. Los resultados muestran que factores como el bajo nivel educativo, la cobertura de salud p\u00fablica exclusiva, las condiciones habitacionales desfavorables y la jurisdicci\u00f3n de residencia, as\u00ed como determinadas configuraciones familiares y socioecon\u00f3micas, est\u00e1n fuertemente asociados a una menor probabilidad de realizaci\u00f3n de mamograf\u0131\u0301as. Se identificaron subgrupos con alta vulnerabilidad sanitaria que combinan bajos niveles educativos, ausencia de cobertura m\u00e9dica, residencia en localidades peque\u00f1as y precariedad estructural. Estos hallazgos permiten delinear perfiles prioritarios para pol\u00edticas p\u00fablicas focalizadas, con el objetivo de avanzar hacia una mayor equidad en salud y una prevenci\u00f3n m\u00e1s efectiva del c\u00e1ncer de mama en la Argentina.</p>\n<p>Palabras claves: Mamograf\u0131\u0301a, C\u00e1ncer de mama, Machine Learning, Desigualdades, Factores de riesgo, Equidad en salud, Prevenci\u00f3n, ENFR.</p>\n<p>Buenos Aires, 2025</p>\n<p><strong>Descargar PDF</strong><br />\n<a  data-e-Disable-Page-Transition=\"true\" class=\"download-link\" title=\"\" href=\"https://lcd.exactas.uba.ar/download/2759/?tmstv=1775083713\" rel=\"nofollow\" id=\"download-link-2759\" data-redirect=\"false\" >\n\tModelizaci\u00f3n predictiva para la identificaci\u00f3n de variables clave y grupos vulnerables en la realizaci\u00f3n de mamograf\u0131\u0301as en Argentina</a>\n</p>\n",
+        "protected": false
+      },
+      "excerpt": {
+        "rendered": "<p>Tesista: Luz Montserrat Directora: Mar\u0131\u0301a Soledad Fern\u00e1ndez Codirectora: Adriana P\u00e9rez  [&#8230;]</p>\n",
+        "protected": false
+      },
+      "author": 8,
+      "featured_media": 0,
+      "categories": [
+        33
+      ],
+      "tags": []
+    },
+    {
+      "id": 2755,
+      "date_gmt": "2025-08-05T20:27:55",
+      "modified_gmt": "2025-08-05T20:27:55",
+      "slug": "generacion-automatica-de-preguntas-basada-en-grafos-de-conocimiento-para-optimizacion-de-sistemas-de-recuperacion-aumentada",
+      "status": "publish",
+      "type": "post",
+      "link": "https://lcd.exactas.uba.ar/generacion-automatica-de-preguntas-basada-en-grafos-de-conocimiento-para-optimizacion-de-sistemas-de-recuperacion-aumentada/",
+      "title": {
+        "rendered": "Generaci\u00f3n autom\u00e1tica de preguntas basada en grafos de conocimiento para optimizaci\u00f3n de sistemas de recuperaci\u00f3n aumentada"
+      },
+      "content": {
+        "rendered": "<p><strong>Tesista:</strong> Teo Gutter</p>\n<p><strong>Director:</strong> Luciano Del Corro</p>\n<p>&nbsp;</p>\n<p><strong>Resumen.</strong></p>\n<p>Los sistemas de Generaci\u00f3n por Recuperaci\u00f3n Aumentada (RAG) permiten a los grandes modelos de lenguaje (LLMs) acceder a informaci\u00f3n externa en tiempo real, superando as\u00ed las limitaciones impuestas por su propio entrenamiento, como la dificultad para controlar con exactitud qu\u00e9 informaci\u00f3n conoce el modelo. Este enfoque no solo mejora significativamente la calidad de las respuestas generadas por asistentes basados en LLMs, sino que tambi\u00e9n permite incorporar conocimiento espec\u00edfico, confidencial o ausente en su entrenamiento. Como consecuencia, los sistemas RAG se est\u00e1n adoptando de manera cada vez m\u00e1s extendida y horizontal en la industria. Los sistemas basados en RAG, sin embargo, enfrentan desaf\u00edos significativos relacionados con la latencia y el costo computacional. Adem\u00e1s, estos sistemas suelen recuperar documentos que presentan alta similitud superficial pero baja diversidad sem\u00e1ntica, lo que reduce la cobertura del contexto relevante y limita la capacidad del modelo para generar respuestas completas y bien fundamentadas. Para mitigar estas limitaciones, esta tesis presenta KRAQ (Knowledge-graph Representative Automatic Questions), un sistema que permite precomputar conjuntos de preguntas representativas para un corpus determinado a partir de un grafo de conocimiento. Para ello, se realiza la detecci\u00f3n de entidades y relaciones presentes en los textos con las cuales se construye el grafo. Luego, se identifican comunidades \u201csem\u00e1nticas\u201d dentro del grafo que permiten la generaci\u00f3n de res\u00famenes textuales. Finalmente, con un LLM fine-tuneado se genera un conjunto de preguntas representativas a partir de dichos res\u00famenes. La principal ventaja de este enfoque es su capacidad para generar preguntas que capturan relaciones profundas presentes en el corpus, incluso cuando dichas relaciones se extienden a trav\u00e9s de m\u00faltiples documentos o no est\u00e1n formuladas expl\u00edcitamente en el texto. De este modo, se obtiene un conjunto de preguntas verdaderamente representativas del contenido, que refleja de manera m\u00e1s fiel la estructura sem\u00e1ntica subyacente. Este listado de preguntas permite optimizar sistemas RAG: por un lado, incrementando la precisi\u00f3n mediante estrategias de recuperaci\u00f3n combinada, donde se enriquece el mconjunto de documentos recuperados; y por otro, mejorando la latencia de sistemas de RAG como Speculative RAG, utilizando las preguntas generadas para pre-computar los embeddings necesarios para separar en subconjuntos los documentos. La validaci\u00f3n experimental, realizada en m\u00faltiples datasets est\u00e1ndar como TriviaQA, BioASQ, PubHealth y HotPotQA, demostr\u00f3 la efectividad de KRAQ. Los resultados evidencian que las preguntas representativas superan a los baselines por hasta 49 puntos porcentuales, mientras que su aplicaci\u00f3n en sistemas RAG impuls\u00f3 mejoras de hasta un 3 % en la precisi\u00f3n y reducciones de hasta un 11.8 % en la latencia. La incorporaci\u00f3n de estas preguntas no solo mejora la eficiencia y precisi\u00f3n de RAG, sino que abre un camino prometedor para escalar esta tecnolog\u00eda.</p>\n<p>Palabras claves: Generaci\u00f3n Aumentada por Recuperaci\u00f3n (RAG), Modelos de Lenguaje de Gran Escala (LLMs), Generaci\u00f3n Autom\u00e1tica de Preguntas (QG), Grafos de Conocimiento (KG), Clustering Sem\u00e1ntico, Optimizaci\u00f3n de RAG.</p>\n<p>Buenos Aires, 2025</p>\n<p><strong>Descargar PDF</strong><br />\n<a  data-e-Disable-Page-Transition=\"true\" class=\"download-link\" title=\"\" href=\"https://lcd.exactas.uba.ar/download/2751/?tmstv=1775083713\" rel=\"nofollow\" id=\"download-link-2751\" data-redirect=\"false\" >\n\tGeneraci\u00f3n autom\u00e1tica de preguntas basada en grafos de conocimiento para optimizaci\u00f3n de sistemas de recuperaci\u00f3n aumentada</a>\n</p>\n",
+        "protected": false
+      },
+      "excerpt": {
+        "rendered": "<p>Tesista: Teo Gutter Director: Luciano Del Corro &nbsp; Resumen. Los  [&#8230;]</p>\n",
+        "protected": false
+      },
+      "author": 8,
+      "featured_media": 0,
+      "categories": [
+        33
+      ],
+      "tags": []
+    },
+    {
+      "id": 2741,
+      "date_gmt": "2025-07-24T20:43:07",
+      "modified_gmt": "2025-07-31T17:23:23",
+      "slug": "datame-las-charlas-de-lcd-manuel-duran-viernes-01-08-16hs",
+      "status": "publish",
+      "type": "post",
+      "link": "https://lcd.exactas.uba.ar/datame-las-charlas-de-lcd-manuel-duran-viernes-01-08-16hs/",
+      "title": {
+        "rendered": "D\u00c1TAME! las charlas de LCD \u2013 Manuel Dur\u00e1n \u2013 Viernes 01/08 16hs."
+      },
+      "content": {
+        "rendered": "<p>Este Viernes <strong>01/08 tenemos D\u00c1TAME! de Agosto</strong>.</p>\n<p>El encuentro ser\u00e1 a las <strong>16 hs.</strong> en el <strong>aula 1114</strong> del <strong>Edificio 0+Infinito</strong>.</p>\n<p>La presentaci\u00f3n estar\u00e1 a cargo de <b>Manuel Dur\u00e1n</b> y el t\u00edtulo de la charla es:</p>\n<p><b>F\u00fatbol y Datos: La experiencia del Racing de Santander</b></p>\n<p>Sobre la charla</p>\n<p>En esta charla exploraremos c\u00f3mo el machine learning est\u00e1 transformando el an\u00e1lisis y la toma de decisiones en el f\u00fatbol. Comenzaremos con una introducci\u00f3n a los modelos de inteligencia artificial, como el Expected Goals (xG), aplicados al f\u00fatbol actual, explicando sus fundamentos y ventajas. A continuaci\u00f3n, veremos casos reales de aplicaci\u00f3n en el <b>Racing de Santander</b>, equipo de la Segunda Divisi\u00f3n espa\u00f1ola, mostrando c\u00f3mo los datos y la IA contribuyen a optimizar el rendimiento y la estrategia del equipo. Adem\u00e1s, presentaremos ejemplos pr\u00e1cticos del d\u00eda a d\u00eda y discutiremos las l\u00edneas de investigaci\u00f3n en desarrollo.</p>\n<p>Sobre el orador</p>\n<p>Manuel Dur\u00e1n es ingeniero industrial (UBA) y un apasionado por los datos, el machine learning y la optimizaci\u00f3n. Se desempe\u00f1\u00f3 como Data Science Specialist en Accenture, desarrollando soluciones para forecasting, usando Machine Learning y t\u00e9cnicas avanzadas de anal\u00edtica. Es docente en la materia <i>Industrias Digitales y Ciencia de datos</i> en la facultad de ingenier\u00eda de la uba y trabaja como director del departamento de data del Real Racing Club de Santander (equipo de la 2da divisi\u00f3n de La Liga espa\u00f1ola).</p>\n<p>Consultas: info.lcd@exactas.uba.ar</p>\n<p>Sobre \u00a1D\u00c1TAME!</p>\n<p>Este ciclo de charlas busca simult\u00e1neamente</p>\n<p>&#8211; Ser un lugar de encuentro entre todos/as los/as que nos sentimos cercanos a LCD ya sea por ser estudiantes de la carrera o carrera cercanas, docentes, investigadores/as interesados/as o simplemente amigos/as de LCD.</p>\n<p>&#8211; Ofrecer a estudiantes de la carrera un panorama amplio de posibles caminos que puede recorrer un/a especialista en ciencias de datos.</p>\n<p>&#8211; Exponer a estudiantes de LCD a importantes referentes de la disciplina que trabajan en diversos \u00e1mbitos (investigaci\u00f3n cient\u00edfica, empresas, organismos estatales, ONGs, etc. )</p>\n<p>&#8211; Aprender un mont\u00f3n de cosas sobre datos. Qu\u00e9 tipo de problemas se pueden resolver con ellos y cu\u00e1les no, qu\u00e9 precauciones debemos tener, qu\u00e9 desaf\u00edos afronta la disciplina y mucho m\u00e1s.</p>\n<p>&#8211; Evidenciar la diversidad de disciplinas que confluyen en esta carrera y experimentar c\u00f3mo interact\u00faan.</p>\n<p>&#8211; Compartir un buen rato, una vez por mes.</p>\n<p>Est\u00e1 destinado principalmente a estudiantes de la carrera, pero todas/os somos bienvenidas/os.</p>\n<p>Habitualmente, nos juntamos el 3er. viernes de cada mes a las 16hs., excepto en ocasiones especiales.</p>\n<p>\u00a1Las y los esperamos!</p>\n",
+        "protected": false
+      },
+      "excerpt": {
+        "rendered": "<p>Este Viernes 01/08 tenemos D\u00c1TAME! de Agosto. El encuentro ser\u00e1  [&#8230;]</p>\n",
+        "protected": false
+      },
+      "author": 8,
+      "featured_media": 2742,
+      "categories": [
+        13,
+        9
+      ],
+      "tags": []
+    },
+    {
+      "id": 2737,
+      "date_gmt": "2025-07-15T17:45:35",
+      "modified_gmt": "2025-08-05T20:31:43",
+      "slug": "fronteras-dentro-de-una-ciudad-caso-de-estudio-de-escuelas-en-zonas-cercanas-al-tren-sarmiento-caba",
+      "status": "publish",
+      "type": "post",
+      "link": "https://lcd.exactas.uba.ar/fronteras-dentro-de-una-ciudad-caso-de-estudio-de-escuelas-en-zonas-cercanas-al-tren-sarmiento-caba/",
+      "title": {
+        "rendered": "Fronteras dentro de una ciudad: caso de estudio de escuelas en zonas cercanas al tren Sarmiento, CABA"
+      },
+      "content": {
+        "rendered": "<p><strong>Tesista:</strong> Manuel Gra\u00f1a</p>\n<p><strong>Director:</strong> In\u00e9s Caridi<br />\n<strong>Codirector:</strong> Paula Masc\u00edas</p>\n<p>&nbsp;</p>\n<p><strong>Resumen.</strong></p>\n<p>En las ciudades, ciertas infraestructuras funcionan como fronteras f\u00edsicas o simb\u00f3licas que pueden limitar el acceso equitativo a oportunidades fundamentales, como la educaci\u00f3n. En esta tesis se estudia el caso del ferrocarril Sarmiento como posible barrera urbana que afecta la movilidad escolar, entendida como los desplazamientos cotidianos que realizan los estudiantes entre sus hogares y sus establecimientos educativos. Se analiza si esta infraestructura, que atraviesa la ciudad en direcci\u00f3n este-oeste, condiciona la elecci\u00f3n de escuelas por parte de los alumnos de nivel primario en la Ciudad Aut\u00f3noma de Buenos<br />\nAires (CABA). Para ello, se utilizaron datos abiertos de movilidad provenientes del sistema SUBE, que registra los viajes realizados en transporte p\u00fablico. A partir de esta informaci\u00f3n se reconstruyeron trayectorias escolares de alumnos del \u00c1rea Metropolitana de Buenos Aires, y se dise\u00f1\u00f3 una m\u00e9trica denominada Barrier Score que permite comparar la cantidad de cruces observados de una frontera urbana con la cantidad esperada bajo un modelo nulo espacialmente restringido, que preserva la distribuci\u00f3n de distancias. El an\u00e1lisis propuesto busca aportar evidencia sobre los patrones de segregaci\u00f3n educativa en CABA, as\u00ed como herramientas metodol\u00f3gicas que permitan identificar barreras a la movilidad escolar. Los resultados pueden ser de utilidad para dise\u00f1ar pol\u00edticas p\u00fablicas orientadas a mejorar la equidad en el acceso a la educaci\u00f3n.</p>\n<p>Palabras claves: Segregaci\u00f3n urbana, movilidad, acceso a la educaci\u00b4on, tren Sarmiento, datos SUBE, fronteras.</p>\n<p>Buenos Aires, 2025</p>\n<p><strong>Descargar PDF</strong><br />\n<a  data-e-Disable-Page-Transition=\"true\" class=\"download-link\" title=\"\" href=\"https://lcd.exactas.uba.ar/download/2734/?tmstv=1775083713\" rel=\"nofollow\" id=\"download-link-2734\" data-redirect=\"false\" >\n\tFronteras dentro de una ciudad: caso de estudio de escuelas en zonas cercanas al tren Sarmiento, CABA</a>\n</p>\n",
+        "protected": false
+      },
+      "excerpt": {
+        "rendered": "<p>Tesista: Manuel Gra\u00f1a Director: In\u00e9s Caridi Codirector: Paula Masc\u00edas &nbsp;  [&#8230;]</p>\n",
+        "protected": false
+      },
+      "author": 8,
+      "featured_media": 0,
+      "categories": [
+        33
+      ],
+      "tags": []
+    },
+    {
+      "id": 2726,
+      "date_gmt": "2025-05-26T21:42:17",
+      "modified_gmt": "2025-05-26T21:44:39",
+      "slug": "datame-mayo",
+      "status": "publish",
+      "type": "post",
+      "link": "https://lcd.exactas.uba.ar/datame-mayo/",
+      "title": {
+        "rendered": "D\u00c1TAME! las charlas de LCD \u2013 Victoria Peterson \u2013 Viernes 30/05 16hs."
+      },
+      "content": {
+        "rendered": "<p>Este Viernes <strong>30/05 tenemos D\u00c1TAME! de Mayo</strong>.</p>\n<p>El encuentro ser\u00e1 a las <strong>16 hs.</strong> en el <strong>aula 1402</strong> del <strong>Edificio 0+Infinito</strong>.</p>\n<p>La presentaci\u00f3n estar\u00e1 a cargo de Victoria Peterson y el t\u00edtulo de la charla es:</p>\n<p><strong>Un link digital: cerebros, computadoras y datos</strong></p>\n<p>Sobre la charla</p>\n<p>\u00bfAlguna vez escuchaste hablar de chips implantados para decodificar el habla? o \u00bfsobre la capacidad de comandar dispositivos externos s\u00f3lo con tus pensamientos? y, \u00bfsobre<br />\nterapias basadas en la estimulaci\u00f3n cerebral? No, no es ciencia ficci\u00f3n. Estas son algunas de las investigaciones actuales que pasan dentro del gran mundo de las interfaces cerebro-computadora. En esta charla vamos a entender c\u00f3mo es que nuestros cerebros se pueden &#8220;conectar&#8221; a una computadora y c\u00f3mo es que la inteligencia artificial y la Cs. de Datos se involucran en todo esto.</p>\n<p>Sobre la oradora</p>\n<p>Victoria Peterson es Investigadora del CONICET en el IMAL, Santa Fe y Profesora Asociada en la FIQ-UNL, Santa Fe. Sus investigaciones unen la bioingenier\u00eda con la inteligencia artificial para mejorar la decodificaci\u00f3n de la actividad cerebral en neurotecnolog\u00edas. Fue visitante doctoral del ETH Zurich y becaria postdoctoral de Harvard en el MGH, Boston, USA. Hoy lidera el grupo de Neuroingenier\u00eda Computacional Aplicada (NiCALab) dentro del IMAL, CONICET-UNL.</p>\n<p>Consultas: info.lcd@exactas.uba.ar</p>\n<p>Sobre \u00a1D\u00c1TAME!</p>\n<p>Este ciclo de charlas busca simult\u00e1neamente</p>\n<p>&#8211; Ser un lugar de encuentro entre todos/as los/as que nos sentimos cercanos a LCD ya sea por ser estudiantes de la carrera o carrera cercanas, docentes, investigadores/as interesados/as o simplemente amigos/as de LCD.</p>\n<p>&#8211; Ofrecer a estudiantes de la carrera un panorama amplio de posibles caminos que puede recorrer un/a especialista en ciencias de datos.</p>\n<p>&#8211; Exponer a estudiantes de LCD a importantes referentes de la disciplina que trabajan en diversos \u00e1mbitos (investigaci\u00f3n cient\u00edfica, empresas, organismos estatales, ONGs, etc. )</p>\n<p>&#8211; Aprender un mont\u00f3n de cosas sobre datos. Qu\u00e9 tipo de problemas se pueden resolver con ellos y cu\u00e1les no, qu\u00e9 precauciones debemos tener, qu\u00e9 desaf\u00edos afronta la disciplina y mucho m\u00e1s.</p>\n<p>&#8211; Evidenciar la diversidad de disciplinas que confluyen en esta carrera y experimentar c\u00f3mo interact\u00faan.</p>\n<p>&#8211; Compartir un buen rato, una vez por mes.</p>\n<p>Est\u00e1 destinado principalmente a estudiantes de la carrera, pero todas/os somos bienvenidas/os.</p>\n<p>Habitualmente, nos juntamos el 3er. viernes de cada mes a las 16hs., excepto en ocasiones especiales.</p>\n<p>\u00a1Las y los esperamos!</p>\n<p>Pablo y Ana</p>\n",
+        "protected": false
+      },
+      "excerpt": {
+        "rendered": "<p>Este Viernes 30/05 tenemos D\u00c1TAME! de Mayo. El encuentro ser\u00e1  [&#8230;]</p>\n",
+        "protected": false
+      },
+      "author": 8,
+      "featured_media": 2729,
+      "categories": [
+        13,
+        9
+      ],
+      "tags": []
+    },
+    {
+      "id": 2719,
+      "date_gmt": "2025-05-17T00:11:27",
+      "modified_gmt": "2025-05-17T00:12:30",
+      "slug": "zoom-de-metodos-para-datos-moleculares-de-alta-dimension-estadistica-computacional-y-prediccion-de-riesgos",
+      "status": "publish",
+      "type": "post",
+      "link": "https://lcd.exactas.uba.ar/zoom-de-metodos-para-datos-moleculares-de-alta-dimension-estadistica-computacional-y-prediccion-de-riesgos/",
+      "title": {
+        "rendered": "Zoom de m\u00e9todos para datos moleculares de alta dimensi\u00f3n, estad\u00edstica computacional y predicci\u00f3n de riesgos"
+      },
+      "content": {
+        "rendered": "<p>Nos complace invitarlos a una charla informal por Zoom con la Dra. Ruth Pfeiffer, investigadora s\u00e9nior del Instituto Nacional del C\u00e1ncer (EE. UU.). Compartir\u00e1 su experiencia trabajando en m\u00e9todos para datos moleculares de alta dimensi\u00f3n, estad\u00edstica computacional y predicci\u00f3n de riesgos, y analizar\u00e1 el trabajo que su grupo realiza con datos gen\u00f3micos, temas relacionados con los que se estudian en nuestros cursos de LCD y con investigadores como Diego Tomassi y Erik Koplin.</p>\n<p>\ud83d\uddd3\ufe0f Fecha y hora: Martes 20 a las 10:00 hora argentina<br />\n\ud83d\udccd Enlace de Zoom: https://us02web.zoom.us/j/82007061366?pwd=TnZrTzllUTR3QWo2QmtITE5lR20vZz09#success</p>\n<p>\u00a1Una gran oportunidad para conocer a una experta internacional en estad\u00edstica aplicada y ciencia de datos!<br />\nM\u00e1s informaci\u00f3n sobre su trabajo: https://dceg.cancer.gov/about/staff-directory/pfeiffer-ruth</p>\n",
+        "protected": false
+      },
+      "excerpt": {
+        "rendered": "<p>Nos complace invitarlos a una charla informal por Zoom con  [&#8230;]</p>\n",
+        "protected": false
+      },
+      "author": 8,
+      "featured_media": 1900,
+      "categories": [
+        9
+      ],
+      "tags": []
+    },
+    {
+      "id": 2701,
+      "date_gmt": "2025-04-22T18:54:04",
+      "modified_gmt": "2025-10-28T17:32:46",
+      "slug": "datameviernes25-04",
+      "status": "publish",
+      "type": "post",
+      "link": "https://lcd.exactas.uba.ar/datameviernes25-04/",
+      "title": {
+        "rendered": "D\u00c1TAME! las charlas de LCD &#8211; Constanza Sanchez F. de la Vega &#8211; Viernes 25/04 16hs."
+      },
+      "content": {
+        "rendered": "<p>ESTE <strong>VIERNES 25/04</strong> TENEMOS D\u00c1TAME! DE ABRIL.</p>\n<p>El encuentro ser\u00e1 a las <strong>16 hs</strong>. en el aula <strong>1402</strong> del Edificio <strong>0+Infinito</strong>.</p>\n<p>La presentaci\u00f3n estar\u00e1 a cargo de <strong>Constanza Sanchez F. de la Vega</strong> y el t\u00edtulo de la charla es:</p>\n<p><strong>\u00bfPueden las ecuaciones diferenciales y las lib\u00e9lulas trabajar en equipo para controlar una epidemia?</strong></p>\n<p><em>Sobre la charla</em></p>\n<p>En esta charla veremos c\u00f3mo las ecuaciones diferenciales y el control \u00f3ptimo nos permiten entender y controlar la propagaci\u00f3n de enfermedades transmitidas por vectores, como el dengue. Presentaremos un modelo que combina el cl\u00e1sico esquema SIR &#8211;utilizado para describir la din\u00e1mica de una epidemia&#8211; con el modelo de Lotka-Volterra, que representa las relaciones entre depredadores y presas en un ecosistema.</p>\n<p>Este modelo conjunto, conocido como modelo SIR-Lotka-Volterra, permite estudiar de forma integrada la interacci\u00f3n entre humanos, mosquitos (vectores del virus) y sus depredadores naturales, como por ejemplo las lib\u00e9lulas. A trav\u00e9s de este enfoque, es posible analizar c\u00f3mo intervenciones ecol\u00f3gicas &#8211;como la introducci\u00f3n de depredadores que se alimentan de mosquitos&#8211; pueden influir en la evoluci\u00f3n de un brote epid\u00e9mico.</p>\n<p>Veremos c\u00f3mo las herramientas de control \u00f3ptimo permiten dise\u00f1ar estrategias para minimizar el impacto de la enfermedad aprovechando mecanismos naturales.</p>\n<p><em>Sobre la oradora</em></p>\n<p>Constanza S\u00e1nchez F. de la Vega es Profesora en el Departamento de Matem\u00e1tica de esta facultad e Investigadora CONICET en el Instituto de C\u00e1lculo. Es Licenciada en Ciencias Matem\u00e1tica de FCEN-UBA y Doctora de la Universidad de Buenos Aires en Ciencias Matem\u00e1ticas. Su trabajo de investigaci\u00f3n se centra en el estudio de ecuaciones diferenciales con aplicaciones en sistemas f\u00edsicos y biol\u00f3gicos, combinando herramientas de control \u00f3ptimo, an\u00e1lisis num\u00e9rico y modelado matem\u00e1tico.</p>\n<p>Consultas: info.lcd@exactas.uba.ar</p>\n<p><em>Sobre \u00a1D\u00c1TAME!</em></p>\n<p>Este ciclo de charlas busca simult\u00e1neamente</p>\n<p>&#8211; Ser un lugar de encuentro entre todos/as los/as que nos sentimos cercanos a LCD ya sea por ser estudiantes de la carrera o carrera cercanas, docentes, investigadores/as interesados/as o simplemente amigos/as de LCD.</p>\n<p>&#8211; Ofrecer a estudiantes de la carrera un panorama amplio de posibles caminos que puede recorrer un/a especialista en ciencias de datos.</p>\n<p>&#8211; Exponer a estudiantes de LCD a importantes referentes de la disciplina que trabajan en diversos \u00e1mbitos (investigaci\u00f3n cient\u00edfica, empresas, organismos estatales, ONGs, etc. )</p>\n<p>&#8211; Aprender un mont\u00f3n de cosas sobre datos. Qu\u00e9 tipo de problemas se pueden resolver con ellos y cu\u00e1les no, qu\u00e9 precauciones debemos tener, qu\u00e9 desaf\u00edos afronta la disciplina y mucho m\u00e1s.</p>\n<p>&#8211; Evidenciar la diversidad de disciplinas que confluyen en esta carrera y experimentar c\u00f3mo interact\u00faan.</p>\n<p>&#8211; Compartir un buen rato, una vez por mes.</p>\n<p>Est\u00e1 destinado principalmente a estudiantes de la carrera, pero todas/os somos bienvenidas/os.</p>\n<p>Habitualmente, nos juntamos el 3er. viernes de cada mes a las 16hs.,<br />\nexcepto en ocasiones especiales.</p>\n<p>\u00a1Las y los esperamos!</p>\n<p>Pablo y Ana</p>\n",
+        "protected": false
+      },
+      "excerpt": {
+        "rendered": "<p>ESTE VIERNES 25/04 TENEMOS D\u00c1TAME! DE ABRIL. El encuentro ser\u00e1  [&#8230;]</p>\n",
+        "protected": false
+      },
+      "author": 8,
+      "featured_media": 2915,
+      "categories": [
+        13,
+        9
+      ],
+      "tags": []
+    },
+    {
+      "id": 2684,
+      "date_gmt": "2025-03-19T20:04:52",
+      "modified_gmt": "2025-03-20T15:43:26",
+      "slug": "convocatoria-para-2-candidatas-a-becas-edenor-2025",
+      "status": "publish",
+      "type": "post",
+      "link": "https://lcd.exactas.uba.ar/convocatoria-para-2-candidatas-a-becas-edenor-2025/",
+      "title": {
+        "rendered": "Convocatoria para 2 candidatas a Becas Edenor 2025"
+      },
+      "content": {
+        "rendered": "<p>Les difundimos la convocatoria para 2 mujeres a partir del segundo a\u00f1o de la carrera para las Becas Edenor 2025.<br />\n<b><br />\nLink de Inscripci\u00f3n</b>; <a href=\"https://bit.ly/becasytutorias2025\" target=\"_blank\" rel=\"noopener noreferrer\" data-saferedirecturl=\"https://www.google.com/url?q=https://bit.ly/becasytutorias2025&amp;source=gmail&amp;ust=1742500593266000&amp;usg=AOvVaw0Mo6LZ6qHyXxpRDxsnOyaB\"> https://bit.ly/<wbr />becasytutorias2025</a></p>\n<p><strong>\u00bfQu\u00e9 ofrece el programa?</strong><br />\n&#8211; Apoyo econ\u00f3mico mensual.</p>\n<p>&#8211; Acompa\u00f1amiento personalizado a trav\u00e9s de tutor\u00edas individuales y grupales.</p>\n<p>&#8211; Posibilidad de realizar una pasant\u00eda en Edenor (Direcci\u00f3n t\u00e9cnica o Direcci\u00f3n de operaciones) al cursar los \u00faltimos a\u00f1os de la carrera.</p>\n<p>&#8211; Posibilidad de incorporarse a Edenor de manera permanente.</p>\n<p>&nbsp;</p>\n<p><strong>\u00bfA qui\u00e9n est\u00e1 dirigido?</strong></p>\n<p>&#8211; A estudiantes con compromiso y motivaci\u00f3n para potenciar su desarrollo acad\u00e9mico y crecimiento personal.</p>\n<p>&nbsp;</p>\n<p><strong>Requisitos</strong></p>\n<p>&#8211; Estudiantes regulares de la carrera de Ciencias de Datos.</p>\n<p>&#8211; Cursando a partir del 2\u00ba a\u00f1o de la carrera y que tengan todas las materias del 1\u00ba aprobadas.</p>\n<p>&#8211; Hasta 25 a\u00f1os de edad (inclusive).</p>\n<p>&nbsp;</p>\n<p>Ten\u00e9s tiempo hasta el 31 de Marzo, cupos limitados:\u00a0<a href=\"https://bit.ly/becasytutorias2025\" target=\"_blank\" rel=\"noopener noreferrer\" data-saferedirecturl=\"https://www.google.com/url?q=https://bit.ly/becasytutorias2025&amp;source=gmail&amp;ust=1742500593266000&amp;usg=AOvVaw0Mo6LZ6qHyXxpRDxsnOyaB\"> https://bit.ly/<wbr />becasytutorias2025</a></p>\n",
+        "protected": false
+      },
+      "excerpt": {
+        "rendered": "<p>Les difundimos la convocatoria para 2 mujeres a partir del  [&#8230;]</p>\n",
+        "protected": false
+      },
+      "author": 8,
+      "featured_media": 2685,
+      "categories": [
+        9,
+        1
+      ],
+      "tags": []
+    },
+    {
+      "id": 2680,
+      "date_gmt": "2025-03-19T16:37:19",
+      "modified_gmt": "2025-03-19T16:37:47",
+      "slug": "datame-las-charlas-de-lcd-celia-cintas-jueves-20-03-16hs",
+      "status": "publish",
+      "type": "post",
+      "link": "https://lcd.exactas.uba.ar/datame-las-charlas-de-lcd-celia-cintas-jueves-20-03-16hs/",
+      "title": {
+        "rendered": "D\u00c1TAME! las charlas de LCD &#8211; Celia Cintas &#8211; Jueves 20/03 16hs."
+      },
+      "content": {
+        "rendered": "<p>Este <strong>jueves 20/03</strong> adelantamos <strong>D\u00c1TAME! de Marzo, la primera de 2025!</strong></p>\n<p>El encuentro ser\u00e1 a las <strong>16 hs</strong>. en el aula <strong>1401</strong> del Edificio <strong>0+Infinito</strong>.</p>\n<p>La presentaci\u00f3n estar\u00e1 a cargo de Celia Cintas (IBM Research Africa &#8211; Nairobi) y el t\u00edtulo de la charla es: <strong>Hacia modelos de aprendizaje autom\u00e1tico m\u00e1s robustos y equitativos</strong></p>\n<p><strong><br />\nSobre la charla</strong></p>\n<p>Cuando pensamos en llevar a producci\u00f3n modelos de aprendizaje autom\u00e1tico, necesitamos que estos sean robustos y equitativos. Actualmente, la mayor\u00eda de los modelos consideran condiciones ideales y suponen que los datos de producci\u00f3n provienen de la misma distribuci\u00f3n que los de entrenamiento. Sin embargo, esto no suele ser el caso en las aplicaciones de la vida real. Por ejemplo, en un entorno cl\u00ednico,<br />\npodemos encontrar diferentes dispositivos de captura de im\u00e1genes, diversas poblaciones de pacientes, o condiciones m\u00e9dicas diferentes o desconocidas. Por otro lado, debemos evaluar las posibles disparidades<br />\nen la evaluaci\u00f3n o diagn\u00f3stico, ya que pueden trasladarse y amplificarse en nuestras soluciones de aprendizaje autom\u00e1tico. En esta charla vamos a ver c\u00f3mo usamos modelos de ML para evaluar la representaci\u00f3n en aplicaciones de dermatolog\u00eda y c\u00f3mo podemos ayudar a modelos ya entrenados a ser m\u00e1s robustos ante cambios en los datos de entrada.</p>\n<p><strong>Sobre la oradora</strong></p>\n<p>Celia Cintas es investigadora en IBM Research Africa &#8211; Nairobi. Es miembro del equipo de IA en el Kenia Lab. Su investigaci\u00f3n actual se centra en mejorar las t\u00e9cnicas de ML para abordar los desaf\u00edos de la<br />\nsalud global en los pa\u00edses en desarrollo y explorar el escaneo de subconjuntos para la detecci\u00f3n de anomal\u00edas en modelos generativos. Fue becaria de CONICET y trabaj\u00f3 en Deep Learning para estudios de poblaci\u00f3n en LCI-UNS e IPCSH-CONICET (Argentina) como parte del Consortium for Analysis of the Diversity and Evolution of Latin America (CANDELA). Durante su doctorado, fue estudiante visitante en el University College of London (Reino Unido). Tambi\u00e9n fue investigadora visitante postdoctoral en la Universidad de Ja\u00e9n (Espa\u00f1a). Tiene un doctorado en Ciencias de la Computaci\u00f3n de la Universidad del Sur (Argentina). Co-preside varias conferencias de Scipy Latinamerica, de la Ayuda Financiera del Comit\u00e9 de SciPy (EE. UU.) (2016-2019) y Diversidad de SciPy (2020-2022), entre otros. Una lista detallada de charlas, publicaciones y eventos est\u00e1 disponible en <a href=\"https://celiacintas.io/\" target=\"_blank\" rel=\"noopener noreferrer\" data-saferedirecturl=\"https://www.google.com/url?q=https://celiacintas.io/&amp;source=gmail&amp;ust=1742485789781000&amp;usg=AOvVaw1E8mX4i0o5-q_n8fwteXy7\">https://celiacintas.io/</a></p>\n<p>Consultas: <a href=\"mailto:info.lcd@exactas.uba.ar\" target=\"_blank\" rel=\"noopener noreferrer\">info.lcd@exactas.uba.ar</a></p>\n<p><strong>Sobre \u00a1D\u00c1TAME!</strong></p>\n<p>Este ciclo de charlas busca simult\u00e1neamente</p>\n<p>&#8211; Ser un lugar de encuentro entre todos/as los/as que nos sentimos cercanos a LCD ya sea por ser estudiantes de la carrera o carrera cercanas, docentes, investigadores/as interesados/as o simplemente amigos/as de LCD.</p>\n<p>&#8211; Ofrecer a estudiantes de la carrera un panorama amplio de posibles caminos que puede recorrer un/a especialista en ciencias de datos.</p>\n<p>&#8211; Exponer a estudiantes de LCD a importantes referentes de la disciplina que trabajan en diversos \u00e1mbitos (investigaci\u00f3n cient\u00edfica, empresas, organismos estatales, ONGs, etc. )</p>\n<p>&#8211; Aprender un mont\u00f3n de cosas sobre datos. Qu\u00e9 tipo de problemas se pueden resolver con ellos y cu\u00e1les no, qu\u00e9 precauciones debemos tener, qu\u00e9 desaf\u00edos afronta la disciplina y mucho m\u00e1s.</p>\n<p>&#8211; Evidenciar la diversidad de disciplinas que confluyen en esta carrera y experimentar c\u00f3mo interact\u00faan.</p>\n<p>&#8211; Compartir un buen rato, una vez por mes.</p>\n<p>Est\u00e1 destinado principalmente a estudiantes de la carrera, pero todas/os somos bienvenidas/os.</p>\n<p>Habitualmente, nos juntamos el 3er. viernes de cada mes a las 16hs., excepto en ocasiones especiales.</p>\n<p>\u00a1Las y los esperamos!</p>\n<p>Pablo y Ana</p>\n",
+        "protected": false
+      },
+      "excerpt": {
+        "rendered": "<p>Este jueves 20/03 adelantamos D\u00c1TAME! de Marzo, la primera de  [&#8230;]</p>\n",
+        "protected": false
+      },
+      "author": 8,
+      "featured_media": 2681,
+      "categories": [
+        13,
+        9
+      ],
+      "tags": []
+    },
+    {
+      "id": 2672,
+      "date_gmt": "2025-02-21T18:58:02",
+      "modified_gmt": "2025-02-21T18:58:42",
+      "slug": "becas-de-iniciacion-en-la-investigacion-cientifica-para-la-realizacion-de-la-tesis-de-licenciatura-en-ciencias-de-la-computacion-matematicas-y-datos",
+      "status": "publish",
+      "type": "post",
+      "link": "https://lcd.exactas.uba.ar/becas-de-iniciacion-en-la-investigacion-cientifica-para-la-realizacion-de-la-tesis-de-licenciatura-en-ciencias-de-la-computacion-matematicas-y-datos/",
+      "title": {
+        "rendered": "Becas de Iniciaci\u00f3n en la Investigaci\u00f3n Cient\u00edfica para la realizaci\u00f3n de la tesis de Licenciatura en Ciencias de la Computaci\u00f3n, Matem\u00e1ticas y Datos."
+      },
+      "content": {
+        "rendered": "<p>Queremos difundir la siguiente convocatoria:</p>\n<p>En el marco de un convenio con la empresa LambdaClass se convoca a la presentaci\u00f3n de <strong>Becas de Iniciaci\u00f3n en la Investigaci\u00f3n Cient\u00edfica para la realizaci\u00f3n de la tesis de Licenciatura en Ciencias de la Computaci\u00f3n, Matem\u00e1ticas y Datos</strong>.</p>\n<p>Las becas tendr\u00e1n un estipendio de 500 mil pesos mensuales por 4 meses, m\u00e1s un est\u00edmulo de 250 mil pesos mensuales al director/a/e que dirija la tesis.</p>\n<p>Quienes se postulen deber\u00e1n completar el siguiente formulario\u00a0<a href=\"https://forms.gle/fDaquLhy5QEmPVyF7\" target=\"_blank\" rel=\"noopener noreferrer\" data-saferedirecturl=\"https://www.google.com/url?q=https://forms.gle/fDaquLhy5QEmPVyF7&amp;source=gmail&amp;ust=1740250003922000&amp;usg=AOvVaw2WUTU8VTcC_JDT8Dy1oIdv\">https://forms.gle/<wbr />fDaquLhy5QEmPVyF7</a>, que deber\u00e1 ser completado\u00a0junto con quien dirija la tesis.</p>\n<p>Se priorizar\u00e1:<br />\n&#8211; Estudiantes que sean ayudantes de FCEN-UBA<br />\n&#8211; Estudiantes que no posean otra beca<br />\n&#8211; Directores/as que sean docentes de FCEN-UBA<br />\n&#8211; Directores/as que revistan en las categor\u00edas m\u00e1s bajas de las categor\u00edas de investigador CONICET (o equivalente) y/o categor\u00eda docente UBA<br />\n&#8211; Se permite que una misma persona dirija m\u00e1s de una beca, pero se priorizar\u00e1 la pluralidad de direcciones.</p>\n<p>El jurado elevar\u00e1 a la Secretar\u00eda de Investigaci\u00f3n Cient\u00edfica y Tecnol\u00f3gica el orden de m\u00e9rito, en base al cual se asignar\u00e1n <strong>8</strong> becas.<br />\nNo hay restricci\u00f3n para la elecci\u00f3n de los temas de investigaci\u00f3n.</p>\n<p>Plazos:</p>\n<p>La fecha l\u00edmite para el env\u00edo del formulario es el <strong>5 de marzo de 2025, 10:00 h</strong>.</p>\n<p>Los resultados del concurso se publicar\u00e1n el 10 de marzo de 2025 y las becas comenzar\u00e1n el 17 de marzo. Entre el 20 y el 28 de febrero se podr\u00e1n consultar dudas sobre el mecanismo de aplicaci\u00f3n a las becas en <a href=\"mailto:sicyt@de.fcen.uba.ar\" target=\"_blank\" rel=\"noopener noreferrer\">sicyt@de.fcen.uba.ar</a>.</p>\n",
+        "protected": false
+      },
+      "excerpt": {
+        "rendered": "<p>Queremos difundir la siguiente convocatoria: En el marco de un  [&#8230;]</p>\n",
+        "protected": false
+      },
+      "author": 8,
+      "featured_media": 1813,
+      "categories": [
+        9
+      ],
+      "tags": []
+    },
+    {
+      "id": 2668,
+      "date_gmt": "2025-02-21T18:54:17",
+      "modified_gmt": "2025-08-05T20:30:26",
+      "slug": "correspondencia-entre-respuesta-electrofisiologica-ante-estimulos-visuales-y-activaciones-en-redes-neuronales-convolucionales",
+      "status": "publish",
+      "type": "post",
+      "link": "https://lcd.exactas.uba.ar/correspondencia-entre-respuesta-electrofisiologica-ante-estimulos-visuales-y-activaciones-en-redes-neuronales-convolucionales/",
+      "title": {
+        "rendered": "Correspondencia entre respuesta electrofisiol\u00f3gica ante est\u0131\u0301mulos visuales y activaciones en redes neuronales convolucionales"
+      },
+      "content": {
+        "rendered": "<p><strong>Tesista:</strong> Agustin de Otazua</p>\n<p><strong>Director:</strong> Enzo Tagliazucchi<br />\n<strong>Codirector:</strong> Eric L\u00fctzow Holm</p>\n<p><strong><br />\nResumen.</strong></p>\n<p>El sistema visual de los primates procesa los est\u0131\u0301mulos visuales en forma jer\u00e1rquica. En su etapa inicial, la corteza visual primaria responde a caracter\u0131\u0301sticas de bajo nivel, como lo son los segmentos orientados. Progresivamente, las siguientes regiones de la corteza procesan patrones cada vez m\u00e1s complejos, tales como el color, el movimiento y las formas compuestas, alcanzando, por \u00faltimo, a la representaci\u00f3n de objetos o conceptos espec\u0131\u0301ficos en la escena visual. Las redes neuronales convolucionales, inspiradas en el sistema visual humano, tambi\u00e9n presentan un procesamiento jer\u00e1rquico de la informaci\u00f3n visual. Esto ha llevado a sugerir que las redes neuronales convolucionales pueden usarse como modelo para comprender el proceso de informaci\u00f3n en el sistema visual. En esta tesis, investigamos<br />\nla correspondencia temporal entre ambos sistemas, partiendo de la hip\u00f3tesis de que las respuestas m\u00e1s tempranas de electroencefalograf\u0131\u0301a estar\u00e1n relacionadas con las capas m\u00e1s tempranas de una red neuronal convolucional que procesa el mismo est\u0131\u0301mulo, y viceversa para las componentes m\u00e1s tard\u0131\u0301as. Para ello, analizamos un conjunto de registros electrofisiol\u00f3gicos en individuos percibiendo un gran conjunto de im\u00e1genes de forma secuencial. Por otra parte, obtenemos las activaciones por capa de una red neuronal convolucional pre-entrenada usando las mismas im\u00e1genes como entrada. Exploramos dos t\u00e9cnicas distintas para analizar la correspondencia: primero mediante un an\u00e1lisis de similitud representacional entre ambos sistemas, y luego mediante la predicci\u00f3n de las activaciones cerebrales en base a las activaciones en la red neuronal. Verificamos que en algunos casos las primeras capas de la red se corresponden mayormente con etapas tempranas de las se\u00f1ales electrofisiol\u00f3gicas, mientras que las capas avanzadas se corresponden con etapas m\u00e1s tard\u00edas, apoyando la hip\u00f3tesis propuesta.</p>\n<p>Palabras claves: Neurociencia, Visi\u00b4on, EEG, CNN, Machine-learning, Deep-learning.</p>\n<p>Buenos Aires, 2023</p>\n<p><strong>Descargar PDF</strong><br />\n<a  data-e-Disable-Page-Transition=\"true\" class=\"download-link\" title=\"\" href=\"https://lcd.exactas.uba.ar/download/2665/?tmstv=1775083713\" rel=\"nofollow\" id=\"download-link-2665\" data-redirect=\"false\" >\n\tCorrespondencia entre respuesta electrofisiol\u00f3gica ante est\u0131\u0301mulos visuales y activaciones en redes neuronales convolucionales</a>\n</p>\n",
+        "protected": false
+      },
+      "excerpt": {
+        "rendered": "<p>Tesista: Agustin de Otazua Director: Enzo Tagliazucchi Codirector: Eric L\u00fctzow  [&#8230;]</p>\n",
+        "protected": false
+      },
+      "author": 8,
+      "featured_media": 0,
+      "categories": [
+        33
+      ],
+      "tags": []
+    },
+    {
+      "id": 2647,
+      "date_gmt": "2024-11-29T21:50:27",
+      "modified_gmt": "2024-11-29T21:50:45",
+      "slug": "analisis-de-fenotipo-y-virulencia-de-infecciones-polimicrobianas-en-pacientes-pediatricos-con-diagnostico-de-fibrosis-quistica-un-enfoque-desde-la-ciencia-de-datos",
+      "status": "publish",
+      "type": "post",
+      "link": "https://lcd.exactas.uba.ar/analisis-de-fenotipo-y-virulencia-de-infecciones-polimicrobianas-en-pacientes-pediatricos-con-diagnostico-de-fibrosis-quistica-un-enfoque-desde-la-ciencia-de-datos/",
+      "title": {
+        "rendered": "An\u00e1lisis de Fenotipo y Virulencia de infecciones polimicrobianas en pacientes pedi\u00e1tricos con diagnostico de fibrosis qu\u00edstica: Un Enfoque desde la Ciencia de Datos"
+      },
+      "content": {
+        "rendered": "<p><strong>Resumen.</strong> En el laboratorio de Interacciones Bacterianas (Dpto. Qu\u00edmica Biol\u00f3gica/IQUIBICEN) estudiamos las infecciones polimicrobianas y las diferencias con aquellas infecciones provocadas por un solo microorganismo y como esto impacta en la infecci\u00f3n y el tratamiento a antibi\u00f3ticos. En particular, analizamos durante 24 meses a 16 pacientes pedi\u00e1tricos con diagnostico de fibrosis qu\u00edstica que fueron reclutados como monoinfectados con Staphylococcus aureus o coinfectados con Staphylococcus aureus y Pseudomonas aeruginosa. En este momento contamos con 800 aislamientos de S. aureus y 200 de P. aeruginosa a los que nos encontramos analizando caracter\u00edsticas de virulencia (mas de 5 caracter\u00edsticas para 400 aislamientos hasta el momento), contamos con 20 genomas secuenciados y otros datos. Tambi\u00e9n poseemos toda la informaci\u00f3n cl\u00ednica de los pacientes y sus tratamientos antibi\u00f3ticos. Si bien nos encontramos analizando los datos obtenidos, les proponemos aplicar sus conocimientos en el an\u00e1lisis de datos para encontrar las relaciones entre ellos (de existir) y la mejor manera de mostrarlos aplicando los conocimientos a un problema especifico de la cl\u00ednica actual.</p>\n<p><strong>Palabras clave.</strong> visualizaci\u00f3n de datos-Bacterias-Fibrosis qu\u00edstica- din\u00e1mica de infecciones.</p>\n<p><strong>Conocimientos deseables.</strong> visualizaci\u00f3n de datos-bases de datos.</p>\n<p><strong>\u00bfQu\u00e9 podr\u00eda aprender quien realice esta tesis? &#8211;</strong> Analizar datos complejos que provienen de laboratorios experimentales que a su vez trabajan con hospitales p\u00fablicos de CABA combinando la ciencia b\u00e1sica con la problem\u00e1tica cl\u00ednica. Encontrar formas de visualizar y si es posible modelar estos datos.</p>\n<p><strong>Direcci\u00f3n de la tesis</strong><br />\nTribelli, Paula<br />\nDpto. Quimica Biologica<br />\nContacto: paulatrib@qb.fcen.uba.ar</p>\n<p><strong>Descargar PDF</strong><br />\n<a  data-e-Disable-Page-Transition=\"true\" class=\"download-link\" title=\"\" href=\"https://lcd.exactas.uba.ar/download/2644/?tmstv=1775083713\" rel=\"nofollow\" id=\"download-link-2644\" data-redirect=\"false\" >\n\tAn\u00e1lisis de Fenotipo y Virulencia de infecciones polimicrobianas en pacientes pedi\u00e1tricos con diagnostico de fibrosis qu\u00edstica: Un Enfoque desde la Ciencia de Datos</a>\n</p>\n",
+        "protected": false
+      },
+      "excerpt": {
+        "rendered": "<p>Resumen. En el laboratorio de Interacciones Bacterianas (Dpto. Qu\u00edmica Biol\u00f3gica/IQUIBICEN)  [&#8230;]</p>\n",
+        "protected": false
+      },
+      "author": 8,
+      "featured_media": 0,
+      "categories": [
+        32
+      ],
+      "tags": []
+    },
+    {
+      "id": 2642,
+      "date_gmt": "2024-11-29T21:46:53",
+      "modified_gmt": "2024-11-29T21:46:53",
+      "slug": "evaluacion-de-estrategias-argumentativas-en-debates-entre-ias-capacidades-asimetricas-y-jueces-debiles",
+      "status": "publish",
+      "type": "post",
+      "link": "https://lcd.exactas.uba.ar/evaluacion-de-estrategias-argumentativas-en-debates-entre-ias-capacidades-asimetricas-y-jueces-debiles/",
+      "title": {
+        "rendered": "Evaluaci\u00f3n de estrategias argumentativas en debates entre IAs: capacidades asim\u00e9tricas y jueces d\u00e9biles"
+      },
+      "content": {
+        "rendered": "<p><strong>Resumen.</strong> Este trabajo busca examinar las din\u00e1micas del uso del debate entre sistemas de Inteligencia Artificial (IA) como m\u00e9todo para alinear a objetivos y preferencias humanas. Se investigar\u00e1n las ventajas potenciales de agentes sin restricciones \u00e9ticas frente a agentes honestos e inofensivos en escenarios de debate, explorando t\u00e1cticas como mentiras, argumentos enga\u00f1osos, y apelaciones a falsos consensos. El trabajo tambi\u00e9n busca analizar las implicaciones de tener un juez de menor capacidad evaluando argumentos de agentes m\u00e1s avanzados, mediante la simulaci\u00f3n de debates para exponer c\u00f3mo esta disparidad puede afectar la legibilidad y la convergencia a la verdad.</p>\n<p><strong>Palabras clave.</strong> AI safety, debate, LLMs, teor\u00eda de juegos.</p>\n<p><strong>Conocimientos deseables.</strong> Conocimientos b\u00e1sicos de AI safety, din\u00e1micas de reward hacking y malgeneralizaci\u00f3n, conocimiento general de LLMs y su entrenamiento.</p>\n<p><strong>\u00bfQu\u00e9 podr\u00eda aprender quien realice esta tesis? &#8211;</strong> Profundizaci\u00f3n en el subcampo de &#8220;AI safety via debate&#8221;, y estudio de sus puntos d\u00e9biles como t\u00e9cnica de alineamiento. Dise\u00f1o y ejecuci\u00f3n de experimentos con sistemas de IA, incluyendo la construcci\u00f3n de m\u00e9tricas adecuadas y evaluaci\u00f3n.</p>\n<p><strong>Direcci\u00f3n de la tesis</strong><br />\nAbriola, Sergio<br />\nDepartamento de Computaci\u00f3n<br />\nContacto: sabriola@dc.uba.ar</p>\n<p><strong>Descargar PDF</strong><br />\n<a  data-e-Disable-Page-Transition=\"true\" class=\"download-link\" title=\"\" href=\"https://lcd.exactas.uba.ar/download/2639/?tmstv=1775083713\" rel=\"nofollow\" id=\"download-link-2639\" data-redirect=\"false\" >\n\tEvaluaci\u00f3n de estrategias argumentativas en debates entre IAs: capacidades asim\u00e9tricas y jueces d\u00e9biles</a>\n</p>\n",
+        "protected": false
+      },
+      "excerpt": {
+        "rendered": "<p>Resumen. Este trabajo busca examinar las din\u00e1micas del uso del  [&#8230;]</p>\n",
+        "protected": false
+      },
+      "author": 8,
+      "featured_media": 0,
+      "categories": [
+        32
+      ],
+      "tags": []
+    },
+    {
+      "id": 2637,
+      "date_gmt": "2024-11-29T21:42:48",
+      "modified_gmt": "2024-11-29T21:42:48",
+      "slug": "integracion-de-datos-de-encuestas-y-censos-mediante-modelos-de-aprendizaje-automatico",
+      "status": "publish",
+      "type": "post",
+      "link": "https://lcd.exactas.uba.ar/integracion-de-datos-de-encuestas-y-censos-mediante-modelos-de-aprendizaje-automatico/",
+      "title": {
+        "rendered": "Integraci\u00f3n de Datos de Encuestas y Censos mediante Modelos de Aprendizaje Autom\u00e1tico"
+      },
+      "content": {
+        "rendered": "<p><strong>Resumen.</strong> La expansi\u00f3n de datos de censos utilizando datos de encuestas y t\u00e9cnicas de aprendizaje autom\u00e1tico para generar nuevas variables y detalles sobre las bases de datos existentes. Este proyecto permite un an\u00e1lisis extremadamente detallado de temas como la pobreza y las condiciones laborales, superando notablemente los metodos de medicion tradicionales.</p>\n<p><strong>Palabras clave.</strong> Modelado predictivo, integraci\u00f3n de datos, an\u00e1lisis de pobreza, condiciones laborales.</p>\n<p><strong>Conocimientos deseables.</strong> Programaci\u00f3n en Python (numpy, pandas, scikit-learn, TensorFlow) Estad\u00edstica aplicada An\u00e1lisis y visualizaci\u00f3n de datos Conocimientos b\u00e1sicos de t\u00e9cnicas de machine learning</p>\n<p><strong>\u00bfQu\u00e9 podr\u00eda aprender quien realice esta tesis? &#8211;</strong> Desarrollo y validaci\u00f3n de modelos de aprendizaje autom\u00e1tico T\u00e9cnicas de integraci\u00f3n de datos y manejo de grandes conjuntos de datos Herramientas avanzadas de an\u00e1lisis y visualizaci\u00f3n de datos Aplicaci\u00f3n de m\u00e9todos cuantitativos a problemas socioecon\u00f3micos</p>\n<p><strong>Direcci\u00f3n de la tesis</strong><br />\nIglesias, Matias Nehuen<br />\nDC<br />\nContacto: matuteiglesias@gmail.com</p>\n<p><strong>Descargar PDF</strong><br />\n<a  data-e-Disable-Page-Transition=\"true\" class=\"download-link\" title=\"\" href=\"https://lcd.exactas.uba.ar/download/2634/?tmstv=1775083713\" rel=\"nofollow\" id=\"download-link-2634\" data-redirect=\"false\" >\n\tIntegraci\u00f3n de Datos de Encuestas y Censos mediante Modelos de Aprendizaje Autom\u00e1tico</a>\n</p>\n",
+        "protected": false
+      },
+      "excerpt": {
+        "rendered": "<p>Resumen. La expansi\u00f3n de datos de censos utilizando datos de  [&#8230;]</p>\n",
+        "protected": false
+      },
+      "author": 8,
+      "featured_media": 0,
+      "categories": [
+        32
+      ],
+      "tags": []
+    },
+    {
+      "id": 2632,
+      "date_gmt": "2024-11-29T21:17:02",
+      "modified_gmt": "2024-11-29T21:17:02",
+      "slug": "cambio-climatico-machine-learning-aplicado-a-la-relacion-entre-fenomenos-atmosfericos-e-indices-climaticos",
+      "status": "publish",
+      "type": "post",
+      "link": "https://lcd.exactas.uba.ar/cambio-climatico-machine-learning-aplicado-a-la-relacion-entre-fenomenos-atmosfericos-e-indices-climaticos/",
+      "title": {
+        "rendered": "Cambio clim\u00e1tico: machine learning aplicado a la relaci\u00f3n entre fen\u00f3menos atmosf\u00e9ricos e \u00edndices clim\u00e1ticos."
+      },
+      "content": {
+        "rendered": "<p><strong>Resumen.</strong> Basado en 20 a\u00f1os de perfiles de temperatura y humedad atmosf\u00e9ricos obtenidos por el sistema de sat\u00e9lites de navegaci\u00f3n global se buscan posibles relaciones espacio temporales con \u00edndices clim\u00e1ticos mensuales. Se comienza por un an\u00e1lisis de clusters geogr\u00e1ficos para luego desarrollar los modelos que ser\u00e1n sometidos a entrenamiento y testeo. Los resultados pueden por ejemplo servir eventualmente para la anticipaci\u00f3n de fen\u00f3menos como El Ni\u00f1o.</p>\n<p><strong>Palabras clave.</strong> clima atm\u00f3sfera &#8220;machine learning&#8221; extremos.</p>\n<p><strong>Conocimientos deseables.</strong> An\u00e1lisis de grandes cantidades de datos.</p>\n<p><strong>\u00bfQu\u00e9 podr\u00eda aprender quien realice esta tesis? &#8211;</strong> Podr\u00e1 aplicar los conocimientos adquiridos en la licenciatura a un problema concreto y actual como cambio clim\u00e1tico.</p>\n<p><strong>Direcci\u00f3n de la tesis</strong><br />\nAlexander, Peter<br />\nIFIBA<br />\nContacto: peter@df.uba-ar</p>\n<p><strong>Descargar PDF</strong><br />\n<a  data-e-Disable-Page-Transition=\"true\" class=\"download-link\" title=\"\" href=\"https://lcd.exactas.uba.ar/download/2629/?tmstv=1775083713\" rel=\"nofollow\" id=\"download-link-2629\" data-redirect=\"false\" >\n\tCambio clim\u00e1tico: machine learning aplicado a la relaci\u00f3n entre fen\u00f3menos atmosf\u00e9ricos e \u00edndices clim\u00e1ticos.</a>\n</p>\n",
+        "protected": false
+      },
+      "excerpt": {
+        "rendered": "<p>Resumen. Basado en 20 a\u00f1os de perfiles de temperatura y  [&#8230;]</p>\n",
+        "protected": false
+      },
+      "author": 8,
+      "featured_media": 0,
+      "categories": [
+        32
+      ],
+      "tags": []
+    },
+    {
+      "id": 2627,
+      "date_gmt": "2024-11-29T21:11:25",
+      "modified_gmt": "2024-11-29T21:11:25",
+      "slug": "procesamiento-del-tiempo-en-el-cerebro-en-una-tarea-de-finger-tapping",
+      "status": "publish",
+      "type": "post",
+      "link": "https://lcd.exactas.uba.ar/procesamiento-del-tiempo-en-el-cerebro-en-una-tarea-de-finger-tapping/",
+      "title": {
+        "rendered": "Procesamiento del tiempo en el cerebro en una tarea de finger tapping"
+      },
+      "content": {
+        "rendered": "<p><strong>Resumen.</strong> Al contrario de lo que sucede con la informaci\u00f3n espacial, el conocimiento sobre c\u00f3mo el cerebro procesa la informaci\u00f3n temporal es muy escaso a pesar de ser cr\u00edtico para una gran variedad de funciones y comportamientos. En particular, nos interesa la sincronizaci\u00f3n sensomotora (sincronizarse a un est\u00edmulo peri\u00f3dico como siguiendo el pulso de la m\u00fasica), donde la persona debe estimar un tiempo futuro y producir una respuesta temporal acorde. La tarea m\u00e1s simple para estudiarla es finger tapping con metr\u00f3nomo y sus mecanismos subyacentes son mayormente desconocidos. En este proyecto proponemos analizar datos experimentales de registros de EEG simult\u00e1neos con finger tapping donde el metr\u00f3nomo sufri\u00f3 perturbaciones de per\u00edodo y la persona tuvo que resincronizarse. Para resaltar, en este proyecto no se estudia el comportamiento estacionario sino el transitorio que se desarrolla entre el momento de la perturbaci\u00f3n y la recuperaci\u00f3n de la sincron\u00eda. El objetivo es encontrar los correlatos neurales de dicha resincronizaci\u00f3n.</p>\n<p><strong>Palabras clave.</strong> Procesamiento del tiempo, Ciencias cognitivas, Datos de alta dimensi\u00f3n, Sistemas din\u00e1micos</p>\n<p><strong>Conocimientos deseables.</strong> Buen manejo de Python y bases de Algebra Lineal Computacional. Deseables pero no excluyentes: R, Din\u00e1mica No Lineal/Sistemas Din\u00e1micos, bases de Estad\u00edstica (se aprende todo lo necesario durante la tesis).</p>\n<p><strong>\u00bfQu\u00e9 podr\u00eda aprender quien realice esta tesis? &#8211;</strong> Se sumar\u00e1 a un proyecto en desarrollo para trabajar en an\u00e1lisis de datos reales de EEG. Aprender\u00e1 a trabajar, entre otras cosas, con t\u00e9cnicas de reducci\u00f3n de la dimensionalidad como PCA e ICA, an\u00e1lisis de series temporales, ajuste de modelos lineales mixtos, testeo estad\u00edstico de hip\u00f3tesis y bootstrapping/test de permutaciones. Todo orientado a la reproducibilidad y replicabilidad de los resultados (open code and data).</p>\n<p><strong>Direcci\u00f3n de la tesis</strong><br />\nLaje, Rodrigo<br />\nDepartamento de Computaci\u00f3n<br />\nContacto: rlaje@unq,edu.ar</p>\n<p><strong>Descargar PDF</strong><br />\n<a  data-e-Disable-Page-Transition=\"true\" class=\"download-link\" title=\"\" href=\"https://lcd.exactas.uba.ar/download/2624/?tmstv=1775083713\" rel=\"nofollow\" id=\"download-link-2624\" data-redirect=\"false\" >\n\tProcesamiento del tiempo en el cerebro en una tarea de finger tapping</a>\n</p>\n",
+        "protected": false
+      },
+      "excerpt": {
+        "rendered": "<p>Resumen. Al contrario de lo que sucede con la informaci\u00f3n  [&#8230;]</p>\n",
+        "protected": false
+      },
+      "author": 8,
+      "featured_media": 0,
+      "categories": [
+        32
+      ],
+      "tags": []
+    },
+    {
+      "id": 2620,
+      "date_gmt": "2024-11-21T18:33:57",
+      "modified_gmt": "2024-11-21T18:33:57",
+      "slug": "datame-las-charlas-de-lcd-daniel-low-viernes-22-11-16hs",
+      "status": "publish",
+      "type": "post",
+      "link": "https://lcd.exactas.uba.ar/datame-las-charlas-de-lcd-daniel-low-viernes-22-11-16hs/",
+      "title": {
+        "rendered": "D\u00c1TAME! las charlas de LCD &#8211; Daniel Low &#8211; Viernes 22/11 16hs"
+      },
+      "content": {
+        "rendered": "<p>Este viernes\u00a0 <strong>22/11</strong>\u00a0 hay <strong>D\u00c1TAME!</strong> de noviembre*</p>\n<p>El encuentro ser\u00e1 a las <strong>16:00 hs</strong>\u00a0 en el aula <strong>1402</strong> del Edificio <strong>0+Infinito</strong>.</p>\n<p>La presentaci\u00f3n estar\u00e1 a cargo de Daniel Low (Harvard) y el t\u00edtulo de la charla es:</p>\n<p>Psicometr\u00eda textual: c\u00f3mo mejorar la validaci\u00f3n de modelos de IA en salud mental</p>\n<p><strong>Sobre la charla</strong><br />\nEl procesamiento del lenguaje natural (NLP) ha avanzado much\u00edsimo gracias a las innovaciones recientes en los grandes modelos de lenguaje (LLM) y la inteligencia artificial (IA) generativa. Sin embargo, cuando estas tecnolog\u00edas se utilizan para evaluar y predecir s\u00edntomas de salud mental a partir de datos de texto, generalmente no se eval\u00faan los tipos de validez, confiabilidad y estandarizaci\u00f3n psicom\u00e9trica que se espera de los cuestionarios psicol\u00f3gicos tradicionales que utilizan escalas ordinales. Esta charla intentar\u00e1 tender un puente entre el NLP y la psicometr\u00eda, hacia una &#8220;psicometr\u00eda textual&#8221;. Se discutir\u00e1n formas de mejorar la validaci\u00f3n de modelos computacionales para la salud mental. Se incluir\u00e1n ejemplos de NLP, procesamiento del habla e inferencia causal para la medici\u00f3n, predicci\u00f3n y tratamiento del riesgo suicida.</p>\n<p><strong>Sobre Daniel</strong><br />\nDaniel Low es investigador de salud mental y cient\u00edfico de datos. Es investigador postdoctoral en el CAUSALab del Departamento de Epidemiolog\u00eda de la Escuela de Salud P\u00fablica de Harvard y en el Nock Lab del Departamento de Psicolog\u00eda de la Universidad de Harvard. Complet\u00f3 su doctorado en Speech and Hearing Bioscience and Technology en la Universidad de Harvard en 2024. Su investigaci\u00f3n se centra en utilizar el procesamiento del lenguaje natural,\u00a0 el procesamiento del habla y la inferencia causal para medir, predecir e intervenir en la salud mental, analizando datos de conversaciones cl\u00ednicas, ensayos cl\u00ednicos y redes sociales. Fund\u00f3 el Harvard-MIT Speech and Language Biomarker Interest Group que organiza charlas en estos temas y ha sido docente de machine learning en la Universidad de Harvard y en otras instituciones.</p>\n<p>*Esta actividad es realizada con el apoyo de la Fundaci\u00f3n Williams.</p>\n<p>Consultas: <a href=\"mailto:info.lcd@exactas.uba.ar\" target=\"_blank\" rel=\"noopener noreferrer\">info.lcd@exactas.uba.ar</a></p>\n<p>Sobre \u00a1D\u00c1TAME!</p>\n<p>Este ciclo de charlas busca simult\u00e1neamente</p>\n<p>&#8211; Ser un lugar de encuentro entre todos/as los/as que nos sentimos cercanos a LCD ya sea por ser estudiantes de la carrera o carrera cercanas, docentes, investigadores/as interesados/as o simplemente amigos/as de LCD.</p>\n<p>&#8211; Ofrecer a estudiantes de la carrera un panorama amplio de posibles caminos que puede recorrer un/a especialista en ciencias de datos.</p>\n<p>&#8211; Exponer a estudiantes de LCD a importantes referentes de la disciplina que trabajan en diversos \u00e1mbitos (investigaci\u00f3n cient\u00edfica, empresas, organismos estatales, ONGs, etc. )</p>\n<p>&#8211; Aprender un mont\u00f3n de cosas sobre datos. Qu\u00e9 tipo de problemas se pueden resolver con ellos y cu\u00e1les no, qu\u00e9 precauciones debemos tener, qu\u00e9 desaf\u00edos afronta la disciplina y mucho m\u00e1s.</p>\n<p>&#8211; Evidenciar la diversidad de disciplinas que confluyen en esta carrera y experimentar c\u00f3mo interact\u00faan.</p>\n<p>&#8211; Compartir un buen rato, un viernes a la tarde, una vez por mes.</p>\n<p>Est\u00e1 destinado principalmente a estudiantes de la carrera, pero todas/os somos bienvenidas/os.</p>\n<p>Habitualmente, nos juntamos el 3er. viernes de cada mes a las 16hs., excepto en ocasiones especiales.</p>\n<p>\u00a1Las y los esperamos!</p>\n",
+        "protected": false
+      },
+      "excerpt": {
+        "rendered": "<p>Este viernes\u00a0 22/11\u00a0 hay D\u00c1TAME! de noviembre* El encuentro ser\u00e1  [&#8230;]</p>\n",
+        "protected": false
+      },
+      "author": 8,
+      "featured_media": 2621,
+      "categories": [
+        13,
+        9
+      ],
+      "tags": []
+    },
+    {
+      "id": 2610,
+      "date_gmt": "2024-10-15T20:26:09",
+      "modified_gmt": "2024-10-15T20:26:09",
+      "slug": "charla-sobre-tutorias-y-pei-viernes-18-10-16-hs",
+      "status": "publish",
+      "type": "post",
+      "link": "https://lcd.exactas.uba.ar/charla-sobre-tutorias-y-pei-viernes-18-10-16-hs/",
+      "title": {
+        "rendered": "Charla sobre tutor\u00edas y PEI: viernes 18/10 16 hs."
+      },
+      "content": {
+        "rendered": "<p>El pr\u00f3ximo viernes 18 de octubre daremos una charla informativa sobre tutor\u00edas y el Plan de Estudios Individual (PEI).</p>\n<p>La charla est\u00e1 dirigida a estudiantes de la Licenciatura en Ciencias de Datos y tambi\u00e9n a profesorxs interesadxs en guiar a nuestrxs estudiantes en la etapa final de su carrera.</p>\n<p>Participaremos Constanza S\u00e1nchez de la Vega, Cecilia Bola\u00f1os, Rocco Di Tella y Ana Bianco.</p>\n<p>El encuentro ser\u00e1 en el Aula 1402 del Edificio 0+Infinito a las 16 hs.</p>\n<p>Lxs esperamos!!</p>\n",
+        "protected": false
+      },
+      "excerpt": {
+        "rendered": "<p>El pr\u00f3ximo viernes 18 de octubre daremos una charla informativa  [&#8230;]</p>\n",
+        "protected": false
+      },
+      "author": 8,
+      "featured_media": 2611,
+      "categories": [
+        9
+      ],
+      "tags": []
+    },
+    {
+      "id": 2608,
+      "date_gmt": "2024-10-09T20:21:15",
+      "modified_gmt": "2024-10-09T20:21:15",
+      "slug": "se-cancela-la-charla-del-datame-del-10-10-24",
+      "status": "publish",
+      "type": "post",
+      "link": "https://lcd.exactas.uba.ar/se-cancela-la-charla-del-datame-del-10-10-24/",
+      "title": {
+        "rendered": "Se cancela la charla del Datame del 10-10-24"
+      },
+      "content": {
+        "rendered": "<p>Informamos a la comunidad que a ra\u00edz del paro de los gremios docentes y del gremio nodocente anunciados para el jueves 10 y el hecho de que la Facultad pemanecer\u00e1 cerrada con guardias m\u00ednimas de seguridad y mantenimiento, <strong data-entity-type=\"MessageEntityBold\">cancelamos la charla de D\u00e1tame</strong>\u00a0prevista para el dia de ma\u00f1ana.</p>\n",
+        "protected": false
+      },
+      "excerpt": {
+        "rendered": "<p>Informamos a la comunidad que a ra\u00edz del paro de  [&#8230;]</p>\n",
+        "protected": false
+      },
+      "author": 8,
+      "featured_media": 1813,
+      "categories": [
+        9
+      ],
+      "tags": []
+    },
+    {
+      "id": 2605,
+      "date_gmt": "2024-10-08T20:24:14",
+      "modified_gmt": "2024-10-09T20:19:35",
+      "slug": "datame-las-charlas-de-lcd-malena-espanol-jueves-10-10-1730hs",
+      "status": "publish",
+      "type": "post",
+      "link": "https://lcd.exactas.uba.ar/datame-las-charlas-de-lcd-malena-espanol-jueves-10-10-1730hs/",
+      "title": {
+        "rendered": "D\u00c1TAME! las charlas de LCD &#8211; Malena Espa\u00f1ol &#8211; Jueves 10/10 17:30hs"
+      },
+      "content": {
+        "rendered": "<p>Este jueves 10/10\u00a0 adelantamos D\u00c1TAME de octubre.</p>\n<p>El encuentro ser\u00e1 a las 17:30 hs\u00a0 en el aula 1203 del Edificio 0+Infinito.</p>\n<p>La presentaci\u00f3n estar\u00e1 a cargo de Malena Espa\u00f1ol (Universidad Estatal de Arizona) y el t\u00edtulo de la charla es:</p>\n<p><strong>Aprendizaje Autom\u00e1tico en Acci\u00f3n: Datos, Im\u00e1genes y Aplicaciones</strong></p>\n<p><strong>Sobre la charla</strong><br />\nEn esta charla presentaremos una serie de ejemplos pr\u00e1cticos donde los algoritmos de aprendizaje autom\u00e1tico desempe\u00f1an un papel fundamental en distintos campos, desde el reconocimiento de objetos y la<br />\nclasificaci\u00f3n de malformaciones de Chiari, hasta la tomograf\u00eda de impedancia el\u00e9ctrica.</p>\n<p><strong>Sobre la oradora</strong><br />\nMalena Espa\u00f1ol es licenciada en Matem\u00e1tica Aplicada (FCEyN, UBA) y doctora en Matem\u00e1ticas por la Universidad de Tufts (EE. UU.). Realiz\u00f3 un postdoctorado en el Instituto Tecnol\u00f3gico de California (Caltech) y luego trabaj\u00f3 como profesora en la Universidad de Akron. Actualmente, es profesora de Matem\u00e1tica Computacional en la Escuela de Ciencias Matem\u00e1ticas y Estad\u00edsticas de la Universidad Estatal de Arizona. Su investigaci\u00f3n se centra en el desarrollo y an\u00e1lisis de modelos matem\u00e1ticos y m\u00e9todos num\u00e9ricos aplicados a sistemas de im\u00e1genes y al estudio de materiales.</p>\n<p>Consultas: <a href=\"mailto:info.lcd@exactas.uba.ar\" target=\"_blank\" rel=\"noopener noreferrer\">info.lcd@exactas.uba.ar</a></p>\n<p><strong>Sobre \u00a1D\u00c1TAME!</strong><br />\nEste ciclo de charlas busca simult\u00e1neamente</p>\n<p>&#8211; Ser un lugar de encuentro entre todos/as los/as que nos sentimos cercanos a LCD ya sea por ser estudiantes de la carrera o carrera cercanas, docentes, investigadores/as interesados/as o simplemente amigos/as de LCD.</p>\n<p>&#8211; Ofrecer a estudiantes de la carrera un panorama amplio de posibles caminos que puede recorrer un/a especialista en ciencias de datos.</p>\n<p>&#8211; Exponer a estudiantes de LCD a importantes referentes de la disciplina que trabajan en diversos \u00e1mbitos (investigaci\u00f3n cient\u00edfica, empresas, organismos estatales, ONGs, etc. )</p>\n<p>&#8211; Aprender un mont\u00f3n de cosas sobre datos. Qu\u00e9 tipo de problemas se pueden resolver con ellos y cu\u00e1les no, qu\u00e9 precauciones debemos tener, qu\u00e9 desaf\u00edos afronta la disciplina y mucho m\u00e1s.</p>\n<p>&#8211; Evidenciar la diversidad de disciplinas que confluyen en esta carrera y experimentar c\u00f3mo interact\u00faan.</p>\n<p>&#8211; Compartir un buen rato, un viernes a la tarde, una vez por mes.</p>\n<p>Est\u00e1 destinado principalmente a estudiantes de la carrera, pero todas/os somos bienvenidas/os.</p>\n<p>Habitualmente, nos juntamos el 3er. viernes de cada mes a las 16hs., excepto en ocasiones especiales.</p>\n<p>\u00a1Las y los esperamos!</p>\n",
+        "protected": false
+      },
+      "excerpt": {
+        "rendered": "<p>Este jueves 10/10\u00a0 adelantamos D\u00c1TAME de octubre. El encuentro ser\u00e1  [&#8230;]</p>\n",
+        "protected": false
+      },
+      "author": 8,
+      "featured_media": 2606,
+      "categories": [
+        1
+      ],
+      "tags": []
+    },
+    {
+      "id": 2594,
+      "date_gmt": "2024-09-03T16:38:30",
+      "modified_gmt": "2024-09-03T17:23:53",
+      "slug": "analisis-de-similaridad-entre-representaciones-de-palabras-generadas-por-modelos-de-audio-y-de-texto",
+      "status": "publish",
+      "type": "post",
+      "link": "https://lcd.exactas.uba.ar/analisis-de-similaridad-entre-representaciones-de-palabras-generadas-por-modelos-de-audio-y-de-texto/",
+      "title": {
+        "rendered": "An\u00e1lisis de similaridad entre representaciones de palabras generadas por modelos de audio y de texto"
+      },
+      "content": {
+        "rendered": "<p><strong>Tesista:</strong> Cecilia Micaela Bola\u00f1os</p>\n<p><strong>Director: </strong>Pablo Brusco<br />\n<strong>Codirector:</strong> Leonardo Pepino</p>\n<p><strong>Resumen.</strong></p>\n<p>En el campo del aprendizaje autom\u00e1tico, es muy com\u00fan el uso de modelos pre-entrenados. Estos modelos, creados para resolver tareas generales y, generalmente entrenados sobre grandes cantidades de datos, se utilizan o adaptan posteriormente para tareas espec\u0131\u0301ficas. Un factor com\u00fan de estos modelos es la capacidad de generar representaciones de los datos (embeddings). El poder expresivo de estas representaciones dependen en gran medida del dise\u00f1o del modelo, del proceso de entrenamiento, y de los datos con los que fueron entrenados.<br />\nUna pregunta de inter\u00e9s en este campo es el estudio de la convergencia hacia representaciones universales, incluso en modelos entrenados en instancias provenientes de diferentes modalidades (audio, texto, im\u00e1genes, etc.). Entender qu\u00e9 informaci\u00f3n capturan estas representaciones y c\u00f3mo se relacionan entre s\u0131\u0301 es esencial para aprovechar al m\u00e1ximo estos modelos.<br />\nEn este trabajo, nos concentramos en el mundo de las representaciones de palabras habladas. Para ello, nos proponemos replicar y extender parte del trabajo realizado en Pasad et al. [2021]. En este art\u00edculo, los autores utilizan el An\u00e1lisis de Correlaci\u00f3n Can\u00f3nica (CCA) para examinar similitudes y diferencias entre representaciones de palabras habladas provenientes de un modelo de habla (Wav2Vec 2.0 ), en contraste con representaciones generadas por un modelo de texto (GloVe). Como extensi\u00f3n al trabajo proponemos la utilizaci\u00f3n de dos m\u00e9tricas adicionales: (a) Linear Centered Kernel Alignment (Linear CKA), como alternativa a CCA; y (b) ASIF, como m\u00e9trica complementaria con una visi\u00f3n m\u00e1s localizada de las representaciones, lo cual proporciona una mayor interpretabilidad. En cuanto a los modelos, proponemos la inclusi\u00f3n de modelos modernos que incluyen BEATs y EncodecMAE para audio, y BERT para texto.<br />\nNuestros resultados indican que tanto Linear CKA como CCA son igualmente efectivos para evaluar la similitud entre representaciones, aunque Linear CKA es m\u00e1s eficiente computacionalmente. Adem\u00e1s, mostramos c\u00f3mo Wav2Vec 2.0 presenta una mayor similitud en las representaciones generadas con el modelo BERT que con las generadas con el modelo GloVe, alcanzando una similitud de 0.30 con BERT y 0.18 con GloVe bajo la m\u00e9trica Linear CKA. Si bien se espera que Wav2Vec 2.0 aprenda del contexto del audio debido a su arquitectura, este hallazgo indicar\u00eda que adem\u00e1s captura informaci\u00f3n contextual de las palabras y su significado, lo cual no es tan evidente. En este trabajo analizamos esta y otras hip\u00f3tesis que pueden explicar la mayor cercan\u00eda entre estos espacios de representaci\u00f3n. Por \u00faltimo, la comparaci\u00f3n entre modelos de audio general (EncoderMAE) y de audio provenientes \u00fanicamente de habla (Wav2Vec 2.0) revel\u00f3 diferencias en c\u00f3mo los modelos de audio tienden a ser m\u00e1s fon\u00e9ticos que sem\u00e1nticos.</p>\n<p><em>Palabras claves:</em> Modelos de Audio, Modelos de Texto, Similitud entre Representaciones, Representaciones de Palabras, Linear Centered Kernel Alignment, ASIF, An\u00e1lisis de Correlaci\u00f3n Can\u00f3nica.</p>\n<p>Buenos Aires, 2024</p>\n<p><strong>Descargar PDF</strong><br />\n<a  data-e-Disable-Page-Transition=\"true\" class=\"download-link\" title=\"\" href=\"https://lcd.exactas.uba.ar/download/2593/?tmstv=1775083713\" rel=\"nofollow\" id=\"download-link-2593\" data-redirect=\"false\" >\n\tAn\u00e1lisis de similaridad entre representaciones de palabras generadas por modelos de audio y de texto</a>\n</p>\n",
+        "protected": false
+      },
+      "excerpt": {
+        "rendered": "<p>Tesista: Cecilia Micaela Bola\u00f1os Director: Pablo Brusco Codirector: Leonardo Pepino  [&#8230;]</p>\n",
+        "protected": false
+      },
+      "author": 8,
+      "featured_media": 0,
+      "categories": [
+        33
+      ],
+      "tags": []
+    },
+    {
+      "id": 2588,
+      "date_gmt": "2024-09-03T16:30:30",
+      "modified_gmt": "2024-09-03T18:24:58",
+      "slug": "exploracion-de-la-limpieza-de-ruido-en-habla-hispana-con-redes-neuronales",
+      "status": "publish",
+      "type": "post",
+      "link": "https://lcd.exactas.uba.ar/exploracion-de-la-limpieza-de-ruido-en-habla-hispana-con-redes-neuronales/",
+      "title": {
+        "rendered": "Exploraci\u00f3n de la limpieza de ruido en habla hispana con redes neuronales"
+      },
+      "content": {
+        "rendered": "<p><strong>Tesista:</strong> Axel Fridman</p>\n<p><strong>Director:</strong> Pablo Riera</p>\n<p><strong>Resumen.</strong></p>\n<p style=\"text-align: left;\">Las se\u00f1ales de habla pueden estar contaminadas por ruidos que dificultan nuestra capacidad de comunicarnos, para resolver esta problem\u00e1tica existe la tarea de eliminaci\u00f3n de ruido. En este trabajo se estudia un modelo basado en redes neuronales tomando como punto de partida el modelo HiFi-GAN. A diferencia de este trabajo, nosotros decidimos utilizar habla en espa\u00f1ol. Se presentan una serie de experimentos centrados en mejorar resultados, que abarcan aspectos diversos como: evaluaci\u00f3n de tres funciones de p\u00e9rdida alternativas, entrenamiento con diferentes conjuntos de datos, comparaci\u00f3n de distintas arquitecturas de red generadora y la implementaci\u00f3n de curriculum learning. Los resultados indican que una arquitectura reducida puede alcanzar resultados similares a los que se obtienen con la arquitectura original (para el conjunto de datos utilizados en este trabajo). Tambi\u00e9n se utilizaron estrategias como decaimiento de la tasa de aprendizaje para optimizar el entrenamiento. Adem\u00e1s, se estudian las predicciones del modelo bajo diversas condiciones de ruido y para diferentes grupos de hablantes. Tambi\u00e9n se incluye el c\u00f3digo del proyecto proporcionando una herramienta valiosa para futuros trabajos.<br />\n<em><br />\nPalabras claves:</em> eliminaci\u00f3n de ruido, habla, habla hispana, castellano, se\u00f1ales de voz, WaveNet, funciones de p\u00e9rdida, Arquitecturas de red, curriculum learning, PostNet, tasa de aprendizaje, m\u00e9tricas Objetivas.</p>\n<p>Buenos Aires, 2023</p>\n<p><strong>Descargar PDF</strong><br />\n<a  data-e-Disable-Page-Transition=\"true\" class=\"download-link\" title=\"\" href=\"https://lcd.exactas.uba.ar/download/2582/?tmstv=1775083713\" rel=\"nofollow\" id=\"download-link-2582\" data-redirect=\"false\" >\n\tExploraci\u00f3n de la limpieza de ruido en habla hispana con redes neuronales</a>\n</p>\n<p>&nbsp;</p>\n",
+        "protected": false
+      },
+      "excerpt": {
+        "rendered": "<p>Tesista: Axel Fridman Director: Pablo Riera Resumen. Las se\u00f1ales de  [&#8230;]</p>\n",
+        "protected": false
+      },
+      "author": 8,
+      "featured_media": 0,
+      "categories": [
+        33
+      ],
+      "tags": []
+    },
+    {
+      "id": 2579,
+      "date_gmt": "2024-09-02T21:39:41",
+      "modified_gmt": "2024-09-02T21:39:41",
+      "slug": "datame-las-charlas-de-lcd-presentacion-de-argendata-viernes-6-9-16hs",
+      "status": "publish",
+      "type": "post",
+      "link": "https://lcd.exactas.uba.ar/datame-las-charlas-de-lcd-presentacion-de-argendata-viernes-6-9-16hs/",
+      "title": {
+        "rendered": "D\u00c1TAME! las charlas de LCD &#8211; Presentaci\u00f3n de Argendata &#8211; Viernes 6/9 16hs"
+      },
+      "content": {
+        "rendered": "<p>Este viernes se adelanta D\u00c1TAME de septiembre para presentar la plataforma Argendata, de <a href=\"https://fund.ar/\" target=\"_blank\" rel=\"noopener noreferrer\" data-saferedirecturl=\"https://www.google.com/url?q=https://fund.ar/&amp;source=gmail&amp;ust=1725395951143000&amp;usg=AOvVaw2pD3EdemnoG_2o0afNQ6ds\">Fundar</a>.</p>\n<div>\n<p>El encuentro titulado <b>La cocina de <a href=\"https://argendata.fund.ar/\" target=\"_blank\" rel=\"noopener noreferrer\" data-saferedirecturl=\"https://www.google.com/url?q=https://argendata.fund.ar/&amp;source=gmail&amp;ust=1725395951143000&amp;usg=AOvVaw0llcjXhia1xSnFojpGneAt\">Argendata</a></b> ser\u00e1 a las 16hs en el aula 1402 del Edificio 0+Infinito. La presentaci\u00f3n estar\u00e1 a cargo de <b>Juan Pablo Ruiz Nicolini</b> (coordinador) y <b>Joan Imanol Gonzalez Quiroga</b> (cient\u00edfico de datos), integrantes del equipo de Fundar.<b><br />\n</b></p>\n</div>\n<div>\n<div></div>\n<div>\n<div>\n<p><b>Sobre la charla</b></p>\n</div>\n<div></div>\n<p><a href=\"http://argendata.fund.ar\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" data-saferedirecturl=\"https://www.google.com/url?q=http://argendata.fund.ar&amp;source=gmail&amp;ust=1725395951143000&amp;usg=AOvVaw3dDEHP5l33PVPp8EXVYBdE\"><i>Argendata</i></a><i> es un sitio web y un portal de datos abiertos sobre Argentina y su relaci\u00f3n con el mundo. Procura ser un repositorio de referencia con informaci\u00f3n clave para entender al pa\u00eds y sumar conocimiento basado en evidencia al debate p\u00fablico. Actualmente contiene m\u00e1s de 1800000 registros de datos recolectados de 150 fuentes abarcando una amplia gama de temas como el cambio clim\u00e1tico, inflaci\u00f3n, pobreza, comercio exterior, miner\u00eda, salarios y desempleo, entre otros; analizados por especialistas del campo en cada una de las publicaciones con amplia diversidad de saberes, pr\u00e1cticas y metodolog\u00edas.</p>\n<p>En esta charla queremos mostrar c\u00f3mo logramos llevar a cabo este proyecto, mostrando las distintas etapas del mismo como la generaci\u00f3n, adminstraci\u00f3n y revisi\u00f3n de los datos, a trav\u00e9s de las cuales buscamos asegurar la calidad de la informaci\u00f3n y la reproductibilidad del proceso, junto con los desaf\u00edos que se presentaron en un trabajo de tales caracter\u00edsticas.</i>\n</div>\n<p><b> Sobre\u00a0los oradores<br />\n</b></p>\n</div>\n<div>Juan Pablo Ruiz Nicolini es licenciado en Ciencia Pol\u00edtica y Gobierno y mag\u00edster en Ciencia Pol\u00edtica por la Universidad Torcuato Di Tella. Cumpli\u00f3 funciones como Director Nacional de Mercados y Estad\u00edstica en el Ministerio de Turismo y Deportes de la Naci\u00f3n, donde desarroll\u00f3 el Sistema de Informaci\u00f3n Tur\u00edstica de la Argentina. Investig\u00f3 temas relacionados con partidos pol\u00edticos, elecciones y reforma electoral. Actualmente es docente de ciencia de datos en UTDT.</div>\n<div></div>\n<div>Joan Imanol Gonzalez Quiroga es t\u00e9cnico electr\u00f3nico y estudiante de Ciencias de la Computaci\u00f3n en la Facultad de Ciencias Exactas y Naturales en la Universidad de Buenos Aires. En su trayectoria estuvo involucrado en diversos proyectos de rob\u00f3tica y desarrollo de software orientado a la recolecci\u00f3n, el procesamiento y an\u00e1lisis de datos. Entre sus intereses se encuentran la teor\u00eda de la computaci\u00f3n, la seguridad inform\u00e1tica, el procesamiento de lenguaje natural (NLP), los modelos grandes de lenguaje (LLM) y la visi\u00f3n artificial (computer vision, CV).</div>\n<div></div>\n<div></div>\n<div><b>Consultas:</b> <a href=\"mailto:info.lcd@exactas.uba.ar\" target=\"_blank\" rel=\"noopener noreferrer\">info.lcd@exactas.uba.ar</a></p>\n<p><b> Sobre \u00a1D\u00c1TAME!</b></p>\n<p>Este ciclo de charlas busca simult\u00e1neamente</p>\n<p>&#8211; Ser un lugar de encuentro entre todos/as los/as que nos sentimos cercanos a LCD ya sea por ser estudiantes de la carrera o carrera cercanas, docentes, investigadores/as interesados/as o simplemente amigos/as de LCD.</p>\n<p>&#8211; Ofrecer a estudiantes de la carrera un panorama amplio de posibles caminos que puede recorrer un/a especialista en ciencias de datos.</p>\n<p>&#8211; Exponer a estudiantes de LCD a importantes referentes de la disciplina que trabajan en diversos \u00e1mbitos (investigaci\u00f3n cient\u00edfica, empresas, organismos estatales, ONGs, etc. )</p>\n<p>&#8211; Aprender un mont\u00f3n de cosas sobre datos. Qu\u00e9 tipo de problemas se pueden resolver con ellos y cu\u00e1les no, qu\u00e9 precauciones debemos tener, qu\u00e9 desaf\u00edos afronta la disciplina y mucho m\u00e1s.</p>\n<p>&#8211; Evidenciar la diversidad de disciplinas que confluyen en esta carrera y experimentar c\u00f3mo interact\u00faan.</p>\n<p>&#8211; Compartir un buen rato, un viernes a la tarde, una vez por mes.</p>\n<p>Est\u00e1 destinado principalmente a estudiantes de la carrera, pero todas/os somos bienvenidas/os.</p>\n<p>Nos juntamos el 3er. viernes de cada mes a las 16hs.</p>\n<p>\u00a1Las y los esperamos!</p>\n</div>\n",
+        "protected": false
+      },
+      "excerpt": {
+        "rendered": "<p>Este viernes se adelanta D\u00c1TAME de septiembre para presentar la  [&#8230;]</p>\n",
+        "protected": false
+      },
+      "author": 8,
+      "featured_media": 2580,
+      "categories": [
+        13,
+        9
+      ],
+      "tags": []
+    },
+    {
+      "id": 2565,
+      "date_gmt": "2024-09-02T21:10:52",
+      "modified_gmt": "2024-09-03T16:41:16",
+      "slug": "2565-2",
+      "status": "publish",
+      "type": "post",
+      "link": "https://lcd.exactas.uba.ar/2565-2/",
+      "title": {
+        "rendered": "Teor\u00eda de B\u00fasqueda \u00d3ptima y Comportamiento Visual Humano"
+      },
+      "content": {
+        "rendered": "<p><strong>Resumen.</strong></p>\n<p><strong>Tesista: </strong>Rocco Di Tella</p>\n<p><strong>Director: </strong>Gabriel Kreiman &#8211; Harvard Brain Science Initiative<br />\n<strong>Codirector: </strong>Enzo Tagliazucchi &#8211; DF, FCEyN, UBA</p>\n<p><strong>Descargar PDF</strong><br />\n<a  data-e-Disable-Page-Transition=\"true\" class=\"download-link\" title=\"\" href=\"https://lcd.exactas.uba.ar/download/2198/?tmstv=1775083713\" rel=\"nofollow\" id=\"download-link-2198\" data-redirect=\"false\" >\n\tSensibilidad y robustez de m\u00e9todos de estimaci\u00f3n de la eficacia metacognitiva</a>\n</p>\n",
+        "protected": false
+      },
+      "excerpt": {
+        "rendered": "<p>Resumen. Tesista: Rocco Di Tella Director: Gabriel Kreiman &#8211; Harvard  [&#8230;]</p>\n",
+        "protected": false
+      },
+      "author": 3,
+      "featured_media": 0,
+      "categories": [
+        1
+      ],
+      "tags": []
+    }
+  ]
+}

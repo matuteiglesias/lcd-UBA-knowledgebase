@@ -1,0 +1,16 @@
+{
+  "entity": "page",
+  "base_url": "https://lcd.exactas.uba.ar",
+  "output_dir": "data/lcd/raw/pages",
+  "pages_fetched": 1,
+  "records_fetched": 19,
+  "raw_files": [
+    "data/lcd/raw/pages/pages-page-0001.json"
+  ],
+  "reported_total": 19,
+  "reported_total_pages": 1,
+  "max_pages": null,
+  "bounded_warning": false,
+  "error_count": 0,
+  "stop_reason": "reported_total_pages_reached"
+}

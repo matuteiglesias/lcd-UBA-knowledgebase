@@ -1,0 +1,30 @@
+{
+  "id": "post:2118",
+  "entity_type": "post",
+  "source_id": 2118,
+  "slug": "canal-de-telegram-para-info-oficial-de-lcd-2023",
+  "route_slug": "post--2118--canal-de-telegram-para-info-oficial-de-lcd-2023",
+  "title": "Canal de telegram para info oficial de LCD",
+  "source_url": "https://lcd.exactas.uba.ar/canal-de-telegram-para-info-oficial-de-lcd-2023/",
+  "created_at": "2023-08-11T19:28:16",
+  "modified_at": "2023-08-11T19:28:16",
+  "sort_date": "2023-08-11T19:28:16",
+  "status": "publish",
+  "excerpt_plain": "Canal de telegram para info oficial de LCD Les compartimos […]",
+  "text": "Canal de telegram para info oficial de LCD Les compartimos el canal de telegram exclusivo para información oficial de la carrera. Les recomendamos que se unan y les pedimos que nos ayuden a difundirlo entre estudiantes. La dirección del canal es https://t.me/lcdexactasuba",
+  "html_clean": "<h2>Canal de telegram para info oficial de LCD</h2>\n<div>\n<p>Les compartimos el canal de telegram exclusivo para información oficial de la carrera. Les recomendamos que se unan y les pedimos que nos ayuden a difundirlo entre estudiantes. La dirección del canal es <a href=\"https://t.me/lcdexactasuba\" target=\"_blank\" rel=\"noopener noreferrer\">https://t.me/lcdexactasuba</a></p>\n</div>",
+  "render_mode": "html_clean",
+  "attachments": [],
+  "has_attachments": false,
+  "attachment_count": 0,
+  "outlinks": [
+    {
+      "url": "https://t.me/lcdexactasuba",
+      "kind": "external"
+    }
+  ],
+  "is_index_like": true,
+  "index_like_reason": "embedded_post_grid",
+  "content_hash": "sha256:ec1ccdb32e2d2d5dca66977f3879e478f1ef8b59948e32f5f5a2a59de82f8e4e",
+  "search_text": "Canal de telegram para info oficial de LCD canal-de-telegram-para-info-oficial-de-lcd-2023 Canal de telegram para info oficial de LCD Les compartimos […] Canal de telegram para info oficial de LCD Les compartimos el canal de telegram exclusivo para información oficial de la carrera. Les recomendamos que se unan y les pedimos que nos ayuden a difundirlo entre estudiantes. La dirección del canal es https://t.me/lcdexactasuba"
+}

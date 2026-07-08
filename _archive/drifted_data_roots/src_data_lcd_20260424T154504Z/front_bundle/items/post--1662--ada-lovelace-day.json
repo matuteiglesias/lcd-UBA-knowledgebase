@@ -1,0 +1,30 @@
+{
+  "id": "post:1662",
+  "entity_type": "post",
+  "source_id": 1662,
+  "slug": "ada-lovelace-day",
+  "route_slug": "post--1662--ada-lovelace-day",
+  "title": "Ada Lovelace Day",
+  "source_url": "https://lcd.exactas.uba.ar/ada-lovelace-day/",
+  "created_at": "2022-09-14T15:12:58",
+  "modified_at": "2022-09-15T14:36:58",
+  "sort_date": "2022-09-15T14:36:58",
+  "status": "publish",
+  "excerpt_plain": "Las invitamos a Ada Lovelace Day 1º Jornada de Talleres […]",
+  "text": "Las invitamos a Ada Lovelace Day 1º Jornada de Talleres STEM para niñas y mujeres adolescentes. Durante un día y en cinco localidades diferentes, se realizarán una serie de talleres lúdicos con sesiones de resolución de problemas, con el objetivo de promover las carreras STEM (acrónimo de Science, Technology, Engineering, and Math: ciencias, tecnología, ingeniería y matemáticas) y alentar a las niñas a continuar sus estudios en ciencia de datos, computación, ingeniería, matemáticas, ayudándolas a comprender la importancia del rol de la mujer en la Ciencia. ¿Quiénes pueden participar? Niñas de 10 a 12 años, acompañadas por docentes, familias y/o tutores. ¿Cuándo? Sábado 15 de octubre de 2022, de 9:30 a 14 hs. ¿Cómo participar? Las inscripciones se realizan a través de correo electrónico en el sitio web del evento y deben contactarse docentes, familias y/o tutores de las alumnas interesadas en participar. Dependiendo la localidad de cercanía.",
+  "html_clean": "<p>Las invitamos a Ada Lovelace Day</p>\n<p>1º Jornada de Talleres STEM para niñas y mujeres adolescentes.<br />\nDurante un día y en cinco localidades diferentes, se realizarán una serie de talleres lúdicos con sesiones de resolución de problemas, con el objetivo de promover las carreras STEM (acrónimo de Science, Technology, Engineering, and Math: ciencias, tecnología, ingeniería y matemáticas) y alentar a las niñas a continuar sus estudios en ciencia de datos, computación, ingeniería, matemáticas, ayudándolas a comprender la importancia del rol de la mujer en la Ciencia.</p>\n<p>¿Quiénes pueden participar?<br />\nNiñas de 10 a 12 años, acompañadas por docentes, familias y/o tutores.</p>\n<p>¿Cuándo?<br />\nSábado 15 de octubre de 2022, de 9:30 a 14 hs.</p>\n<p>¿Cómo participar?<br />\nLas inscripciones se realizan a través de correo electrónico en <a href=\"https://www.fiq.unl.edu.ar/culturacientifica/ada-lovelace/\">el sitio web del evento</a> y deben contactarse docentes, familias y/o tutores de las alumnas interesadas en participar. Dependiendo la localidad de cercanía.</p>",
+  "render_mode": "html_clean",
+  "attachments": [],
+  "has_attachments": false,
+  "attachment_count": 0,
+  "outlinks": [
+    {
+      "url": "https://www.fiq.unl.edu.ar/culturacientifica/ada-lovelace/",
+      "kind": "external"
+    }
+  ],
+  "is_index_like": false,
+  "index_like_reason": null,
+  "content_hash": "sha256:c27eb535a7a18292b81b8148a89000650183facee886732e2f4324b030cdbf0f",
+  "search_text": "Ada Lovelace Day ada-lovelace-day Las invitamos a Ada Lovelace Day 1º Jornada de Talleres […] Las invitamos a Ada Lovelace Day 1º Jornada de Talleres STEM para niñas y mujeres adolescentes. Durante un día y en cinco localidades diferentes, se realizarán una serie de talleres lúdicos con sesiones de resolución de problemas, con el objetivo de promover las carreras STEM (acrónimo de Science, Technology, Engineering, and Math: ciencias, tecnología, ingeniería y matemáticas) y alentar a las niñas a continuar sus estudios en ciencia de datos, computación, ingeniería, matemáticas, ayudándolas a comprender la importancia del rol de la mujer en la Ciencia. ¿Quiénes pueden participar? Niñas de 10 a 12 años, acompañadas por docentes, familias y/o tutores. ¿Cuándo? Sábado 15 de octubre de 2022, de 9:30 a 14 hs. ¿Cómo participar? Las inscripciones se realizan a través de correo electrónico en el sitio web del evento y deben contactarse docentes, familias y/o tutores de las alumnas interesadas en participar. Dependiendo la localidad de cercanía."
+}

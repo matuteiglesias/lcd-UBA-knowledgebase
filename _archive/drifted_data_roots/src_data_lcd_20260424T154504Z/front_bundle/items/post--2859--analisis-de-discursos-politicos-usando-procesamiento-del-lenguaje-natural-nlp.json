@@ -1,0 +1,37 @@
+{
+  "id": "post:2859",
+  "entity_type": "post",
+  "source_id": 2859,
+  "slug": "analisis-de-discursos-politicos-usando-procesamiento-del-lenguaje-natural-nlp",
+  "route_slug": "post--2859--analisis-de-discursos-politicos-usando-procesamiento-del-lenguaje-natural-nlp",
+  "title": "Análisis de discursos polı́ticos usando procesamiento del lenguaje natural (NLP)",
+  "source_url": "https://lcd.exactas.uba.ar/analisis-de-discursos-politicos-usando-procesamiento-del-lenguaje-natural-nlp/",
+  "created_at": "2025-09-08T21:14:27",
+  "modified_at": "2025-09-08T21:14:27",
+  "sort_date": "2025-09-08T21:14:27",
+  "status": "publish",
+  "excerpt_plain": "Tesista: Manuel Horn Director: Pablo Balenzuela Resumen. Una cuestión fundamental […]",
+  "text": "Tesista: Manuel Horn Director: Pablo Balenzuela Resumen. Una cuestión fundamental en el comportamiento social colectivo se relaciona con la influencia del discurso público y mediático en la opinión electoral. En este trabajo se propone un enfoque metodológico para examinar cómo caracterı́sticas del discurso polı́tico se relacionan con manifestaciones medibles de la opinión pública, aplicando una combinación de herramientas que involucran el procesamiento del lenguaje natural y el análisis de series temporales. Se aplicó un análisis de correlación al perı́odo correspondiente a la campaña presidencial para las elecciones de Estados Unidos del año 2024, utilizando texto correspondiente al contenido discursivo de los candidatos en carrera. Se compararon las variaciones en las encuestas de intención de voto nacional y estatal con cambios en la relevancia temporal de dichos tópicos nacionales. Los resultados sugieren que la relevancia de ciertos tópicos está correlacionada con las fluctuaciones en la intención de voto a nivel nacional y estatal, esto permite caracterizar a cada estado con los temas que mayor impacto tienen en él y realizar interpretaciones correspondientes. La metodologı́a empleada en este trabajo es de carácter general y puede extenderse fácilmente a otros temas de interés y contextos electorales. Palabras claves: Procesamiento del lenguaje natural, Aprendizaje no supervisado, Detección de tópicos, Análisis de series temporales, Opinión pública, Polı́tica. Buenos Aires, 2025 Descargar PDF Análisis de discursos políticos usando procesamiento del lenguaje natural (NLP)",
+  "html_clean": "<p><strong>Tesista:</strong> Manuel Horn</p>\n<p><strong>Director:</strong> Pablo Balenzuela</p>\n<p><strong>Resumen.</strong></p>\n<p>Una cuestión fundamental en el comportamiento social colectivo se relaciona con la influencia del discurso público y mediático en la opinión electoral. En este trabajo se propone un enfoque metodológico para examinar cómo caracterı́sticas del discurso polı́tico se relacionan con manifestaciones medibles de la opinión pública, aplicando una combinación de herramientas que involucran el procesamiento del lenguaje natural y el análisis de series temporales. Se aplicó un análisis de correlación al perı́odo correspondiente a la campaña presidencial para las elecciones de Estados Unidos del año 2024, utilizando texto correspondiente al contenido discursivo de los candidatos en carrera. Se compararon las variaciones en las encuestas de intención de voto nacional y estatal con cambios en la relevancia temporal de dichos tópicos nacionales. Los resultados sugieren que la relevancia de ciertos tópicos está correlacionada con las fluctuaciones en la intención de voto a nivel nacional y estatal, esto permite caracterizar a cada estado con los temas que mayor impacto tienen en él y realizar interpretaciones correspondientes. La metodologı́a empleada en este trabajo es de carácter general y puede extenderse fácilmente a otros temas de interés y contextos electorales.</p>\n<p>Palabras claves: Procesamiento del lenguaje natural, Aprendizaje no supervisado, Detección de tópicos, Análisis de series temporales, Opinión pública, Polı́tica.</p>\n<p>Buenos Aires, 2025</p>\n<p><strong>Descargar PDF</strong><br />\n<a  class=\"download-link\" title=\"\" href=\"https://lcd.exactas.uba.ar/download/2856/?tmstv=1775083711\" rel=\"nofollow\" id=\"download-link-2856\" >\n\tAnálisis de discursos políticos usando procesamiento del lenguaje natural (NLP)</a>\n</p>",
+  "render_mode": "html_clean",
+  "attachments": [
+    {
+      "url": "https://lcd.exactas.uba.ar/download/2856/?tmstv=1775083711",
+      "label": "Descargar PDF",
+      "kind": "pdf",
+      "is_download_like": true
+    }
+  ],
+  "has_attachments": true,
+  "attachment_count": 1,
+  "outlinks": [
+    {
+      "url": "https://lcd.exactas.uba.ar/download/2856/?tmstv=1775083711",
+      "kind": "internal"
+    }
+  ],
+  "is_index_like": false,
+  "index_like_reason": null,
+  "content_hash": "sha256:5cab906d64eb5043dafa8448fb2570ead7ad56657f9cd8b527f4bdad3dcd0685",
+  "search_text": "Análisis de discursos polı́ticos usando procesamiento del lenguaje natural (NLP) analisis-de-discursos-politicos-usando-procesamiento-del-lenguaje-natural-nlp Tesista: Manuel Horn Director: Pablo Balenzuela Resumen. Una cuestión fundamental […] Tesista: Manuel Horn Director: Pablo Balenzuela Resumen. Una cuestión fundamental en el comportamiento social colectivo se relaciona con la influencia del discurso público y mediático en la opinión electoral. En este trabajo se propone un enfoque metodológico para examinar cómo caracterı́sticas del discurso polı́tico se relacionan con manifestaciones medibles de la opinión pública, aplicando una combinación de herramientas que involucran el procesamiento del lenguaje natural y el análisis de series temporales. Se aplicó un análisis de correlación al perı́odo correspondiente a la campaña presidencial para las elecciones de Estados Unidos del año 2024, utilizando texto correspondiente al contenido discursivo de los candidatos en carrera. Se compararon las variaciones en las encuestas de intención de voto nacional y estatal con cambios en la relevancia temporal de dichos tópicos nacionales. Los resultados sugieren que la relevancia de ciertos tópicos está correlacionada con las fluctuaciones en la intención de voto a nivel nacional y estatal, esto permite caracterizar a cada estado con los temas que mayor impacto tienen en él y realizar interpretaciones correspondientes. La metodologı́a empleada en este trabajo es de carácter general y puede extenderse fácilmente a otros temas de interés y contextos electorales. Palabras claves: Procesamiento del lenguaje natural, Aprendizaje no supervisado, Detección de tópicos, Análisis de series temporales, Opinión pública, Polı́tica. Buenos Aires, 2025 Descargar PDF Análisis de discursos políticos usando procesamiento del lenguaje natural (NLP)"
+}

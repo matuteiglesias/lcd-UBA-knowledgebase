@@ -1,0 +1,37 @@
+{
+  "id": "post:2485",
+  "entity_type": "post",
+  "source_id": 2485,
+  "slug": "modelos-y-soluciones-para-la-restauracion-de-imagenes-fuera-de-foco",
+  "route_slug": "post--2485--modelos-y-soluciones-para-la-restauracion-de-imagenes-fuera-de-foco",
+  "title": "Modelos y soluciones para la restauración de imágenes fuera de foco",
+  "source_url": "https://lcd.exactas.uba.ar/modelos-y-soluciones-para-la-restauracion-de-imagenes-fuera-de-foco/",
+  "created_at": "2024-07-03T19:27:24",
+  "modified_at": "2024-07-03T19:27:24",
+  "sort_date": "2024-07-03T19:27:24",
+  "status": "publish",
+  "excerpt_plain": "Resumen. La restauración de imágenes fuera de foco es un […]",
+  "text": "Resumen. La restauración de imágenes fuera de foco es un área de investigación crucial en el campo de las ciencias de datos y la visión por computadora. Esta tarea es esencial para mejorar la calidad de imágenes en diversas aplicaciones, desde la fotografía y videografía hasta la medicina y la vigilancia. El problema se dificulta cuando no se dispone de información sobre la cantidad de desenfoque, lo que hace necesario el desarrollo de métodos de resolución avanzados y robustos. El proyecto propuesto tiene como objetivo desarrollar modelos y algoritmos que permitan restaurar imágenes desenfocadas sin conocer a priori el operador de desenfoque. Palabras clave. Procesamiento de imágenes, mínimos cuadrados no lineales separables, problemas inversos. Conocimientos deseables. Buen manejo del lenguaje de programación Python y álgebra lineal. ¿Qué podría aprender quien realice esta tesis? – Quien participe en este proyecto tendrán la oportunidad de: 1) aprender y aplicar técnicas avanzadas de procesamiento de imágenes, optimización, y métodos numéricos para la solución de problemas inversos y 2) contribuir a la creación de soluciones prácticas que pueden tener un impacto significativo en múltiples industrias. Se estará sumando a un proyecto de investigación en desarrollo donde se proponen nuevos modelos y métodos iterativos de optimización para resolver problemas de mínimos cuadrados no lineales separables relacionados a problemas inversos donde los datos están contaminados con ruido. Aprenderá también a desarrollar e implementar algoritmos eficientes usando la transformada de Fourier. Dirección de la tesis Jeronimo, Gabriela Departamento de Matemática, FCEN-UBA & IMAS, CONICET-UBA Contacto: jeronimo@dm.uba.ar Descargar PDF Modelos y soluciones para la restauración de imágenes fuera de foco",
+  "html_clean": "<p><strong>Resumen.</strong> La restauración de imágenes fuera de foco es un área de investigación crucial en el campo de las ciencias de datos y la visión por computadora. Esta tarea es esencial para mejorar la calidad de imágenes en diversas aplicaciones, desde la fotografía y videografía hasta la medicina y la vigilancia. El problema se dificulta cuando no se dispone de información sobre la cantidad de desenfoque, lo que hace necesario el desarrollo de métodos de resolución avanzados y robustos. El proyecto propuesto tiene como objetivo desarrollar modelos y algoritmos que permitan restaurar imágenes desenfocadas sin conocer a priori el operador de desenfoque.</p>\n<p><strong>Palabras clave.</strong> Procesamiento de imágenes, mínimos cuadrados no lineales separables, problemas inversos.</p>\n<p><strong>Conocimientos deseables.</strong> Buen manejo del lenguaje de programación Python y álgebra lineal.</p>\n<p><strong>¿Qué podría aprender quien realice esta tesis? &#8211;</strong> Quien participe en este proyecto tendrán la oportunidad de: 1) aprender y aplicar técnicas avanzadas de procesamiento de imágenes, optimización, y métodos numéricos para la solución de problemas inversos y 2) contribuir a la creación de soluciones prácticas que pueden tener un impacto significativo en múltiples industrias. Se estará sumando a un proyecto de investigación en desarrollo donde se proponen nuevos modelos y métodos iterativos de optimización para resolver problemas de mínimos cuadrados no lineales separables relacionados a problemas inversos donde los datos están contaminados con ruido. Aprenderá también a desarrollar e implementar algoritmos eficientes usando la transformada de Fourier.</p>\n<p><strong>Dirección de la tesis</strong><br />\nJeronimo, Gabriela<br />\nDepartamento de Matemática, FCEN-UBA &amp; IMAS, CONICET-UBA<br />\nContacto: jeronimo@dm.uba.ar</p>\n<p><strong>Descargar PDF</strong><br />\n<a  class=\"download-link\" title=\"\" href=\"https://lcd.exactas.uba.ar/download/2474/?tmstv=1775083714\" rel=\"nofollow\" id=\"download-link-2474\" >\n\tModelos y soluciones para la restauración de imágenes fuera de foco</a>\n</p>",
+  "render_mode": "html_clean",
+  "attachments": [
+    {
+      "url": "https://lcd.exactas.uba.ar/download/2474/?tmstv=1775083714",
+      "label": "Descargar PDF",
+      "kind": "pdf",
+      "is_download_like": true
+    }
+  ],
+  "has_attachments": true,
+  "attachment_count": 1,
+  "outlinks": [
+    {
+      "url": "https://lcd.exactas.uba.ar/download/2474/?tmstv=1775083714",
+      "kind": "internal"
+    }
+  ],
+  "is_index_like": false,
+  "index_like_reason": null,
+  "content_hash": "sha256:bb3d15680c25289d374cd2b9795a0afe182607e707951e25b44094b7331fa9a7",
+  "search_text": "Modelos y soluciones para la restauración de imágenes fuera de foco modelos-y-soluciones-para-la-restauracion-de-imagenes-fuera-de-foco Resumen. La restauración de imágenes fuera de foco es un […] Resumen. La restauración de imágenes fuera de foco es un área de investigación crucial en el campo de las ciencias de datos y la visión por computadora. Esta tarea es esencial para mejorar la calidad de imágenes en diversas aplicaciones, desde la fotografía y videografía hasta la medicina y la vigilancia. El problema se dificulta cuando no se dispone de información sobre la cantidad de desenfoque, lo que hace necesario el desarrollo de métodos de resolución avanzados y robustos. El proyecto propuesto tiene como objetivo desarrollar modelos y algoritmos que permitan restaurar imágenes desenfocadas sin conocer a priori el operador de desenfoque. Palabras clave. Procesamiento de imágenes, mínimos cuadrados no lineales separables, problemas inversos. Conocimientos deseables. Buen manejo del lenguaje de programación Python y álgebra lineal. ¿Qué podría aprender quien realice esta tesis? – Quien participe en este proyecto tendrán la oportunidad de: 1) aprender y aplicar técnicas avanzadas de procesamiento de imágenes, optimización, y métodos numéricos para la solución de problemas inversos y 2) contribuir a la creación de soluciones prácticas que pueden tener un impacto significativo en múltiples industrias. Se estará sumando a un proyecto de investigación en desarrollo donde se proponen nuevos modelos y métodos iterativos de optimización para resolver problemas de mínimos cuadrados no lineales separables relacionados a problemas inversos donde los datos están contaminados con ruido. Aprenderá también a desarrollar e implementar algoritmos eficientes usando la transformada de Fourier. Dirección de la tesis Jeronimo, Gabriela Departamento de Matemática, FCEN-UBA & IMAS, CONICET-UBA Contacto: jeronimo@dm.uba.ar Descargar PDF Modelos y soluciones para la restauración de imágenes fuera de foco"
+}

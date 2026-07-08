@@ -1,0 +1,37 @@
+{
+  "id": "post:2144",
+  "entity_type": "post",
+  "source_id": 2144,
+  "slug": "hacia-la-construccion-de-un-templex-para-atractores-climaticos",
+  "route_slug": "post--2144--hacia-la-construccion-de-un-templex-para-atractores-climaticos",
+  "title": "Hacia la construcción de un templex para atractores climáticos",
+  "source_url": "https://lcd.exactas.uba.ar/hacia-la-construccion-de-un-templex-para-atractores-climaticos/",
+  "created_at": "2023-08-29T15:10:06",
+  "modified_at": "2023-08-29T15:25:51",
+  "sort_date": "2023-08-29T15:25:51",
+  "status": "publish",
+  "excerpt_plain": "Resumen. El templex [Chaos 32(8), 083108 (2022)] es un objeto […]",
+  "text": "Resumen. El templex [Chaos 32(8), 083108 (2022)] es un objeto matemático que combina elementos de la topología algebraica y el análisis de series temporales para describir la estructura topológica de un flujo en el espacio de fases para un sistema dinámico. El templex permite identificar dinámicas cualitativamente distintas a partir de datos, un objetivo fundamental para comprender los atractores climáticos. Este trabajo propone construir un templex para cuatro tipos distintos de atractores coexistentes obtenidos para un acuaplaneta, que han sido diferenciados previamente utilizando homologías persistentes. Palabras clave. topología caos clima datos Conocimientos deseables. Nociones elementales de sistemas dinámicos y de lenguajes de programación (C++, python) ¿Qué podría aprender quien realice esta tesis? El estudiante aprenderá nociones generales de geofísica, de topología algebraica aplicada a sistemas dinámicos y de análisis de datos para atractores climáticos. Dirección de la tesis SCIAMARELLA, DENISSE CIMA-IFAECI (FCEN-UBA) Contacto: denisse.sciamarella@cima.fcen.uba.ar Descargar PDF Hacia la construccion de un templex para atractores climáticos",
+  "html_clean": "<p><strong>Resumen.</strong> El templex [Chaos 32(8), 083108 (2022)] es un objeto matemático que combina elementos de la topología algebraica y el análisis de series temporales para describir la estructura topológica de un flujo en el espacio de fases para un sistema dinámico. El templex permite identificar dinámicas cualitativamente distintas a partir de datos, un objetivo fundamental para comprender los atractores climáticos. Este trabajo propone construir un templex para cuatro tipos distintos de atractores coexistentes obtenidos para un acuaplaneta, que han sido diferenciados previamente utilizando homologías persistentes.</p>\n<p><strong>Palabras clave.</strong> topología caos clima datos</p>\n<p><strong>Conocimientos deseables. </strong>Nociones elementales de sistemas dinámicos y de lenguajes de programación (C++, python)</p>\n<p><strong>¿Qué podría aprender quien realice esta tesis? </strong>El estudiante aprenderá nociones generales de geofísica, de topología algebraica aplicada a sistemas dinámicos y de análisis de datos para atractores climáticos.</p>\n<p><strong>Dirección de la tesis</strong><br />\nSCIAMARELLA, DENISSE<br />\nCIMA-IFAECI (FCEN-UBA)<br />\nContacto: denisse.sciamarella@cima.fcen.uba.ar</p>\n<p><strong>Descargar PDF<br />\n</strong><a  class=\"download-link\" title=\"\" href=\"https://lcd.exactas.uba.ar/download/2045/?tmstv=1775083717\" rel=\"nofollow\" id=\"download-link-2045\" >\n\tHacia la construccion de un templex para atractores climáticos</a>\n</p>",
+  "render_mode": "html_clean",
+  "attachments": [
+    {
+      "url": "https://lcd.exactas.uba.ar/download/2045/?tmstv=1775083717",
+      "label": "Descargar PDF",
+      "kind": "pdf",
+      "is_download_like": true
+    }
+  ],
+  "has_attachments": true,
+  "attachment_count": 1,
+  "outlinks": [
+    {
+      "url": "https://lcd.exactas.uba.ar/download/2045/?tmstv=1775083717",
+      "kind": "internal"
+    }
+  ],
+  "is_index_like": false,
+  "index_like_reason": null,
+  "content_hash": "sha256:d81fa55f479dc7b9e1718ade04e3aa74bb59a574699eab5c325143f6da12b0d1",
+  "search_text": "Hacia la construcción de un templex para atractores climáticos hacia-la-construccion-de-un-templex-para-atractores-climaticos Resumen. El templex [Chaos 32(8), 083108 (2022)] es un objeto […] Resumen. El templex [Chaos 32(8), 083108 (2022)] es un objeto matemático que combina elementos de la topología algebraica y el análisis de series temporales para describir la estructura topológica de un flujo en el espacio de fases para un sistema dinámico. El templex permite identificar dinámicas cualitativamente distintas a partir de datos, un objetivo fundamental para comprender los atractores climáticos. Este trabajo propone construir un templex para cuatro tipos distintos de atractores coexistentes obtenidos para un acuaplaneta, que han sido diferenciados previamente utilizando homologías persistentes. Palabras clave. topología caos clima datos Conocimientos deseables. Nociones elementales de sistemas dinámicos y de lenguajes de programación (C++, python) ¿Qué podría aprender quien realice esta tesis? El estudiante aprenderá nociones generales de geofísica, de topología algebraica aplicada a sistemas dinámicos y de análisis de datos para atractores climáticos. Dirección de la tesis SCIAMARELLA, DENISSE CIMA-IFAECI (FCEN-UBA) Contacto: denisse.sciamarella@cima.fcen.uba.ar Descargar PDF Hacia la construccion de un templex para atractores climáticos"
+}

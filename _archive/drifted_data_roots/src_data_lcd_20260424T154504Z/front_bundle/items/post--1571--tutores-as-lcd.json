@@ -1,0 +1,30 @@
+{
+  "id": "post:1571",
+  "entity_type": "post",
+  "source_id": 1571,
+  "slug": "tutores-as-lcd",
+  "route_slug": "post--1571--tutores-as-lcd",
+  "title": "Tutores/as LCD",
+  "source_url": "https://lcd.exactas.uba.ar/tutores-as-lcd/",
+  "created_at": "2022-06-01T21:48:35",
+  "modified_at": "2022-06-01T21:50:13",
+  "sort_date": "2022-06-01T21:50:13",
+  "status": "publish",
+  "excerpt_plain": "¡Ya podés consultar el listado de tutoras y tutores que […]",
+  "text": "¡Ya podés consultar el listado de tutoras y tutores que proponemos para tu tercer ciclo! Recordá que vos también podés proponer un profesor/a o ayudante que ya conozcas para que evaluemos en la comisión. Accedé al listado de Tutores/as desde este link",
+  "html_clean": "<p>¡Ya podés consultar el listado de tutoras y tutores que proponemos para tu tercer ciclo!</p>\n<p>Recordá que vos también podés proponer un profesor/a o ayudante que ya conozcas para que evaluemos en la comisión.</p>\n<p>Accedé al listado de Tutores/as desde este <a href=\"https://lcd.exactas.uba.ar/tutores/\">link</a></p>",
+  "render_mode": "html_clean",
+  "attachments": [],
+  "has_attachments": false,
+  "attachment_count": 0,
+  "outlinks": [
+    {
+      "url": "https://lcd.exactas.uba.ar/tutores/",
+      "kind": "internal"
+    }
+  ],
+  "is_index_like": false,
+  "index_like_reason": null,
+  "content_hash": "sha256:8d3f126e5e12fdf20513612083f07a5e78a27f191305dc422392dd538fefc7a7",
+  "search_text": "Tutores/as LCD tutores-as-lcd ¡Ya podés consultar el listado de tutoras y tutores que […] ¡Ya podés consultar el listado de tutoras y tutores que proponemos para tu tercer ciclo! Recordá que vos también podés proponer un profesor/a o ayudante que ya conozcas para que evaluemos en la comisión. Accedé al listado de Tutores/as desde este link"
+}

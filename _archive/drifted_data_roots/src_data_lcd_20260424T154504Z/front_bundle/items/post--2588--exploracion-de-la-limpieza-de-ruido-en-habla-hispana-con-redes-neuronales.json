@@ -1,0 +1,37 @@
+{
+  "id": "post:2588",
+  "entity_type": "post",
+  "source_id": 2588,
+  "slug": "exploracion-de-la-limpieza-de-ruido-en-habla-hispana-con-redes-neuronales",
+  "route_slug": "post--2588--exploracion-de-la-limpieza-de-ruido-en-habla-hispana-con-redes-neuronales",
+  "title": "Exploración de la limpieza de ruido en habla hispana con redes neuronales",
+  "source_url": "https://lcd.exactas.uba.ar/exploracion-de-la-limpieza-de-ruido-en-habla-hispana-con-redes-neuronales/",
+  "created_at": "2024-09-03T16:30:30",
+  "modified_at": "2024-09-03T18:24:58",
+  "sort_date": "2024-09-03T18:24:58",
+  "status": "publish",
+  "excerpt_plain": "Tesista: Axel Fridman Director: Pablo Riera Resumen. Las señales de […]",
+  "text": "Tesista: Axel Fridman Director: Pablo Riera Resumen. Las señales de habla pueden estar contaminadas por ruidos que dificultan nuestra capacidad de comunicarnos, para resolver esta problemática existe la tarea de eliminación de ruido. En este trabajo se estudia un modelo basado en redes neuronales tomando como punto de partida el modelo HiFi-GAN. A diferencia de este trabajo, nosotros decidimos utilizar habla en español. Se presentan una serie de experimentos centrados en mejorar resultados, que abarcan aspectos diversos como: evaluación de tres funciones de pérdida alternativas, entrenamiento con diferentes conjuntos de datos, comparación de distintas arquitecturas de red generadora y la implementación de curriculum learning. Los resultados indican que una arquitectura reducida puede alcanzar resultados similares a los que se obtienen con la arquitectura original (para el conjunto de datos utilizados en este trabajo). También se utilizaron estrategias como decaimiento de la tasa de aprendizaje para optimizar el entrenamiento. Además, se estudian las predicciones del modelo bajo diversas condiciones de ruido y para diferentes grupos de hablantes. También se incluye el código del proyecto proporcionando una herramienta valiosa para futuros trabajos. Palabras claves: eliminación de ruido, habla, habla hispana, castellano, señales de voz, WaveNet, funciones de pérdida, Arquitecturas de red, curriculum learning, PostNet, tasa de aprendizaje, métricas Objetivas. Buenos Aires, 2023 Descargar PDF Exploración de la limpieza de ruido en habla hispana con redes neuronales",
+  "html_clean": "<p><strong>Tesista:</strong> Axel Fridman</p>\n<p><strong>Director:</strong> Pablo Riera</p>\n<p><strong>Resumen.</strong></p>\n<p>Las señales de habla pueden estar contaminadas por ruidos que dificultan nuestra capacidad de comunicarnos, para resolver esta problemática existe la tarea de eliminación de ruido. En este trabajo se estudia un modelo basado en redes neuronales tomando como punto de partida el modelo HiFi-GAN. A diferencia de este trabajo, nosotros decidimos utilizar habla en español. Se presentan una serie de experimentos centrados en mejorar resultados, que abarcan aspectos diversos como: evaluación de tres funciones de pérdida alternativas, entrenamiento con diferentes conjuntos de datos, comparación de distintas arquitecturas de red generadora y la implementación de curriculum learning. Los resultados indican que una arquitectura reducida puede alcanzar resultados similares a los que se obtienen con la arquitectura original (para el conjunto de datos utilizados en este trabajo). También se utilizaron estrategias como decaimiento de la tasa de aprendizaje para optimizar el entrenamiento. Además, se estudian las predicciones del modelo bajo diversas condiciones de ruido y para diferentes grupos de hablantes. También se incluye el código del proyecto proporcionando una herramienta valiosa para futuros trabajos.<br />\n<em><br />\nPalabras claves:</em> eliminación de ruido, habla, habla hispana, castellano, señales de voz, WaveNet, funciones de pérdida, Arquitecturas de red, curriculum learning, PostNet, tasa de aprendizaje, métricas Objetivas.</p>\n<p>Buenos Aires, 2023</p>\n<p><strong>Descargar PDF</strong><br />\n<a  class=\"download-link\" title=\"\" href=\"https://lcd.exactas.uba.ar/download/2582/?tmstv=1775083713\" rel=\"nofollow\" id=\"download-link-2582\" >\n\tExploración de la limpieza de ruido en habla hispana con redes neuronales</a>\n</p>\n<p>&nbsp;</p>",
+  "render_mode": "html_clean",
+  "attachments": [
+    {
+      "url": "https://lcd.exactas.uba.ar/download/2582/?tmstv=1775083713",
+      "label": "Descargar PDF",
+      "kind": "pdf",
+      "is_download_like": true
+    }
+  ],
+  "has_attachments": true,
+  "attachment_count": 1,
+  "outlinks": [
+    {
+      "url": "https://lcd.exactas.uba.ar/download/2582/?tmstv=1775083713",
+      "kind": "internal"
+    }
+  ],
+  "is_index_like": false,
+  "index_like_reason": null,
+  "content_hash": "sha256:bdb6adfc78c98926e65c376a708f29620d7b5e07cacb37df3faf216ab6f266d1",
+  "search_text": "Exploración de la limpieza de ruido en habla hispana con redes neuronales exploracion-de-la-limpieza-de-ruido-en-habla-hispana-con-redes-neuronales Tesista: Axel Fridman Director: Pablo Riera Resumen. Las señales de […] Tesista: Axel Fridman Director: Pablo Riera Resumen. Las señales de habla pueden estar contaminadas por ruidos que dificultan nuestra capacidad de comunicarnos, para resolver esta problemática existe la tarea de eliminación de ruido. En este trabajo se estudia un modelo basado en redes neuronales tomando como punto de partida el modelo HiFi-GAN. A diferencia de este trabajo, nosotros decidimos utilizar habla en español. Se presentan una serie de experimentos centrados en mejorar resultados, que abarcan aspectos diversos como: evaluación de tres funciones de pérdida alternativas, entrenamiento con diferentes conjuntos de datos, comparación de distintas arquitecturas de red generadora y la implementación de curriculum learning. Los resultados indican que una arquitectura reducida puede alcanzar resultados similares a los que se obtienen con la arquitectura original (para el conjunto de datos utilizados en este trabajo). También se utilizaron estrategias como decaimiento de la tasa de aprendizaje para optimizar el entrenamiento. Además, se estudian las predicciones del modelo bajo diversas condiciones de ruido y para diferentes grupos de hablantes. También se incluye el código del proyecto proporcionando una herramienta valiosa para futuros trabajos. Palabras claves: eliminación de ruido, habla, habla hispana, castellano, señales de voz, WaveNet, funciones de pérdida, Arquitecturas de red, curriculum learning, PostNet, tasa de aprendizaje, métricas Objetivas. Buenos Aires, 2023 Descargar PDF Exploración de la limpieza de ruido en habla hispana con redes neuronales"
+}

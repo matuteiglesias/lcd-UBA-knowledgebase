@@ -1,0 +1,30 @@
+{
+  "id": "post:1486",
+  "entity_type": "post",
+  "source_id": 1486,
+  "slug": "grupo-de-telegram-de-lcd",
+  "route_slug": "post--1486--grupo-de-telegram-de-lcd",
+  "title": "Grupo de Telegram de LCD",
+  "source_url": "https://lcd.exactas.uba.ar/grupo-de-telegram-de-lcd/",
+  "created_at": "2022-05-16T16:41:05",
+  "modified_at": "2022-05-16T19:19:02",
+  "sort_date": "2022-05-16T19:19:02",
+  "status": "publish",
+  "excerpt_plain": "Recuerden que hay un grupo de Telegram en el que […]",
+  "text": "Recuerden que hay un grupo de Telegram en el que los y las estudiantes de LCD debaten e intercambian ideas sobre la carrera. Pueden unirse haciendo click acá",
+  "html_clean": "<p>Recuerden que hay un grupo de Telegram en el que los y las estudiantes de LCD debaten e intercambian ideas sobre la carrera.</p>\n<p>Pueden unirse haciendo click <a href=\"https://t.me/+Ty15zMqvcRJkNzYx\">acá</a></p>",
+  "render_mode": "html_clean",
+  "attachments": [],
+  "has_attachments": false,
+  "attachment_count": 0,
+  "outlinks": [
+    {
+      "url": "https://t.me/+Ty15zMqvcRJkNzYx",
+      "kind": "external"
+    }
+  ],
+  "is_index_like": false,
+  "index_like_reason": null,
+  "content_hash": "sha256:abf71e792fba6f5a56bdb60cd590b7e87984d41a40fdb66f74c630c5b51db6da",
+  "search_text": "Grupo de Telegram de LCD grupo-de-telegram-de-lcd Recuerden que hay un grupo de Telegram en el que […] Recuerden que hay un grupo de Telegram en el que los y las estudiantes de LCD debaten e intercambian ideas sobre la carrera. Pueden unirse haciendo click acá"
+}

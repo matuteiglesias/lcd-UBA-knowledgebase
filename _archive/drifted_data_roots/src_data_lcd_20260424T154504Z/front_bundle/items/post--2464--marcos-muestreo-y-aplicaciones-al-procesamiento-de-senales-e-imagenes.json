@@ -1,0 +1,37 @@
+{
+  "id": "post:2464",
+  "entity_type": "post",
+  "source_id": 2464,
+  "slug": "marcos-muestreo-y-aplicaciones-al-procesamiento-de-senales-e-imagenes",
+  "route_slug": "post--2464--marcos-muestreo-y-aplicaciones-al-procesamiento-de-senales-e-imagenes",
+  "title": "Marcos, muestreo y aplicaciones al procesamiento de señales e imágenes",
+  "source_url": "https://lcd.exactas.uba.ar/marcos-muestreo-y-aplicaciones-al-procesamiento-de-senales-e-imagenes/",
+  "created_at": "2024-06-27T16:56:12",
+  "modified_at": "2024-06-27T16:56:12",
+  "sort_date": "2024-06-27T16:56:12",
+  "status": "publish",
+  "excerpt_plain": "Resumen. La teoría de muestreo (sampling theory) se centra en […]",
+  "text": "Resumen. La teoría de muestreo (sampling theory) se centra en la reconstrucción precisa de una señal continua a partir de sus muestras discretas. El teorema de muestreo de Nyquist-Shannon establece que una señal puede ser completamente reconstruida si se muestrea a una tasa que sea al menos el doble de su frecuencia máxima. Los marcos (frames), por otro lado, son una generalización de las bases ortogonales en espacios de Hilbert y permiten una representación redundante de señales, ofreciendo mayor flexibilidad y robustez frente al ruido y la pérdida de datos. En el procesamiento de señales, los marcos se utilizan para mejorar la estabilidad y eficiencia de la reconstrucción de señales, permitiendo una representación más eficiente y exacta en aplicaciones como la compresión de datos, la eliminación de ruido y la transmisión de información. La combinación de estas teorías permite el desarrollo de algoritmos robustos y eficientes para la manipulación y análisis de señales en diversas aplicaciones tecnológicas. Palabras clave. Muestreo, marcos, teorema de Shanon, wavelets. Conocimientos deseables. Análisis Avanzado. Espacios con producto interno (Hilbert).Transformada de Fourier. ¿Qué podría aprender quien realice esta tesis? – Fundamentos de la teoría del muestreo y marcos y aplicaciones al procesamiento de señales. Dirección de la tesis Cabrelli, Carlos Departamento de matemática, FCEyN Contacto: carlos.cabrelli@gmail.com Descargar PDF Marcos, muestreo y aplicaciones al procesamiento de señales e imágenes",
+  "html_clean": "<p><strong>Resumen.</strong> La teoría de muestreo (sampling theory) se centra en la reconstrucción precisa de una señal continua a partir de sus muestras discretas. El teorema de muestreo de Nyquist-Shannon establece que una señal puede ser completamente reconstruida si se muestrea a una tasa que sea al menos el doble de su frecuencia máxima. Los marcos (frames), por otro lado, son una generalización de las bases ortogonales en espacios de Hilbert y permiten una representación redundante de señales, ofreciendo mayor flexibilidad y robustez frente al ruido y la pérdida de datos. En el procesamiento de señales, los marcos se utilizan para mejorar la estabilidad y eficiencia de la reconstrucción de señales, permitiendo una representación más eficiente y exacta en aplicaciones como la compresión de datos, la eliminación de ruido y la transmisión de información. La combinación de estas teorías permite el desarrollo de algoritmos robustos y eficientes para la manipulación y análisis de señales en diversas aplicaciones tecnológicas.</p>\n<p><strong>Palabras clave.</strong> Muestreo, marcos, teorema de Shanon, wavelets.</p>\n<p><strong>Conocimientos deseables.</strong> Análisis Avanzado. Espacios con producto interno (Hilbert).Transformada de Fourier.</p>\n<p><strong>¿Qué podría aprender quien realice esta tesis? &#8211;</strong> Fundamentos de la teoría del muestreo y marcos y aplicaciones al procesamiento de señales.</p>\n<p><strong>Dirección de la tesis</strong><br />\nCabrelli, Carlos<br />\nDepartamento de matemática, FCEyN<br />\nContacto: carlos.cabrelli@gmail.com</p>\n<p><strong>Descargar PDF</strong><br />\n<a  class=\"download-link\" title=\"\" href=\"https://lcd.exactas.uba.ar/download/2443/?tmstv=1775083714\" rel=\"nofollow\" id=\"download-link-2443\" >\n\tMarcos, muestreo y aplicaciones al procesamiento de señales e imágenes</a>\n</p>",
+  "render_mode": "html_clean",
+  "attachments": [
+    {
+      "url": "https://lcd.exactas.uba.ar/download/2443/?tmstv=1775083714",
+      "label": "Descargar PDF",
+      "kind": "pdf",
+      "is_download_like": true
+    }
+  ],
+  "has_attachments": true,
+  "attachment_count": 1,
+  "outlinks": [
+    {
+      "url": "https://lcd.exactas.uba.ar/download/2443/?tmstv=1775083714",
+      "kind": "internal"
+    }
+  ],
+  "is_index_like": false,
+  "index_like_reason": null,
+  "content_hash": "sha256:c5addd1e9c82ab21c48c9a55d416ac4a1c3df155772c79a1aecbc7f2842558c3",
+  "search_text": "Marcos, muestreo y aplicaciones al procesamiento de señales e imágenes marcos-muestreo-y-aplicaciones-al-procesamiento-de-senales-e-imagenes Resumen. La teoría de muestreo (sampling theory) se centra en […] Resumen. La teoría de muestreo (sampling theory) se centra en la reconstrucción precisa de una señal continua a partir de sus muestras discretas. El teorema de muestreo de Nyquist-Shannon establece que una señal puede ser completamente reconstruida si se muestrea a una tasa que sea al menos el doble de su frecuencia máxima. Los marcos (frames), por otro lado, son una generalización de las bases ortogonales en espacios de Hilbert y permiten una representación redundante de señales, ofreciendo mayor flexibilidad y robustez frente al ruido y la pérdida de datos. En el procesamiento de señales, los marcos se utilizan para mejorar la estabilidad y eficiencia de la reconstrucción de señales, permitiendo una representación más eficiente y exacta en aplicaciones como la compresión de datos, la eliminación de ruido y la transmisión de información. La combinación de estas teorías permite el desarrollo de algoritmos robustos y eficientes para la manipulación y análisis de señales en diversas aplicaciones tecnológicas. Palabras clave. Muestreo, marcos, teorema de Shanon, wavelets. Conocimientos deseables. Análisis Avanzado. Espacios con producto interno (Hilbert).Transformada de Fourier. ¿Qué podría aprender quien realice esta tesis? – Fundamentos de la teoría del muestreo y marcos y aplicaciones al procesamiento de señales. Dirección de la tesis Cabrelli, Carlos Departamento de matemática, FCEyN Contacto: carlos.cabrelli@gmail.com Descargar PDF Marcos, muestreo y aplicaciones al procesamiento de señales e imágenes"
+}

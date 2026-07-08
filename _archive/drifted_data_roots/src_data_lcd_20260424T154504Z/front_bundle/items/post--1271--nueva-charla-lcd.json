@@ -1,0 +1,30 @@
+{
+  "id": "post:1271",
+  "entity_type": "post",
+  "source_id": 1271,
+  "slug": "nueva-charla-lcd",
+  "route_slug": "post--1271--nueva-charla-lcd",
+  "title": "Nueva charla LCD",
+  "source_url": "https://lcd.exactas.uba.ar/nueva-charla-lcd/",
+  "created_at": "2021-11-08T18:11:17",
+  "modified_at": "2021-11-08T18:11:17",
+  "sort_date": "2021-11-08T18:11:17",
+  "status": "publish",
+  "excerpt_plain": "El jueves 18 de noviembre, a las 15hs, tendremos la […]",
+  "text": "El jueves 18 de noviembre, a las 15hs, tendremos la próxima y última Charla sobre la Licenciatura en Ciencias de Datos, en esta oportunidad a cargo de Ana Bianco y Vanina Martínez. Como siempre, recomendamos a los/as interesados/as en saber más sobre la carrera o los/as que quieran despejar dudas antes de anotarse, que se sumen y participen de estas charlas ya que son muy interesantes y cargadas de información importante sobre la flamante carrera. Recuerden que para participar, deben inscribirse previamente en este link ¡Los/as esperamos!",
+  "html_clean": "<p>El jueves 18 de noviembre, a las 15hs, tendremos la próxima y última Charla sobre la Licenciatura en Ciencias de Datos, en esta oportunidad a cargo de Ana Bianco y Vanina Martínez.</p>\n<p>Como siempre, recomendamos a los/as interesados/as en saber más sobre la carrera o los/as que quieran despejar dudas antes de anotarse, que se sumen y participen de estas charlas ya que son muy interesantes y cargadas de información importante sobre la flamante carrera.</p>\n<p>Recuerden que para participar, deben inscribirse previamente en este <a href=\"https://forms.gle/e326G6CTe9wSG7LK6\">link</a></p>\n<p>¡Los/as esperamos!</p>",
+  "render_mode": "html_clean",
+  "attachments": [],
+  "has_attachments": false,
+  "attachment_count": 0,
+  "outlinks": [
+    {
+      "url": "https://forms.gle/e326G6CTe9wSG7LK6",
+      "kind": "external"
+    }
+  ],
+  "is_index_like": false,
+  "index_like_reason": null,
+  "content_hash": "sha256:fa40d346673c5faf368f7aa3ea8b1d5c83168f168d32670e2f6c7b3ed7c64bce",
+  "search_text": "Nueva charla LCD nueva-charla-lcd El jueves 18 de noviembre, a las 15hs, tendremos la […] El jueves 18 de noviembre, a las 15hs, tendremos la próxima y última Charla sobre la Licenciatura en Ciencias de Datos, en esta oportunidad a cargo de Ana Bianco y Vanina Martínez. Como siempre, recomendamos a los/as interesados/as en saber más sobre la carrera o los/as que quieran despejar dudas antes de anotarse, que se sumen y participen de estas charlas ya que son muy interesantes y cargadas de información importante sobre la flamante carrera. Recuerden que para participar, deben inscribirse previamente en este link ¡Los/as esperamos!"
+}

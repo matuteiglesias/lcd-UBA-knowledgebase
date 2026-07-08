@@ -1,0 +1,37 @@
+{
+  "id": "post:2268",
+  "entity_type": "post",
+  "source_id": 2268,
+  "slug": "aplicacion-de-machine-learning-al-pronostico-de-eventos-meteorologicos-de-alto-impacto-social",
+  "route_slug": "post--2268--aplicacion-de-machine-learning-al-pronostico-de-eventos-meteorologicos-de-alto-impacto-social",
+  "title": "Aplicación de machine learning al pronóstico de eventos meteorológicos de alto impacto social",
+  "source_url": "https://lcd.exactas.uba.ar/aplicacion-de-machine-learning-al-pronostico-de-eventos-meteorologicos-de-alto-impacto-social/",
+  "created_at": "2023-10-02T18:41:10",
+  "modified_at": "2023-10-02T18:41:10",
+  "sort_date": "2023-10-02T18:41:10",
+  "status": "publish",
+  "excerpt_plain": "Palabras clave. machine learning, modelado numerico de la atmósfera, asimilacion […]",
+  "text": "Palabras clave. machine learning, modelado numerico de la atmósfera, asimilacion de datos, uncertainty quantification Conocimientos deseables. programación en python, conocimiento basico de técnicas de machine learning (no excluyentes) ¿Qué podría aprender quien realice esta tesis? – En la tesis se aprenderan conocimientos basicos sobre tecnicas de sensoramiento remoto y modelado numérico de la atmósfera y a trabajar con los datos derivados de dichas técnicas. Dependiendo el tema elegido tambien se aprenderán nociones de cuantificación de incertidumbre en sistemas caóticos complejos y de asimilación de datos. Dirección de la tesis Ruiz, Juan Centro de Investigaciones del Mar y la Atmósfera Contacto: juan.j.ruiz.ar@gmail.com Descargar PDF Aplicación de machine learning al pronóstico de eventos meteorológicos de alto impacto social",
+  "html_clean": "<p><strong>Palabras clave.</strong> machine learning, modelado numerico de la atmósfera, asimilacion de datos, uncertainty quantification</p>\n<p><strong>Conocimientos deseables.</strong> programación en python, conocimiento basico de técnicas de machine learning (no excluyentes)</p>\n<p><strong>¿Qué podría aprender quien realice esta tesis? </strong>&#8211; En la tesis se aprenderan conocimientos basicos sobre tecnicas de sensoramiento remoto y modelado numérico de la atmósfera y a trabajar con los datos derivados de dichas técnicas. Dependiendo el tema elegido tambien se aprenderán nociones de cuantificación de incertidumbre en sistemas caóticos complejos y de asimilación de datos.</p>\n<p><strong>Dirección de la tesis</strong><br />\nRuiz, Juan<br />\nCentro de Investigaciones del Mar y la Atmósfera<br />\nContacto: juan.j.ruiz.ar@gmail.com</p>\n<p><strong>Descargar PDF<br />\n</strong><a  class=\"download-link\" title=\"\" href=\"https://lcd.exactas.uba.ar/download/2265/?tmstv=1775083716\" rel=\"nofollow\" id=\"download-link-2265\" >\n\tAplicación de machine learning al pronóstico de eventos meteorológicos de alto impacto social</a>\n</p>",
+  "render_mode": "html_clean",
+  "attachments": [
+    {
+      "url": "https://lcd.exactas.uba.ar/download/2265/?tmstv=1775083716",
+      "label": "Descargar PDF",
+      "kind": "pdf",
+      "is_download_like": true
+    }
+  ],
+  "has_attachments": true,
+  "attachment_count": 1,
+  "outlinks": [
+    {
+      "url": "https://lcd.exactas.uba.ar/download/2265/?tmstv=1775083716",
+      "kind": "internal"
+    }
+  ],
+  "is_index_like": false,
+  "index_like_reason": null,
+  "content_hash": "sha256:72f93a242ec03a1090c4ab44215d9171761ce3dd8d3171c2a7f930502b51d928",
+  "search_text": "Aplicación de machine learning al pronóstico de eventos meteorológicos de alto impacto social aplicacion-de-machine-learning-al-pronostico-de-eventos-meteorologicos-de-alto-impacto-social Palabras clave. machine learning, modelado numerico de la atmósfera, asimilacion […] Palabras clave. machine learning, modelado numerico de la atmósfera, asimilacion de datos, uncertainty quantification Conocimientos deseables. programación en python, conocimiento basico de técnicas de machine learning (no excluyentes) ¿Qué podría aprender quien realice esta tesis? – En la tesis se aprenderan conocimientos basicos sobre tecnicas de sensoramiento remoto y modelado numérico de la atmósfera y a trabajar con los datos derivados de dichas técnicas. Dependiendo el tema elegido tambien se aprenderán nociones de cuantificación de incertidumbre en sistemas caóticos complejos y de asimilación de datos. Dirección de la tesis Ruiz, Juan Centro de Investigaciones del Mar y la Atmósfera Contacto: juan.j.ruiz.ar@gmail.com Descargar PDF Aplicación de machine learning al pronóstico de eventos meteorológicos de alto impacto social"
+}

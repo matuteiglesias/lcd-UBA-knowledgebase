@@ -1,0 +1,30 @@
+{
+  "id": "post:2338",
+  "entity_type": "post",
+  "source_id": 2338,
+  "slug": "ciencia-de-datos-una-carrera-que-no-para-de-crecer-y-ya-tiene-sus-primeros-egresados-en-el-pais",
+  "route_slug": "post--2338--ciencia-de-datos-una-carrera-que-no-para-de-crecer-y-ya-tiene-sus-primeros-egresados-en-el-pais",
+  "title": "Ciencia de Datos: una carrera que no para de crecer y ya tiene sus primeros egresados en el país",
+  "source_url": "https://lcd.exactas.uba.ar/ciencia-de-datos-una-carrera-que-no-para-de-crecer-y-ya-tiene-sus-primeros-egresados-en-el-pais/",
+  "created_at": "2024-01-22T17:25:23",
+  "modified_at": "2024-01-22T17:25:59",
+  "sort_date": "2024-01-22T17:25:59",
+  "status": "publish",
+  "excerpt_plain": "Les compartimos la noticia sobre los primeros egresados de la […]",
+  "text": "Les compartimos la noticia sobre los primeros egresados de la carrera de la Licenciatura en Ciencias de Datos que publicó Telam: https://www.telam.com.ar/notas/202401/652170-ciencia-de-datos-argentina-carrera-universidades.html",
+  "html_clean": "<p>Les compartimos la noticia sobre los primeros egresados de la carrera de la Licenciatura en Ciencias de Datos que publicó Telam: <a href=\"https://www.telam.com.ar/notas/202401/652170-ciencia-de-datos-argentina-carrera-universidades.html\">https://www.telam.com.ar/notas/202401/652170-ciencia-de-datos-argentina-carrera-universidades.html</a></p>",
+  "render_mode": "html_clean",
+  "attachments": [],
+  "has_attachments": false,
+  "attachment_count": 0,
+  "outlinks": [
+    {
+      "url": "https://www.telam.com.ar/notas/202401/652170-ciencia-de-datos-argentina-carrera-universidades.html",
+      "kind": "external"
+    }
+  ],
+  "is_index_like": false,
+  "index_like_reason": null,
+  "content_hash": "sha256:9dd1f0acfc5031d318806bdd8b0dacde0b51d14e449a50d414f6814e20ca921a",
+  "search_text": "Ciencia de Datos: una carrera que no para de crecer y ya tiene sus primeros egresados en el país ciencia-de-datos-una-carrera-que-no-para-de-crecer-y-ya-tiene-sus-primeros-egresados-en-el-pais Les compartimos la noticia sobre los primeros egresados de la […] Les compartimos la noticia sobre los primeros egresados de la carrera de la Licenciatura en Ciencias de Datos que publicó Telam: https://www.telam.com.ar/notas/202401/652170-ciencia-de-datos-argentina-carrera-universidades.html"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "post:2350",
+  "entity_type": "post",
+  "source_id": 2350,
+  "slug": "analisis-de-movimientos-oculares-en-texto",
+  "route_slug": "post--2350--analisis-de-movimientos-oculares-en-texto",
+  "title": "Análisis de movimientos oculares en texto",
+  "source_url": "https://lcd.exactas.uba.ar/analisis-de-movimientos-oculares-en-texto/",
+  "created_at": "2024-02-01T19:42:29",
+  "modified_at": "2024-02-01T19:42:29",
+  "sort_date": "2024-02-01T19:42:29",
+  "status": "publish",
+  "excerpt_plain": "Resumen. Los movimientos oculares permiten acceder al foco de atención […]",
+  "text": "Resumen. Los movimientos oculares permiten acceder al foco de atención y los tiempos de procesamiento del cerebro en distintas tareas, como por ejemplo la lectura. Durante la misma, nuestros ojos recorren las palabras realizando sacadas (movimientos rápidos entre dos fijaciones) y fijaciones. Por otro lado, los modelos de procesamiento del lenguaje natural (NLP) han alcanzado rendimientos altos en tareas como predicción de la siguiente palabra. Se trabajará sobre un corpus de movimientos oculares en lectura grande recientemente recolectado por el grupo. Sobre el cual se propone, en primer lugar, validarlo reproduciendo los análisis previos que permiten vincular medidas de los movimientos oculares con medidas del texto a través de modelos lineales mixtos. En segundo lugar, relacionar estas medidas con el resultado de modelos de lenguaje implementados sobre el texto para predecir la palabra que sigue en base a un contexto. Palabras clave. Movimientos oculares. Lectura. Modelos lineales mixtos. Procesamiento del lenguaje natural. Conocimientos deseables. No se contemplan conocimientos específicos previos, pero si se espera que este en el último tramo de la carrera y tenga disponibilidad de tiempo para dedicarse a la tesis. ¿Qué podría aprender quien realice esta tesis? – Lx estudiante se sumará a un proyecto de investigación en desarrollo, se espera que aprenda a plantearse preguntar y encontrar soluciones para el análisis de datos adecuadas. Se trabajará con datos reales adquiridos en el laboratorio con la posibilidad de realizar nuevos experimentos (online). Por lo que se aprenderán contenidos de neurociencias cognitivas, análisis de datos (en particular modelos lineales mixtos) y modelos de lenguaje. Dirección de la tesis Kamienkowski, Juan Esteban Instituto de Ciencias de la Computación (FCEyN, UBA – CONICET) Contacto: juank@dc.uba.ar Descargar PDF Análisis de movimientos oculares en texto",
+  "html_clean": "<p><strong>Resumen.</strong> Los movimientos oculares permiten acceder al foco de atención y los tiempos de procesamiento del cerebro en distintas tareas, como por ejemplo la lectura. Durante la misma, nuestros ojos recorren las palabras realizando sacadas (movimientos rápidos entre dos fijaciones) y fijaciones. Por otro lado, los modelos de procesamiento del lenguaje natural (NLP) han alcanzado rendimientos altos en tareas como predicción de la siguiente palabra. Se trabajará sobre un corpus de movimientos oculares en lectura grande recientemente recolectado por el grupo. Sobre el cual se propone, en primer lugar, validarlo reproduciendo los análisis previos que permiten vincular medidas de los movimientos oculares con medidas del texto a través de modelos lineales mixtos. En segundo lugar, relacionar estas medidas con el resultado de modelos de lenguaje implementados sobre el texto para predecir la palabra que sigue en base a un contexto.</p>\n<p><strong>Palabras clave.</strong> Movimientos oculares. Lectura. Modelos lineales mixtos. Procesamiento del lenguaje natural.</p>\n<p><strong>Conocimientos deseables.</strong> No se contemplan conocimientos específicos previos, pero si se espera que este en el último tramo de la carrera y tenga disponibilidad de tiempo para dedicarse a la tesis.</p>\n<p><strong>¿Qué podría aprender quien realice esta tesis? &#8211;</strong> Lx estudiante se sumará a un proyecto de investigación en desarrollo, se espera que aprenda a plantearse preguntar y encontrar soluciones para el análisis de datos adecuadas. Se trabajará con datos reales adquiridos en el laboratorio con la posibilidad de realizar nuevos experimentos (online). Por lo que se aprenderán contenidos de neurociencias cognitivas, análisis de datos (en particular modelos lineales mixtos) y modelos de lenguaje.</p>\n<p><strong>Dirección de la tesis</strong><br />\nKamienkowski, Juan Esteban<br />\nInstituto de Ciencias de la Computación (FCEyN, UBA &#8211; CONICET)<br />\nContacto: juank@dc.uba.ar</p>\n<p><strong>Descargar PDF</strong><br />\n<a  class=\"download-link\" title=\"\" href=\"https://lcd.exactas.uba.ar/download/2347/?tmstv=1775083716\" rel=\"nofollow\" id=\"download-link-2347\" >\n\tAnálisis de movimientos oculares en texto</a>\n</p>",
+  "render_mode": "html_clean",
+  "attachments": [
+    {
+      "url": "https://lcd.exactas.uba.ar/download/2347/?tmstv=1775083716",
+      "label": "Descargar PDF",
+      "kind": "pdf",
+      "is_download_like": true
+    }
+  ],
+  "has_attachments": true,
+  "attachment_count": 1,
+  "outlinks": [
+    {
+      "url": "https://lcd.exactas.uba.ar/download/2347/?tmstv=1775083716",
+      "kind": "internal"
+    }
+  ],
+  "is_index_like": false,
+  "index_like_reason": null,
+  "content_hash": "sha256:f8af4ab0f4253dfe5f6db59714ee07c766eea32b45f7004ea9bb90f715c87767",
+  "search_text": "Análisis de movimientos oculares en texto analisis-de-movimientos-oculares-en-texto Resumen. Los movimientos oculares permiten acceder al foco de atención […] Resumen. Los movimientos oculares permiten acceder al foco de atención y los tiempos de procesamiento del cerebro en distintas tareas, como por ejemplo la lectura. Durante la misma, nuestros ojos recorren las palabras realizando sacadas (movimientos rápidos entre dos fijaciones) y fijaciones. Por otro lado, los modelos de procesamiento del lenguaje natural (NLP) han alcanzado rendimientos altos en tareas como predicción de la siguiente palabra. Se trabajará sobre un corpus de movimientos oculares en lectura grande recientemente recolectado por el grupo. Sobre el cual se propone, en primer lugar, validarlo reproduciendo los análisis previos que permiten vincular medidas de los movimientos oculares con medidas del texto a través de modelos lineales mixtos. En segundo lugar, relacionar estas medidas con el resultado de modelos de lenguaje implementados sobre el texto para predecir la palabra que sigue en base a un contexto. Palabras clave. Movimientos oculares. Lectura. Modelos lineales mixtos. Procesamiento del lenguaje natural. Conocimientos deseables. No se contemplan conocimientos específicos previos, pero si se espera que este en el último tramo de la carrera y tenga disponibilidad de tiempo para dedicarse a la tesis. ¿Qué podría aprender quien realice esta tesis? – Lx estudiante se sumará a un proyecto de investigación en desarrollo, se espera que aprenda a plantearse preguntar y encontrar soluciones para el análisis de datos adecuadas. Se trabajará con datos reales adquiridos en el laboratorio con la posibilidad de realizar nuevos experimentos (online). Por lo que se aprenderán contenidos de neurociencias cognitivas, análisis de datos (en particular modelos lineales mixtos) y modelos de lenguaje. Dirección de la tesis Kamienkowski, Juan Esteban Instituto de Ciencias de la Computación (FCEyN, UBA – CONICET) Contacto: juank@dc.uba.ar Descargar PDF Análisis de movimientos oculares en texto"
+}

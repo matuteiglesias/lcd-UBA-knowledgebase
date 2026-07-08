@@ -1,0 +1,37 @@
+{
+  "id": "post:2152",
+  "entity_type": "post",
+  "source_id": 2152,
+  "slug": "modelos-de-prediccion-del-abandono-universitario-en-argentina",
+  "route_slug": "post--2152--modelos-de-prediccion-del-abandono-universitario-en-argentina",
+  "title": "Modelos de predicción del abandono universitario en argentina",
+  "source_url": "https://lcd.exactas.uba.ar/modelos-de-prediccion-del-abandono-universitario-en-argentina/",
+  "created_at": "2023-08-29T15:25:00",
+  "modified_at": "2023-08-29T15:25:21",
+  "sort_date": "2023-08-29T15:25:21",
+  "status": "publish",
+  "excerpt_plain": "Resumen. En Argentina, se estima que en las universidades nacionales […]",
+  "text": "Resumen. En Argentina, se estima que en las universidades nacionales sólo el 12% (Período 2010-2016) de los estudiantes que ingresan se gradúa , muy por debajo de otros países de la región, como en Chile, en donde se gradúa alrededor del 57%. Entendemos que el abandono estudiantil es, tal vez, el factor individual más importante que explica este fenómeno. La Universidad Nacional de Hurlingham en Argentina (UNAHUR) ha estado desarrollando modelos de predicción de abandono utilizando técnicas de Aprendizaje Automático , con el objetivo de prevenir el abandono estudiantil de manera temprana. Estos modelos se basan en los datos del Sistema de Información Universitaria Guaraní. Una vez entrenados, son capaces de detectar estudiantes con alto riesgo de abandono, a la vez que permiten indagar en algunos de los motivos subyacentes. La identificación temprana de estudiantes en riesgo de abandono permite desarrollar intervenciones más eficaces. Palabras clave. Modelo de Predicción, Ingeniería de Atributos, Abandono Universitario, Aprendizaje Automático Conocimientos deseables. Técnicas de Aprendizaje Automático, Estadística ¿Qué podría aprender quien realice esta tesis? – Como se mide y se trata el problema del abandono universitario en Argentina. – Como se puede predecir el abandono antes de que ocurra -Desarrollar modelos de predicción en general (aprendizaje supervisado) a través de la metodología CRISP-DM. -Ingeniería de atributos. -Tratamiento de datos faltantes -Meticas para la evaluación de modelos -Variables latentes. Dirección de la tesis Pustilnik, Martin Universidad Nacional de Hurlingham Contacto: martin.pustilnik@unahur.edu.ar Descargar PDF Modelos de predicción del abandono universitario en argentina",
+  "html_clean": "<p><strong>Resumen.</strong> En Argentina, se estima que en las universidades nacionales sólo el 12% (Período 2010-2016) de los estudiantes que ingresan se gradúa , muy por debajo de otros países de la región, como en Chile, en donde se gradúa alrededor del 57%. Entendemos que el abandono estudiantil es, tal vez, el factor individual más importante que explica este fenómeno. La Universidad Nacional de Hurlingham en Argentina (UNAHUR) ha estado desarrollando modelos de predicción de abandono utilizando técnicas de Aprendizaje Automático , con el objetivo de prevenir el abandono estudiantil de manera temprana. Estos modelos se basan en los datos del Sistema de Información Universitaria Guaraní. Una vez entrenados, son capaces de detectar estudiantes con alto riesgo de abandono, a la vez que permiten indagar en algunos de los motivos subyacentes. La identificación temprana de estudiantes en riesgo de abandono permite desarrollar intervenciones más eficaces.</p>\n<p><strong>Palabras clave.</strong> Modelo de Predicción, Ingeniería de Atributos, Abandono Universitario, Aprendizaje Automático</p>\n<p><strong>Conocimientos deseables.</strong>Técnicas de Aprendizaje Automático, Estadística</p>\n<p><strong>¿Qué podría aprender quien realice esta tesis? </strong>&#8211; Como se mide y se trata el problema del abandono universitario en Argentina. &#8211; Como se puede predecir el abandono antes de que ocurra -Desarrollar modelos de predicción en general (aprendizaje supervisado) a través de la metodología CRISP-DM. -Ingeniería de atributos. -Tratamiento de datos faltantes -Meticas para la evaluación de modelos -Variables latentes.</p>\n<p><strong>Dirección de la tesis</strong><br />\nPustilnik, Martin<br />\nUniversidad Nacional de Hurlingham<br />\nContacto: martin.pustilnik@unahur.edu.ar</p>\n<p><strong>Descargar PDF<br />\n</strong><a  class=\"download-link\" title=\"\" href=\"https://lcd.exactas.uba.ar/download/2057/?tmstv=1775083717\" rel=\"nofollow\" id=\"download-link-2057\" >\n\tModelos de predicción del abandono universitario en argentina</a>\n</p>",
+  "render_mode": "html_clean",
+  "attachments": [
+    {
+      "url": "https://lcd.exactas.uba.ar/download/2057/?tmstv=1775083717",
+      "label": "Descargar PDF",
+      "kind": "pdf",
+      "is_download_like": true
+    }
+  ],
+  "has_attachments": true,
+  "attachment_count": 1,
+  "outlinks": [
+    {
+      "url": "https://lcd.exactas.uba.ar/download/2057/?tmstv=1775083717",
+      "kind": "internal"
+    }
+  ],
+  "is_index_like": false,
+  "index_like_reason": null,
+  "content_hash": "sha256:a218755f74563363b682918ce21bb9ab50b7ad1bafb41c69aee15c2a4f12de4f",
+  "search_text": "Modelos de predicción del abandono universitario en argentina modelos-de-prediccion-del-abandono-universitario-en-argentina Resumen. En Argentina, se estima que en las universidades nacionales […] Resumen. En Argentina, se estima que en las universidades nacionales sólo el 12% (Período 2010-2016) de los estudiantes que ingresan se gradúa , muy por debajo de otros países de la región, como en Chile, en donde se gradúa alrededor del 57%. Entendemos que el abandono estudiantil es, tal vez, el factor individual más importante que explica este fenómeno. La Universidad Nacional de Hurlingham en Argentina (UNAHUR) ha estado desarrollando modelos de predicción de abandono utilizando técnicas de Aprendizaje Automático , con el objetivo de prevenir el abandono estudiantil de manera temprana. Estos modelos se basan en los datos del Sistema de Información Universitaria Guaraní. Una vez entrenados, son capaces de detectar estudiantes con alto riesgo de abandono, a la vez que permiten indagar en algunos de los motivos subyacentes. La identificación temprana de estudiantes en riesgo de abandono permite desarrollar intervenciones más eficaces. Palabras clave. Modelo de Predicción, Ingeniería de Atributos, Abandono Universitario, Aprendizaje Automático Conocimientos deseables. Técnicas de Aprendizaje Automático, Estadística ¿Qué podría aprender quien realice esta tesis? – Como se mide y se trata el problema del abandono universitario en Argentina. – Como se puede predecir el abandono antes de que ocurra -Desarrollar modelos de predicción en general (aprendizaje supervisado) a través de la metodología CRISP-DM. -Ingeniería de atributos. -Tratamiento de datos faltantes -Meticas para la evaluación de modelos -Variables latentes. Dirección de la tesis Pustilnik, Martin Universidad Nacional de Hurlingham Contacto: martin.pustilnik@unahur.edu.ar Descargar PDF Modelos de predicción del abandono universitario en argentina"
+}

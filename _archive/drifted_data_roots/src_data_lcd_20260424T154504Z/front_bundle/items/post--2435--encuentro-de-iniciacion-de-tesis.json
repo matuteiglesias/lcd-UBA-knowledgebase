@@ -1,0 +1,30 @@
+{
+  "id": "post:2435",
+  "entity_type": "post",
+  "source_id": 2435,
+  "slug": "encuentro-de-iniciacion-de-tesis",
+  "route_slug": "post--2435--encuentro-de-iniciacion-de-tesis",
+  "title": "Encuentro de iniciación de tesis",
+  "source_url": "https://lcd.exactas.uba.ar/encuentro-de-iniciacion-de-tesis/",
+  "created_at": "2024-05-29T15:52:10",
+  "modified_at": "2024-05-29T15:52:17",
+  "sort_date": "2024-05-29T15:52:17",
+  "status": "publish",
+  "excerpt_plain": "Les compartimos el comunicado de la subcomisión de tesis de […]",
+  "text": "Les compartimos el comunicado de la subcomisión de tesis de datos: El miércoles 5/6 a las 10:00 hs (aula a confirmar) tendremos el encuentro de iniciación de tesis. Las personas interesadas en realizar su tesis el próximo cuatrimestre están especialmente invitadas a asistir. Les pedimos que por favor completen el siguiente formulario: https://forms.gle/sZ58mi6MBxUDGT4H7 ¡Les esperamos! Subcomisión de tesis.",
+  "html_clean": "<p>Les compartimos el comunicado de la subcomisión de tesis de datos:</p>\n<p>El miércoles 5/6 a las 10:00 hs (aula a confirmar) tendremos el encuentro de iniciación de tesis. Las personas interesadas en realizar su tesis el próximo cuatrimestre están especialmente invitadas a<br />\nasistir. Les pedimos que por favor completen el siguiente formulario: <a href=\"https://forms.gle/sZ58mi6MBxUDGT4H7\">https://forms.gle/sZ58mi6MBxUDGT4H7</a></p>\n<p>¡Les esperamos!</p>\n<p>Subcomisión de tesis.</p>",
+  "render_mode": "html_clean",
+  "attachments": [],
+  "has_attachments": false,
+  "attachment_count": 0,
+  "outlinks": [
+    {
+      "url": "https://forms.gle/sZ58mi6MBxUDGT4H7",
+      "kind": "external"
+    }
+  ],
+  "is_index_like": false,
+  "index_like_reason": null,
+  "content_hash": "sha256:a492f67840018285cf4e5ec6abfced9cd13285c1ae62d70b84dc991123d18b94",
+  "search_text": "Encuentro de iniciación de tesis encuentro-de-iniciacion-de-tesis Les compartimos el comunicado de la subcomisión de tesis de […] Les compartimos el comunicado de la subcomisión de tesis de datos: El miércoles 5/6 a las 10:00 hs (aula a confirmar) tendremos el encuentro de iniciación de tesis. Las personas interesadas en realizar su tesis el próximo cuatrimestre están especialmente invitadas a asistir. Les pedimos que por favor completen el siguiente formulario: https://forms.gle/sZ58mi6MBxUDGT4H7 ¡Les esperamos! Subcomisión de tesis."
+}

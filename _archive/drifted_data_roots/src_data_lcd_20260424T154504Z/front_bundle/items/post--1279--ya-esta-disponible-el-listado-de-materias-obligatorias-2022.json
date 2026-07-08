@@ -1,0 +1,30 @@
+{
+  "id": "post:1279",
+  "entity_type": "post",
+  "source_id": 1279,
+  "slug": "ya-esta-disponible-el-listado-de-materias-obligatorias-2022",
+  "route_slug": "post--1279--ya-esta-disponible-el-listado-de-materias-obligatorias-2022",
+  "title": "¡Ya está disponible el listado de Materias obligatorias 2022!",
+  "source_url": "https://lcd.exactas.uba.ar/ya-esta-disponible-el-listado-de-materias-obligatorias-2022/",
+  "created_at": "2021-11-19T00:29:49",
+  "modified_at": "2021-11-19T00:33:40",
+  "sort_date": "2021-11-19T00:33:40",
+  "status": "publish",
+  "excerpt_plain": "Ya podés ver el listado de las materias que se […]",
+  "text": "Ya podés ver el listado de las materias que se dictarán este verano y en los dos cuatrimestres de 2022. Entrá a este link para más info.",
+  "html_clean": "<p>Ya podés ver el listado de las materias que se dictarán este verano y en los dos cuatrimestres de 2022.</p>\n<p>Entrá a este <a href=\"https://lcd.exactas.uba.ar/materias-obligatorias/\">link</a> para más info.</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>",
+  "render_mode": "html_clean",
+  "attachments": [],
+  "has_attachments": false,
+  "attachment_count": 0,
+  "outlinks": [
+    {
+      "url": "https://lcd.exactas.uba.ar/materias-obligatorias/",
+      "kind": "internal"
+    }
+  ],
+  "is_index_like": false,
+  "index_like_reason": null,
+  "content_hash": "sha256:97b50b0ba12eb5abb7a754ed20e1abafabfe442ca924598337b30b6e1da5a542",
+  "search_text": "¡Ya está disponible el listado de Materias obligatorias 2022! ya-esta-disponible-el-listado-de-materias-obligatorias-2022 Ya podés ver el listado de las materias que se […] Ya podés ver el listado de las materias que se dictarán este verano y en los dos cuatrimestres de 2022. Entrá a este link para más info."
+}

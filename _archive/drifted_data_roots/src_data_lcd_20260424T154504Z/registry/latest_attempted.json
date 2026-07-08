@@ -1,0 +1,7 @@
+{
+  "run_id": "lcd_ingest_20260401T224842Z",
+  "status": "validation_failed",
+  "manifest_path": "data/lcd/runs/lcd_ingest_20260401T224842Z/registry/run_manifest.json",
+  "run_status_path": "data/lcd/runs/lcd_ingest_20260401T224842Z/registry/run_status.json",
+  "updated_at": "2026-04-01T22:48:42Z"
+}

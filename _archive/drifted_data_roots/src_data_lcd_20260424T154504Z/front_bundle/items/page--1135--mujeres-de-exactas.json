@@ -1,0 +1,30 @@
+{
+  "id": "page:1135",
+  "entity_type": "page",
+  "source_id": 1135,
+  "slug": "mujeres-de-exactas",
+  "route_slug": "page--1135--mujeres-de-exactas",
+  "title": "Mujeres de Exactas",
+  "source_url": "https://lcd.exactas.uba.ar/novedades/mujeres-de-exactas/",
+  "created_at": "2021-08-30T14:15:55",
+  "modified_at": "2021-08-30T14:15:55",
+  "sort_date": "2021-08-30T14:15:55",
+  "status": "publish",
+  "excerpt_plain": "Aprovechando que la carrera todavía no tiene graduadas/os y para […]",
+  "text": "Aprovechando que la carrera todavía no tiene graduadas/os y para mostrar cuán interdisciplinario y plural es su campo de aplicación – y a la vez visibilizar el rol protagónico de las mujeres en todo el espectro del campo científico – en estos videos entrevistamos graduadas de la facultad de distintas carreras (Computación, Física y Matemática) que en distintas instancias de su carrera profesional y académica trabajan en diversas ramas de lo que hoy se llama Ciencia de datos. Las entrevistadoras son estudiantes de las mismas carreras que trabajan como divulgadoras en la facultad. VER VIDEOS",
+  "html_clean": "",
+  "render_mode": "text_only",
+  "attachments": [],
+  "has_attachments": false,
+  "attachment_count": 0,
+  "outlinks": [
+    {
+      "url": "https://www.youtube.com/channel/UCAKNH_xZsBHu4fzxFBRqtsQ",
+      "kind": "external"
+    }
+  ],
+  "is_index_like": true,
+  "index_like_reason": "builder_heavy_page",
+  "content_hash": "sha256:5ded716557f28d44f683d61cec49407d5b169ad3550ce951c8359590a4e54655",
+  "search_text": "Mujeres de Exactas mujeres-de-exactas Aprovechando que la carrera todavía no tiene graduadas/os y para […] Aprovechando que la carrera todavía no tiene graduadas/os y para mostrar cuán interdisciplinario y plural es su campo de aplicación – y a la vez visibilizar el rol protagónico de las mujeres en todo el espectro del campo científico – en estos videos entrevistamos graduadas de la facultad de distintas carreras (Computación, Física y Matemática) que en distintas instancias de su carrera profesional y académica trabajan en diversas ramas de lo que hoy se llama Ciencia de datos. Las entrevistadoras son estudiantes de las mismas carreras que trabajan como divulgadoras en la facultad. VER VIDEOS"
+}

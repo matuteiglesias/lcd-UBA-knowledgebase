@@ -1,0 +1,35 @@
+{
+  "bundle_contract": "lcd_front_bundle.v1",
+  "generated_from": {
+    "run_id": "lcd_ingest_20260401T224842Z",
+    "run_status": "validation_failed",
+    "run_result": "fail",
+    "trusted": false,
+    "validation_ok": false,
+    "source_kind": "staging",
+    "source_page_path": "/home/matias/Documents/LCD_page/src/data/lcd/runs/lcd_ingest_20260401T224842Z/staging/page_doc.v1.jsonl",
+    "source_post_path": "/home/matias/Documents/LCD_page/src/data/lcd/runs/lcd_ingest_20260401T224842Z/staging/post_doc.v1.jsonl",
+    "run_manifest_path": "/home/matias/Documents/LCD_page/src/data/lcd/runs/lcd_ingest_20260401T224842Z/registry/run_manifest.json",
+    "run_status_path": "/home/matias/Documents/LCD_page/src/data/lcd/runs/lcd_ingest_20260401T224842Z/registry/run_status.json"
+  },
+  "source_counts": {
+    "page": 19,
+    "post": 200
+  },
+  "export_counts": {
+    "items_total": 219,
+    "pages": 19,
+    "posts": 200,
+    "index_like": 19,
+    "with_attachments": 62
+  },
+  "artifacts": {
+    "listing": "listing.json",
+    "search": "search.json",
+    "items_dir": "items"
+  },
+  "notes": [
+    "Frontend bundle exported from an explicit ingest run.",
+    "This bundle is designed for a dumb frontend: listing, search, and item detail are pre-shaped."
+  ]
+}

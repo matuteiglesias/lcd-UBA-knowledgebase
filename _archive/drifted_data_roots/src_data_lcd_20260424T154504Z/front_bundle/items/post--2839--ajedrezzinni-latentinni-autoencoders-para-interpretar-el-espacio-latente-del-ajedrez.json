@@ -1,0 +1,37 @@
+{
+  "id": "post:2839",
+  "entity_type": "post",
+  "source_id": 2839,
+  "slug": "ajedrezzinni-latentinni-autoencoders-para-interpretar-el-espacio-latente-del-ajedrez",
+  "route_slug": "post--2839--ajedrezzinni-latentinni-autoencoders-para-interpretar-el-espacio-latente-del-ajedrez",
+  "title": "Ajedrezzinni Latentinni: autoencoders para interpretar el espacio latente del ajedrez",
+  "source_url": "https://lcd.exactas.uba.ar/ajedrezzinni-latentinni-autoencoders-para-interpretar-el-espacio-latente-del-ajedrez/",
+  "created_at": "2025-09-08T20:38:52",
+  "modified_at": "2025-09-08T20:38:52",
+  "sort_date": "2025-09-08T20:38:52",
+  "status": "publish",
+  "excerpt_plain": "Tesista: Julián Garbulsky Director: Juan Pablo Pinasco Resumen. En este trabajo […]",
+  "text": "Tesista: Julián Garbulsky Director: Juan Pablo Pinasco Resumen. En este trabajo exploramos representaciones comprimidas de posiciones de ajedrez mediante autoencoders, una clase de redes neuronales no supervisadas. A partir de una base de datos pública de partidas de ajedrez, filtramos posiciones jugadas entre jugadores de alto nivel y las representamos en formato binario (usando una variante del bitboard). Entrenamos un autoencoder con el objetivo de reconstruir estas posiciones, y medimos la calidad de la reconstrucción tanto con el error cuadrático medio como con una métrica especı́fica del dominio que contabiliza cuántas casillas del tablero fueron mal reconstruidas. Para estudiar la interpretabilidad de las representaciones latentes, aplicamos análisis de componentes principales (PCA) y visualizamos cómo las aperturas de ajedrez, ası́ como ciertas estructuras como el enroque y los peones centrales, se reflejan en las primeras componentes principales. Encontramos que algunas de estas caracterı́sticas estratégicas o posicionales se correlacionan con direcciones particulares del espacio latente. Finalmente, evaluamos la robustez del autoencoder aplicándolo a posiciones significativamente distintas a las del entrenamiento, como las jugadas por principiantes o las generadas artificialmente mediante simetrı́as. En ambos casos, observamos un desempeño de reconstrucción menor, lo que sugiere que el modelo captura regularidades propias de partidas de nivel intermedio a alto. Palabras claves: Ajedrez, Autoencoders, Aprendizaje no supervisado, Representaciones latentes, PCA, Interpretabilidad, Reconstrucción. Buenos Aires, 2025 Descargar PDF Ajedrezzinni Latentinni: autoencoders para interpretar el espacio latente del ajedrez",
+  "html_clean": "<p><strong>Tesista:</strong> Julián Garbulsky</p>\n<p><strong>Director:</strong> Juan Pablo Pinasco</p>\n<p><strong><br />\nResumen.</strong></p>\n<p>En este trabajo exploramos representaciones comprimidas de posiciones de ajedrez mediante autoencoders, una clase de redes neuronales no supervisadas. A partir de una base de datos pública de partidas de ajedrez, filtramos posiciones jugadas entre jugadores de alto nivel y las representamos en formato binario (usando una variante del bitboard). Entrenamos un autoencoder con el objetivo de reconstruir estas posiciones, y medimos la calidad de la reconstrucción tanto con el error cuadrático medio como con una métrica especı́fica del dominio que contabiliza cuántas casillas del tablero fueron mal reconstruidas. Para estudiar la interpretabilidad de las representaciones latentes, aplicamos análisis de componentes principales (PCA) y visualizamos cómo las aperturas de ajedrez, ası́ como ciertas estructuras como el enroque y los peones centrales, se reflejan en las primeras componentes principales. Encontramos que algunas de estas caracterı́sticas estratégicas o posicionales se correlacionan con direcciones particulares del espacio latente. Finalmente, evaluamos la robustez del autoencoder aplicándolo a posiciones significativamente distintas a las del entrenamiento, como las jugadas por principiantes o las generadas artificialmente mediante simetrı́as. En ambos casos, observamos un desempeño de reconstrucción menor, lo que sugiere que el modelo captura regularidades propias de partidas de nivel intermedio a alto.</p>\n<p>Palabras claves: Ajedrez, Autoencoders, Aprendizaje no supervisado, Representaciones latentes, PCA, Interpretabilidad, Reconstrucción.</p>\n<p>Buenos Aires, 2025</p>\n<p><strong>Descargar PDF</strong><br />\n<a  class=\"download-link\" title=\"Version final_compressed\" href=\"https://lcd.exactas.uba.ar/download/2836/?tmstv=1775083711\" rel=\"nofollow\" id=\"download-link-2836\" >\n\tAjedrezzinni Latentinni: autoencoders para interpretar el espacio latente del ajedrez</a>\n</p>",
+  "render_mode": "html_clean",
+  "attachments": [
+    {
+      "url": "https://lcd.exactas.uba.ar/download/2836/?tmstv=1775083711",
+      "label": "Descargar PDF",
+      "kind": "pdf",
+      "is_download_like": true
+    }
+  ],
+  "has_attachments": true,
+  "attachment_count": 1,
+  "outlinks": [
+    {
+      "url": "https://lcd.exactas.uba.ar/download/2836/?tmstv=1775083711",
+      "kind": "internal"
+    }
+  ],
+  "is_index_like": false,
+  "index_like_reason": null,
+  "content_hash": "sha256:ac160a0ecaeb32a7074cfcd860373212b2e09757f862ef74c18a22b31bed5e49",
+  "search_text": "Ajedrezzinni Latentinni: autoencoders para interpretar el espacio latente del ajedrez ajedrezzinni-latentinni-autoencoders-para-interpretar-el-espacio-latente-del-ajedrez Tesista: Julián Garbulsky Director: Juan Pablo Pinasco Resumen. En este trabajo […] Tesista: Julián Garbulsky Director: Juan Pablo Pinasco Resumen. En este trabajo exploramos representaciones comprimidas de posiciones de ajedrez mediante autoencoders, una clase de redes neuronales no supervisadas. A partir de una base de datos pública de partidas de ajedrez, filtramos posiciones jugadas entre jugadores de alto nivel y las representamos en formato binario (usando una variante del bitboard). Entrenamos un autoencoder con el objetivo de reconstruir estas posiciones, y medimos la calidad de la reconstrucción tanto con el error cuadrático medio como con una métrica especı́fica del dominio que contabiliza cuántas casillas del tablero fueron mal reconstruidas. Para estudiar la interpretabilidad de las representaciones latentes, aplicamos análisis de componentes principales (PCA) y visualizamos cómo las aperturas de ajedrez, ası́ como ciertas estructuras como el enroque y los peones centrales, se reflejan en las primeras componentes principales. Encontramos que algunas de estas caracterı́sticas estratégicas o posicionales se correlacionan con direcciones particulares del espacio latente. Finalmente, evaluamos la robustez del autoencoder aplicándolo a posiciones significativamente distintas a las del entrenamiento, como las jugadas por principiantes o las generadas artificialmente mediante simetrı́as. En ambos casos, observamos un desempeño de reconstrucción menor, lo que sugiere que el modelo captura regularidades propias de partidas de nivel intermedio a alto. Palabras claves: Ajedrez, Autoencoders, Aprendizaje no supervisado, Representaciones latentes, PCA, Interpretabilidad, Reconstrucción. Buenos Aires, 2025 Descargar PDF Ajedrezzinni Latentinni: autoencoders para interpretar el espacio latente del ajedrez"
+}

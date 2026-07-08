@@ -1,0 +1,37 @@
+{
+  "id": "post:2565",
+  "entity_type": "post",
+  "source_id": 2565,
+  "slug": "2565-2",
+  "route_slug": "post--2565--2565-2",
+  "title": "Teoría de Búsqueda Óptima y Comportamiento Visual Humano",
+  "source_url": "https://lcd.exactas.uba.ar/2565-2/",
+  "created_at": "2024-09-02T21:10:52",
+  "modified_at": "2024-09-03T16:41:16",
+  "sort_date": "2024-09-03T16:41:16",
+  "status": "publish",
+  "excerpt_plain": "Resumen. Tesista: Rocco Di Tella Director: Gabriel Kreiman – Harvard […]",
+  "text": "Resumen. Tesista: Rocco Di Tella Director: Gabriel Kreiman – Harvard Brain Science Initiative Codirector: Enzo Tagliazucchi – DF, FCEyN, UBA Descargar PDF Sensibilidad y robustez de métodos de estimación de la eficacia metacognitiva",
+  "html_clean": "<p><strong>Resumen.</strong></p>\n<p><strong>Tesista: </strong>Rocco Di Tella</p>\n<p><strong>Director: </strong>Gabriel Kreiman &#8211; Harvard Brain Science Initiative<br />\n<strong>Codirector: </strong>Enzo Tagliazucchi &#8211; DF, FCEyN, UBA</p>\n<p><strong>Descargar PDF</strong><br />\n<a  class=\"download-link\" title=\"\" href=\"https://lcd.exactas.uba.ar/download/2198/?tmstv=1775083713\" rel=\"nofollow\" id=\"download-link-2198\" >\n\tSensibilidad y robustez de métodos de estimación de la eficacia metacognitiva</a>\n</p>",
+  "render_mode": "html_clean",
+  "attachments": [
+    {
+      "url": "https://lcd.exactas.uba.ar/download/2198/?tmstv=1775083713",
+      "label": "Descargar PDF",
+      "kind": "pdf",
+      "is_download_like": true
+    }
+  ],
+  "has_attachments": true,
+  "attachment_count": 1,
+  "outlinks": [
+    {
+      "url": "https://lcd.exactas.uba.ar/download/2198/?tmstv=1775083713",
+      "kind": "internal"
+    }
+  ],
+  "is_index_like": false,
+  "index_like_reason": null,
+  "content_hash": "sha256:34a364b657172f47b8ea516a33e46957b545584f681cc64a2b019e97bf6f63b3",
+  "search_text": "Teoría de Búsqueda Óptima y Comportamiento Visual Humano 2565-2 Resumen. Tesista: Rocco Di Tella Director: Gabriel Kreiman – Harvard […] Resumen. Tesista: Rocco Di Tella Director: Gabriel Kreiman – Harvard Brain Science Initiative Codirector: Enzo Tagliazucchi – DF, FCEyN, UBA Descargar PDF Sensibilidad y robustez de métodos de estimación de la eficacia metacognitiva"
+}

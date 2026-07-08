@@ -1,0 +1,666 @@
+{
+  "entity": "post",
+  "page": 1,
+  "per_page": 25,
+  "source_url": "https://lcd.exactas.uba.ar/wp-json/wp/v2/posts?page=1&per_page=25&_fields=id%2Cdate_gmt%2Cmodified_gmt%2Cslug%2Cstatus%2Ctype%2Clink%2Ctitle%2Ccontent%2Cexcerpt%2Cauthor%2Cfeatured_media%2Cparent%2Cmenu_order%2Ccategories%2Ctags",
+  "headers": {
+    "x-wp-total": "239",
+    "x-wp-totalpages": "10"
+  },
+  "items": [
+    {
+      "id": 2942,
+      "date_gmt": "2026-03-11T17:43:36",
+      "modified_gmt": "2026-03-11T17:44:41",
+      "slug": "ley-27-795-de-financiamiento-de-la-educacion-universitaria-y-la-recomposicion-del-salario-docente",
+      "status": "publish",
+      "type": "post",
+      "link": "https://lcd.exactas.uba.ar/ley-27-795-de-financiamiento-de-la-educacion-universitaria-y-la-recomposicion-del-salario-docente/",
+      "title": {
+        "rendered": "Ley 27.795 de Financiamiento de la Educaci\u00f3n Universitaria y la Recomposici\u00f3n del Salario Docente"
+      },
+      "content": {
+        "rendered": "<p>En el marco de las acciones vinculadas al reclamo por el cumplimiento de la Ley 27.795 de Financiamiento de la Educaci\u00f3n Universitaria y la Recomposici\u00f3n del Salario Docente, se recomienda a las y los estudiantes mantenerse atentos a las novedades que puedan comunicar los departamentos y las comisiones de las materias ante el inicio del primer cuatrimestre.</p>\n",
+        "protected": false
+      },
+      "excerpt": {
+        "rendered": "<p>En el marco de las acciones vinculadas al reclamo por  [&#8230;]</p>\n",
+        "protected": false
+      },
+      "author": 8,
+      "featured_media": 1900,
+      "categories": [
+        9
+      ],
+      "tags": []
+    },
+    {
+      "id": 2933,
+      "date_gmt": "2025-12-17T21:20:48",
+      "modified_gmt": "2025-12-17T21:20:48",
+      "slug": "causal-machine-learning-para-evaluacion-de-efectos-causales-heterogeneos",
+      "status": "publish",
+      "type": "post",
+      "link": "https://lcd.exactas.uba.ar/causal-machine-learning-para-evaluacion-de-efectos-causales-heterogeneos/",
+      "title": {
+        "rendered": "Causal Machine Learning para evaluaci\u00f3n de efectos causales heterog\u00e9neos"
+      },
+      "content": {
+        "rendered": "<p><strong>Tesista:</strong> Constanza de Galvagni</p>\n<p><strong>Director:</strong> Mat\u00edas L\u00f3pez-Rosenfeld<br />\n<strong>Codirector:</strong> Gustavo Landfried</p>\n<p><strong><br />\nResumen.</strong></p>\n<p>Esta tesis realiza una comparaci\u00f3n de modelos de aprendizaje autom\u00e1tico para la estimaci\u00f3n de efectos causales que var\u00edan entre individuos. La motivaci\u00f3n central consisti\u00f3 en extender los an\u00e1lisis del influyente art\u0131\u0301culo de Jennifer Hill \u201cBayesian Nonparametric Modeling for Causal Inference\u201d (2011) a un conjunto de modelos m\u00e1s modernos, que incluyen Bayesian Additive Regression Trees (BART), Causal Forest (CF) y Bayesian Causal Forest (BCF).<br />\nLa evaluaci\u00f3n de modelos se bas\u00f3 en el uso de datasets semi-sint\u00e9ticos, construidos a partir de covariables reales del estudio \u201cInfant Health and Development Program\u201d (IHDP). Siguiendo el enfoque de Hill, se simularon los resultados para crear escenarios controlados donde los efectos causales verdaderos eran conocidos. Se dise\u00f1aron diferentes tipos de superficies de respuesta, con el objetivo de evaluar efectos causales tanto homog\u00e9neos como heterog\u00e9neos. El rendimiento de los modelos se midi\u00f3 utilizando m\u00e9tricas como el error absoluto para el efecto promedio (ATE), el error cuadr\u00e1tico medio del efecto causal<br />\nindividual (ITE) y la cobertura de los intervalos de confianza estimados para los efectos causales individuales.<br />\nEn la estimaci\u00f3n del efecto causal promedio (ATE), todos los modelos alcanzaron un desempe\u00f1o satisfactorio, siendo BART el m\u00e1s destacado en todos los escenarios. En cambio, BCF mostr\u00f3 un rendimiento desigual, con buenos resultados en ciertas zonas del espacio de datos y un desempe\u00f1o deficiente en otras, mientras que CF present\u00f3 un poder predictivo limitado y un error superior al de los dem\u00e1s m\u00e9todos.<br />\nLa tesis concluye enfatizando que la evaluaci\u00f3n de modelos causales alternativos es un pre-rrequisito ineludible, tanto para la selecci\u00f3n de variables de control previa a la estimaci\u00f3n como para la toma de decisiones posterior. Se argumenta que la disciplina de la inferencia causal est\u00e1 actualmente limitada por el alto costo computacional de evaluar estas estructuras causales, y postula que su futuro depende del desarrollo de m\u00e9todos eficientes que permitan ponderar la probabilidad de diferentes modelos a la luz de la evidencia emp\u00edrica.</p>\n<p>Palabras clave: Inferencia Causal, Efectos Causales Heterog\u00e9neos, Machine Learning Causal, Bayesian Additive Regression Trees, Causal Forest, Bayesian Causal Forest, Dataset IHDP.</p>\n<p>Buenos Aires, 2025</p>\n<p><strong>Descargar PDF</strong><br />\n<a  data-e-Disable-Page-Transition=\"true\" class=\"download-link\" title=\"\" href=\"https://lcd.exactas.uba.ar/download/2929/?tmstv=1775083711\" rel=\"nofollow\" id=\"download-link-2929\" data-redirect=\"false\" >\n\tCausal Machine Learning para evaluaci\u00f3n de efectos causales heterog\u00e9neos</a>\n</p>\n",
+        "protected": false
+      },
+      "excerpt": {
+        "rendered": "<p>Tesista: Constanza de Galvagni Director: Mat\u00edas L\u00f3pez-Rosenfeld Codirector: Gustavo Landfried  [&#8230;]</p>\n",
+        "protected": false
+      },
+      "author": 8,
+      "featured_media": 0,
+      "categories": [
+        33
+      ],
+      "tags": []
+    },
+    {
+      "id": 2925,
+      "date_gmt": "2025-11-27T21:58:37",
+      "modified_gmt": "2025-11-27T21:58:37",
+      "slug": "encuentro-de-iniciacion-de-tesis-1-de-diciembre-15-hs",
+      "status": "publish",
+      "type": "post",
+      "link": "https://lcd.exactas.uba.ar/encuentro-de-iniciacion-de-tesis-1-de-diciembre-15-hs/",
+      "title": {
+        "rendered": "Encuentro de iniciaci\u00f3n de tesis &#8211; 1 de Diciembre 15 hs"
+      },
+      "content": {
+        "rendered": "<p>Quisi\u00e9ramos avisarles que el pr\u00f3ximo lunes 1 de Diciembre a las 15 hs. tendremos el encuentro de iniciaci\u00f3n de tesis en aula a confirmar.</p>\n<p>Las personas interesadas en realizar su tesis el pr\u00f3ximo cuatrimestre est\u00e1n especialmente convocadas.</p>\n<p>Saludos!</p>\n<p>Ana</p>\n",
+        "protected": false
+      },
+      "excerpt": {
+        "rendered": "<p>Quisi\u00e9ramos avisarles que el pr\u00f3ximo lunes 1 de Diciembre a  [&#8230;]</p>\n",
+        "protected": false
+      },
+      "author": 8,
+      "featured_media": 1900,
+      "categories": [
+        9
+      ],
+      "tags": []
+    },
+    {
+      "id": 2921,
+      "date_gmt": "2025-11-12T20:55:08",
+      "modified_gmt": "2025-11-12T20:55:08",
+      "slug": "datame-las-charlas-de-lcd-sebastian-ceria-lunes-17-11-16hs",
+      "status": "publish",
+      "type": "post",
+      "link": "https://lcd.exactas.uba.ar/datame-las-charlas-de-lcd-sebastian-ceria-lunes-17-11-16hs/",
+      "title": {
+        "rendered": "D\u00c1TAME! las charlas de LCD &#8211; Sebasti\u00e1n Ceria &#8211; Lunes 17/11 16hs."
+      },
+      "content": {
+        "rendered": "<p>PR\u00d3XIMO <strong>LUNES 17/11</strong> TENEMOS <strong>D\u00c1TAME!</strong></p>\n<p>El encuentro ser\u00e1 a las <strong>16 hs</strong>. en el <strong>aula 1402</strong>.</p>\n<p>La presentaci\u00f3n estar\u00e1 a cargo de <strong>Sebasti\u00e1n Ceria</strong> y el t\u00edtulo de la charla es: <strong>LA RIQUEZA DE LOS DATOS</strong></p>\n<p><strong>Sobre la charla</strong></p>\n<p>En un mundo donde m\u00e1s del 90% de la informaci\u00f3n existente fue generada en los \u00faltimos dos a\u00f1os, los datos se han convertido en la nueva fuente de riqueza. A diferencia del oro o el petr\u00f3leo, los datos se multiplican y transforman: generan m\u00e1s datos, impulsan modelos de inteligencia artificial y modelos anal\u00edticos y redefinen nuestras econom\u00edas, instituciones y decisiones.</p>\n<p>En esta charla propongo una reflexi\u00f3n sobre el verdadero valor de los datos: de d\u00f3nde provienen, a qui\u00e9n pertenecen y c\u00f3mo se convierten en conocimiento &#8211;o en poder&#8211;. Vamos a explorar c\u00f3mo proteger los datos y su pertenencia, asegur\u00e1ndonos que la riqueza que se genere pueda ser aprovechada por todos.</p>\n<p><strong>Sobre el orador</strong></p>\n<p>Sebasti\u00e1n Ceria es presidente de Fundar, un think tank independiente dedicado al estudio y dise\u00f1o de pol\u00edticas p\u00fablicas orientadas al desarrollo sostenible e inclusivo de la Argentina. Licenciado en Matem\u00e1ticas por la Universidad de Buenos Aires y doctor en Matem\u00e1tica Aplicada por la Universidad Carnegie Mellon, ha recibido adem\u00e1s el Doctorado Honoris Causa de la Universidad de Buenos Aires. Su<br />\ntrayectoria combina la investigaci\u00f3n acad\u00e9mica, el liderazgo empresarial y el compromiso social, impulsando la innovaci\u00f3n cient\u00edfica y tecnol\u00f3gica al servicio del desarrollo.</p>\n<p>Actualmente es el m\u00e1ximo accionista del Real Racing Club de Santander, miembro de su Consejo de Administraci\u00f3n y presidente de la Fundaci\u00f3n Real Racing Club, desde donde promueve iniciativas que integran deporte, educaci\u00f3n y sostenibilidad. Anteriormente fue profesor en la Columbia Business School y fundador de Axioma en 1998, empresa pionera en modelos matem\u00e1ticos para la gesti\u00f3n de portafolios y control de riesgo. Axioma fue adquirida en el 2019 por Deutsche B\u00f6rse para crear Qontigo, donde ejerci\u00f3 como CEO hasta 2023. Es miembro de la Academia Nacional de Ingenier\u00eda de Estados Unidos y ha sido reconocido con el Career Award de la National Science Foundation.</p>\n<p>Consultas: info.lcd@exactas.uba.ar</p>\n<p><strong>Sobre \u00a1D\u00c1TAME!</strong></p>\n<p>Este ciclo de charlas busca simult\u00e1neamente</p>\n<p>&#8211; Ser un lugar de encuentro entre todos/as los/as que nos sentimos cercanos a LCD ya sea por ser estudiantes de la carrera o carrera cercanas, docentes, investigadores/as interesados/as o simplemente amigos/as de LCD.</p>\n<p>&#8211; Ofrecer a estudiantes de la carrera un panorama amplio de posibles caminos que puede recorrer un/a especialista en ciencias de datos.</p>\n<p>&#8211; Exponer a estudiantes de LCD a importantes referentes de la disciplina que trabajan en diversos \u00e1mbitos (investigaci\u00f3n cient\u00edfica, empresas, organismos estatales, ONGs, etc. )</p>\n<p>&#8211; Aprender un mont\u00f3n de cosas sobre datos. Qu\u00e9 tipo de problemas se pueden resolver con ellos y cu\u00e1les no, qu\u00e9 precauciones debemos tener, qu\u00e9 desaf\u00edos afronta la disciplina y mucho m\u00e1s.</p>\n<p>&#8211; Evidenciar la diversidad de disciplinas que confluyen en esta carrera y experimentar c\u00f3mo interact\u00faan.</p>\n<p>&#8211; Compartir un buen rato, una vez por mes.</p>\n<p>Est\u00e1 destinado principalmente a estudiantes de la carrera, pero todas/os somos bienvenidas/os.</p>\n<p>Habitualmente, nos juntamos el 3er. viernes de cada mes a las 16hs., excepto en ocasiones especiales.</p>\n<p>\u00a1Las y los esperamos!</p>\n<p>Pablo y Ana</p>\n",
+        "protected": false
+      },
+      "excerpt": {
+        "rendered": "<p>PR\u00d3XIMO LUNES 17/11 TENEMOS D\u00c1TAME! El encuentro ser\u00e1 a las  [&#8230;]</p>\n",
+        "protected": false
+      },
+      "author": 8,
+      "featured_media": 2922,
+      "categories": [
+        13,
+        9
+      ],
+      "tags": []
+    },
+    {
+      "id": 2910,
+      "date_gmt": "2025-10-28T17:26:21",
+      "modified_gmt": "2025-10-28T17:27:26",
+      "slug": "datame-las-charlas-de-lcd-matthieu-jonckheere-jueves-30-10-16hs",
+      "status": "publish",
+      "type": "post",
+      "link": "https://lcd.exactas.uba.ar/datame-las-charlas-de-lcd-matthieu-jonckheere-jueves-30-10-16hs/",
+      "title": {
+        "rendered": "D\u00c1TAME! las charlas de LCD &#8211; Matthieu Jonckheere &#8211; Jueves 30/10 16hs."
+      },
+      "content": {
+        "rendered": "<p>ESTE <strong>JUEVES 30/10</strong> TENEMOS <strong>D\u00c1TAME!</strong></p>\n<p>El encuentro ser\u00e1 a las <strong>16 hs.</strong> en el <strong>aula 1402</strong>.</p>\n<p>La presentaci\u00f3n estar\u00e1 a cargo de Matthieu Jonckheere y el t\u00edtulo de la charla es: <strong>Las oportunidades de los datos escasos</strong></p>\n<p><strong>Sobre la charla</strong></p>\n<p>A partir de experiencias recientes en proyectos acad\u00e9micos e industriales, analizar\u00e9 la posibilidad de replantear el desaf\u00edo de la escasez de datos no como una mera limitaci\u00f3n, sino como un catalizador<br />\npara la innovaci\u00f3n metodol\u00f3gica. Al ir m\u00e1s all\u00e1 de los paradigmas intensivos en datos, se puede explorar un modelado robusto en contextos donde las muestras son limitadas, costosas o confidenciales.</p>\n<p><strong>Sobre el orador</strong></p>\n<p>Matthieu Jonckheere se doctor\u00f3 en matem\u00e1tica aplicada en la Escuela Polit\u00e9cnica de Par\u00eds en 2005. Posteriormente, realiz\u00f3 un posdoctorado en el CWI (\u00c1msterdam) y se convirti\u00f3 en profesor asistente en la<br />\nUniversidad Tecnol\u00f3gica de Eindhoven. Fue investigador del Conicet y luego profesor en la Universidad de Buenos Aires de 2010 a 2019. Tambi\u00e9n fue profesor invitado en DataIA (Par\u00eds) en 2021. Desde 2021, es Director de Investigaci\u00f3n y del departamento RISC en LAAS, CNRS (Toulouse). Recibi\u00f3 una beca de excelencia del Pa\u00eds Vasco en 2015. Tambi\u00e9n es cofundador y fue director cient\u00edfico de dos startups especializadas en aprendizaje autom\u00e1tico. Su trabajo acad\u00e9mico se centra en teor\u00eda de probabilidades, la evaluaci\u00f3n del rendimiento de los sistemas de informaci\u00f3n y comunicaci\u00f3n, as\u00ed como en aprendizaje no supervisado y por refuerzos.</p>\n<p>Consultas: <a href=\"mailto:info.lcd@exactas.uba.ar\" target=\"_blank\" rel=\"noopener noreferrer\">info.lcd@exactas.uba.ar</a></p>\n<p><strong>Sobre \u00a1D\u00c1TAME!</strong></p>\n<p>Este ciclo de charlas busca simult\u00e1neamente</p>\n<p>&#8211; Ser un lugar de encuentro entre todos/as los/as que nos sentimos cercanos a LCD ya sea por ser estudiantes de la carrera o carrera cercanas, docentes, investigadores/as interesados/as o simplemente amigos/as de LCD.</p>\n<p>&#8211; Ofrecer a estudiantes de la carrera un panorama amplio de posibles caminos que puede recorrer un/a especialista en ciencias de datos.</p>\n<p>&#8211; Exponer a estudiantes de LCD a importantes referentes de la disciplina que trabajan en diversos \u00e1mbitos (investigaci\u00f3n cient\u00edfica, empresas, organismos estatales, ONGs, etc. )</p>\n<p>&#8211; Aprender un mont\u00f3n de cosas sobre datos. Qu\u00e9 tipo de problemas se pueden resolver con ellos y cu\u00e1les no, qu\u00e9 precauciones debemos tener, qu\u00e9 desaf\u00edos afronta la disciplina y mucho m\u00e1s.</p>\n<p>&#8211; Evidenciar la diversidad de disciplinas que confluyen en esta carrera y experimentar c\u00f3mo interact\u00faan.</p>\n<p>&#8211; Compartir un buen rato, una vez por mes.</p>\n<p>Est\u00e1 destinado principalmente a estudiantes de la carrera, pero todas/os somos bienvenidas/os.</p>\n<p>Habitualmente, nos juntamos el 3er. viernes de cada mes a las 16hs., excepto en ocasiones especiales.</p>\n<p>\u00a1Las y los esperamos!</p>\n<p>Pablo y Ana</p>\n",
+        "protected": false
+      },
+      "excerpt": {
+        "rendered": "<p>ESTE JUEVES 30/10 TENEMOS D\u00c1TAME! El encuentro ser\u00e1 a las  [&#8230;]</p>\n",
+        "protected": false
+      },
+      "author": 8,
+      "featured_media": 2911,
+      "categories": [
+        13,
+        9
+      ],
+      "tags": []
+    },
+    {
+      "id": 2900,
+      "date_gmt": "2025-09-16T17:55:43",
+      "modified_gmt": "2025-09-16T17:55:43",
+      "slug": "datame-las-charlas-de-lcd-ximena-fernandez-jueves-18-09-16hs",
+      "status": "publish",
+      "type": "post",
+      "link": "https://lcd.exactas.uba.ar/datame-las-charlas-de-lcd-ximena-fernandez-jueves-18-09-16hs/",
+      "title": {
+        "rendered": "D\u00c1TAME! las charlas de LCD &#8211; Ximena Fernandez &#8211; Jueves 18/09 16hs."
+      },
+      "content": {
+        "rendered": "<p>Este <strong>Jueves 18/09</strong> tenemos <strong>D\u00c1TAME</strong>!</p>\n<p>El encuentro ser\u00e1 a las <strong>16 hs</strong>. en el <strong>aula 1402</strong>.</p>\n<p>La presentaci\u00f3n estar\u00e1 a cargo de <strong>Ximena Fernandez</strong> y el t\u00edtulo de la charla es: <strong>\u00bfSe puede escuchar la forma de una canci\u00f3n?</strong></p>\n<p><strong>Sobre la charla</strong></p>\n<p>\u00bfAlguna vez te preguntaste c\u00f3mo funcionan las apps de reconocimiento de m\u00fasica como Shazam, o por qu\u00e9 a veces fallan? \u00bfPueden la geometr\u00eda y la topolog\u00eda algebraica mejorar los algoritmos actuales de identificaci\u00f3n de audio? En esta charla voy a contar una colaboraci\u00f3n reciente con Spotify, donde aplicamos t\u00e9cnicas de an\u00e1lisis topol\u00f3gico de datos a se\u00f1ales de audio para identificar canciones con distorsiones, superando las limitaciones de Shazam.</p>\n<p><strong>Sobre la oradora</strong></p>\n<p>Ximena es matem\u00e1tica e investiga fundamentos y aplicaciones de la topolog\u00eda algebraica al an\u00e1lisis de datos, en \u00e1reas que van desde neurociencia a sistemas din\u00e1micos. Sus art\u00edculos aparecieron en revistas<br />\ncomo _Transactions of the AMS_, _Journal of Machine Learning Research_ y _SIAM Journal on Mathematics of Data Science_. Se doctor\u00f3 en la UBA, fue investigadora en las universidades de Swansea, Durham y Oxford (Reino Unido), y tambi\u00e9n trabaj\u00f3 en la industria como data scientist en CAMMESA y OLX. Actualmente es profesora en City University of London. Cuando no hace matem\u00e1ticas, le gusta bailar swing y correr.</p>\n<p>Consultas: <a href=\"mailto:info.lcd@exactas.uba.ar\" target=\"_blank\" rel=\"noopener noreferrer\">info.lcd@exactas.uba.ar</a></p>\n<p><strong>Sobre \u00a1D\u00c1TAME!</strong></p>\n<p>Este ciclo de charlas busca simult\u00e1neamente</p>\n<p>&#8211; Ser un lugar de encuentro entre todos/as los/as que nos sentimos cercanos a LCD ya sea por ser estudiantes de la carrera o carrera cercanas, docentes, investigadores/as interesados/as o simplemente amigos/as de LCD.</p>\n<p>&#8211; Ofrecer a estudiantes de la carrera un panorama amplio de posibles caminos que puede recorrer un/a especialista en ciencias de datos.</p>\n<p>&#8211; Exponer a estudiantes de LCD a importantes referentes de la disciplina que trabajan en diversos \u00e1mbitos (investigaci\u00f3n cient\u00edfica, empresas, organismos estatales, ONGs, etc. )</p>\n<p>&#8211; Aprender un mont\u00f3n de cosas sobre datos. Qu\u00e9 tipo de problemas se pueden resolver con ellos y cu\u00e1les no, qu\u00e9 precauciones debemos tener, qu\u00e9 desaf\u00edos afronta la disciplina y mucho m\u00e1s.</p>\n<p>&#8211; Evidenciar la diversidad de disciplinas que confluyen en esta carrera y experimentar c\u00f3mo interact\u00faan.</p>\n<p>&#8211; Compartir un buen rato, una vez por mes.</p>\n<p>Est\u00e1 destinado principalmente a estudiantes de la carrera, pero todas/os somos bienvenidas/os.</p>\n<p>Habitualmente, nos juntamos el 3er. viernes de cada mes a las 16hs., excepto en ocasiones especiales.</p>\n<p>\u00a1Las y los esperamos!</p>\n<p>Pablo y Ana</p>\n",
+        "protected": false
+      },
+      "excerpt": {
+        "rendered": "<p>Este Jueves 18/09 tenemos D\u00c1TAME! El encuentro ser\u00e1 a las  [&#8230;]</p>\n",
+        "protected": false
+      },
+      "author": 8,
+      "featured_media": 2901,
+      "categories": [
+        13,
+        9
+      ],
+      "tags": []
+    },
+    {
+      "id": 2872,
+      "date_gmt": "2025-09-11T18:58:34",
+      "modified_gmt": "2025-09-11T18:58:34",
+      "slug": "invitar-a-participar-en-el-concurso-contar-con-datos",
+      "status": "publish",
+      "type": "post",
+      "link": "https://lcd.exactas.uba.ar/invitar-a-participar-en-el-concurso-contar-con-datos/",
+      "title": {
+        "rendered": "Invitaci\u00f3n a participar en el concurso Contar con Datos"
+      },
+      "content": {
+        "rendered": "<p>Queremos invitarlos a participar en el concurso <strong>Contar con Datos</strong>, organizado por el\u00a0<strong><a href=\"https://udesa.edu.ar/data-science-lab\" data-saferedirecturl=\"https://www.google.com/url?q=https://udesa.edu.ar/data-science-lab&amp;source=gmail&amp;ust=1757695309670000&amp;usg=AOvVaw2ENdY7Mt3vUbeJJVT7x9Jw\">Data Science Lab</a>\u00a0de UdeSA</strong>. \u00a1Pueden postular sus proyectos hasta el\u00a0<strong>15 de octubre</strong>!</p>\n<p>Es una excelente oportunidad para\u00a0dar visibilidad a sus trabajos\u00a0y\u00a0demostrar sus habilidades en visualizaci\u00f3n de datos.</p>\n<p>El concurso es de alcance nacional y tiene muy buenos premios!!</p>\n<p>Les<strong>\u00a0</strong><b><a href=\"https://udesa.edu.ar/contar-con-datos\" data-saferedirecturl=\"https://www.google.com/url?q=https://udesa.edu.ar/contar-con-datos&amp;source=gmail&amp;ust=1757695309670000&amp;usg=AOvVaw2yfLoX70M7t5Nf2KJYucxD\">compartimos la Web del Concurso</a></b></p>\n",
+        "protected": false
+      },
+      "excerpt": {
+        "rendered": "<p>Queremos invitarlos a participar en el concurso Contar con Datos,  [&#8230;]</p>\n",
+        "protected": false
+      },
+      "author": 8,
+      "featured_media": 2873,
+      "categories": [
+        9
+      ],
+      "tags": []
+    },
+    {
+      "id": 2870,
+      "date_gmt": "2025-09-08T21:24:14",
+      "modified_gmt": "2025-09-08T21:24:14",
+      "slug": "modelos-de-programacion-lineal-entera-para-problemas-de-asignacion-de-turnos-con-condiciones-de-estabilidad",
+      "status": "publish",
+      "type": "post",
+      "link": "https://lcd.exactas.uba.ar/modelos-de-programacion-lineal-entera-para-problemas-de-asignacion-de-turnos-con-condiciones-de-estabilidad/",
+      "title": {
+        "rendered": "Modelos de programaci\u00f3n lineal entera para problemas de asignaci\u00f3n de turnos con condiciones de estabilidad"
+      },
+      "content": {
+        "rendered": "<p><strong>Tesista:</strong> Dafne Sol Yudcovsky</p>\n<p><strong>Director:</strong> Javier Marenco<br />\n<strong>Codirector:</strong> Esteban Lanzarotti</p>\n<p><strong><br />\nResumen.</strong></p>\n<p>Dentro del campo de la Optimizaci\u00f3n, la Programaci\u00f3n Lineal Entera (PLE) se destaca por su capacidad para modelar problemas de decisi\u00f3n en los que las variables deben asumir valores enteros, cuya flexibilidad expresiva puede reflejar restricciones inherentes a muchos sistemas de la vida real. Esta rama de la programaci\u00f3n matem\u00e1tica permite abordar una amplia variedad de aplicaciones en log\u00edstica, como la planificaci\u00f3n de turnos y horarios. Como caso de estudio se tiene una Estaci\u00f3n de Servicio que busca mejorar su atenci\u00f3n al cliente priorizando la rentabilidad y la estabilidad en el inicio de los turnos de los empleados. En esta tesis de licenciatura se buscar\u00e1 encontrar un cronograma de empleados que permita satisfacer estas cuestiones. A partir de este objetivo, se presentar\u00e1n distintas variaciones de un modelo matem\u00e1tico cuya formulaci\u00f3n cubra las necesidades del problema a resolver y luego se proceder\u00e1 con una experimentaci\u00f3n computacional para evaluar la performance de cada variaci\u00f3n. Estas variaciones se corresponden con activar o desactivar una restricci\u00f3n el\u00e1stica dentro del modelo PLE. Por \u00faltimo, se realizar\u00e1 un an\u00e1lisis de resultados a partir de distintos par\u00e1metros comparativos entre los modelos promedio de cada variaci\u00f3n.</p>\n<p>Palabras claves: Programaci\u00f3n Lineal Entera, Optimizaci\u00f3n, Asignaci\u00f3n de Turnos, Rostering, solver, Restricciones Deseables/El\u00e1sticas, Predicci\u00f3n de Arribos de clientes, Modelo PLE.</p>\n<p>Buenos Aires, 2025</p>\n<p><strong>Descargar PDF</strong><br />\n<a  data-e-Disable-Page-Transition=\"true\" class=\"download-link\" title=\"\" href=\"https://lcd.exactas.uba.ar/download/2867/?tmstv=1775083711\" rel=\"nofollow\" id=\"download-link-2867\" data-redirect=\"false\" >\n\tModelos de programaci\u00f3n lineal entera para problemas de asignaci\u00f3n de turnos con condiciones de estabilidad</a>\n</p>\n",
+        "protected": false
+      },
+      "excerpt": {
+        "rendered": "<p>Tesista: Dafne Sol Yudcovsky Director: Javier Marenco Codirector: Esteban Lanzarotti  [&#8230;]</p>\n",
+        "protected": false
+      },
+      "author": 8,
+      "featured_media": 0,
+      "categories": [
+        33
+      ],
+      "tags": []
+    },
+    {
+      "id": 2864,
+      "date_gmt": "2025-09-08T21:20:45",
+      "modified_gmt": "2025-09-08T21:20:45",
+      "slug": "clasificacion-de-especies-en-bosques-utilizando-imagenes-capturadas-con-vehiculos-aereos-no-tripulados-y-aprendizaje-profundo",
+      "status": "publish",
+      "type": "post",
+      "link": "https://lcd.exactas.uba.ar/clasificacion-de-especies-en-bosques-utilizando-imagenes-capturadas-con-vehiculos-aereos-no-tripulados-y-aprendizaje-profundo/",
+      "title": {
+        "rendered": "Clasificaci\u00f3n de especies en bosques utilizando im\u00e1genes capturadas con veh\u00edculos a\u00e9reos no tripulados y aprendizaje profundo"
+      },
+      "content": {
+        "rendered": "<p><strong>Tesista:</strong> Catherine Sophie Louys Sanso</p>\n<p><strong>Director:</strong> Dr. Pablo De Crist\u00f3foris<br />\n<strong>Codirector:</strong> Ing. Francisco Raverta Capua</p>\n<p><strong><br />\nResumen.</strong></p>\n<p>En este trabajo se aborda el desaf\u00edo de clasificar especies arb\u00f3reas a partir de im\u00e1genes a\u00e9reas RGB mediante t\u00e9cnicas de aprendizaje profundo. El objetivo principal fue realizar segmentaci\u00f3n sem\u00e1ntica de copas de \u00e1rboles utilizando tecnolog\u00eda accesible y de bajo costo, como drones equipados con c\u00e1maras RGB, enfrentando limitaciones propias de este tipo de datos, como la variabilidad en la iluminaci\u00f3n, la oclusi\u00f3n parcial de copas y la similitud fenot\u00edpica entre especies. Como parte de esta tesis se replic\u00f3 el trabajo de Cloutier et al. [9], donde se utiliz\u00f3 una U-Net. A partir de dicha base, se implementaron modificaciones sobre la arquitectura original de la U-Net. Se implementaron 3 tipos de schedulers distintos, los cuales permitieron mejorar el desempe\u00f1o de la red. El mejor F1 obtenido con la U-Net fue de 0.7392, superando el valor reportado en el paper original. Adem\u00e1s, se trabaj\u00f3 con otra red, una DeepLabV3 con ResNet-50 de backbone, que super\u00f3 el desempe\u00f1o de la anterior. Se probaron distintas configuraciones de esta red, tambi\u00e9n con los mismos schedulers que se utilizaron para la U-Net. El mejor resultado obtenido fue un F1 score de 0.7515 en promedio entre las especies. Esta tesis se enmarc\u00f3 dentro de un proyecto de mapeo de bosques en el Laboratorio de Rob\u00f3tica y Sistemas Embebidos (LRSE) del ICC-DC. Para la realizaci\u00f3n de este trabajo se utiliz\u00f3 el servidor del \u00e1rea de Im\u00e1genes y Rob\u00f3tica del ICC-DC, pues a trav\u00e9s de \u00e9l pudo accederse a dos GPUs que fueron de utilidad para reducir los tiempos de c\u00f3mputo de entrenamiento de redes. Asimismo, la realizaci\u00f3n de esta tesis supuso el manejo de Docker [12], software para el encapsulamiento del entorno de ejecuci\u00f3n en un contenedor. Para la implementaci\u00f3n de las redes neuronales se utiliz\u00f3 la librer\u00eda PyTorch [25]. El dataset utilizado consisti\u00f3 en im\u00e1genes reales tomadas en \u00e1reas forestales de Canad\u00e1.</p>\n<p>Palabras claves: clasificaci\u00f3n de especies arb\u00f3reas, segmentaci\u00f3n sem\u00e1ntica, U-Net, DeepLabV3, redes neuronales convolucionales, aprendizaje profundo.</p>\n<p>Buenos Aires, 2025</p>\n<p><strong>Descargar PDF</strong><br />\n<a  data-e-Disable-Page-Transition=\"true\" class=\"download-link\" title=\"Version tesis_compressed\" href=\"https://lcd.exactas.uba.ar/download/2861/?tmstv=1775083711\" rel=\"nofollow\" id=\"download-link-2861\" data-redirect=\"false\" >\n\tClasificaci\u00f3n de especies en bosques utilizando im\u00e1genes capturadas con veh\u00edculos a\u00e9reos no tripulados y aprendizaje profundo</a>\n</p>\n",
+        "protected": false
+      },
+      "excerpt": {
+        "rendered": "<p>Tesista: Catherine Sophie Louys Sanso Director: Dr. Pablo De Crist\u00f3foris  [&#8230;]</p>\n",
+        "protected": false
+      },
+      "author": 8,
+      "featured_media": 0,
+      "categories": [
+        33
+      ],
+      "tags": []
+    },
+    {
+      "id": 2859,
+      "date_gmt": "2025-09-08T21:14:27",
+      "modified_gmt": "2025-09-08T21:14:27",
+      "slug": "analisis-de-discursos-politicos-usando-procesamiento-del-lenguaje-natural-nlp",
+      "status": "publish",
+      "type": "post",
+      "link": "https://lcd.exactas.uba.ar/analisis-de-discursos-politicos-usando-procesamiento-del-lenguaje-natural-nlp/",
+      "title": {
+        "rendered": "An\u00e1lisis de discursos pol\u0131\u0301ticos usando procesamiento del lenguaje natural (NLP)"
+      },
+      "content": {
+        "rendered": "<p><strong>Tesista:</strong> Manuel Horn</p>\n<p><strong>Director:</strong> Pablo Balenzuela</p>\n<p><strong>Resumen.</strong></p>\n<p>Una cuesti\u00f3n fundamental en el comportamiento social colectivo se relaciona con la influencia del discurso p\u00fablico y medi\u00e1tico en la opini\u00f3n electoral. En este trabajo se propone un enfoque metodol\u00f3gico para examinar c\u00f3mo caracter\u0131\u0301sticas del discurso pol\u0131\u0301tico se relacionan con manifestaciones medibles de la opini\u00f3n p\u00fablica, aplicando una combinaci\u00f3n de herramientas que involucran el procesamiento del lenguaje natural y el an\u00e1lisis de series temporales. Se aplic\u00f3 un an\u00e1lisis de correlaci\u00f3n al per\u0131\u0301odo correspondiente a la campa\u00f1a presidencial para las elecciones de Estados Unidos del a\u00f1o 2024, utilizando texto correspondiente al contenido discursivo de los candidatos en carrera. Se compararon las variaciones en las encuestas de intenci\u00f3n de voto nacional y estatal con cambios en la relevancia temporal de dichos t\u00f3picos nacionales. Los resultados sugieren que la relevancia de ciertos t\u00f3picos est\u00e1 correlacionada con las fluctuaciones en la intenci\u00f3n de voto a nivel nacional y estatal, esto permite caracterizar a cada estado con los temas que mayor impacto tienen en \u00e9l y realizar interpretaciones correspondientes. La metodolog\u0131\u0301a empleada en este trabajo es de car\u00e1cter general y puede extenderse f\u00e1cilmente a otros temas de inter\u00e9s y contextos electorales.</p>\n<p>Palabras claves: Procesamiento del lenguaje natural, Aprendizaje no supervisado, Detecci\u00f3n de t\u00f3picos, An\u00e1lisis de series temporales, Opini\u00f3n p\u00fablica, Pol\u0131\u0301tica.</p>\n<p>Buenos Aires, 2025</p>\n<p><strong>Descargar PDF</strong><br />\n<a  data-e-Disable-Page-Transition=\"true\" class=\"download-link\" title=\"\" href=\"https://lcd.exactas.uba.ar/download/2856/?tmstv=1775083711\" rel=\"nofollow\" id=\"download-link-2856\" data-redirect=\"false\" >\n\tAn\u00e1lisis de discursos pol\u00edticos usando procesamiento del lenguaje natural (NLP)</a>\n</p>\n",
+        "protected": false
+      },
+      "excerpt": {
+        "rendered": "<p>Tesista: Manuel Horn Director: Pablo Balenzuela Resumen. Una cuesti\u00f3n fundamental  [&#8230;]</p>\n",
+        "protected": false
+      },
+      "author": 8,
+      "featured_media": 0,
+      "categories": [
+        33
+      ],
+      "tags": []
+    },
+    {
+      "id": 2854,
+      "date_gmt": "2025-09-08T21:10:55",
+      "modified_gmt": "2025-09-08T21:10:55",
+      "slug": "mitigacion-y-propagacion-de-noticias-falsas-en-redes-sociales",
+      "status": "publish",
+      "type": "post",
+      "link": "https://lcd.exactas.uba.ar/mitigacion-y-propagacion-de-noticias-falsas-en-redes-sociales/",
+      "title": {
+        "rendered": "Mitigaci\u00f3n y propagaci\u00f3n de noticias falsas en redes sociales"
+      },
+      "content": {
+        "rendered": "<p><strong>Tesista:</strong> Bruno Russo</p>\n<p><strong>Directora:</strong> In\u00e9s Caridi<br />\n<strong>Codirector:</strong> Pablo Balenzuela</p>\n<p><strong><br />\nResumen.</strong></p>\n<p>La consolidaci\u00f3n de las redes sociales como plataformas primarias para el consumo de informaci\u00f3n ha transformado radicalmente el ecosistema medi\u00e1tico. Plataformas como Twitter (actual X ), Facebook e Instagram permiten una diseminaci\u00f3n de contenidos a una velocidad y escala sin precedentes, democratizando la creaci\u00f3n y distribuci\u00f3n de noticias. Sin embargo, esta misma virtud, caracterizada por bajas barreras de entrada y algoritmos que favorecen a la viralizaci\u00f3n de contenido, ha creado un terreno f\u00e9rtil para la propagaci\u00f3n de desinformaci\u00f3n. Este fen\u00f3meno, definido como la difusi\u00f3n de informaci\u00f3n<br />\nfalsa o enga\u00f1osa, representa uno de los desaf\u0131\u0301os m\u00e1s complejos de la era digital, ya que tiene la capacidad de erosionar la confianza p\u00fablica, polarizar el debate social e impactar significativamente en procesos pol\u0131\u0301ticos, econ\u00f3micos y sociales. La crisis sanitaria global provocada por la pandemia de COVID-19 sirvi\u00f3 como un catalizador para una infodemia a escala mundial. En este contexto, la desinformaci\u00f3n sobre el origen del virus, los tratamientos y, de manera crucial, la seguridad y eficacia de las vacunas, se propag\u00f3 masivamente, amenazando los esfuerzos de salud p\u00fablica y generando focos de escepticismo y rechazo a la vacunaci\u00f3n. Si bien la mitigaci\u00f3n de noticias falsas es la motivaci\u00f3n \u00faltima, este trabajo de tesis se enfoca en un estudio fundamental sobre la din\u00e1mica de propagaci\u00f3n de tendencias en redes sociales. Se parte de la premisa de que los mecanismos de viralizaci\u00f3n de un rumor, una noticia falsa o incluso un evento ver\u0131\u0301dico de alto impacto comparten caracter\u0131\u0301sticas de propagaci\u00f3n comunes que pueden ser estudiadas y modeladas. Si bien en los datos trabajados no encontramos noticias falsas que hayamos podido constatar que efectivamente lo eran, nos limitamos a estudiar tendencias ya que, las noticias falsas, podr\u0131\u0301an pensarse como un subconjunto dentro de las tendencias. Este trabajo de tesis aborda el problema de la propagaci\u00f3n de tendencias en redes sociales desde una perspectiva cuantitativa, aplicando un marco conceptual tomado de la epidemiolog\u0131\u0301a. La premisa fundamental es que la difusi\u00f3n de una idea, rumor o noticia falsa en una red social puede ser modelada como un proceso de contagio, an\u00e1logo a la propagaci\u00f3n de una enfermedad infecciosa en una poblaci\u00f3n. Los usuarios de la red pueden ser clasificados en distintos estados (por ejemplo, susceptibles de creer la desinformaci\u00f3n, infectados que la propagan activamente, o esc\u00e9pticos que la rechazan), y la transici\u00f3n entre estos estados puede ser descrita mediante sistemas de ecuaciones diferenciales. El objetivo principal de esta investigaci\u00f3n fue analizar la din\u00e1mica de propagaci\u00f3n de informaci\u00f3n y tendencias relacionada con las vacunas contra el COVID-19 en Twitter, utilizando un conjunto de datos recolectados entre el 29 de diciembre de 2020 y mediados de abril de 2021 asociados a la vacunaci\u00f3n y a vacunas contra el COVID-19. Se exploraron 3y compararon varios modelos epidemiol\u00f3gicos \u2014desde el simple modelo SI (suceptible-infectado) hasta el m\u00e1s complejo SEIZ (Susceptible-Expuesto-Infectado-Esc\u00e9ptico)- para determinar cu\u00e1l de ellos se ajust\u00f3 mejor a los patrones emp\u0131\u0301ricos observados. A trav\u00e9s del ajuste de estos modelos a los datos reales, se busc\u00f3 estimar par\u00e1metros clave que gobiernan la din\u00e1mica de difusi\u00f3n, como la tasa de contagio o la tasa de escepticismo.</p>\n<p>Buenos Aires, 2025</p>\n<p><strong>Descargar PDF</strong><br />\n<a  data-e-Disable-Page-Transition=\"true\" class=\"download-link\" title=\"\" href=\"https://lcd.exactas.uba.ar/download/2851/?tmstv=1775083711\" rel=\"nofollow\" id=\"download-link-2851\" data-redirect=\"false\" >\n\tMitigaci\u00f3n y propagaci\u00f3n de noticias falsas en redes sociales</a>\n</p>\n",
+        "protected": false
+      },
+      "excerpt": {
+        "rendered": "<p>Tesista: Bruno Russo Directora: In\u00e9s Caridi Codirector: Pablo Balenzuela Resumen.  [&#8230;]</p>\n",
+        "protected": false
+      },
+      "author": 8,
+      "featured_media": 0,
+      "categories": [
+        33
+      ],
+      "tags": []
+    },
+    {
+      "id": 2849,
+      "date_gmt": "2025-09-08T21:03:09",
+      "modified_gmt": "2025-09-08T21:03:09",
+      "slug": "explorando-ai-safety-via-debate-un-estudio-sobre-capacidades-asimetricas-y-jueces-debiles-en-el-entorno-mnist",
+      "status": "publish",
+      "type": "post",
+      "link": "https://lcd.exactas.uba.ar/explorando-ai-safety-via-debate-un-estudio-sobre-capacidades-asimetricas-y-jueces-debiles-en-el-entorno-mnist/",
+      "title": {
+        "rendered": "Explorando AI Safety via Debate: un estudio sobre capacidades asim\u00e9tricas y jueces d\u00e9biles en el entorno MNIST"
+      },
+      "content": {
+        "rendered": "<p><strong>Tesista:</strong> Joaqu\u0131\u0301n Salvador Machulsky</p>\n<p><strong>Director:</strong> Dr. Sergio Abriola</p>\n<p><strong>Resumen.</strong></p>\n<p>El paradigma de \u201cAI Safety via Debate\u201d propone un mecanismo para supervisar sistemas de IA avanzados, haci\u00e9ndolos competir para convencer a un juez con capacidades limitadas. Bas\u00e1ndose en el experimento original sobre MNIST, esta tesis extiende dicho trabajo para investigar la robustez del debate en escenarios con asimetr\u0131\u0301a de capacidades y frente a un \u201cjuez d\u00e9bil\u201d. Se estudia la din\u00e1mica del debate en un entorno simulado de clasificaci\u00f3n de im\u00e1genes MNIST, donde se implementan y enfrentan agentes con distintas estrategias (Greedy y MCTS) bajo diferentes protocolos. Los resultados muestran que el debate amplifica la capacidad del juez por encima de una l\u0131\u0301nea base aleatoria. Sin embargo, se observa que un agente mentiroso con mayor capacidad estrat\u00e9gica (MCTS) puede explotar a un adversario honesto m\u00e1s simple (Greedy). El hallazgo central de este estudio es que una regla de protocolo, la condici\u00f3n de precompromiso, puede compensar esta desventaja. En los experimentos realizados, esta regla<br />\npermiti\u00f3 que la honestidad prevaleciera a pesar de la inferioridad estrat\u00e9gica del agente, a diferencia de los debates sin esta restricci\u00f3n. Se concluye que, dentro de este entorno experimental, el dise\u00f1o del protocolo es un factor importante para el resultado del debate, sugiriendo que las reglas de la interacci\u00f3n son tan relevantes como la paridad de poder entre los agentes.</p>\n<p>Palabras claves: AI Safety, Supervisi\u00f3n Escalable, Debate Adversarial, Alineamiento de IA, Asimetr\u0131\u0301a de Capacidades.</p>\n<p>Buenos Aires, 2025</p>\n<p><strong>Descargar PDF</strong><br />\n<a  data-e-Disable-Page-Transition=\"true\" class=\"download-link\" title=\"\" href=\"https://lcd.exactas.uba.ar/download/2846/?tmstv=1775083711\" rel=\"nofollow\" id=\"download-link-2846\" data-redirect=\"false\" >\n\tExplorando AI Safety via Debate: un estudio sobre capacidades asim\u00e9tricas y jueces d\u00e9biles en el entorno MNIST</a>\n</p>\n",
+        "protected": false
+      },
+      "excerpt": {
+        "rendered": "<p>Tesista: Joaqu\u0131\u0301n Salvador Machulsky Director: Dr. Sergio Abriola Resumen. El  [&#8230;]</p>\n",
+        "protected": false
+      },
+      "author": 8,
+      "featured_media": 0,
+      "categories": [
+        33
+      ],
+      "tags": []
+    },
+    {
+      "id": 2842,
+      "date_gmt": "2025-09-08T20:43:12",
+      "modified_gmt": "2025-09-08T20:43:12",
+      "slug": "extraccion-de-informacion-de-datos-de-texto-libre-2",
+      "status": "publish",
+      "type": "post",
+      "link": "https://lcd.exactas.uba.ar/extraccion-de-informacion-de-datos-de-texto-libre-2/",
+      "title": {
+        "rendered": "Extracci\u00f3n de informaci\u00f3n de datos de texto libre"
+      },
+      "content": {
+        "rendered": "<p><strong>Tesista:</strong> Ignacio Rodr\u0131\u0301guez Sa\u00f1udo</p>\n<p><strong>Director:</strong> Germ\u00e1n Rosati<br />\n<strong>Codirector:</strong> Juan Kamienkowski</p>\n<p><strong><br />\nResumen.</strong></p>\n<p>La extracci\u00f3n de informaci\u00f3n a partir de datos de texto libre es un proceso fundamental para transformar grandes vol\u00famenes de informaci\u00f3n no estructurada en formatos organizados y analizables. Esta tarea adquiere especial relevancia en dominios espec\u0131\u0301ficos, como el an\u00e1lisis de denuncias y testimonios, donde el vocabulario, la sem\u00e1ntica y los formatos de redacci\u00f3n presentan particularidades. Sin embargo, la aplicaci\u00f3n de t\u00e9cnicas de extracci\u00f3n de informaci\u00f3n en estos contextos se enfrenta a desaf\u0131\u0301os como la escasez de datos anotados, limitaciones en los recursos computacionales y la necesidad de proteger la privacidad de la informaci\u00f3n sensible. Este trabajo se centra en evaluar la factibilidad de emplear modelos de lenguaje autorregresivos para la extracci\u00f3n de informaci\u00f3n en textos en espa\u00f1ol provenientes del dominio de denuncias y testimonios. Se investiga el rendimiento de tres variantes de la familia Gemma 3 (con 4, 12 y 27 mil millones de par\u00e1metros), exploradas como una alternativa viable para su ejecuci\u00f3n local, frente a restricciones de privacidad y recursos. Adem\u00e1s, se utiliza el modelo Gemini 2.5 Flash, que permite contrastar el desempe\u00f1o de un modelo comercial de acceso remoto frente a soluciones que podr\u0131\u0301an implementarse de forma local. Para este estudio, se definieron dos tareas principales de extracci\u00f3n: en primer lugar, la extracci\u00f3n de entidades correspondientes a las categor\u0131\u0301as PERSONA, LUGAR, ORGANIZACI\u00d3N y FECHA. Esta tarea se abord\u00f3 utilizando enfoques de zero-shot y one-shot learning, con prompts dise\u00f1ados tanto en espa\u00f1ol como en ingl\u00e9s, con el objetivo de evaluar el impacto del idioma del prompt en el rendimiento de los modelos. En segundo lugar, se llev\u00f3 a cabo la detecci\u00f3n de eventos de tipo CAPTURA y ASESINATO, empleando estrategias de one-shot learning con prompts en espa\u00f1ol. La evaluaci\u00f3n de ambas tareas se realiz\u00f3 sobre un corpus de 64 documentos del Proyecto Angelus de M\u00e9xico, utilizando m\u00e9tricas de precisi\u00f3n, recall y F1-score. Los resultados demuestran una mejora consistente en el rendimiento a medida que aumenta el tama\u00f1o del modelo, siendo la variante Gemma 3 de 27 mil millones de par\u00e1metros la que obtiene los mejores resultados dentro de las opciones de tama\u00f1o moderado. En la tarea de extracci\u00f3n de entidades, este modelo alcanza un rendimiento comparable, aunque ligeramente inferior al de Gemini 2.5 Flash. En la extracci\u00f3n de eventos, Gemini 2.5 Flash obtiene, con diferencia, mejores resultados que todas las variantes de Gemma 3. Se concluye que la utilizaci\u00f3n de modelos de lenguaje autorregresivos, como la variante Gemma 3 de 27 mil millones de par\u00e1metros, resulta factible y ofrece un rendimiento prometedor para la extracci\u00f3n de entidades en textos de denuncias y testimonios, especialmente en contextos con restricciones de recursos y privacidad. Sin embargo, para tareas de mayor complejidad, como la extracci\u00f3n de eventos, puede ser conveniente emplear modelos de mayor escala, como Gemini 2.5 Flash, que demuestra una clara superioridad en desempe\u00f1o.</p>\n<p>Palabras claves: extracci\u00f3n de informaci\u00f3n, modelos de lenguaje, procesamiento del lenguaje natural, extracci\u00f3n de entidades nombradas, extracci\u00f3n de eventos, instruction tuning, in-context learning, Gemma 3, Gemini 2.5, dominio espec\u0131\u0301fico, privacidad de datos.</p>\n<p>&nbsp;</p>\n<p>Buenos Aires, 2025</p>\n<p><strong>Descargar PDF</strong><br />\n<a  data-e-Disable-Page-Transition=\"true\" class=\"download-link\" title=\"\" href=\"https://lcd.exactas.uba.ar/download/2841/?tmstv=1775083711\" rel=\"nofollow\" id=\"download-link-2841\" data-redirect=\"false\" >\n\tExtracci\u00f3n de informaci\u00f3n de datos de texto libre</a>\n</p>\n",
+        "protected": false
+      },
+      "excerpt": {
+        "rendered": "<p>Tesista: Ignacio Rodr\u0131\u0301guez Sa\u00f1udo Director: Germ\u00e1n Rosati Codirector: Juan Kamienkowski  [&#8230;]</p>\n",
+        "protected": false
+      },
+      "author": 8,
+      "featured_media": 0,
+      "categories": [
+        33
+      ],
+      "tags": []
+    },
+    {
+      "id": 2839,
+      "date_gmt": "2025-09-08T20:38:52",
+      "modified_gmt": "2025-09-08T20:38:52",
+      "slug": "ajedrezzinni-latentinni-autoencoders-para-interpretar-el-espacio-latente-del-ajedrez",
+      "status": "publish",
+      "type": "post",
+      "link": "https://lcd.exactas.uba.ar/ajedrezzinni-latentinni-autoencoders-para-interpretar-el-espacio-latente-del-ajedrez/",
+      "title": {
+        "rendered": "Ajedrezzinni Latentinni: autoencoders para interpretar el espacio latente del ajedrez"
+      },
+      "content": {
+        "rendered": "<p><strong>Tesista:</strong>\u00a0Juli\u00e1n Garbulsky</p>\n<p><strong>Director:</strong> Juan Pablo Pinasco</p>\n<p><strong><br />\nResumen.</strong></p>\n<p>En este trabajo exploramos representaciones comprimidas de posiciones de ajedrez mediante autoencoders, una clase de redes neuronales no supervisadas. A partir de una base de datos p\u00fablica de partidas de ajedrez, filtramos posiciones jugadas entre jugadores de alto nivel y las representamos en formato binario (usando una variante del bitboard). Entrenamos un autoencoder con el objetivo de reconstruir estas posiciones, y medimos la calidad de la reconstrucci\u00f3n tanto con el error cuadr\u00e1tico medio como con una m\u00e9trica espec\u0131\u0301fica del dominio que contabiliza cu\u00e1ntas casillas del tablero fueron mal reconstruidas. Para estudiar la interpretabilidad de las representaciones latentes, aplicamos an\u00e1lisis de componentes principales (PCA) y visualizamos c\u00f3mo las aperturas de ajedrez, as\u0131\u0301 como ciertas estructuras como el enroque y los peones centrales, se reflejan en las primeras componentes principales. Encontramos que algunas de estas caracter\u0131\u0301sticas estrat\u00e9gicas o posicionales se correlacionan con direcciones particulares del espacio latente. Finalmente, evaluamos la robustez del autoencoder aplic\u00e1ndolo a posiciones significativamente distintas a las del entrenamiento, como las jugadas por principiantes o las generadas artificialmente mediante simetr\u0131\u0301as. En ambos casos, observamos un desempe\u00f1o de reconstrucci\u00f3n menor, lo que sugiere que el modelo captura regularidades propias de partidas de nivel intermedio a alto.</p>\n<p>Palabras claves: Ajedrez, Autoencoders, Aprendizaje no supervisado, Representaciones latentes, PCA, Interpretabilidad, Reconstrucci\u00f3n.</p>\n<p>Buenos Aires, 2025</p>\n<p><strong>Descargar PDF</strong><br />\n<a  data-e-Disable-Page-Transition=\"true\" class=\"download-link\" title=\"Version final_compressed\" href=\"https://lcd.exactas.uba.ar/download/2836/?tmstv=1775083711\" rel=\"nofollow\" id=\"download-link-2836\" data-redirect=\"false\" >\n\tAjedrezzinni Latentinni: autoencoders para interpretar el espacio latente del ajedrez</a>\n</p>\n",
+        "protected": false
+      },
+      "excerpt": {
+        "rendered": "<p>Tesista:\u00a0Juli\u00e1n Garbulsky Director: Juan Pablo Pinasco Resumen. En este trabajo  [&#8230;]</p>\n",
+        "protected": false
+      },
+      "author": 8,
+      "featured_media": 0,
+      "categories": [
+        33
+      ],
+      "tags": []
+    },
+    {
+      "id": 2834,
+      "date_gmt": "2025-09-08T20:32:04",
+      "modified_gmt": "2025-09-08T20:32:04",
+      "slug": "lo-que-las-redes-neuronales-no-saben-descubriendo-e-interpretando-el-conocimiento-aprendido-en-redes-neuronales-convolucionales",
+      "status": "publish",
+      "type": "post",
+      "link": "https://lcd.exactas.uba.ar/lo-que-las-redes-neuronales-no-saben-descubriendo-e-interpretando-el-conocimiento-aprendido-en-redes-neuronales-convolucionales/",
+      "title": {
+        "rendered": "Lo que las redes neuronales no saben: descubriendo e interpretando el conocimiento aprendido en redes neuronales convolucionales"
+      },
+      "content": {
+        "rendered": "<p><strong>Tesista:</strong> Gabriel Baca Rubinztain</p>\n<p><strong>Director:</strong> Gabriel Kreiman<br />\n<strong>Codirector:</strong> Pablo Negri</p>\n<p>&nbsp;</p>\n<p><strong>Resumen.</strong></p>\n<p>Este trabajo aborda el problema de inferir el conocimiento adquirido por una red neuronal convolucional para clasificaci\u00f3n de im\u00e1genes, sin informaci\u00f3n previa sobre sus datos de entrenamiento. En particular, se estudia si es posible determinar qu\u00e9 clases fueron utilizadas durante el entrenamiento bajo distintas restricciones sobre el acceso a la arquitectura, los pesos y las salidas de la red. Se definen seis variantes del problema, que representan escenarios cada vez m\u00e1s generales y desafiantes. Entre los m\u00e9todos explorados, el an\u00e1lisis de la proporci\u00f3n de activaci\u00f3n neuronal en capas Fully Connected combinado con clustering no supervisado mediante K-Means mostr\u00f3 resultados s\u00f3lidos, alcanzando scores F1 superiores a 0,8 incluso en configuraciones con hasta siete clases de diez no entrenadas. La principal contribuci\u00f3n del trabajo es el desarrollo de un framework basado en DeepDream para la extracci\u00f3n de conocimiento, que es agn\u00f3stico al dataset, a la arquitectura del modelo y a la m\u00e9tricas de similitud. Experimentos preliminares con este enfoque alcanzaron scores F1 superiores al 95 % en MNIST con redes artesanales peque\u00f1as y mostraron desempe\u00f1os comparables en CIFAR-10 utilizando una ResNet20 preentrenada.</p>\n<p>Palabras clave: Redes neuronales, inferencia de conocimiento, an\u00e1lisis de activaciones, interpretabilidad, DeepDream, out-of-distribution detection, open set recognition.</p>\n<p>&nbsp;</p>\n<p>Buenos Aires, 2025</p>\n<p><strong>Descargar PDF</strong><br />\n<a  data-e-Disable-Page-Transition=\"true\" class=\"download-link\" title=\"Version tesis final\" href=\"https://lcd.exactas.uba.ar/download/2831/?tmstv=1775083711\" rel=\"nofollow\" id=\"download-link-2831\" data-redirect=\"false\" >\n\tLo que las redes neuronales no saben: descubriendo e interpretando el conocimiento aprendido en redes neuronales convolucionales</a>\n</p>\n",
+        "protected": false
+      },
+      "excerpt": {
+        "rendered": "<p>Tesista: Gabriel Baca Rubinztain Director: Gabriel Kreiman Codirector: Pablo Negri  [&#8230;]</p>\n",
+        "protected": false
+      },
+      "author": 8,
+      "featured_media": 0,
+      "categories": [
+        33
+      ],
+      "tags": []
+    },
+    {
+      "id": 2829,
+      "date_gmt": "2025-09-08T20:22:40",
+      "modified_gmt": "2025-09-08T20:22:40",
+      "slug": "modelos-y-soluciones-para-la-restauracion-de-imagenes-fuera-de-foco-2",
+      "status": "publish",
+      "type": "post",
+      "link": "https://lcd.exactas.uba.ar/modelos-y-soluciones-para-la-restauracion-de-imagenes-fuera-de-foco-2/",
+      "title": {
+        "rendered": "Modelos y soluciones para la restauraci\u00f3n de im\u00e1genes fuera de foco"
+      },
+      "content": {
+        "rendered": "<p><strong>Tesista:</strong> Delfina Bel\u00e9n Comerso Salzer</p>\n<p><strong>Director:</strong> Gabriela Jeronimo<br />\n<strong>Codirector:</strong> Malena Espa\u00f1ol</p>\n<p>&nbsp;</p>\n<p><strong>Resumen.</strong></p>\n<p>Los problemas de deconvoluci\u00f3n ciega y semiciega que surgen en el contexto de restauraci\u00f3n de im\u00e1genes fuera de foco pueden ser modelados como problemas de m\u0131\u0301nimos cuadrados no lineales separables. El m\u00e9todo de proyecci\u00f3n de variables (VarPro) es un m\u00e9todo eficiente para la resoluci\u00f3n de este tipo de problemas, transformando el problema original en un problema de m\u0131\u0301nimos cuadrados no lineales reducido, que puede ser resuelto mediante el m\u00e9todo de Gauss-Newton. En este trabajo proponemos extender el m\u00e9todo VarPro para resolver problemas de m\u0131\u0301nimos cuadrados no lineales separables con regularizaci\u00f3n Tikhonov en forma general, para abordar el problema de deconvoluci\u00f3n semiciega. Introducimos t\u00e9rminos regularizantes sobre los par\u00e1metros del operador de desenfoque e investigamos distintas variantes del m\u00e9todo cuando se utilizan diferentes aproximaciones de la matriz Jacobiana. Estudiamos los casos especiales en los que existe una descomposici\u00f3n espectral conjunta de operadores directos y de regularizaci\u00f3n, proporcionando m\u00e9todos eficientes para calcular los Jacobianos y la soluci\u00f3n de los subproblemas lineales. Presentamos un an\u00e1lisis de convergencia local del m\u00e9todo bajo hip\u00f3tesis de diferenciabilidad y continuidad Lipschitz de los operadores involucrados, demostrando que bajo condiciones adecuadas el m\u00e9todo puede alcanzar tasas de convergencia superlineales e incluso cuadr\u00e1ticas. Para los casos donde la demanda computacional para calcular Jacobianos y residuos en el m\u00e9todo quasi-Newton se vuelve muy compleja se pueden utilizar m\u00e9todos iterativos, espec\u0131\u0301ficamente LSQR, para calcular Jacobianos y residuos aproximados. Esta tesis analiza el impacto de a\u00f1adir estos nuevos t\u00e9rminos regularizantes, as\u0131\u0301 como las aproximaciones en el m\u00e9todo de proyecci\u00f3n de variables. Presentamos experimentos num\u00e9ricos donde aplicamos los m\u00e9todos propuestos para resolver problemas de deconvoluci\u00f3n semiciega, con el fin de ilustrar y confirmar nuestros resultados te\u00f3ricos y la eficacia del m\u00e9todo.</p>\n<p>Palabras claves: M\u00e9todo de proyecci\u00f3n de variables, Regularizaci\u00f3n de Tikhonov, Deconvoluci\u00f3n semiciega, Descomposiciones espectrales, Problemas inversos, LSQR.</p>\n<p>Buenos Aires, 2025</p>\n<p><strong>Descargar PDF</strong><br />\n<a  data-e-Disable-Page-Transition=\"true\" class=\"download-link\" title=\"Version tesis\" href=\"https://lcd.exactas.uba.ar/download/2826/?tmstv=1775083711\" rel=\"nofollow\" id=\"download-link-2826\" data-redirect=\"false\" >\n\tModelos y soluciones para la restauraci\u00f3n de im\u00e1genes fuera de foco</a>\n</p>\n",
+        "protected": false
+      },
+      "excerpt": {
+        "rendered": "<p>Tesista: Delfina Bel\u00e9n Comerso Salzer Director: Gabriela Jeronimo Codirector: Malena  [&#8230;]</p>\n",
+        "protected": false
+      },
+      "author": 8,
+      "featured_media": 0,
+      "categories": [
+        33
+      ],
+      "tags": []
+    },
+    {
+      "id": 2824,
+      "date_gmt": "2025-09-08T19:52:13",
+      "modified_gmt": "2025-09-08T19:52:13",
+      "slug": "reconocimiento-de-objetos-y-analisis-del-desempeno-de-conductores-a-partir-del-comportamiento-y-seguimiento-de-movimientos-oculares",
+      "status": "publish",
+      "type": "post",
+      "link": "https://lcd.exactas.uba.ar/reconocimiento-de-objetos-y-analisis-del-desempeno-de-conductores-a-partir-del-comportamiento-y-seguimiento-de-movimientos-oculares/",
+      "title": {
+        "rendered": "Reconocimiento de objetos y an\u00e1lisis del desempe\u00f1o de conductores a partir del comportamiento y seguimiento de movimientos oculares"
+      },
+      "content": {
+        "rendered": "<p><strong>Tesista:</strong> Jhosept Levyt Sanchez Goicochea</p>\n<p><strong>Director:</strong> Juan Kamienkowski<br />\n<strong>Codirector:</strong> Joaquin Gonzalez</p>\n<p>&nbsp;</p>\n<p><strong>Resumen.</strong></p>\n<p>Los accidentes de tr\u00e1nsito son un problema que nos afecta a todos en nuestra vida diaria, de distintas maneras, algunas m\u00e1s personales, porque los sufrimos nosotros mismos o alg\u00fan ser cercano o de formas m\u00e1s distantes pero igualmente presentes, porque los observamos en la calle o a trav\u00e9s de alg\u00fan medio de comunicaci\u00f3n. Con el objetivo de encontrar estrategias m\u00e1s eficientes de exploraci\u00f3n visual que permitan detectar con mayor rapidez y precisi\u00f3n situaciones potencialmente peligrosas en contextos de conducci\u00f3n, as\u0131\u0301 como identificar aquellas estrategias menos eficaces, este trabajo busca aportar conocimientos aplicables a la formaci\u00f3n y evaluaci\u00f3n de nuevos conductores. Esto permitir\u0131\u0301a reducir la cantidad de siniestros viales, en especial aquellos protagonizados por conductores novatos, quienes representan un alto porcentaje de las v\u0131\u0301ctimas en accidentes de tr\u00e1fico. Por ello, se decidi\u00f3 respaldar y extender los resultados obtenidos en estudios previos, tales como los de Robbins y Crundall. Para esto, este trabajo tiene como objetivo, a partir de los videos experimentales que se muestran actualmente en el examen de conducci\u00f3n, medir el comportamiento visual de 24 participantes, con el fin de encontrar correlaciones entre dicho comportamiento ocular y su desempe\u00f1o al detectar peligros en los videos. Con este prop\u00f3sito, el trabajo se estructur\u00f3 en un enfoque progresivo compuesto por tres etapas, cada uno dependiente del \u00e9xito del anterior. Se exploraron distintos modelos de detecci\u00f3n de objetos para identificar peatones, veh\u0131\u0301culos y otros elementos relevantes en los videos del examen de conducci\u00f3n del Reino<br />\nUnido, y se eligi\u00f3 YOLOv12X por su rendimiento. Tambi\u00e9n se incorpor\u00f3 el m\u00f3dulo de seguimiento ByteTrack, que asigna identidades a los objetos detectados a lo largo del video. Esto permite realizar un seguimiento de la trayectoria de cada objeto a lo largo del video. Por \u00faltimo, se integraron y procesaron los datos recolectados por el eye-tracker, y se realiz\u00f3 un an\u00e1lisis para investigar c\u00f3mo las fijaciones y la amplitud de la b\u00fasqueda visual pueden explicar diferencias en el tiempo de reacci\u00f3n ante eventos cr\u0131\u0301ticos. A partir del an\u00e1lisis realizado pudimos detectar la existencia de una fuerte correlaci\u00f3n entre el tiempo de reacci\u00f3n y el tiempo que tardaban en fijar los peligros, lo que remarca la importancia de realizar una exploraci\u00f3n visual eficiente para una detecci\u00f3n temprana de estas situaciones. Asimismo, se observ\u00f3 que una mayor amplitud de b\u00fasqueda horizontal, combinada con una menor amplitud de b\u00fasqueda vertical, se asocia con tiempos de reacci\u00f3n ligeramente menores. En cambio, la duraci\u00f3n y la cantidad de fijaciones no mostraron un efecto estad\u0131\u0301sticamente significativo en el tiempo de reacci\u00f3n. A partir de estos resultados, se propone incorporar una instancia de evaluaci\u00f3n de reacci\u00f3n, similar a la implementada en el Reino Unido, en el examen para la obtenci\u00f3n de la licencia de conducir. Por otro lado, los efectos observados de la amplitud de b\u00fasqueda visual ofrecen pautas \u00fatiles para optimizar la ense\u00f1anza de la conducci\u00f3n, promoviendo estrategias visuales m\u00e1s eficaces.</p>\n<p>Palabras clave: \u201cDetecci\u00f3n de objetos\u201d, \u201ccomportamiento ocular\u201d, \u201ctiempo de reacci\u00f3n\u201d, \u201cseguridad vial\u201d, \u201cestrategia de b\u00fasqueda visual\u201d</p>\n<p>Buenos Aires, 2025</p>\n<p><strong>Descargar PDF</strong><br />\n<a  data-e-Disable-Page-Transition=\"true\" class=\"download-link\" title=\"\" href=\"https://lcd.exactas.uba.ar/download/2821/?tmstv=1775083711\" rel=\"nofollow\" id=\"download-link-2821\" data-redirect=\"false\" >\n\tReconocimiento de objetos y an\u00e1lisis del desempe\u00f1o de conductores a partir del comportamiento y seguimiento de movimientos oculares</a>\n</p>\n",
+        "protected": false
+      },
+      "excerpt": {
+        "rendered": "<p>Tesista: Jhosept Levyt Sanchez Goicochea Director: Juan Kamienkowski Codirector: Joaquin  [&#8230;]</p>\n",
+        "protected": false
+      },
+      "author": 8,
+      "featured_media": 0,
+      "categories": [
+        33
+      ],
+      "tags": []
+    },
+    {
+      "id": 2819,
+      "date_gmt": "2025-09-08T19:19:56",
+      "modified_gmt": "2025-09-08T19:19:56",
+      "slug": "investigacion-sobre-la-aplicacion-de-tecnicas-de-filtrado-colaborativo-para-la-recomendacion-de-jugadores-a-equipos-de-futbol",
+      "status": "publish",
+      "type": "post",
+      "link": "https://lcd.exactas.uba.ar/investigacion-sobre-la-aplicacion-de-tecnicas-de-filtrado-colaborativo-para-la-recomendacion-de-jugadores-a-equipos-de-futbol/",
+      "title": {
+        "rendered": "Investigaci\u00f3n sobre la aplicaci\u00f3n de t\u00e9cnicas de filtrado colaborativo para la recomendaci\u00f3n de jugadores a equipos de f\u00fatbol"
+      },
+      "content": {
+        "rendered": "<p><strong>Tesista:</strong> Pablo Ariel Groisman</p>\n<p><strong>Director:</strong> Dr. Andr\u00e9s Farall<br />\n<strong>Codirector:</strong> Ing. Manuel Duran</p>\n<p>&nbsp;</p>\n<p><strong>Resumen.</strong></p>\n<p>En el f\u00fatbol, la elecci\u00f3n adecuada de futbolistas por parte de los clubes es una tarea dif\u0131\u0301cil y a la vez fundamental para el desempe\u00f1o de un equipo. Tradicionalmente, este trabajo lo realizaban los equipos de scouts, o los mismos dirigentes y cuerpo t\u00e9cnico. Hoy en d\u0131\u0301a, existen m\u00faltiples herramientas para evaluar el desempe\u00f1o de un jugador y la mayor\u0131\u0301a de ellas tiene en cuenta estad\u0131\u0301sticas cl\u00e1sicas como goles o asistencias o algunas m\u00e1s rebuscadas como el XG (expected goals). Inspirada en el \u00e9xito de los m\u00e9todos de filtrado colaborativo en los sistemas de recomendaci\u00f3n de pel\u0131\u0301culas o productos a usuarios, esta tesis explora la adaptaci\u00f3n de los trabajos de los ganadores del Gran Premio de Netflix, ajustando sus modelos y t\u00e9cnicas algor\u0131\u0301tmicas al \u00e1mbito del f\u00fatbol. Los sistemas creados mediante estos m\u00e9todos permiten generar recomendaciones de jugadores a equipos bas\u00e1ndose \u00fanicamente en el historial de rendimiento pasado, sin depender de estad\u0131\u0301sticas de juego convencionales. Este enfoque tiene el potencial de descubrir patrones latentes de compatibilidad entre jugadores y equipos, ofreciendo una herramienta innovadora para el an\u00e1lisis. La utilidad de estos modelos radica en su capacidad para combinar un rendimiento predictivo prometedor con una relativa interpretabilidad de sus componentes (como sesgos y factores latentes), buscando en este caso, no reemplazar, sino complementar los m\u00e9todos de scouting y an\u00e1lisis estad\u0131\u0301stico ya existentes, enriqueciendo as\u0131\u0301 el proceso de toma de decisiones en la selecci\u00f3n de futbolistas. Se desarrollan los modelos adaptados de [15, 13, 14], as\u0131\u0301 como las t\u00e9cnicas de blending mencionadas junto a otras que se proponen en este trabajo. Se eval\u00faan los m\u00e9todos en m\u00e9tricas cl\u00e1sicas en el \u00e1mbito (RMSE, MAE, PMAE o MAPE), logrando superar a los benchmarks b\u00e1sicos, y se proponen otras dos m\u00e9tricas de ordenamiento para evaluar la utilidad de las recomendaciones (Spearman, Kendall). Luego, se estudian las \u201cTop-5\u201d recomendaciones de modelos particulares a trav\u00e9s de un an\u00e1lisis que nos deja como corolario que un error predictivo m\u00e1s bajo no siempre se traduce en recomendaciones m\u00e1s \u00fatiles. Por \u00faltimo, se comentan las conclusiones del trabajo junto a lineas de continuaci\u00f3n de la investigaci\u00f3n y una breve motivaci\u00f3n para cada una.</p>\n<p>Palabras claves: Filtrado Colaborativo, Factorizaci\u00f3n Matricial, SVD, TIMESVD++, Modelos de Vecindad, Modelos de Factores Latentes, Din\u00e1micas Temporales, Blending, Sistemas de Recomendaci\u00f3n, Recomendacion de Jugadores de F\u00fatbol, Gran Premio de Netflix.</p>\n<p>Buenos Aires, 2025</p>\n<p><strong>Descargar PDF</strong><br />\n<a  data-e-Disable-Page-Transition=\"true\" class=\"download-link\" title=\"\" href=\"https://lcd.exactas.uba.ar/download/2816/?tmstv=1775083711\" rel=\"nofollow\" id=\"download-link-2816\" data-redirect=\"false\" >\n\tInvestigaci\u00f3n sobre la aplicaci\u00f3n de t\u00e9cnicas de filtrado colaborativo para la recomendaci\u00f3n de jugadores a equipos de f\u00fatbol</a>\n</p>\n",
+        "protected": false
+      },
+      "excerpt": {
+        "rendered": "<p>Tesista: Pablo Ariel Groisman Director: Dr. Andr\u00e9s Farall Codirector: Ing.  [&#8230;]</p>\n",
+        "protected": false
+      },
+      "author": 8,
+      "featured_media": 0,
+      "categories": [
+        33
+      ],
+      "tags": []
+    },
+    {
+      "id": 2814,
+      "date_gmt": "2025-09-08T19:11:57",
+      "modified_gmt": "2025-09-08T19:11:57",
+      "slug": "degradacion-controlada-en-un-gran-modelo-de-lenguaje-llm",
+      "status": "publish",
+      "type": "post",
+      "link": "https://lcd.exactas.uba.ar/degradacion-controlada-en-un-gran-modelo-de-lenguaje-llm/",
+      "title": {
+        "rendered": "Degradaci\u00f3n controlada en un Gran Modelo de Lenguaje (LLM)"
+      },
+      "content": {
+        "rendered": "<p><strong>Tesista:</strong> Alejandro Wainstock</p>\n<p><strong>Director:</strong> Dr. Enzo Tagliazucchi</p>\n<p>&nbsp;</p>\n<p><strong>Resumen.</strong></p>\n<p>La investigaci\u00f3n en Grandes Modelos de Lenguaje (LLMs) revel\u00f3 su potencial no solo como herramientas de procesamiento de lenguaje natural, sino tambi\u00e9n como an\u00e1logos computacionales para comprender la cognici\u00f3n humana. Esta tesis explor\u00f3 los efectos de la degradaci\u00f3n controlada en un LLM, espec\u0131\u0301ficamente el modelo Gemma 3 4B-IT, con el objetivo de caracterizar los patrones de deterioro y establecer analog\u0131\u0301as con trastornos del lenguaje y del pensamiento en humanos. Para ello, se implementaron tres m\u00e9todos de perturbaci\u00f3n (ruido gaussiano multiplicativo, ablaci\u00f3n de pesos y cuantizaci\u00f3n uniforme) aplicados sistem\u00e1ticamente sobre componentes clave del modelo: las matrices de Embeddings, de las capas de atenci\u00f3n y de las redes Feed-Forward (MLP). Se dise\u00f1\u00f3 un protocolo experimental riguroso para evaluar el rendimiento del modelo degradado en un conjunto de tareas que incluyen relatos de sue\u00f1os, la descripci\u00f3n de la l\u00e1mina del Cookie Theft, razonamiento l\u00f3gico-matem\u00e1tico y comprensi\u00f3n verbal. Las m\u00e9tricas de evaluaci\u00f3n se obtuvieron mediante an\u00e1lisis ling\u00fc\u0131\u0301sticos computacionales y la evaluaci\u00f3n de un LLM juez externo (GPT-4o-mini). Los resultados revelaron en algunos casos una vulnerabilidad diferencial de los componentes del modelo. Por ejemplo, la degradaci\u00f3n en las capas de atenci\u00f3n produjo un deterioro gradual, caracterizado por una p\u00e9rdida progresiva de la concisi\u00f3n y coherencia discursiva. El an\u00e1lisis del orden de deterioro mostr\u00f3 que, dependiendo del componente afectado, emergen distintas jerarqu\u0131\u0301as de vulnerabilidad. Notablemente, el da\u00f1o en la matriz de Embeddings afect\u00f3 primero a la riqueza l\u00e9xica, mientras que el da\u00f1o en la atenci\u00f3n y el MLP impact\u00f3 de forma m\u00e1s temprana en las tareas de razonamiento. Este trabajo subray\u00f3 el valor de los LLMs como modelos in silico para la neurociencia computacional, permitiendo simular y estudiar la desintegraci\u00f3n de funciones cognitivas de manera controlada. Asimismo, ofreci\u00f3 insights sobre la arquitectura funcional de los LLMs, identificando vulnerabilidades y contribuyendo al desarrollo de sistemas de IA m\u00e1s robustos y comprensibles. Las implicaciones futuras abarcan desde el desarrollo de herramientas de diagn\u00f3stico temprano hasta la formulaci\u00f3n de hip\u00f3tesis sobre la etiolog\u0131\u0301a de los trastornos del lenguaje y del pensamiento.</p>\n<p>Palabras clave: Grandes Modelos de Lenguaje, Degradaci\u00f3n Controlada, Simulaci\u00f3n Cognitiva, Neurociencia Computacional, Trastornos del Lenguaje, Gemma, Modelos In Silico.</p>\n<p>Buenos Aires, 2025</p>\n<p>Esta tesis no es p\u00fablica, consultar con el autor.</p>\n",
+        "protected": false
+      },
+      "excerpt": {
+        "rendered": "<p>Tesista: Alejandro Wainstock Director: Dr. Enzo Tagliazucchi &nbsp; Resumen. La  [&#8230;]</p>\n",
+        "protected": false
+      },
+      "author": 8,
+      "featured_media": 0,
+      "categories": [
+        33
+      ],
+      "tags": []
+    },
+    {
+      "id": 2803,
+      "date_gmt": "2025-08-27T17:54:43",
+      "modified_gmt": "2025-08-27T17:57:17",
+      "slug": "datame-las-charlas-de-lcd-romina-decurgez-y-gaston-de-battista-viernes-29-08-16hs",
+      "status": "publish",
+      "type": "post",
+      "link": "https://lcd.exactas.uba.ar/datame-las-charlas-de-lcd-romina-decurgez-y-gaston-de-battista-viernes-29-08-16hs/",
+      "title": {
+        "rendered": "D\u00c1TAME! las charlas de LCD &#8211; Romina Decurgez y Gaston De Battista &#8211; Viernes 29/08 16hs."
+      },
+      "content": {
+        "rendered": "<p>Este Viernes 29/08 tenemos <strong>D\u00c1TAME!</strong></p>\n<p>El encuentro ser\u00e1 a las <strong>16 hs.</strong> en el aula <strong>1402</strong>.</p>\n<p>La presentaci\u00f3n estar\u00e1 a cargo de <strong>Romina Decurgez</strong> y <strong>Gaston De Battista</strong> y el t\u00edtulo de la charla es: <strong>Datos, modelos y decisiones: el poder de la anal\u00edtica en el ciclo del cr\u00e9dito</strong></p>\n<p><strong>Sobre la charla</strong></p>\n<p>Veremos c\u00f3mo la ciencia de datos, el machine learning y la optimizaci\u00f3n matem\u00e1tica impactan en un caso real: el ciclo completo del cr\u00e9dito, desde la oferta hasta la cobranza. Una charla para descubrir c\u00f3mo lo que hoy estudian se convierte en soluciones que transforman mercados y generan inclusi\u00f3n financiera en escala.</p>\n<p><strong>Sobre los oradores</strong></p>\n<p><strong>Romina Decurgez</strong> es Directora Sr. de Riesgo de Cr\u00e9dito en Mercado Libre, donde desde 2020 impulsa la inclusi\u00f3n financiera en la regi\u00f3n, expandiendo las soluciones crediticias a m\u00e1s de 75 millones de usuarios en Brasil, M\u00e9xico, Argentina y Chile. Con formaci\u00f3n en matem\u00e1tica y m\u00e1s de 15 a\u00f1os de experiencia liderando equipos que se destacan en transformar grandes vol\u00famenes de informaci\u00f3n en conocimiento \u00fatil para la toma de decisiones estrat\u00e9gicas, combinando rigor t\u00e9cnico con una fuerte vocaci\u00f3n por generar impacto en escala.</p>\n<p><strong>Gaston De Battista</strong> es Head Regional de Desarrollo de Modelos de Riesgo de Cr\u00e9dito en Mercado Libre, con responsabilidad sobre las operaciones de Brasil, M\u00e9xico, Argentina y Chile. Licenciado en Administraci\u00f3n por la Universidad de Buenos Aires y con una Maestr\u00eda en Finanzas orientada a gesti\u00f3n de riesgos en la Universidad de San Andr\u00e9s, cuenta con m\u00e1s de 10 a\u00f1os de experiencia en Data Science. Ha liderado proyectos de modelado de riesgo y anal\u00edtica aplicada en compa\u00f1\u00edas como Invertir Online, BBVA, DirecTV y Telecom.</p>\n<p>Consultas: info.lcd@exactas.uba.ar</p>\n<p><strong>Sobre \u00a1D\u00c1TAME!</strong></p>\n<p>Este ciclo de charlas busca simult\u00e1neamente</p>\n<p>&#8211; Ser un lugar de encuentro entre todos/as los/as que nos sentimos cercanos a LCD ya sea por ser estudiantes de la carrera o carrera cercanas, docentes, investigadores/as interesados/as o simplemente amigos/as de LCD.</p>\n<p>&#8211; Ofrecer a estudiantes de la carrera un panorama amplio de posibles caminos que puede recorrer un/a especialista en ciencias de datos.</p>\n<p>&#8211; Exponer a estudiantes de LCD a importantes referentes de la disciplina que trabajan en diversos \u00e1mbitos (investigaci\u00f3n cient\u00edfica, empresas, organismos estatales, ONGs, etc. )</p>\n<p>&#8211; Aprender un mont\u00f3n de cosas sobre datos. Qu\u00e9 tipo de problemas se pueden resolver con ellos y cu\u00e1les no, qu\u00e9 precauciones debemos tener, qu\u00e9 desaf\u00edos afronta la disciplina y mucho m\u00e1s.</p>\n<p>&#8211; Evidenciar la diversidad de disciplinas que confluyen en esta carrera y experimentar c\u00f3mo interact\u00faan.</p>\n<p>&#8211; Compartir un buen rato, una vez por mes.</p>\n<p>Est\u00e1 destinado principalmente a estudiantes de la carrera, pero todas/os somos bienvenidas/os.</p>\n<p>Habitualmente, nos juntamos el 3er. viernes de cada mes a las 16hs., excepto en ocasiones especiales.</p>\n<p>\u00a1Las y los esperamos!</p>\n<p>Pablo y Ana</p>\n",
+        "protected": false
+      },
+      "excerpt": {
+        "rendered": "<p>Este Viernes 29/08 tenemos D\u00c1TAME! El encuentro ser\u00e1 a las  [&#8230;]</p>\n",
+        "protected": false
+      },
+      "author": 8,
+      "featured_media": 2804,
+      "categories": [
+        13,
+        9
+      ],
+      "tags": []
+    },
+    {
+      "id": 2793,
+      "date_gmt": "2025-08-05T21:41:33",
+      "modified_gmt": "2025-08-05T21:41:33",
+      "slug": "medicion-de-la-velocidad-del-habla-con-aprendizaje-profundo",
+      "status": "publish",
+      "type": "post",
+      "link": "https://lcd.exactas.uba.ar/medicion-de-la-velocidad-del-habla-con-aprendizaje-profundo/",
+      "title": {
+        "rendered": "Medici\u00f3n de la velocidad del habla con aprendizaje profundo"
+      },
+      "content": {
+        "rendered": "<p><strong>Tesista:</strong> Pedro Ortiz</p>\n<p><strong>Director:</strong> Pablo Riera</p>\n<p>&nbsp;</p>\n<p><strong>Resumen.</strong></p>\n<p>En esta tesis se aborda el problema de estimar la velocidad del habla \u2014medida en fonemas por segundo (FPS) o s\u0131\u0301labas por segundo (SPS)\u2014 a partir de se\u00f1ales ac\u00fasticas. Esta tarea resulta relevante en contextos educativos, cl\u00ednicos y tecnol\u00f3gicos, donde el ritmo del habla puede aportar informaci\u00f3n clave sobre la producci\u00f3n y comprensi\u00f3n del lenguaje. A diferencia de m\u00e9todos tradicionales que requieren transcripciones expl\u00edcitas, aqu\u00ed se propone una aproximaci\u00f3n que trabaja directamente sobre representaciones ac\u00fasticas derivadas del audio. Se utilizan posteriogramas, matrices temporales que reflejan la probabilidad de activaci\u00f3n de cada fonema a lo largo del tiempo, como entrada para modelos de regresi\u00f3n. Se exploran tanto modelos lineales con atributos fon\u00e9ticos dise\u00f1ados manualmente como arquitecturas neuronales convolucionales que operan sobre estas representaciones, en particular modelos 1D y 2D con distintas estrategias de convoluci\u00f3n y resumen temporal. Los resultados muestran que los modelos que preservan la estructura fon\u00e9tica de las representaciones alcanzan el mejor desempe\u00f1o en ambas tareas. Tambi\u00e9n se presentan experimentos controlados con oraciones en espa\u00f1ol e ingl\u00e9s, que permiten observar c\u00f3mo los modelos responden a cambios en el ritmo del habla, incluso fuera del dominio original de entrenamiento. Estos hallazgos refuerzan la idea de que un dise\u00f1o de modelo alineado con<br />\nla estructura del lenguaje puede mejorar significativamente la estimaci\u00f3n de la velocidad del habla.</p>\n<p>Palabras clave: Velocidad del habla, Posteriogramas, Fonemas por segundo, S\u00edlabas por segundo, Redes neuronales convolucionales, Reconocimiento del habla, Representaciones ac\u00fasticas.</p>\n<p>Buenos Aires, 2025</p>\n<p><strong>Descargar PDF</strong><br />\n<a  data-e-Disable-Page-Transition=\"true\" class=\"download-link\" title=\"\" href=\"https://lcd.exactas.uba.ar/download/2790/?tmstv=1775083711\" rel=\"nofollow\" id=\"download-link-2790\" data-redirect=\"false\" >\n\tMedici\u00f3n de la velocidad del habla con aprendizaje profundo</a>\n</p>\n",
+        "protected": false
+      },
+      "excerpt": {
+        "rendered": "<p>Tesista: Pedro Ortiz Director: Pablo Riera &nbsp; Resumen. En esta  [&#8230;]</p>\n",
+        "protected": false
+      },
+      "author": 8,
+      "featured_media": 0,
+      "categories": [
+        33
+      ],
+      "tags": []
+    },
+    {
+      "id": 2788,
+      "date_gmt": "2025-08-05T21:36:32",
+      "modified_gmt": "2025-08-05T21:36:32",
+      "slug": "extraccion-de-informacion-de-datos-de-texto-libre",
+      "status": "publish",
+      "type": "post",
+      "link": "https://lcd.exactas.uba.ar/extraccion-de-informacion-de-datos-de-texto-libre/",
+      "title": {
+        "rendered": "Extracci\u00f3n de informaci\u00f3n de datos de texto libre"
+      },
+      "content": {
+        "rendered": "<p><strong>Tesista:</strong> Ignacio Rodr\u00edguez Sa\u00f1udo</p>\n<p><strong>Director:</strong> Germ\u00e1n Rosati<br />\n<strong>Codirector:</strong> Juan Kamienkowski</p>\n<p>&nbsp;</p>\n<p><strong>Resumen.</strong></p>\n<p>La extracci\u00f3n de informaci\u00f3n a partir de datos de texto libre es un proceso fundamental para transformar grandes vol\u00famenes de informaci\u00f3n no estructurada en formatos organizados y analizables. Esta tarea adquiere especial relevancia en dominios espec\u00edficos, como el an\u00e1lisis de denuncias y testimonios, donde el vocabulario, la sem\u00e1ntica y los formatos de redacci\u00f3n presentan particularidades. Sin embargo, la aplicaci\u00f3n de t\u00e9cnicas de extracci\u00f3n de informaci\u00f3n en estos contextos se enfrenta a desaf\u00edos como la escasez de datos anotados, limitaciones en los recursos computacionales y la necesidad de proteger la privacidad de la informaci\u00f3n sensible. Este trabajo se centra en evaluar la factibilidad de emplear modelos de lenguaje autorregresivos para la extracci\u00f3n de informaci\u00f3n en textos en espa\u00f1ol provenientes del dominio de denuncias y testimonios. Se investiga el rendimiento de tres variantes de la familia Gemma 3 (con 4, 12 y 27 mil millones de par\u00e1metros), exploradas como una alternativa viable para su ejecuci\u00f3n local, frente a restricciones de privacidad y recursos. Adem\u00e1s, se utiliza el modelo Gemini 2.5 Flash, que permite contrastar el desempe\u00f1o de un modelo comercial de acceso remoto frente a soluciones que podr\u00edan implementarse de forma local. Para este estudio, se definieron dos tareas principales de extracci\u00f3n: en primer lugar, la extracci\u00f3n de entidades correspondientes a las categor\u00edas PERSONA, LUGAR, ORGANIZACI\u00d3N y FECHA. Esta tarea se abord\u00f3 utilizando enfoques de zero-shot y one-shot learning, con prompts dise\u00f1ados tanto en espa\u00f1ol como en ingl\u00e9s, con el objetivo de evaluar el impacto del idioma del prompt en el rendimiento de los modelos. En segundo lugar, se llev\u00f3 a cabo la detecci\u00f3n de eventos de tipo CAPTURA y ASESINATO, empleando estrategias de one-shot learning con prompts en espa\u00f1ol. La evaluaci\u00f3n de ambas tareas se realiz\u00f3 sobre un corpus de 64 documentos del Proyecto Angelus de M\u00e9xico, utilizando m\u00e9tricas de precisi\u00f3n, recall y F1-score. Los resultados demuestran una mejora consistente en el rendimiento a medida que aumenta el tama\u00f1o del modelo, siendo la variante Gemma 3 de 27 mil millones de par\u00e1metros la que obtiene los mejores resultados dentro de las opciones de tama\u00f1o moderado. En la tarea de extracci\u00f3n de entidades, este modelo alcanza un rendimiento comparable, aunque ligeramente inferior al de Gemini 2.5 Flash. En la extracci\u00f3n de eventos, Gemini 2.5 Flash obtiene, con diferencia, mejores resultados que todas las variantes de Gemma 3. Se concluye que la utilizaci\u00f3n de modelos de lenguaje autorregresivos, como la variante Gemma 3 de 27 mil millones de par\u00e1metros, resulta factible y ofrece un rendimiento prometedor para la extracci\u00f3n de entidades en textos de denuncias y testimonios, especialmente en contextos con restricciones de recursos y privacidad. Sin embargo, para tareas de mayor complejidad, como la extracci\u00f3n de eventos, puede ser conveniente emplear modelos de mayor escala, como Gemini 2.5 Flash, que demuestra una clara superioridad en desempe\u00f1o.</p>\n<p>Palabras claves: extracci\u00f3n de informaci\u00f3n, modelos de lenguaje, procesamiento del lenguaje natural, extracci\u00f3n de entidades nombradas, extracci\u00f3n de eventos, instruction tuning, in-context learning, Gemma 3, Gemini 2.5, dominio espec\u00edfico, privacidad de datos.</p>\n<p>&nbsp;</p>\n<p>Buenos Aires, 2025</p>\n<p><strong>Descargar PDF</strong><br />\n<a  data-e-Disable-Page-Transition=\"true\" class=\"download-link\" title=\"\" href=\"https://lcd.exactas.uba.ar/download/2785/?tmstv=1775083712\" rel=\"nofollow\" id=\"download-link-2785\" data-redirect=\"false\" >\n\tExtracci\u00f3n de informaci\u00f3n de datos de texto libre</a>\n</p>\n",
+        "protected": false
+      },
+      "excerpt": {
+        "rendered": "<p>Tesista: Ignacio Rodr\u00edguez Sa\u00f1udo Director: Germ\u00e1n Rosati Codirector: Juan Kamienkowski  [&#8230;]</p>\n",
+        "protected": false
+      },
+      "author": 8,
+      "featured_media": 0,
+      "categories": [
+        33
+      ],
+      "tags": []
+    },
+    {
+      "id": 2783,
+      "date_gmt": "2025-08-05T21:31:12",
+      "modified_gmt": "2025-08-05T21:31:12",
+      "slug": "ciencia-de-datos-aplicada-al-estudio-de-las-desigualdades-socioeconomicas-y-territoriales-en-la-realizacion-de-papanicolaou-en-argentina",
+      "status": "publish",
+      "type": "post",
+      "link": "https://lcd.exactas.uba.ar/ciencia-de-datos-aplicada-al-estudio-de-las-desigualdades-socioeconomicas-y-territoriales-en-la-realizacion-de-papanicolaou-en-argentina/",
+      "title": {
+        "rendered": "Ciencia de datos aplicada al estudio de las desigualdades socioecon\u00f3micas y territoriales en la realizaci\u00f3n de Papanicolaou en Argentina"
+      },
+      "content": {
+        "rendered": "<p><strong>Tesista:</strong> Valentina Camila Dur\u00e1n</p>\n<p><strong>Directora:</strong> Mar\u00eda Soledad F\u00e9rnandez<br />\n<strong>Codirectora:</strong> Luciana Bruno</p>\n<p>&nbsp;</p>\n<p><strong>Resumen.</strong></p>\n<p>El c\u00e1ncer de cuello de \u00fatero es una enfermedad prevenible, pero a\u00fan causa alrededor de 2.200 muertes anuales en Argentina. La prueba de Papanicolaou (PAP) es uno de los m\u00e9todos m\u00e1s efectivos para su detecci\u00f3n temprana y forma parte de las estrategias recomendadas de prevenci\u00f3n. Sin embargo, no todas las mujeres acceden por igual a esta pr\u00e1ctica: su realizaci\u00f3n est\u00e1 asociada a factores socioecon\u00f3micos y territoriales, siendo significativamente menor en los grupos en situaci\u00f3n de mayor vulnerabilidad socioecon\u00f3mica. El objetivo de esta tesis es identificar desigualdades en la realizaci\u00f3n del PAP en Argentina, caracterizando los grupos de mujeres con menor probabilidad de acceso. Para ello se utiliz\u00f3 la Encuesta Nacional de Factores de Riesgo (ENFR) 2018, aplicando an\u00e1lisis exploratorios, que incluy\u00f3 la construcci\u00f3n de indicadores socioecon\u00f3micos y habitacionales, y distintos enfoques de modelado: regresi\u00f3n log\u0131\u0301stica, regularizaci\u00f3n LASSO y algoritmos de Machine Learning (Random Forest y LightGBM).<br />\nLos resultados de los modelos fueron consistentes en cuanto a la identificaci\u00f3n de variables relacionadas con la realizaci\u00f3n de PAPs: mujeres de hogares con mayores niveles de precariedad, sin cobertura de salud y con menor instrucci\u00f3n se relacionaron con menor realizaci\u00f3n de la pr\u00e1ctica preventiva y por ende conforman un grupo con mayor riesgo. Por otro lado, la jurisdicci\u00f3n de residencia fue una variable relevante, mostrando la existencia de desigualdades territoriales en la realizaci\u00f3n de esta pr\u00e1ctica. El desempe\u00f1o de todos los modelos ajustados en cuanto a su capacidad de predecir nuevos datos fue similar. Estos hallazgos refuerzan la evidencia sobre las desigualdades en salud y ofrecen insumos para el dise\u00f1o de pol\u00edticas p\u00fablicas focalizadas, que promuevan el acceso equitativo a pr\u00e1cticas preventivas como lo es el PAP. Adem\u00e1s, el an\u00e1lisis comparado de modelos sugiere que, en contextos como la salud p\u00fablica, los enfoques explicativos \u2014como la regresi\u00f3n log\u00edstica\u2014 siguen siendo herramientas valiosas, tanto por su capacidad predictiva como por su mayor interpretabilidad para informar decisiones basadas en evidencia.</p>\n<p>Palabras claves: Realizaci\u00f3n de Papanicolaou, desigualdades en salud, regresi\u00f3n log\u00edstica, LASSO, Random Forest, LightGBM.</p>\n<p>Buenos Aires, 2025</p>\n<p><strong>Descargar PDF</strong><br />\n<a  data-e-Disable-Page-Transition=\"true\" class=\"download-link\" title=\"Version duran\" href=\"https://lcd.exactas.uba.ar/download/2780/?tmstv=1775083712\" rel=\"nofollow\" id=\"download-link-2780\" data-redirect=\"false\" >\n\tCiencia de datos aplicada al estudio de las desigualdades socioecon\u00f3micas y territoriales en la realizaci\u00f3n de Papanicolaou en Argentina</a>\n</p>\n",
+        "protected": false
+      },
+      "excerpt": {
+        "rendered": "<p>Tesista: Valentina Camila Dur\u00e1n Directora: Mar\u00eda Soledad F\u00e9rnandez Codirectora: Luciana  [&#8230;]</p>\n",
+        "protected": false
+      },
+      "author": 8,
+      "featured_media": 0,
+      "categories": [
+        33
+      ],
+      "tags": []
+    },
+    {
+      "id": 2778,
+      "date_gmt": "2025-08-05T21:27:05",
+      "modified_gmt": "2025-08-05T21:27:21",
+      "slug": "modelos-de-aprendizaje-automatico-para-identificacion-de-estudiantes-en-riesgo-de-abandono-en-la-facultad-de-ciencias-exactas-y-naturales-de-la-universidad-de-buenos-aires",
+      "status": "publish",
+      "type": "post",
+      "link": "https://lcd.exactas.uba.ar/modelos-de-aprendizaje-automatico-para-identificacion-de-estudiantes-en-riesgo-de-abandono-en-la-facultad-de-ciencias-exactas-y-naturales-de-la-universidad-de-buenos-aires/",
+      "title": {
+        "rendered": "Modelos de Aprendizaje Autom\u00e1tico para identificaci\u00f3n de estudiantes en riesgo de abandono en la Facultad de Ciencias Exactas y Naturales de la Universidad de Buenos Aires"
+      },
+      "content": {
+        "rendered": "<p><strong>Tesista:</strong> Sol Anabella Calloni</p>\n<p><strong>Director:</strong> Mtr. Mart\u0131\u0301n Pustilnik<br />\n<strong>Codirector:</strong> Dr. Guillermo Dur\u00e1n</p>\n<p>&nbsp;</p>\n<p><strong>Resumen.</strong></p>\n<p>En promedio, 19.96 % de los inscriptos al Ciclo B\u00e1sico Com\u00fan (CBC) en la Facultad de Ciencias Exactas y Naturales (FCEN) de la Universidad de Buenos Aires (UBA) egresan, mientras que en el Sistema Universitario Argentino egresa el 23.06 %. Entendemos que el abandono estudiantil es, tal vez, el factor individual m\u00e1s importante que explica estos porcentajes de egreso. Con el fin de enfocarse en la emisi\u00f3n de alertas tempranas en lugar de identificar un \u201cabandono definitivo\u201d, se defini\u00f3 un umbral de nivel de actividad de los estudiantes por semestre a partir del cual se los considera en \u201criesgo de abandono\u201d. Entre las acciones para prevenir el abandono estudiantil, la FCEN realiza encuestas a ingresantes desde 2002, inicialmente en papel y, a partir de 2023, en formato digital con identificaci\u00f3n nominal, lo que permite vincular las respuestas con datos del CBC y de las carreras. Estas encuestas sustentan un sistema de tutor\u00edas dentro del programa +Acompa\u00f1amiento 1 . Asimismo, desde 2009, la FCEN cuenta con el \u201cPrograma Ingresantes CBC Exactas\u201d, que ofrece una Charla de Bienvenida, un Curso Previo de Matem\u00e1tica (CPM) y tutor\u0131\u0301as docentes para estudiantes del CBC de las carreras de la facultad. En este trabajo implementamos modelos de Aprendizaje Autom\u00e1tico basados en los datos del Sistema de Informaci\u00f3n Universitaria Guaran\u0131\u0301 (SIU-Guaran\u00ed) del Ciclo B\u00e1sico Com\u00fan (CBC) y del SIU-Guaran\u00ed del FCEN, con la perspectiva te\u00f3rica de autores de referencia y la de otros actores de la misma universidad. Una vez entrenados, son capaces de detectar estudiantes con alto riesgo de abandono, a la vez que permiten indagar en algunos de los motivos subyacentes. Se realiz\u00f3 una investigaci\u00f3n bibliogr\u00e1fica de los modelos empleados hasta la fecha, haciendo foco en aquellos que utilizaran Aprendizaje Autom\u00e1tico. Luego, se desarrollaron modelos que proporcionan alertas tempranas de abandono en el contexto del FCEN, para poder intervenir y asistir a las personas antes de que abandonen. Se encontraron variables cuyo abandono condicional era significativamente distinto al abandono poblacional, por lo que se las podr\u00eda utilizar para mejorar futuros modelos. Se utilizaron m\u00e9tricas como Exactitud, \u00e1rea bajo la curva ROC (AUC ROC) y Exactitud Balanceada para medir el rendimiento de los modelos, alcanzando 0.845 de Exactitud Balanceada para el mejor de ellos.</p>\n<p>Palabras clave: \u201cAprendizaje Autom\u00e1tico\u201d, \u201cRandom Forest\u201d, \u201cRiesgo de abandono\u201d, \u201cAlerta temprana de riesgo de abandono\u201d</p>\n<p>Buenos Aires, 2025</p>\n<p><strong>Descargar PDF</strong><br />\n<a  data-e-Disable-Page-Transition=\"true\" class=\"download-link\" title=\"\" href=\"https://lcd.exactas.uba.ar/download/2775/?tmstv=1775083712\" rel=\"nofollow\" id=\"download-link-2775\" data-redirect=\"false\" >\n\tModelos de Aprendizaje Autom\u00e1tico para identificaci\u00f3n de estudiantes en riesgo de abandono en la Facultad de Ciencias Exactas y Naturales de la Universidad de Buenos Aires</a>\n</p>\n",
+        "protected": false
+      },
+      "excerpt": {
+        "rendered": "<p>Tesista: Sol Anabella Calloni Director: Mtr. Mart\u0131\u0301n Pustilnik Codirector: Dr.  [&#8230;]</p>\n",
+        "protected": false
+      },
+      "author": 8,
+      "featured_media": 0,
+      "categories": [
+        33
+      ],
+      "tags": []
+    },
+    {
+      "id": 2773,
+      "date_gmt": "2025-08-05T20:58:28",
+      "modified_gmt": "2025-08-05T20:58:28",
+      "slug": "clasificacion-de-transiciones-de-turno-en-conversaciones-humano-humano-utilizando-llms",
+      "status": "publish",
+      "type": "post",
+      "link": "https://lcd.exactas.uba.ar/clasificacion-de-transiciones-de-turno-en-conversaciones-humano-humano-utilizando-llms/",
+      "title": {
+        "rendered": "Clasificaci\u00f3n de transiciones de turno en conversaciones humano-humano utilizando LLMs"
+      },
+      "content": {
+        "rendered": "<p><strong>Tesista:</strong> Tom\u00e1s Ravel</p>\n<p><strong>Director:</strong> Pablo Brusco</p>\n<p>&nbsp;</p>\n<p><strong>Resumen.</strong></p>\n<p>El an\u00e1lisis autom\u00e1tico de eventos en conversaciones habladas entre humanos, o entre humanos y sistemas, es una tarea fundamental para el desarrollo de sistemas de di\u00e1logo m\u00e1s naturales y eficientes. En particular, la clasificaci\u00f3n de transiciones de turno en conversaciones permite a los asistentes virtuales entender cu\u00e1ndo es un buen momento para interrumpir en una conversaci\u00f3n, cu\u00e1ndo no, entender la intenci\u00f3n del usuario, entre otros aspectos. Asimismo, la comunidad ling\u00fc\u00edstica puede beneficiarse de sistemas que en pocos segundos crean reportes sobre estas interacciones que, tiempo atr\u00e1s, habr\u00edan requerido horas de escucha y anotaci\u00f3n manual. En las \u00faltimas dos d\u00e9cadas, este problema se ha abordado mediante modelos de aprendizaje supervisado que utilizan una combinaci\u00f3n de atributos ac\u00fastico-pros\u00f3dicos y l\u00e9xicos. Esta tesis explora un paradigma alternativo: el uso de Modelos de Lenguaje de Gran Escala (LLMs) para la clasificaci\u00f3n offline de transiciones de turno, sin necesidad de entrenamiento espec\u00edfico para esta tarea. El objetivo principal es evaluar la viabilidad de este enfoque con muy poca supervisi\u00f3n \u2013 cada vez m\u00e1s popular como paradigma de resoluci\u00f3n de problemas \u2013 y comparar su rendimiento contra los m\u00e9todos tradicionales, que s\u00ed requieren de una cantidad significativa de datos de entrenamiento. Para ello, realizamos una serie de experimentos sobre el UBA Games Corpus, una colecci\u00f3n de di\u00e1logos en espa\u00f1ol orientados a tareas. Se evaluaron los modelos LLaMA 3.3-70B y Gemini 2.5 Pro \u2013 que utilizan \u00fanicamente las transcripciones del di\u00e1logo como entrada, es decir, no utilizan informaci\u00f3n de la se\u00f1al ac\u00fastica \u2013 mediante t\u00e9cnicas de prompting, explorando sistem\u00e1ticamente distintas estrategias de representaci\u00f3n del problema, como la inclusi\u00f3n de ejemplos (few-shot), el formato de los datos y las distintas representaciones del conjunto de etiquetas. El rendimiento se midi\u00f3 utilizando la m\u00e9trica Macro F1 y se compar\u00f3 con un modelo de referencia basado en Redes Neuronales Recurrentes (RNNs) entrenado con atributos ac\u00fasticos. Los resultados demuestran que, si bien el enfoque basado en LLMs no logra superar el rendimiento global del baseline ac\u00fastico (Macro F1 de 0.55 frente a 0.67), s\u00ed muestra una capacidad notable para comprender la tarea a pesar de no haber sido entrenado espec\u00edficamente para ello. Es destacable que el mejor modelo (Gemini 2.5 Pro) super\u00f3 al baseline en la clasificaci\u00f3n de categor\u00edas sem\u00e1nticamente complejas, como las interrupciones. Se concluye que, aunque la informaci\u00f3n pros\u00f3dica sigue siendo crucial, los LLMs son capaces de capturar eficazmente pistas l\u00e9xicas y estructurales del texto. Este trabajo sienta las bases para futuras investigaciones, no solo en sistemas h\u00edbridos que combinen la potencia sem\u00e1ntica de los LLMs con la sensibilidad de los sistemas cl\u00e1sicos, sino tambi\u00e9n en la exploraci\u00f3n de arquitecturas multimodales capaces de procesar directamente la se\u00f1al de audio.</p>\n<p>Palabras clave: manejo de turnos, clasificaci\u00f3n de transiciones, modelos de lenguaje grandes (LLMs), procesamiento del lenguaje natural, an\u00e1lisis de conversaciones, prompting.</p>\n<p>Buenos Aires, 2025</p>\n<p><strong>Descargar PDF</strong><br />\n<a  data-e-Disable-Page-Transition=\"true\" class=\"download-link\" title=\"\" href=\"https://lcd.exactas.uba.ar/download/2769/?tmstv=1775083712\" rel=\"nofollow\" id=\"download-link-2769\" data-redirect=\"false\" >\n\tClasificaci\u00f3n de transiciones de turno en conversaciones humano-humano utilizando LLMs</a>\n</p>\n",
+        "protected": false
+      },
+      "excerpt": {
+        "rendered": "<p>Tesista: Tom\u00e1s Ravel Director: Pablo Brusco &nbsp; Resumen. El an\u00e1lisis  [&#8230;]</p>\n",
+        "protected": false
+      },
+      "author": 8,
+      "featured_media": 0,
+      "categories": [
+        33
+      ],
+      "tags": []
+    }
+  ]
+}

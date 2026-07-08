@@ -1,0 +1,37 @@
+{
+  "id": "post:2273",
+  "entity_type": "post",
+  "source_id": 2273,
+  "slug": "abordando-el-espacio-combinatorio-en-recomendaciones-de-ranking-mediante-la-descomposicion-de-acciones-en-reinforcement-learning",
+  "route_slug": "post--2273--abordando-el-espacio-combinatorio-en-recomendaciones-de-ranking-mediante-la-descomposicion-de-acciones-en-reinforcement-learning",
+  "title": "Abordando el espacio combinatorio en recomendaciones de ranking mediante la descomposición de acciones en reinforcement learning",
+  "source_url": "https://lcd.exactas.uba.ar/abordando-el-espacio-combinatorio-en-recomendaciones-de-ranking-mediante-la-descomposicion-de-acciones-en-reinforcement-learning/",
+  "created_at": "2023-10-02T18:44:51",
+  "modified_at": "2023-10-02T18:44:51",
+  "sort_date": "2023-10-02T18:44:51",
+  "status": "publish",
+  "excerpt_plain": "Resumen. El uso del aprendizaje por refuerzo, también conocido como Reinforcement […]",
+  "text": "Resumen. El uso del aprendizaje por refuerzo, también conocido como Reinforcement Learning (RL), cuenta con la capacidad de optimizar métricas a largo plazo, a diferencia de técnicas tradicionales de Machine Learning. Sin embargo, en el caso de recomendaciones de contenido (e.g., recomendaciones de películas de Netflix), donde el espacio de posibles acciones es muy grande, se suelen hacer restricciones en qué se recomienda para reducir el tamaño de dicho espacio. Este estudio propone investigar una nueva representación de los agentes de RL donde, en lugar de limitar el espacio de acciones, se limita el espacio de distribución que puede ser representada sobre todas las acciones. Palabras clave. Machine Learning, Reinforcement Learning, Recommender Systems, Learning to Rank Conocimientos deseables. Estadística, Reinforcement Learning, Machine Learning, Python, PyTorch ¿Qué podría aprender quien realice esta tesis? – El estudiante aprenderá técnicas de recomendaciones usadas actualmente en la industria y sus limitaciones. Habrá un énfasis en las técnicas basadas en reinforcement learning. Dirección de la tesis Garcia, Francisco Roku | Search and Recommendations Contacto: fmaxgarcia@gmail.com Descargar PDF Abordando el espacio combinatorio en recomendaciones de ranking mediante la descomposición de acciones en reinforcement learning",
+  "html_clean": "<p><strong>Resumen. </strong>El uso del aprendizaje por refuerzo, también conocido como Reinforcement Learning (RL), cuenta con la capacidad de optimizar métricas a largo plazo, a diferencia de técnicas tradicionales de Machine Learning. Sin embargo, en el caso de recomendaciones de contenido (e.g., recomendaciones de películas de Netflix), donde el espacio de posibles acciones es muy grande, se suelen hacer restricciones en qué se recomienda para reducir el tamaño de dicho espacio. Este estudio propone investigar una nueva representación de los agentes de RL donde, en lugar de limitar el espacio de acciones, se limita el espacio de distribución que puede ser representada sobre todas las acciones.</p>\n<p><strong>Palabras clave.</strong> Machine Learning, Reinforcement Learning, Recommender Systems, Learning to Rank</p>\n<p><strong>Conocimientos deseables.</strong> Estadística, Reinforcement Learning, Machine Learning, Python, PyTorch</p>\n<p><strong>¿Qué podría aprender quien realice esta tesis? </strong>&#8211; El estudiante aprenderá técnicas de recomendaciones usadas actualmente en la industria y sus limitaciones. Habrá un énfasis en las técnicas basadas en reinforcement learning.</p>\n<p><strong>Dirección de la tesis</strong><br />\nGarcia, Francisco<br />\nRoku | Search and Recommendations<br />\nContacto: fmaxgarcia@gmail.com</p>\n<p><strong>Descargar PDF<br />\n</strong><a  class=\"download-link\" title=\"\" href=\"https://lcd.exactas.uba.ar/download/2270/?tmstv=1775083716\" rel=\"nofollow\" id=\"download-link-2270\" >\n\tAbordando el espacio combinatorio en recomendaciones de ranking mediante la descomposición de acciones en reinforcement learning</a>\n</p>",
+  "render_mode": "html_clean",
+  "attachments": [
+    {
+      "url": "https://lcd.exactas.uba.ar/download/2270/?tmstv=1775083716",
+      "label": "Descargar PDF",
+      "kind": "pdf",
+      "is_download_like": true
+    }
+  ],
+  "has_attachments": true,
+  "attachment_count": 1,
+  "outlinks": [
+    {
+      "url": "https://lcd.exactas.uba.ar/download/2270/?tmstv=1775083716",
+      "kind": "internal"
+    }
+  ],
+  "is_index_like": false,
+  "index_like_reason": null,
+  "content_hash": "sha256:6bdbeeb745050698e4d201f98c52a86d2364127eb63c7a7c98fa4f582d6570d1",
+  "search_text": "Abordando el espacio combinatorio en recomendaciones de ranking mediante la descomposición de acciones en reinforcement learning abordando-el-espacio-combinatorio-en-recomendaciones-de-ranking-mediante-la-descomposicion-de-acciones-en-reinforcement-learning Resumen. El uso del aprendizaje por refuerzo, también conocido como Reinforcement […] Resumen. El uso del aprendizaje por refuerzo, también conocido como Reinforcement Learning (RL), cuenta con la capacidad de optimizar métricas a largo plazo, a diferencia de técnicas tradicionales de Machine Learning. Sin embargo, en el caso de recomendaciones de contenido (e.g., recomendaciones de películas de Netflix), donde el espacio de posibles acciones es muy grande, se suelen hacer restricciones en qué se recomienda para reducir el tamaño de dicho espacio. Este estudio propone investigar una nueva representación de los agentes de RL donde, en lugar de limitar el espacio de acciones, se limita el espacio de distribución que puede ser representada sobre todas las acciones. Palabras clave. Machine Learning, Reinforcement Learning, Recommender Systems, Learning to Rank Conocimientos deseables. Estadística, Reinforcement Learning, Machine Learning, Python, PyTorch ¿Qué podría aprender quien realice esta tesis? – El estudiante aprenderá técnicas de recomendaciones usadas actualmente en la industria y sus limitaciones. Habrá un énfasis en las técnicas basadas en reinforcement learning. Dirección de la tesis Garcia, Francisco Roku | Search and Recommendations Contacto: fmaxgarcia@gmail.com Descargar PDF Abordando el espacio combinatorio en recomendaciones de ranking mediante la descomposición de acciones en reinforcement learning"
+}

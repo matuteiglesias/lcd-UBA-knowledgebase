@@ -1,0 +1,668 @@
+{
+  "entity": "post",
+  "page": 4,
+  "per_page": 25,
+  "source_url": "https://lcd.exactas.uba.ar/wp-json/wp/v2/posts?page=4&per_page=25&_fields=id%2Cdate_gmt%2Cmodified_gmt%2Cslug%2Cstatus%2Ctype%2Clink%2Ctitle%2Ccontent%2Cexcerpt%2Cauthor%2Cfeatured_media%2Cparent%2Cmenu_order%2Ccategories%2Ctags",
+  "headers": {
+    "x-wp-total": "239",
+    "x-wp-totalpages": "10"
+  },
+  "items": [
+    {
+      "id": 2400,
+      "date_gmt": "2024-04-16T17:25:15",
+      "modified_gmt": "2024-04-16T17:25:15",
+      "slug": "datame-las-charlas-de-lcd-ana-amador-viernes-19-4-16hs",
+      "status": "publish",
+      "type": "post",
+      "link": "https://lcd.exactas.uba.ar/datame-las-charlas-de-lcd-ana-amador-viernes-19-4-16hs/",
+      "title": {
+        "rendered": "D\u00c1TAME! las charlas de LCD &#8211; Ana Amador &#8211; Viernes 19/4 16hs"
+      },
+      "content": {
+        "rendered": "<p><span style=\"font-family: Verdana, Geneva, sans-serif;\"><span style=\"font-size: small;\">Este viernes 19/4 hay </span></span><strong><span style=\"font-family: Verdana, Geneva, sans-serif;\"><span style=\"font-size: small;\">D\u00e1tame!</span></span></strong><span style=\"font-family: Verdana, Geneva, sans-serif;\"><span style=\"font-size: small;\"> El encuentro es a las 16hs. en el aula 1402 del Edificio 0+Infinito.</span></span></p>\n<p><span style=\"font-family: Verdana, Geneva, sans-serif;\"><span style=\"font-size: small;\">Esta vez, la charla estar\u00e1 a cargo de </span></span><strong><span style=\"font-family: Verdana, Geneva, sans-serif;\"><span style=\"font-size: small;\">Ana Amador (Dpto de F\u00edsica, Exactas-UBA e INFINA-CONICET)</span></span></strong><span style=\"font-family: Verdana, Geneva, sans-serif;\"><span style=\"font-size: small;\">. El t\u00edtulo de la charla es: </span></span><strong><span style=\"font-family: Verdana, Geneva, sans-serif;\"><span style=\"font-size: small;\">Neurociencias y reducci\u00f3n de dimensionalidad: de millones de neuronas al comportamiento</span></span></strong></p>\n<p><span style=\"font-family: Verdana, Geneva, sans-serif;\"><span style=\"font-size: small;\"><br />\n</span></span><strong><span style=\"font-family: Verdana, Geneva, sans-serif;\"><span style=\"font-size: small;\">Sobre la charla</span></span></strong></p>\n<p><span style=\"font-family: verdana, geneva, sans-serif;\"><span style=\"font-size: small;\">Una pregunta central en el \u00e1rea de neurociencias es c\u00f3mo emerge el comportamiento a partir de la interacci\u00f3n de grandes cantidades de neuronas. En esta charla tomar\u00e9 la producci\u00f3n de vocalizaciones de aves como ejemplo de un comportamiento complejo que requiere la delicada coordinaci\u00f3n de m\u00fasculos respiratorios y del aparato vocal. Veremos distintas estrategias para estudiar c\u00f3mo emergen en el cerebro de un ave las caracter\u00edsticas r\u00edtmicas del canto, mostrando los desaf\u00edos involucrados para extraer informaci\u00f3n relevante de la actividad neuronal en redes biol\u00f3gicas complejas.</span></span></p>\n<p><strong><span style=\"font-family: Verdana, Geneva, sans-serif;\"><span style=\"font-size: small;\">Sobre Ana</span></span></strong></p>\n<p><span style=\"font-family: verdana, geneva, sans-serif;\"><span style=\"font-size: small;\">Ana ha estado trabajando con datos toda su vida cient\u00edfica. Empez\u00f3 su carrera cient\u00edfica en temas de epidemiolog\u00eda, primero con datos de la epidemia de Fiebre Aftosa del 2001 en Argentina, para luego trabajar en Brasil con datos de Tuberculosis. Volvi\u00f3 a Argentina para realizar su doctorado en f\u00edsica (UBA) en los mecanismos de fonaci\u00f3n de aves y nunca m\u00e1s dej\u00f3 la interdisciplina. Realiz\u00f3 un postdoctorado en Neurociencias en la Universidad de Chicago y volvi\u00f3 a Argentina en el 2012. Desde entonces es profesora e investigadora en el CONICET y en el departamento de F\u00edsica de Exactas, UBA, trabajando en neurociencia del canto de aves.</span></span></p>\n<p><span style=\"font-family: Verdana, Geneva, sans-serif;\"><span style=\"font-size: small;\">Consultas: <a href=\"mailto:info.lcd@exactas.uba.ar\" target=\"_blank\" rel=\"noopener noreferrer\">info.lcd@exactas.uba.ar</a> </span></span></p>\n<p><span style=\"font-family: Verdana, Geneva, sans-serif;\"><span style=\"font-size: small;\"><br />\nSobre \u00a1D\u00c1TAME!</p>\n<p>Este ciclo de charlas busca simult\u00e1neamente:</p>\n<p>&#8211; Ser un lugar de encuentro entre todos/as los/as que nos sentimos cercanos a LCD ya sea por ser estudiantes de la carrera o carrera cercanas, docentes, investigadores/as interesados/as o simplemente amigos/as de LCD.</p>\n<p>&#8211; Ofrecer a estudiantes de la carrera un panorama amplio de posibles caminos que puede recorrer un/a especialista en ciencias de datos.</p>\n<p>&#8211; Exponer a estudiantes de LCD a importantes referentes de la disciplina que trabajan en diversos \u00e1mbitos (investigaci\u00f3n cient\u00edfica, empresas, organismos estatales, ONGs, etc. )</p>\n<p>&#8211; Aprender un mont\u00f3n de cosas sobre datos. Qu\u00e9 tipo de problemas se pueden resolver con ellos y cu\u00e1les no, qu\u00e9 precauciones debemos tener, qu\u00e9 desaf\u00edos afronta la disciplina y mucho m\u00e1s.</p>\n<p>&#8211; Evidenciar la diversidad de disciplinas que confluyen en esta carrera y experimentar c\u00f3mo interact\u00faan.</p>\n<p>&#8211; Compartir un buen rato, un viernes a la tarde, una vez por mes.</p>\n<p>Est\u00e1 destinado principalmente a estudiantes de la carrera, pero todas/os somos bienvenidas/os.</p>\n<p>Nos juntamos el 3er. viernes de cada mes a las 16hs.</p>\n<p>\u00a1Las y los esperamos!</span></span></p>\n",
+        "protected": false
+      },
+      "excerpt": {
+        "rendered": "<p>Este viernes 19/4 hay D\u00e1tame! El encuentro es a las  [&#8230;]</p>\n",
+        "protected": false
+      },
+      "author": 8,
+      "featured_media": 2401,
+      "categories": [
+        13,
+        9
+      ],
+      "tags": []
+    },
+    {
+      "id": 2397,
+      "date_gmt": "2024-04-15T15:42:36",
+      "modified_gmt": "2024-04-15T15:50:04",
+      "slug": "jueves-18-de-abril-charla-vocacional-de-la-carrera-de-datos",
+      "status": "publish",
+      "type": "post",
+      "link": "https://lcd.exactas.uba.ar/jueves-18-de-abril-charla-vocacional-de-la-carrera-de-datos/",
+      "title": {
+        "rendered": "Jueves 18 de Abril charla vocacional de la carrera de Datos"
+      },
+      "content": {
+        "rendered": "<p>Queremos informales que este jueves 18 de Abril se dar\u00e1 la charla introductoria de Ciencias de Datos a quienes est\u00e1n eligiendo sus carreras. Los esperamos a las 14 hs en el Hall de Entrada del 0+Infinito.</p>\n",
+        "protected": false
+      },
+      "excerpt": {
+        "rendered": "<p>Queremos informales que este jueves 18 de Abril se dar\u00e1  [&#8230;]</p>\n",
+        "protected": false
+      },
+      "author": 8,
+      "featured_media": 2399,
+      "categories": [
+        9,
+        1
+      ],
+      "tags": []
+    },
+    {
+      "id": 2391,
+      "date_gmt": "2024-03-19T18:02:13",
+      "modified_gmt": "2024-03-19T21:53:20",
+      "slug": "datame-las-charlas-de-lcd-daniela-rodriguez-viernes-22-3-16hs",
+      "status": "publish",
+      "type": "post",
+      "link": "https://lcd.exactas.uba.ar/datame-las-charlas-de-lcd-daniela-rodriguez-viernes-22-3-16hs/",
+      "title": {
+        "rendered": "D\u00c1TAME! las charlas de LCD &#8211; Daniela Rodriguez &#8211; Viernes 22/3 16hs."
+      },
+      "content": {
+        "rendered": "<p><strong>D\u00c1TAME! las charlas de LCD &#8211; Daniela Rodriguez &#8211; Viernes 22/3 16hs.</strong></p>\n<p>Este viernes arranca D\u00e1tame! 2024. El encuentro es a las 16hs. en el aula 1402 del Edificio 0+Infinito.</p>\n<p>Esta vez, la charla estar\u00e1 a cargo de Daniela Rodriguez (Instituto de C\u00e1lculo, Exactas-UBA). El t\u00edtulo de la charla es:</p>\n<p><strong>Unificando enfoques en problemas de datos</strong></p>\n<p><strong>Sobre la charla</strong><br />\nEn esta charla discutiremos diferentes problemas con datos en donde si bien tienen objetivos diferentes pueden ser abordados bajo un mismo enfoque. En particular, discutiremos un problema de regresi\u00f3n en donde se postula diferentes reg\u00edmenes en un modelo \u00fanico y un desaf\u00edo es estimar d\u00f3nde ocurren las transiciones. Tambi\u00e9n presentaremos un problema de reducci\u00f3n de la dimensi\u00f3n en donde mostraremos c\u00f3mo simplificar el modelo detectando puntos de independencia en un vector aleatorio. Y finalmente abordaremos un problema de estimaci\u00f3n de la dimensi\u00f3n.</p>\n<p><strong>Sobre Daniela</strong><br />\nDaniela Rodriguez obtuvo en 2008 su doctorado en Ciencias Matem\u00e1ticas por la Universidad de Buenos Aires. Es Profesora Asociada en UTDT e investigadora independiente de CONICET. Es directora del Instituto de C\u00e1lculo y actualmente, es miembro del Comit\u00e9 Cient\u00edfico de la Uni\u00f3n Matem\u00e1tica de Am\u00e9rica Latina y el Caribe y de la Sociedad Latinoamericana de Probabilidad y Estad\u00edstica Matem\u00e1tica. Sus l\u00edneas de investigaci\u00f3n se centran en la estad\u00edstica matem\u00e1tica.</p>\n<p>Consultas: info.lcd@exactas.uba.ar</p>\n<p>Sobre \u00a1D\u00c1TAME!</p>\n<p>Este ciclo de charlas busca simult\u00e1neamente:</p>\n<p>&#8211; Ser un lugar de encuentro entre todos/as los/as que nos sentimos cercanos a LCD ya sea por ser estudiantes de la carrera o carrera cercanas, docentes, investigadores/as interesados/as o simplemente amigos/as de LCD.</p>\n<p>&#8211; Ofrecer a estudiantes de la carrera un panorama amplio de posibles caminos que puede recorrer un/a especialista en ciencias de datos.</p>\n<p>&#8211; Exponer a estudiantes de LCD a importantes referentes de la disciplina que trabajan en diversos \u00e1mbitos (investigaci\u00f3n cient\u00edfica, empresas, organismos estatales, ONGs, etc. )</p>\n<p>&#8211; Aprender un mont\u00f3n de cosas sobre datos. Qu\u00e9 tipo de problemas se<br />\npueden resolver con ellos y cu\u00e1les no, qu\u00e9 precauciones debemos tener,<br />\nqu\u00e9 desaf\u00edos afronta la disciplina y mucho m\u00e1s.</p>\n<p>&#8211; Evidenciar la diversidad de disciplinas que confluyen en esta carrera y experimentar c\u00f3mo interact\u00faan.</p>\n<p>&#8211; Compartir un buen rato, un viernes a la tarde, una vez por mes.</p>\n<p>Est\u00e1 destinado principalmente a estudiantes de la carrera, pero todas/os somos bienvenidas/os.</p>\n<p>Nos juntamos el 3er. viernes de cada mes a las 16hs.</p>\n<p>\u00a1Las y los esperamos!</p>\n",
+        "protected": false
+      },
+      "excerpt": {
+        "rendered": "<p>D\u00c1TAME! las charlas de LCD &#8211; Daniela Rodriguez &#8211; Viernes  [&#8230;]</p>\n",
+        "protected": false
+      },
+      "author": 8,
+      "featured_media": 2392,
+      "categories": [
+        13,
+        9
+      ],
+      "tags": []
+    },
+    {
+      "id": 2383,
+      "date_gmt": "2024-02-09T16:08:11",
+      "modified_gmt": "2024-02-09T16:08:11",
+      "slug": "nuevos-cambios-sugeridos-en-orden-de-cursada-y-correlatividades",
+      "status": "publish",
+      "type": "post",
+      "link": "https://lcd.exactas.uba.ar/nuevos-cambios-sugeridos-en-orden-de-cursada-y-correlatividades/",
+      "title": {
+        "rendered": "Nuevos cambios sugeridos en orden de cursada y correlatividades"
+      },
+      "content": {
+        "rendered": "<p>Queriamos informarles que a partir de este a\u00f1o 2024 ser\u00e1 sugerida la correlatividad de Algoritmos y Estructuras de Datos II con \u00c1lgebra Lineal Computacional y se va a exigir de forma obligatoria a partir de 2025. El cronograma ya se encuentra publicado en la web, dentro de la secci\u00f3n Plan de Estudios.</p>\n",
+        "protected": false
+      },
+      "excerpt": {
+        "rendered": "<p>Queriamos informarles que a partir de este a\u00f1o 2024 ser\u00e1  [&#8230;]</p>\n",
+        "protected": false
+      },
+      "author": 8,
+      "featured_media": 2369,
+      "categories": [
+        9
+      ],
+      "tags": []
+    },
+    {
+      "id": 2355,
+      "date_gmt": "2024-02-01T19:48:39",
+      "modified_gmt": "2024-02-01T19:48:39",
+      "slug": "analisis-de-experimentos-online-de-funciones-ejecutivas",
+      "status": "publish",
+      "type": "post",
+      "link": "https://lcd.exactas.uba.ar/analisis-de-experimentos-online-de-funciones-ejecutivas/",
+      "title": {
+        "rendered": "An\u00e1lisis de experimentos online de funciones ejecutivas"
+      },
+      "content": {
+        "rendered": "<p><strong>Resumen.</strong> El Trail-Making Test (TMT) es una prueba neuropsicol\u00f3gica est\u00e1ndar para funciones ejecutivas. La misma consiste en unir una serie de n\u00fameros o letras dispersos sin levantar el l\u00e1piz. Esta prueba tiene muy alta sensibilidad pero muy baja especificidad. Dado que es una tarea compleja que involucra una gran cantidad de procesos, en el LIAA hemos estado trabajando en generar una versi\u00f3n digital y derivar distintas medidas a partir de la trayectoria del mouse que permita aumentar la especificidad. Durante el 2022-2023 hemos estado recolectando datos online de esta prueba y otras pruebas que sirven de patr\u00f3n para medir distintas funciones ejecutivas (Go/No-Go, Stop-Signal Task, Change Detection Task). La/el estudiante se involucrar\u00e1 en esta l\u00ednea con el objetivo de poder predecir el desempe\u00f1o en las tareas patr\u00f3n a partir de medidas derivadas del TMT (ej: velocidad, aceleraci\u00f3n, cantidad de errores, tiempo en cada regi\u00f3n de la pantalla, complejidad de las trayectorias, etc ). La/el estudiante podr\u00e1 adem\u00e1s sumarse a nuevas tomas de datos online y generaci\u00f3n de experimentos, mejoramiento de la plataforma de experimentaci\u00f3n online, y escritura de trabajos cient\u00edficos.</p>\n<p><strong>Palabras clave.</strong> Neuropsicolog\u00eda, experimentos online, modelos predictivos</p>\n<p><strong>Conocimientos deseables.</strong> No se contemplan conocimientos espec\u00edficos previos, pero si se espera que este en el \u00faltimo tramo de la carrera y tenga disponibilidad de tiempo para dedicarse a la tesis.</p>\n<p><strong>\u00bfQu\u00e9 podr\u00eda aprender quien realice esta tesis? &#8211;</strong> Lx estudiante se sumar\u00e1 a un proyecto de investigaci\u00f3n en desarrollo, se espera que aprenda a plantearse preguntar y encontrar soluciones para el an\u00e1lisis de datos adecuadas. Se trabajar\u00e1 con datos reales adquiridos en el laboratorio con la posibilidad de realizar nuevos experimentos (online). Por lo que se aprender\u00e1n contenidos de neurociencias cognitivas, an\u00e1lisis de datos, modelado cognitivo y modelos predictivos.</p>\n<p><strong>Direcci\u00f3n de la tesis</strong><br />\nKamienkowski, Juan Esteban<br />\nInstituto de Ciencias de la Computaci\u00f3n (FCEyN, UBA &#8211; CONICET)<br />\nContacto: juank@dc.uba.ar</p>\n<p><strong>Descargar PDF</strong><br />\n<a  data-e-Disable-Page-Transition=\"true\" class=\"download-link\" title=\"\" href=\"https://lcd.exactas.uba.ar/download/2352/?tmstv=1775083716\" rel=\"nofollow\" id=\"download-link-2352\" data-redirect=\"false\" >\n\tAn\u00e1lisis de experimentos online de funciones ejecutivas</a>\n</p>\n",
+        "protected": false
+      },
+      "excerpt": {
+        "rendered": "<p>Resumen. El Trail-Making Test (TMT) es una prueba neuropsicol\u00f3gica est\u00e1ndar  [&#8230;]</p>\n",
+        "protected": false
+      },
+      "author": 8,
+      "featured_media": 0,
+      "categories": [
+        32
+      ],
+      "tags": []
+    },
+    {
+      "id": 2350,
+      "date_gmt": "2024-02-01T19:42:29",
+      "modified_gmt": "2024-02-01T19:42:29",
+      "slug": "analisis-de-movimientos-oculares-en-texto",
+      "status": "publish",
+      "type": "post",
+      "link": "https://lcd.exactas.uba.ar/analisis-de-movimientos-oculares-en-texto/",
+      "title": {
+        "rendered": "An\u00e1lisis de movimientos oculares en texto"
+      },
+      "content": {
+        "rendered": "<p><strong>Resumen.</strong> Los movimientos oculares permiten acceder al foco de atenci\u00f3n y los tiempos de procesamiento del cerebro en distintas tareas, como por ejemplo la lectura. Durante la misma, nuestros ojos recorren las palabras realizando sacadas (movimientos r\u00e1pidos entre dos fijaciones) y fijaciones. Por otro lado, los modelos de procesamiento del lenguaje natural (NLP) han alcanzado rendimientos altos en tareas como predicci\u00f3n de la siguiente palabra. Se trabajar\u00e1 sobre un corpus de movimientos oculares en lectura grande recientemente recolectado por el grupo. Sobre el cual se propone, en primer lugar, validarlo reproduciendo los an\u00e1lisis previos que permiten vincular medidas de los movimientos oculares con medidas del texto a trav\u00e9s de modelos lineales mixtos. En segundo lugar, relacionar estas medidas con el resultado de modelos de lenguaje implementados sobre el texto para predecir la palabra que sigue en base a un contexto.</p>\n<p><strong>Palabras clave.</strong> Movimientos oculares. Lectura. Modelos lineales mixtos. Procesamiento del lenguaje natural.</p>\n<p><strong>Conocimientos deseables.</strong> No se contemplan conocimientos espec\u00edficos previos, pero si se espera que este en el \u00faltimo tramo de la carrera y tenga disponibilidad de tiempo para dedicarse a la tesis.</p>\n<p><strong>\u00bfQu\u00e9 podr\u00eda aprender quien realice esta tesis? &#8211;</strong> Lx estudiante se sumar\u00e1 a un proyecto de investigaci\u00f3n en desarrollo, se espera que aprenda a plantearse preguntar y encontrar soluciones para el an\u00e1lisis de datos adecuadas. Se trabajar\u00e1 con datos reales adquiridos en el laboratorio con la posibilidad de realizar nuevos experimentos (online). Por lo que se aprender\u00e1n contenidos de neurociencias cognitivas, an\u00e1lisis de datos (en particular modelos lineales mixtos) y modelos de lenguaje.</p>\n<p><strong>Direcci\u00f3n de la tesis</strong><br />\nKamienkowski, Juan Esteban<br />\nInstituto de Ciencias de la Computaci\u00f3n (FCEyN, UBA &#8211; CONICET)<br />\nContacto: juank@dc.uba.ar</p>\n<p><strong>Descargar PDF</strong><br />\n<a  data-e-Disable-Page-Transition=\"true\" class=\"download-link\" title=\"\" href=\"https://lcd.exactas.uba.ar/download/2347/?tmstv=1775083716\" rel=\"nofollow\" id=\"download-link-2347\" data-redirect=\"false\" >\n\tAn\u00e1lisis de movimientos oculares en texto</a>\n</p>\n",
+        "protected": false
+      },
+      "excerpt": {
+        "rendered": "<p>Resumen. Los movimientos oculares permiten acceder al foco de atenci\u00f3n  [&#8230;]</p>\n",
+        "protected": false
+      },
+      "author": 8,
+      "featured_media": 0,
+      "categories": [
+        32
+      ],
+      "tags": []
+    },
+    {
+      "id": 2345,
+      "date_gmt": "2024-02-01T19:31:49",
+      "modified_gmt": "2024-02-01T19:32:10",
+      "slug": "estudio-de-una-nueva-herramienta-para-el-diagnostico-estratificacion-y-monitoreo-en-sepsis",
+      "status": "publish",
+      "type": "post",
+      "link": "https://lcd.exactas.uba.ar/estudio-de-una-nueva-herramienta-para-el-diagnostico-estratificacion-y-monitoreo-en-sepsis/",
+      "title": {
+        "rendered": "Estudio de una nueva herramienta para el diagn\u00f3stico, estratificaci\u00f3n y monitoreo en SEPSIS"
+      },
+      "content": {
+        "rendered": "<p><strong>Resumen.</strong> La sepsis, un grave problema global de salud con alta mortalidad, afecta principalmente a pa\u00edses de bajos y medianos ingresos. La OMS insta a investigar m\u00e9todos para abordar esta enfermedad, que se redefine como &#8220;disfunci\u00f3n org\u00e1nica potencialmente mortal&#8221; debido a respuestas desreguladas del hu\u00e9sped a la infecci\u00f3n. Aunque la identificaci\u00f3n temprana mejora los resultados, el diagn\u00f3stico y la<br />\ndiferenciaci\u00f3n de cuadros inflamatorios son desaf\u00edos. El tratamiento actual incluye antibi\u00f3ticos y terapias de sost\u00e9n, pero presenta limitaciones. Los an\u00e1lisis multivariados, especialmente en &#8220;\u00f3micas&#8221; como la peptid\u00f3mica, junto con modelos predictivos basados en inteligencia artificial, son herramientas prometedoras para abordar la sepsis. En un estudio reciente demostramos la capacidad de distinguir estadios inflamatorios mediante an\u00e1lisis multivariados de huellas biomoleculares, resaltando su potencial en el diagn\u00f3stico efectivo en entornos cl\u00ednicos complejos.</p>\n<p><strong>Palabras clave.</strong> An\u00e1lisis multivariados. Rstudio. Machine learning. Modelos predictivos</p>\n<p><strong>Conocimientos deseables.</strong> Conocimiento an\u00e1lisis multivariados. Manejo de software Rstudio y/o Python. Conocimientos de estad\u00edstica. Entusiasmo y trabajo en equipo</p>\n<p><strong>\u00bfQu\u00e9 podr\u00eda aprender quien realice esta tesis? &#8211;</strong> Conocimiento de la patolog\u00eda en cuesti\u00f3n. An\u00e1lisis y desarrollo de variables cl\u00ednicas relevantes. Conocimiento y manejo de espectrometr\u00eda de masas (MALDI-TOF). Conocimientos de inmunolog\u00eda. Desarrollo de modelos predictivos y modelos que mejoren el abordaje diagn\u00f3stico y pron\u00f3stico de la sepsis</p>\n<p><strong>Direcci\u00f3n de la tesis</strong><br />\nRearte, B\u00e1rbara<br />\nIMEX-CONICET-ANM<br />\nContacto: barbararearte@yahoo.com.ar</p>\n<p><strong>Descargar PDF</strong><br />\n<a  data-e-Disable-Page-Transition=\"true\" class=\"download-link\" title=\"\" href=\"https://lcd.exactas.uba.ar/download/2342/?tmstv=1775083716\" rel=\"nofollow\" id=\"download-link-2342\" data-redirect=\"false\" >\n\tESTUDIO DE UNA NUEVA HERRAMIENTA PARA EL DIAGN\u00d3STICO, ESTRATIFICACI\u00d3N Y MONITOREO EN SEPSIS</a>\n</p>\n",
+        "protected": false
+      },
+      "excerpt": {
+        "rendered": "<p>Resumen. La sepsis, un grave problema global de salud con  [&#8230;]</p>\n",
+        "protected": false
+      },
+      "author": 8,
+      "featured_media": 0,
+      "categories": [
+        32
+      ],
+      "tags": []
+    },
+    {
+      "id": 2338,
+      "date_gmt": "2024-01-22T17:25:23",
+      "modified_gmt": "2024-01-22T17:25:59",
+      "slug": "ciencia-de-datos-una-carrera-que-no-para-de-crecer-y-ya-tiene-sus-primeros-egresados-en-el-pais",
+      "status": "publish",
+      "type": "post",
+      "link": "https://lcd.exactas.uba.ar/ciencia-de-datos-una-carrera-que-no-para-de-crecer-y-ya-tiene-sus-primeros-egresados-en-el-pais/",
+      "title": {
+        "rendered": "Ciencia de Datos: una carrera que no para de crecer y ya tiene sus primeros egresados en el pa\u00eds"
+      },
+      "content": {
+        "rendered": "<p>Les compartimos la noticia sobre los primeros egresados de la carrera de la Licenciatura en Ciencias de Datos que public\u00f3 Telam: <a href=\"https://www.telam.com.ar/notas/202401/652170-ciencia-de-datos-argentina-carrera-universidades.html\">https://www.telam.com.ar/notas/202401/652170-ciencia-de-datos-argentina-carrera-universidades.html</a></p>\n",
+        "protected": false
+      },
+      "excerpt": {
+        "rendered": "<p>Les compartimos la noticia sobre los primeros egresados de la  [&#8230;]</p>\n",
+        "protected": false
+      },
+      "author": 8,
+      "featured_media": 2339,
+      "categories": [
+        9
+      ],
+      "tags": []
+    },
+    {
+      "id": 2335,
+      "date_gmt": "2023-12-14T16:29:59",
+      "modified_gmt": "2023-12-14T16:29:59",
+      "slug": "lcd-ya-tiene-a-sus-primeros-dos-graduados",
+      "status": "publish",
+      "type": "post",
+      "link": "https://lcd.exactas.uba.ar/lcd-ya-tiene-a-sus-primeros-dos-graduados/",
+      "title": {
+        "rendered": "\u00a1\u00a1LCD ya tiene a sus primeros dos graduados!!"
+      },
+      "content": {
+        "rendered": "<p>Axel Fridman y Nicol\u00e1s Sawczuk son los primeros egresados de la carrera. Las defensas de tesis de licenciatura se llevaron a cabo ayer mi\u00e9rcoles en el edificio Cero+Infinito.<br />\nM\u00e1s informaci\u00f3n sobre el evento en: <a href=\"https://exactas.uba.ar/los-primeros-datos/\">https://exactas.uba.ar/los-primeros-datos/</a></p>\n",
+        "protected": false
+      },
+      "excerpt": {
+        "rendered": "<p>Axel Fridman y Nicol\u00e1s Sawczuk son los primeros egresados de  [&#8230;]</p>\n",
+        "protected": false
+      },
+      "author": 8,
+      "featured_media": 2336,
+      "categories": [
+        9
+      ],
+      "tags": []
+    },
+    {
+      "id": 2332,
+      "date_gmt": "2023-12-11T20:29:59",
+      "modified_gmt": "2023-12-11T21:35:15",
+      "slug": "seminario-del-14-12-14-hs-taha-yasseri-univ-college-dublin-three-experiments-in-dyadic-collaboration-among-humans-and-machines",
+      "status": "publish",
+      "type": "post",
+      "link": "https://lcd.exactas.uba.ar/seminario-del-14-12-14-hs-taha-yasseri-univ-college-dublin-three-experiments-in-dyadic-collaboration-among-humans-and-machines/",
+      "title": {
+        "rendered": "Seminario del 14/12 14 hs &#8211; Taha Yasseri (Univ. College, Dublin): &#8220;Three Experiments in Dyadic Collaboration among Humans and Machines&#8221;"
+      },
+      "content": {
+        "rendered": "<p>Les compartimos la invitaci\u00f3n al seminario de trabajo en inteligencia colectiva y colaboraci\u00f3n humano-m\u00e1quina.</p>\n<p>Hola todos y todas,</p>\n<p>El Prof. Taha Yasseri estar\u00e1 de visita en nuestra facultad durante el resto de diciembre y entre otras actividades brindar\u00e1 un seminario sobre una de sus l\u00edneas de trabajo en inteligencia colectiva y colaboraci\u00f3n humano-m\u00e1quina.</p>\n<p>Quedan todos y todas cordialmente invitados/as.</p>\n<p>Por favor responder a este form para prever espacio y para dejar contacto para confirmaci\u00f3n de aula: <a href=\"https://forms.gle/wVWpcUDkGbnS1g2LA\">https://forms.gle/wVWpcUDkGbnS1g2LA</a></p>\n<p>(Por favor hacer extensiva esta invitaci\u00f3n a aquellas comunidades que puedan estar interesadas)</p>\n<p>Lugar: Pabell\u00f3n 0+infinito, Ciudad Universitaria, FCEyN, UBA<br />\nHorario: 14hs.<br />\nIdioma: Ingl\u00e9s<br />\nSala: A DEFINIR (en un pr\u00f3ximo mensaje)</p>\n<p>Title:<br />\nThree Experiments in Dyadic Collaboration among Humans and Machines</p>\n<p>Abstract:<br />\nIn this lecture, we present findings from three behavioral experiments that focus on dyadic interactions in both human-human and human-machine groups. Dyadic interactions, which form the foundation of our collective intelligence, have been a relatively underexplored area of study. Moreover, when it comes to collaboration with intelligent machines, the impact of hybrid team members&#8217; characteristics on their collaborative efforts remains largely unexamined.<br />\nOur three experiments cover a range of collaboration types, from tasks in near-field experimental settings to highly stylized collaborative games. We investigate various attributes of team members, including their levels of experience, gender, and political tendencies, as well as how the communication of this information within the dyad influences the efficiency and accuracy of the team&#8217;s performance.</p>\n<p>Bio:<br />\nTaha Yasseri is a Professor at the School of Sociology and a Geary Fellow at the Geary Institute for Public Policy at University College Dublin, Ireland. Formerly, he was a Senior Research Fellow in Computational Social Science at the University of Oxford, a Turing Fellow at the Alan Turing Institute for Data Science and Artificial Intelligence, and a Research Fellow in Humanities and Social Sciences at Wolfson College. Taha Yasseri has a PhD in Complex Systems Physics from the University of G\u00f6ttingen, Germany. He has interests in analysis of large-scale transactional data and conducting behavioural experiments to understand human dynamics, machines\u2019 social behaviour, government-society interactions, online political behaviour, mass collaboration and collective intelligence, information and opinion dynamics, hate speech and<br />\ncontent moderation, collective behaviour, and online dating.</p>\n<p>Saludos,<br />\nRodrigo Castro y Pablo Balenzuela.</p>\n",
+        "protected": false
+      },
+      "excerpt": {
+        "rendered": "<p>Les compartimos la invitaci\u00f3n al seminario de trabajo en inteligencia  [&#8230;]</p>\n",
+        "protected": false
+      },
+      "author": 8,
+      "featured_media": 591,
+      "categories": [
+        9
+      ],
+      "tags": []
+    },
+    {
+      "id": 2325,
+      "date_gmt": "2023-12-11T17:42:12",
+      "modified_gmt": "2023-12-11T17:43:50",
+      "slug": "datame-las-charlas-de-lcd-cora-dvorkin-viernes-15-12-16-hs",
+      "status": "publish",
+      "type": "post",
+      "link": "https://lcd.exactas.uba.ar/datame-las-charlas-de-lcd-cora-dvorkin-viernes-15-12-16-hs/",
+      "title": {
+        "rendered": "\u00a1D\u00c1TAME! las charlas de LCD &#8211; Cora Dvorkin &#8211; Viernes 15/12 16 hs."
+      },
+      "content": {
+        "rendered": "<p>Este viernes, \u00faltima D\u00e1tame! del a\u00f1o.</p>\n<p>El encuentro es a las 16hs. en el aula 1402 del Edificio 0+Infinito.</p>\n<p>Esta vez, la charla estar\u00e1 a cargo de Cora Dvorkin (Harvard University), que hablar\u00e1 sobre Procesamiento de datos cosmol\u00f3gicos: c\u00f3mo ir de las observaciones a la f\u00edsica fundamental.</p>\n<p><strong>Sobre la charla</strong></p>\n<p>El notable progreso en la cosmolog\u00eda durante las \u00faltimas d\u00e9cadas ha sido impulsado por la estrecha interacci\u00f3n entre la teor\u00eda y las observaciones. Tenemos un modelo est\u00e1ndar de cosmolog\u00eda, en el que seis par\u00e1metros est\u00e1n restringidos con una precisi\u00f3n a nivel porcentual. Hemos aprendido que el universo est\u00e1 compuesto por un 5% de materia ordinaria, 27% de materia oscura y 68% de energ\u00eda oscura. Sin embargo, quedan preguntas fundamentales en nuestra comprensi\u00f3n del universo. En esta charla, se discutir\u00e1 nuevas formas de utilizar las observaciones astrof\u00edsicas para mejorar nuestro entendimiento de estas preguntas.<br />\n<strong><br />\nSobre Cora</strong><br />\nCora Dvorkin recibi\u00f3 su diploma en f\u00edsica de la Universidad de Buenos Aires. Obtuvo su Ph.D. en el departamento de f\u00edsica de la Universidad de Chicago. Ha realizado investigaciones postdoctorales en el Instituto de Estudios Avanzados en Princeton y en el Centro de Astrof\u00edsica en Harvard, donde fue tanto becaria Hubble como becaria del instituto de teor\u00eda y computaci\u00f3n de Harvard. Actualmente es profesora en el Departamento de F\u00edsica de Harvard. Sus \u00e1reas de investigaci\u00f3n incluyen la naturaleza de la materia oscura y la f\u00edsica del universo temprano.</p>\n<p>Consultas: info.lcd@exactas.uba.ar</p>\n<p><strong>Sobre \u00a1D\u00c1TAME!</strong></p>\n<p>Este ciclo de charlas busca simult\u00e1neamente:</p>\n<p>&#8211; Ser un lugar de encuentro entre todos/as los/as que nos sentimos cercanos a LCD ya sea por ser estudiantes de la carrera o carrera cercanas, docentes, investigadores/as interesados/as o simplemente amigos/as de LCD.</p>\n<p>&#8211; Ofrecer a estudiantes de la carrera un panorama amplio de posibles caminos que puede recorrer un/a especialista en ciencias de datos.</p>\n<p>&#8211; Exponer a estudiantes de LCD a importantes referentes de la disciplina que trabajan en diversos \u00e1mbitos (investigaci\u00f3n cient\u00edfica, empresas, organismos estatales, ONGs, etc. )</p>\n<p>&#8211; Aprender un mont\u00f3n de cosas sobre datos. Qu\u00e9 tipo de problemas se pueden resolver con ellos y cu\u00e1les no, qu\u00e9 precauciones debemos tener, qu\u00e9 desaf\u00edos afronta la disciplina y mucho m\u00e1s.</p>\n<p>&#8211; Evidenciar la diversidad de disciplinas que confluyen en esta carrera y experimentar c\u00f3mo interact\u00faan.</p>\n<p>&#8211; Compartir un buen rato, un viernes a la tarde, una vez por mes.</p>\n<p>Est\u00e1 destinado principalmente a estudiantes de la carrera, pero todas/os somos bienvenidas/os.</p>\n<p>Nos juntamos el 3er. viernes de cada mes a las 16hs.</p>\n<p>\u00a1Las y los esperamos!</p>\n",
+        "protected": false
+      },
+      "excerpt": {
+        "rendered": "<p>Este viernes, \u00faltima D\u00e1tame! del a\u00f1o. El encuentro es a  [&#8230;]</p>\n",
+        "protected": false
+      },
+      "author": 8,
+      "featured_media": 2326,
+      "categories": [
+        13,
+        9
+      ],
+      "tags": []
+    },
+    {
+      "id": 2323,
+      "date_gmt": "2023-12-11T16:09:52",
+      "modified_gmt": "2023-12-11T17:55:41",
+      "slug": "defensas-tesis-de-licenciatura-lcd-y-primeras-graduaciones",
+      "status": "publish",
+      "type": "post",
+      "link": "https://lcd.exactas.uba.ar/defensas-tesis-de-licenciatura-lcd-y-primeras-graduaciones/",
+      "title": {
+        "rendered": "Defensas tesis de licenciatura LCD y primeras graduaciones."
+      },
+      "content": {
+        "rendered": "<p>Hola!</p>\n<p>El mi\u00e9rcoles 13/12 desde las 14hs defender\u00e1n sus tesis de licenciatura en ciencias de datos Axel Fridman y Nicol\u00e1s Sawczuk. Si todo va bien, se convertir\u00e1n en los primeros dos graduados de la carrera. Desde la direcci\u00f3n queremos compartir nuestra alegr\u00eda y satisfacci\u00f3n por este evento que es solo el primero de muchos por venir. Por ese motivo queremos invitar a toda la comunidad y especialmente a estudiantes de la carrera y docentes vinculados con la misma (de la manera que sea) a<br />\nparticipar tanto de las dos defensas como del brindis posterior que tendr\u00e1 lugar a la salida del aula alrededor de las 16hs.</p>\n<p>Queremos tambi\u00e9n aprovechar este momento para agradecer a todas y todos los estudiantes, docentes y nodocentes que hicieron y hacen que esta carrera sea posible.</p>\n<p>Abajo informaci\u00f3n sobre las defensas.</p>\n<p>Los esperamos,</p>\n<p>Ana y Pablo</p>\n<p>Direcci\u00f3n LCD.</p>\n<p>&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;-</p>\n<p><strong>Defensas de tesis de licenciatura LCD</strong></p>\n<p>Mi\u00e9rcoles 13/12 14hs aula 1102 0+Inf</p>\n<p>Defiende a las 14:00 hs<br />\n<strong>Axel Fridman</strong><br />\nT\u00edtulo: Exploraci\u00f3n de la limpieza de ruido en habla hispana con redes neuronales</p>\n<p>Resumen: Las se\u00f1ales de habla pueden estar contaminadas por ruidos que dificultan nuestra capacidad de comunicarnos, para resolver esta problem\u00e1tica existe la tarea de eliminaci\u00f3n de ruido. En este trabajo se estudia un modelo basado en redes neuronales tomando como punto de partida el modelo HiFi-GAN [1]. A diferencia de este trabajo, nosotros decidimos utilizar habla en espa\u00f1ol. Se presentan una serie de experimentos centrados en mejorar resultados, que abarcan aspectos diversos como: evaluaci\u00f3n de tres funciones de p\u00e9rdida alternativas, entrenamiento con diferentes conjuntos de datos, comparaci\u00f3n de distintas arquitecturas de red generadora y la implementaci\u00f3n de<br />\ncurriculum learning.</p>\n<p>Los resultados indican que una arquitectura reducida puede alcanzar resultados similares a los que se obtienen con la arquitectura original (para el conjunto de datos utilizados en este trabajo). Tambi\u00e9n se utilizaron estrategias como decaimiento de la tasa de aprendizaje para optimizar el entrenamiento. Adem\u00e1s, se estudian las predicciones del modelo bajo diversas condiciones de ruido y para diferentes grupos de hablantes. Tambi\u00e9n se incluye el c\u00f3digo del proyecto proporcionando una herramienta valiosa para futuros trabajos.</p>\n<p>Director: Pablo Riera</p>\n<p>Jurados:<br />\nPablo Riera<br />\nLeonardo Pepino<br />\nVictoria Paternostro.</p>\n<p>[1] Finkelstein A. Su J, Jin Z. Hifi-gan: High-fidelity denoising and dereverberation based on speech deep features in adversarial networks. arXiv preprint arXiv:2006.05694, 2020.</p>\n<p>Defiende a las 15:00hs<br />\n<strong>Nicol\u00e1s Sawczuk</strong><br />\nT\u00edtulo: Predicci\u00f3n de la codificaci\u00f3n y recuperaci\u00f3n exitosas de la memoria de trabajo verbal usando EEGs intracraneales del giro supramarginal-izquierdo</p>\n<p>Res\u00famen: Con la implantaci\u00f3n de electrodos subdurales y profundos en la corteza del cerebro, los iEEGs permiten el estudio de la actividad cerebral de regiones antes inaccesibles. En este trabajo se utilizaron iEEGs correspondientes al giro supramarginal izquierdo (LSMG) de pacientes siendo monitoreados mientras realizaban tareas de recuerdo libre verbal, en el contexto de un proyecto de investigaci\u00f3n sobre la memoria. Dado que las investigaciones involucran al LSMG en la memoria de trabajo (entre otros procesos cognitivos) se espera que los iEEGs de esta regi\u00f3n sean suficientes para predecir la codificaci\u00f3n exitosa de la memoria verbal en la tarea de recuerdo libre. Debido al rol que estudios recientes atribuyen a las oscilaciones high gamma y beta en la memoria de trabajo se hipotetiza tambi\u00e9n que estas oscilaciones son mejores predictores de la codificaci\u00f3n exitosa que el espectro de frecuencias entero.</p>\n<p>Se probaron tres m\u00e9todos de clasificaci\u00f3n basados en machine learning: uno de redes neuronales usando las se\u00f1ales sin procesar, otro de regresi\u00f3n log\u00edstica y svm usando features extra\u00eddas de la representaci\u00f3n tiempo-frecuencia y otro en el que se extraen las oscilaciones de la se\u00f1al (con un m\u00e9todo de an\u00e1lisis topogr\u00e1fico de la representaci\u00f3n TF) para luego armar series de tiempo de oscilaciones y entrenar redes neuronales. Se concluy\u00f3 que es posible predecir la codificaci\u00f3n exitosa con los iEEGs del LSMG y que usar solo las frecuencias high gamma y beta en oposici\u00f3n a la se\u00f1al sin procesar mejora las predicciones.</p>\n<p>Director: Juan Kamienkowski<br />\nCodirector: Diego Fernandez Slezak</p>\n<p>Jurados:<br />\nDaniela Rodriguez<br />\nJuan Kamienkowski<br />\nLuz Bavassi</p>\n",
+        "protected": false
+      },
+      "excerpt": {
+        "rendered": "<p>Hola! El mi\u00e9rcoles 13/12 desde las 14hs defender\u00e1n sus tesis  [&#8230;]</p>\n",
+        "protected": false
+      },
+      "author": 8,
+      "featured_media": 1813,
+      "categories": [
+        9
+      ],
+      "tags": []
+    },
+    {
+      "id": 2313,
+      "date_gmt": "2023-11-15T18:30:08",
+      "modified_gmt": "2023-11-15T18:31:17",
+      "slug": "seleccion-interina-profesor-a-adjunto-a-dp-para-el-dictado-de-materias-del-ciclo-superior-de-la-licenciatura-en-ciencias-de-datos-matematica-fceyn-uba",
+      "status": "publish",
+      "type": "post",
+      "link": "https://lcd.exactas.uba.ar/seleccion-interina-profesor-a-adjunto-a-dp-para-el-dictado-de-materias-del-ciclo-superior-de-la-licenciatura-en-ciencias-de-datos-matematica-fceyn-uba/",
+      "title": {
+        "rendered": "SELECCI\u00d3N INTERINA PROFESOR/A ADJUNTO/A DP &#8211; Para el dictado de materias del ciclo superior de la Licenciatura en Ciencias de Datos&#8230; (Matem\u00e1tica-FCEyN-UBA)"
+      },
+      "content": {
+        "rendered": "<p>Difundimos el concurso del Departamento de Matem\u00e1tica para personal docente:</p>\n<div class=\"pre\">\n<p>La Facultad de Ciencias Exactas y Naturales de la Universidad de Buenos Aires llama a <strong>Selecci\u00f3n Interina</strong>\u00a0con el fin de proveer un (1) cargo de Personal Docente en el Departamento de Matem\u00e1tica.</p>\n<p><strong>Per\u00edodo de inscripci\u00f3n: A partir\u00a0</strong><span id=\"page1R_mcid13\" class=\"markedContent\"><strong>de</strong> <strong>las</strong> <strong>00:00</strong> <strong>del\u00a0d\u00eda Mi\u00e9rcoles 22 de Noviembre</strong> <strong>y\u00a0hasta</strong> <strong>las 12:00</strong> <strong>hs.</strong> <strong>del\u00a0</strong><strong>d\u00eda</strong><strong>\u00a0Martes 5 de Diciembre</strong> <strong>de 2023.</strong></span></p>\n</div>\n<div class=\"pre\"></div>\n<div class=\"pre\">\n<div class=\"pre\">EXPTE. <strong>EX-2023-05118858- -UBA-DMESA#FCEN</strong></div>\n<p>\u00c1REA:<strong> Para el dictado de materias del ciclo\u00a0superior de la Licenciatura en Ciencias de Datos (Introducci\u00f3n a la Estad\u00edstica y Ciencia\u00a0</strong><strong>de Datos, Introducci\u00f3n a la Investigaci\u00f3n Operativa y Optimizaci\u00f3n, Introducci\u00f3n al\u00a0Modelado Continuo y Algebra Lineal Computacional) y las materias de la Licenciatura\u00a0en Ciencias de Datos que el Departamento considere.</strong><br />\nCATEGOR\u00cdA: <strong>Profesor/a\u00a0Adjunto/a </strong><br />\nDEDICACI\u00d3N:\u00a0<strong>Parcial</strong><br />\nCANTIDAD: <strong>1 (uno)</strong><br />\nRESOLUCI\u00d3N CD N\u00ba 2360/23</p>\n<p><span id=\"page1R_mcid15\" class=\"markedContent\">Proceso de inscripci\u00f3n: Exclusivamente a trav\u00e9s del Sistema de Gesti\u00f3n Departamental\u00a0(SiGeDep):\u00a0</span><span id=\"page1R_mcid17\" class=\"markedContent\"><a href=\"https://dm.sigedep.exactas.uba.ar/concursos/cartelera/\" target=\"_blank\" rel=\"noopener noreferrer\">https://dm.sigedep.exactas.uba.ar/concursos/cartelera/</a></span></p>\n</div>\n<div class=\"pre\"></div>\n<div class=\"pre\"><span id=\"page1R_mcid20\" class=\"markedContent\"><strong>Para formalizar su inscripci\u00f3n:</strong></span></div>\n<ul>\n<li class=\"pre\"><span id=\"page1R_mcid21\" class=\"markedContent\">Ingresar a:\u00a0<a href=\"https://dm.sigedep.exactas.uba.ar/login/?next=/concursos/\" target=\"_blank\" rel=\"noopener noreferrer\">https://dm.sigedep.exactas.uba.ar/concursos/</a></span><span id=\"page1R_mcid22\" class=\"markedContent\"></span></li>\n<li class=\"pre\"><span id=\"page1R_mcid24\" class=\"markedContent\">Hacer clic en bot\u00f3n <strong>\u201cINGRESAR A INSCRIPCI\u00d3N\u201d</strong></span></li>\n<li class=\"pre\"><span id=\"page1R_mcid25\" class=\"markedContent\">El sistema le solicitar\u00e1 un mail de contacto para enviar el link para comenzar la\u00a0inscripci\u00f3n.</span></li>\n<li class=\"pre\"><span id=\"page1R_mcid26\" class=\"markedContent\">Ingresando al Link, el/la postulante deber\u00e1 completar y/o corroborar los datos\u00a0personales y luego descargar el formulario a\u00a0 completar con sus antecedentes:</span></li>\n</ul>\n<div class=\"pre\"><span id=\"page1R_mcid27\" class=\"markedContent\"></span><a href=\"https://exactas.uba.ar/institucional/concursos/prof-interinos/\" target=\"_blank\" rel=\"noopener noreferrer\">https://exactas.uba.ar/institucional/concursos/prof-interinos/</a></div>\n<ul>\n<li class=\"pre\"><span id=\"page1R_mcid31\" class=\"markedContent\">Posteriormente, deber\u00e1 adjuntar un \u00daNICO archivo en formato PDF con sus\u00a0antecedentes. El documento no puede superar los 25 MB. Se solicita no incluir\u00a0documentaci\u00f3n con firma digital y luego comprima el archivo a fin de no\u00a0generar incompatibilidad con el sistema al que deber\u00e1 subirse la informaci\u00f3n del\u00a0concurso/selecci\u00f3n.</span></li>\n<li class=\"pre\"><span id=\"page1R_mcid32\" class=\"markedContent\">Podr\u00e1 visualizar la oferta de la p\u00e1gina con los concursos que tienen inscripci\u00f3n\u00a0abierta. Seleccione aquellos en los que desea inscribirse.</span></li>\n<li class=\"pre\"><span id=\"page1R_mcid33\" class=\"markedContent\">Deber\u00e1 llegarle un mail como comprobante de inscripci\u00f3n al correo que declar\u00f3.<br />\nEn caso de que el/la postulante requiera modificar alg\u00fan dato personal y/o los\u00a0antecedentes, podr\u00e1 hacerlo hasta el \u00faltimo d\u00eda de la inscripci\u00f3n, repitiendo\u00a0todos los pasos mencionados anteriormente.</span></li>\n</ul>\n<p><strong><span id=\"page55R_mcid1\" class=\"markedContent\">Importante:</span></strong></p>\n<ul>\n<li><strong><span id=\"page55R_mcid3\" class=\"markedContent\">El formulario de inscripci\u00f3n a concursos docentes auxiliares se encuentra\u00a0disponible en:\u00a0<a href=\"https://exactas.uba.ar/institucional/concursos/prof-interinos/\" target=\"_blank\" rel=\"noopener noreferrer\">https://exactas.uba.ar/institucional/concursos/prof-interinos/</a></span></strong></li>\n<li>Aseg\u00farese de haber completado el \u00edtem 7 del formulario de inscripci\u00f3n</li>\n<li>Las <strong>recusaciones e impugnaciones</strong> deber\u00e1n ser presentadas v\u00eda e-mail a: <a href=\"mailto:selecciones_docentes@de.fcen.uba.ar\">selecciones_docentes@de.fcen.uba.ar</a>\u00a0<span id=\"page55R_mcid11\" class=\"markedContent\">\u00a0dentro de los plazos\u00a0 establecidos seg\u00fan\u00a0</span>normativa vigente.</li>\n<li><strong>Veedores</strong>: enviar su formulario a:<span id=\"page55R_mcid14\" class=\"markedContent\"> <a href=\"mailto:selecciones_docentes@de.fcen.uba.ar\">selecciones_docentes@de.fcen.uba.ar</a>\u00a0</span><span id=\"page55R_mcid15\" class=\"markedContent\">con\u00a0</span>copia a:<span id=\"page55R_mcid16\" class=\"markedContent\"> <a href=\"mailto:concurso@dm.uba.ar\">concurso@dm.uba.ar</a>\u00a0</span><span id=\"page55R_mcid17\" class=\"markedContent\">al menos 48 hs ANTES de la fecha de la Prueba\u00a0</span>de Oposici\u00f3n, con todas las firmas requeridas y en formato pdf. El formulario se\u00a0puede descargar de la p\u00e1gina web de exactas:</li>\n</ul>\n<p><span id=\"page55R_mcid20\" class=\"markedContent\"></span><span id=\"page55R_mcid21\" class=\"markedContent\"></span><span id=\"page55R_mcid22\" class=\"markedContent\"></span><span id=\"page55R_mcid23\" class=\"markedContent\"><a href=\"https://exactas.uba.ar/wp-content/uploads/2021/06/FORMULARIO-DE-DESIGNACION-DE-VEEDORES-seleccion.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">https://exactas.uba.ar/wp-content/uploads/2021/06/FORMULARIO-DE-DESIGNACION-DE-VEEDORES-seleccion.pdf</a></span></p>\n<p><span id=\"page55R_mcid23\" class=\"markedContent\">Toda la informaci\u00f3n de seguimiento se publicar\u00e1 en la p\u00e1gina del Departamento:\u00a0</span><span id=\"page55R_mcid23\" class=\"markedContent\"><a href=\"http://cms.dm.uba.ar/academico/concursos/\" target=\"_blank\" rel=\"noopener noreferrer\">http://cms.dm.uba.ar/academico/concursos/</a>\u00a0</span><span id=\"page55R_mcid25\" class=\"markedContent\">\u00a0y en la cartelera digital (SIGEDEP)\u00a0 </span><span id=\"page55R_mcid26\" class=\"markedContent\"><a href=\"https://dm.sigedep.exactas.uba.ar/concursos/cartelera/\" target=\"_blank\" rel=\"noopener noreferrer\">https://dm.sigedep.exactas.uba.ar/concursos/cartelera/</a>\u00a0</span></p>\n",
+        "protected": false
+      },
+      "excerpt": {
+        "rendered": "<p>Difundimos el concurso del Departamento de Matem\u00e1tica para personal docente:  [&#8230;]</p>\n",
+        "protected": false
+      },
+      "author": 8,
+      "featured_media": 1632,
+      "categories": [
+        9
+      ],
+      "tags": []
+    },
+    {
+      "id": 2308,
+      "date_gmt": "2023-11-15T16:55:16",
+      "modified_gmt": "2023-11-15T16:55:16",
+      "slug": "datame-las-charlas-de-lcd-viernes-17-11-a-las-16-hs",
+      "status": "publish",
+      "type": "post",
+      "link": "https://lcd.exactas.uba.ar/datame-las-charlas-de-lcd-viernes-17-11-a-las-16-hs/",
+      "title": {
+        "rendered": "\u00a1D\u00c1TAME! las charlas de LCD &#8211; Viernes 17/11 a las 16 hs."
+      },
+      "content": {
+        "rendered": "<p>Este viernes vuelve D\u00c1TAME!</p>\n<p>El encuentro es a las 16hs. en el aula 1402 del Edificio 0+Infinito. Esta vez, la charla estar\u00e1 a cargo de <b>Agustina L\u00f3pez</b>.</p>\n<p><b>La matem\u00e1tica detr\u00e1s de los juegos online</b></p>\n<p><b> Sobre la charla</b><br />\nMillones y millones de personas dedican parte de su tiempo libre en juegos online. Gran parte de estos jugadores prefieren particularmente los slots, un tipo de juego en l\u00ednea que esconde un mundo matem\u00e1tico bastante complejo. No, no te puedo dar ning\u00fan secreto para hacerte ganar, pero en esta charla nos vamos a adentrar en este universo y vamos a discutir los principios estad\u00edsticos fundamentales para el dise\u00f1o de estos juegos. Te voy a contar algunos de los cientos de n\u00fameros y variables que resultan m\u00e1s relevantes, c\u00f3mo manejar y controlar todos esos valores a la vez, y quiz\u00e1s hasta podemos develar juntos el misterio de c\u00f3mo crear un juego entretenido y exitoso.</p>\n<p><b>Sobre Agustina</b><br />\nAgustina L\u00f3pez es Licenciada en Matem\u00e1tica de la Universidad de Buenos Aires. Realiz\u00f3 su tesis en programaci\u00f3n lineal entera, creando diversos modelos para armar los fixtures de los Torneos de F\u00fatbol Juvenil Argentino 2018, equiparando las distancias recorridas entre las dos divisiones de cada equipo. El trabajo fue presentado en distintas conferencias y congresos, pero su carrera fue lentamente cambiando de rumbo hacia la estad\u00edstica, tema al que hoy se dedica de lleno. Trabaja como matem\u00e1tica en la industria de los juegos online desde 2017, por lo que fue nominada al premio &#8220;Star of the future&#8221; de la Academia de Mujeres en Gaming 2023.</p>\n<p>Consultas: <a href=\"mailto:info.lcd@exactas.uba.ar\" target=\"_blank\" rel=\"noopener noreferrer\">info.lcd@exactas.uba.ar</a></p>\n<p>Sobre \u00a1D\u00c1TAME!</p>\n<p>Este ciclo de charlas busca simult\u00e1neamente:</p>\n<p>&#8211; Ser un lugar de encuentro entre todos/as los/as que nos sentimos cercanos a LCD ya sea por ser estudiantes de la carrera o carrera cercanas, docentes, investigadores/as interesados/as o simplemente amigos/as de LCD.</p>\n<p>&#8211; Ofrecer a estudiantes de la carrera un panorama amplio de posibles caminos que puede recorrer un/a especialista en ciencias de datos.</p>\n<p>&#8211; Exponer a estudiantes de LCD a importantes referentes de la disciplina que trabajan en diversos \u00e1mbitos (investigaci\u00f3n cient\u00edfica, empresas, organismos estatales, ONGs, etc. )</p>\n<p>&#8211; Aprender un mont\u00f3n de cosas sobre datos. Qu\u00e9 tipo de problemas se pueden resolver con ellos y cu\u00e1les no, qu\u00e9 precauciones debemos tener, qu\u00e9 desaf\u00edos afronta la disciplina y mucho m\u00e1s.</p>\n<p>&#8211; Evidenciar la diversidad de disciplinas que confluyen en esta carrera y experimentar c\u00f3mo interact\u00faan.</p>\n<p>&#8211; Compartir un buen rato, un viernes a la tarde, una vez por mes.</p>\n<p>Est\u00e1 destinado principalmente a estudiantes de la carrera, pero todas/os somos bienvenidas/os.</p>\n<p>Nos juntamos el 3er. viernes de cada mes a las 16hs.</p>\n<p>\u00a1Las y los esperamos!</p>\n",
+        "protected": false
+      },
+      "excerpt": {
+        "rendered": "<p>Este viernes vuelve D\u00c1TAME! El encuentro es a las 16hs.  [&#8230;]</p>\n",
+        "protected": false
+      },
+      "author": 8,
+      "featured_media": 2309,
+      "categories": [
+        13,
+        9
+      ],
+      "tags": []
+    },
+    {
+      "id": 2305,
+      "date_gmt": "2023-11-15T16:44:23",
+      "modified_gmt": "2023-11-15T17:45:40",
+      "slug": "fceyn-seleccion-interina-profesor-a-adjunto-a-dp-area-aprendizaje-automatico-y-ciencias-de-datos-con-orientacion-profesional-en-la-industria-computacion-fceyn-uba",
+      "status": "publish",
+      "type": "post",
+      "link": "https://lcd.exactas.uba.ar/fceyn-seleccion-interina-profesor-a-adjunto-a-dp-area-aprendizaje-automatico-y-ciencias-de-datos-con-orientacion-profesional-en-la-industria-computacion-fceyn-uba/",
+      "title": {
+        "rendered": "SELECCI\u00d3N INTERINA PROFESOR/A ADJUNTO/A DP &#8211; \u00c1REA: Aprendizaje Autom\u00e1tico y Ciencias de Datos con orientaci\u00f3n profesional en la industria (Computaci\u00f3n-FCEyN-UBA)"
+      },
+      "content": {
+        "rendered": "<p>Difundimos el concurso del Departamento de Computaci\u00f3n para personal docente:</p>\n<div>\n<p>La Facultad de Ciencias Exactas y Naturales de la Universidad de Buenos Aires llama a <b>Selecci\u00f3n Interina</b> con el fin de proveer un (1) cargo de Personal Docente en el Departamento de Computaci\u00f3n.</p>\n<p><b>Per\u00edodo de inscripci\u00f3n: A partir de las 10.00 horas del d\u00eda 15 de noviembre y hasta las 19.00 horas del d\u00eda\u00a029 de noviembre de 2023, por SiGeDep.</b></p>\n</div>\n<div></div>\n<div>EXPTE.\u00a0<b>EX-2023-05658840- -UBA-DMESA#FCEN</b><br />\nCATEGOR\u00cdA: <b>Profesor/a Adjunto/a</b></div>\n<div>DEDICACI\u00d3N: <b>parcial</b></div>\n<div>\u00c1REA: <b>Aprendizaje\u00a0Autom\u00e1tico y Ciencias de Datos con orientaci\u00f3n profesional en la industria</b></div>\n<div>CANTIDAD: 1 (uno)<br />\nRESOLUCI\u00d3N CD N\u00ba\u00a02366/23</div>\n<div><b><span id=\"m_2447591163477243833m_8570494674155437599page1R_mcid56\"><span id=\"m_2447591163477243833m_8570494674155437599page1R_mcid23\">IMPORTANTE:\u00a0\u00a0</span><span id=\"m_2447591163477243833m_8570494674155437599page1R_mcid23\">DESCARGAR</span><span id=\"m_2447591163477243833m_8570494674155437599page1R_mcid23\">\u00a0EL</span><span id=\"m_2447591163477243833m_8570494674155437599page1R_mcid23\">\u00a0<wbr />NUEVO FORMULARIO DE INSCRIPCI\u00d3N.</span></span></b></div>\n<div></div>\n<div><b>Proceso de inscripci\u00f3n: Exclusivamente a trav\u00e9s de SiGeDep</b><br />\nDetalle:<br />\n1. Ingresar a <a href=\"http://gestion.dc.uba.ar/concursos/cartelera/\" target=\"_blank\" rel=\"noopener noreferrer\" data-saferedirecturl=\"https://www.google.com/url?q=http://gestion.dc.uba.ar/concursos/cartelera/&amp;source=gmail&amp;ust=1700152653013000&amp;usg=AOvVaw2lus-1pWXhHQr1SdpxUEHG\">http://gestion.dc.uba.ar/<wbr />concursos/cartelera/</a><br />\n2. Hacer clic en bot\u00f3n \u201cINGRESAR A INSCRIPCI\u00d3N\u201d<br />\n3. El sistema le solicitar\u00e1 un mail de contacto. Si ya se ha inscripto a concursos de\u00a0docentes y/o docentes auxiliares se recomienda informe la misma direcci\u00f3n de correo\u00a0electr\u00f3nico para evitar dificultades administrativas<br />\n4. Le llegar\u00e1 a su mail un LINK que le permitir\u00e1 continuar con el proceso de inscripci\u00f3n<br />\n5. El postulante deber\u00e1 corroborar o completar sus datos personales y confirmarlos<br />\n6. En el siguiente paso deber\u00e1 adjuntar un \u00daNICO archivo en formato .pdf con sus\u00a0antecedentes. El documento no puede superar los 25MB. Se solicita no incluir\u00a0documentaci\u00f3n con firmas digitales. En caso de incluirla escanee las hojas que\u00a0cuentan con firma digital y luego comprima el archivo a fin de no generar\u00a0incompatibilidad con el sistema al que deber\u00e1 subirse la informaci\u00f3n del concurso.<br />\n7. A continuaci\u00f3n podr\u00e1 visualizar la p\u00e1gina con los concursos que tienen inscripci\u00f3n\u00a0abierta. Seleccione aquellos en los que desea inscribirse.<br />\n8. Deber\u00e1 llegarle un mail como comprobante de inscripci\u00f3n al correo que declar\u00f3. En\u00a0caso de que desee modificar alg\u00fan dato personal y/o los antecedentes podr\u00e1 hacerlo\u00a0hasta el \u00faltimo d\u00eda de inscripci\u00f3n repitiendo todos los pasos mencionados\u00a0anteriormente.</div>\n<div>Importante:<br />\n\u25cf\u00a0El formulario de inscripci\u00f3n a concursos de docentes auxiliares se encuentra\u00a0disponible ac\u00e1: <a href=\"https://exactas.uba.ar/institucional/concursos/prof-interinos/\" target=\"_blank\" rel=\"noopener noreferrer\" data-saferedirecturl=\"https://www.google.com/url?q=https://exactas.uba.ar/institucional/concursos/prof-interinos/&amp;source=gmail&amp;ust=1700152653013000&amp;usg=AOvVaw0b1hAaSXUHwU6Ugs5UKMtA\">https://exactas.uba.ar/<wbr />institucional/concursos/prof-<wbr />interinos/</a><br />\n\u25cf Aseg\u00farese de haber completado el \u00edtem 7 del formulario de inscripci\u00f3n<br />\n\u25cf Las recusaciones e impugnaciones deber\u00e1n ser presentadas v\u00eda e-mail a:\u00a0<a href=\"mailto:selecciones_docentes@de.fcen.uba.ar\" target=\"_blank\" rel=\"noopener noreferrer\">selecciones_docentes@de.<wbr />fcen.uba.ar</a>\u00a0dentro de\u00a0los plazos establecidos seg\u00fan normativa vigente<br />\n\u25cf Toda la informaci\u00f3n de seguimiento se publicar\u00e1 en:\u00a0<a href=\"https://www.dc.uba.ar/concursos/\" target=\"_blank\" rel=\"noopener noreferrer\" data-saferedirecturl=\"https://www.google.com/url?q=https://www.dc.uba.ar/concursos/&amp;source=gmail&amp;ust=1700152653013000&amp;usg=AOvVaw36ZcFICv-FvXqnrYBqHvAU\">https://www.dc.uba.ar/<wbr />concursos/</a>\u00a0\u00a0y en la cartelera digital <a href=\"http://gestion.dc.uba.ar/concursos/cartelera/\" target=\"_blank\" rel=\"noopener noreferrer\" data-saferedirecturl=\"https://www.google.com/url?q=http://gestion.dc.uba.ar/concursos/cartelera/&amp;source=gmail&amp;ust=1700152653013000&amp;usg=AOvVaw2lus-1pWXhHQr1SdpxUEHG\">http://gestion.dc.uba.ar/<wbr />concursos/cartelera/</a></div>\n",
+        "protected": false
+      },
+      "excerpt": {
+        "rendered": "<p>Difundimos el concurso del Departamento de Computaci\u00f3n para personal docente:  [&#8230;]</p>\n",
+        "protected": false
+      },
+      "author": 8,
+      "featured_media": 1632,
+      "categories": [
+        9
+      ],
+      "tags": []
+    },
+    {
+      "id": 2303,
+      "date_gmt": "2023-11-15T16:41:40",
+      "modified_gmt": "2023-11-15T17:46:04",
+      "slug": "profesores-apertura-concursos-profesor-regular-para-el-dc",
+      "status": "publish",
+      "type": "post",
+      "link": "https://lcd.exactas.uba.ar/profesores-apertura-concursos-profesor-regular-para-el-dc/",
+      "title": {
+        "rendered": "Apertura Concursos Profesor Regular para el DC &#8211; \u00c1rea Aprendizaje Autom\u00e1tico y Ciencias de Datos con orientaci\u00f3n profesional en la industria"
+      },
+      "content": {
+        "rendered": "<p>Difundimos el concurso del Departamento de Computaci\u00f3n para personal docente:</p>\n<p><span style=\"font-family: Sans-serif, Arial;\"><span style=\"font-size: medium;\">De acuerdo con las condiciones establecidas en el Cap\u00edtulo A CODIGO.UBA I-10, se llama a concurso, con fecha de inscripci\u00f3n</span></span><span style=\"font-family: Sans-serif, Arial;\"><span style=\"font-size: medium;\"><br />\ndesde el 7 de Noviembre al 5 de Diciembre de 2023 para proveer los cargos de profesor regular que se indican mas adelante.</span></span></p>\n<p><span style=\"font-family: Sans-serif, Arial;\"><span style=\"font-size: medium;\">Los interesados deber\u00e1n realizar una pre-inscripci\u00f3n en l\u00ednea (en </span></span><span style=\"color: #000080;\"><u><a href=\"http://concursosaspirantes.rec.uba.ar/ingreso.aspx\" target=\"_blank\" rel=\"noopener noreferrer\" data-saferedirecturl=\"https://www.google.com/url?q=http://concursosaspirantes.rec.uba.ar/ingreso.aspx&amp;source=gmail&amp;ust=1700152652965000&amp;usg=AOvVaw3B7uG4PbsuE6bSILxvolOt\"><span style=\"font-family: Sans-serif, Arial;\"><span style=\"font-size: medium;\">http://concursosaspirantes.<wbr />rec.uba.ar/ingreso.aspx</span></span></a></u></span><span style=\"font-family: Sans-serif, Arial;\"><span style=\"font-size: medium;\">) que como<br />\nresultado le emitir\u00e1 un formulario de preinscripci\u00f3n.<br />\nLuego deber\u00e1 confirmar la inscripci\u00f3n en TAD-UBA (en </span></span><span style=\"color: #000080;\"><u><a href=\"https://tramitesadistancia.uba.ar/\" target=\"_blank\" rel=\"noopener noreferrer\" data-saferedirecturl=\"https://www.google.com/url?q=https://tramitesadistancia.uba.ar/&amp;source=gmail&amp;ust=1700152652965000&amp;usg=AOvVaw0bXpabFni4XZuv54vRxqaz\"><span style=\"font-family: Sans-serif, Arial;\"><span style=\"font-size: medium;\">https://tramitesadistancia.<wbr />uba.ar/</span></span></a></u></span><span style=\"font-family: Sans-serif, Arial;\"><span style=\"font-size: medium;\">) donde deber\u00e1 anexar la documentaci\u00f3n<br />\nsolicitada en ese formulario.<br />\nTanto la preinscripci\u00f3n, como la confirmaci\u00f3n de la inscripci\u00f3n junto con la remisi\u00f3n de la documentaci\u00f3n a trav\u00e9s de la plataforma<br />\nTAD-UBA, debe ser realizado sin excepci\u00f3n, dentro del plazo establecido para este llamado (hasta las 18 hs. del d\u00eda de cierre).<br />\nEn los concursos de renovaci\u00f3n se mencionan los nombres de los profesores cuyas designaciones caducan</span></span></p>\n<p><span style=\"font-family: Sans-serif, Arial;\"><span style=\"font-size: medium;\"><b>Per\u00edodo de Inscripci\u00f3n: del 7 de Noviembre al 5 de Diciembre de 2023</b></span></span></p>\n<p><span style=\"font-family: Sans-serif, Arial;\"><span style=\"font-size: medium;\"><b>Cargos a concursar</b></span></span></p>\n<p><span style=\"font-family: Sans-serif, Arial;\"><span style=\"font-size: medium;\"><b>Profesor Adjunto, dedicaci\u00f3n Parcial</b></span></span><span style=\"font-family: Sans-serif, Arial;\"><span style=\"font-size: medium;\"><br />\n</span></span></p>\n<p><span style=\"font-family: Sans-serif, Arial; font-size: medium;\">\u00c1rea Aprendizaje Autom\u00e1tico y Ciencias de Datos con orientaci\u00f3n profesional en la industria</span></p>\n",
+        "protected": false
+      },
+      "excerpt": {
+        "rendered": "<p>Difundimos el concurso del Departamento de Computaci\u00f3n para personal docente:  [&#8230;]</p>\n",
+        "protected": false
+      },
+      "author": 8,
+      "featured_media": 1632,
+      "categories": [
+        9
+      ],
+      "tags": []
+    },
+    {
+      "id": 2301,
+      "date_gmt": "2023-11-15T16:21:18",
+      "modified_gmt": "2023-11-15T16:21:18",
+      "slug": "concursos-auxiliares-regulares-ayudante-de-primera-dp-area-estadistica-ic-fceyn-uba",
+      "status": "publish",
+      "type": "post",
+      "link": "https://lcd.exactas.uba.ar/concursos-auxiliares-regulares-ayudante-de-primera-dp-area-estadistica-ic-fceyn-uba/",
+      "title": {
+        "rendered": "Concursos Auxiliares Regulares &#8211; Ayudante de Primera DP &#8211; \u00c1REA: ESTADISTICA (IC &#8211; FCEyN-UBA)"
+      },
+      "content": {
+        "rendered": "<p>Difundimos el concurso del Instituto de C\u00e1lculo para personal docente:</p>\n<div>\n<p>La Facultad de Ciencias Exactas y Naturales de la Universidad de Buenos Aires llama a <strong>Concurso Regular</strong> con el fin de proveer cargos de <span id=\"m_6078137248746342906m_594698063618380491page1R_mcid18\"><strong>Personal Docente Auxiliar -Ayudante de Primera </strong>con dedicaci\u00f3n <strong>parcial</strong>\u00a0</span>en el <strong>INSTITUTO DE CALCULO</strong>.</p>\n<p><strong>Per\u00edodo de inscripci\u00f3n: A partir\u00a0de las 00.00 horas del d\u00eda\u00a013 de noviembre y hasta las 23.59 horas del d\u00eda 27 de noviembre de 2023, por\u00a0SiGeDep.</strong></p>\n<p>EXPEDIENTE N\u00ba <strong>EX-2023-04994002- -UBA-DMESA#FCEN</strong></p>\n<p>\u00c1REA: <strong>ESTAD\u00cdSTICA</strong>\u00a0<span id=\"m_6078137248746342906m_594698063618380491page1R_mcid20\">del INSTITUTO DE CALCULO</span></p>\n<p>CATEGOR\u00cdA: <strong>Ayudante de Primera</strong></p>\n<p>DEDICACI\u00d3N: <strong>Parcial</strong></p>\n<p>CANTIDAD: <strong>2</strong>\u00a0<strong>(dos) cargos</strong></p>\n</div>\n<div></div>\n<div><span id=\"m_6078137248746342906m_594698063618380491page30R_mcid37\">M\u00e1s informaci\u00f3n en <a href=\"https://ic.fcen.uba.ar/noticias/nuevo-concurso\">https://ic.fcen.uba.ar/noticias/nuevo-concurso</a></span><span id=\"m_6078137248746342906m_594698063618380491page30R_mcid38\"> </span><span id=\"m_6078137248746342906m_594698063618380491page30R_mcid39\"></span><span id=\"m_6078137248746342906m_594698063618380491page30R_mcid40\"></span></div>\n",
+        "protected": false
+      },
+      "excerpt": {
+        "rendered": "<p>Difundimos el concurso del Instituto de C\u00e1lculo para personal docente:  [&#8230;]</p>\n",
+        "protected": false
+      },
+      "author": 8,
+      "featured_media": 1632,
+      "categories": [
+        9
+      ],
+      "tags": []
+    },
+    {
+      "id": 2299,
+      "date_gmt": "2023-11-03T19:00:27",
+      "modified_gmt": "2023-11-03T19:00:27",
+      "slug": "microorganismos-marinos-y-cambio-climatico",
+      "status": "publish",
+      "type": "post",
+      "link": "https://lcd.exactas.uba.ar/microorganismos-marinos-y-cambio-climatico/",
+      "title": {
+        "rendered": "Microorganismos marinos y cambio clim\u00e1tico"
+      },
+      "content": {
+        "rendered": "<p><strong>Resumen.</strong> El oc\u00e9ano global se extiende a lo largo de m\u00e1s del 70% de la superficie del mundo y tiene una profundidad promedio de &gt;3,5 kms. Sorprendentemente, los organismos microsc\u00f3picos representan ~70% de la biomasa del oc\u00e9ano y realizan casi tanta fotos\u00edntesis como las plantas terrestres, extraen grandes cantidades de di\u00f3xido de carbono fuera de la atm\u00f3sfera y sustentan las redes troficas marinas. Las cambiantes condiciones oceanogr\u00e1ficas relacionadas con el cambio clim\u00e1tico (calentamiento, acidificaci\u00f3n, desoxigenaci\u00f3n) est\u00e1n provocando cambios profundos en la microbiolog\u00eda del oc\u00e9ano. Utilizando conjuntos de datos de secuenciaci\u00f3n de ADN/ARN de muestras de agua de mar recolectadas en las principales regiones oce\u00e1nicas, planeamos predecir computacionalmente actividades funcionales potencialmente asociados con adaptaciones evolutivas y pronosticar los cambios microbianos en diferentes escenarios de cambio clim\u00e1tico.</p>\n<p><strong>Palabras clave.</strong> (meta)genomica</p>\n<p><strong>Conocimientos deseables.</strong> Python o R</p>\n<p><strong>\u00bfQu\u00e9 podr\u00eda aprender quien realice esta tesis? &#8211;</strong> manejo de datos de secuenciaci\u00f3n metagen\u00f3mica &#8211; detecci\u00f3n remota de homolog\u00eda de prote\u00ednas -an\u00e1lisis estad\u00edsticos de ecol\u00f3gia &#8211; aplicaciones de t\u00e9cnicas de aprendizaje autom\u00e1tico</p>\n<p><strong>Direcci\u00f3n de la tesis</strong><br />\nPierella Karlusich, Juan<br />\nHarvard / MIT<br />\nContacto: pierella@mit.edu</p>\n<p><strong>Descargar PDF</strong><br />\n<a  data-e-Disable-Page-Transition=\"true\" class=\"download-link\" title=\"\" href=\"https://lcd.exactas.uba.ar/download/2296/?tmstv=1775083716\" rel=\"nofollow\" id=\"download-link-2296\" data-redirect=\"false\" >\n\tMicroorganismos marinos y cambio clim\u00e1tico</a>\n</p>\n",
+        "protected": false
+      },
+      "excerpt": {
+        "rendered": "<p>Resumen. El oc\u00e9ano global se extiende a lo largo de  [&#8230;]</p>\n",
+        "protected": false
+      },
+      "author": 8,
+      "featured_media": 0,
+      "categories": [
+        32
+      ],
+      "tags": []
+    },
+    {
+      "id": 2294,
+      "date_gmt": "2023-11-03T18:55:11",
+      "modified_gmt": "2023-11-03T18:55:11",
+      "slug": "visualizacion-interactiva-de-la-red-de-investigadores-argentinos-en-el-exterior",
+      "status": "publish",
+      "type": "post",
+      "link": "https://lcd.exactas.uba.ar/visualizacion-interactiva-de-la-red-de-investigadores-argentinos-en-el-exterior/",
+      "title": {
+        "rendered": "Visualizaci\u00f3n Interactiva de la Red de Investigadores Argentinos en el Exterior"
+      },
+      "content": {
+        "rendered": "<p><strong>Resumen.</strong> Estimaciones recientes de la cantidad de investigadores argentinos residentes en el exterior ponen el n\u00famero arriba del mill\u00f3n. Muchos de estos investigadores han conformado redes de vinculaci\u00f3n, organizadas por pa\u00eds o regi\u00f3n de residencia, y reconocidas por el Ministerio de Ciencia, Tecnolog\u00eda e Innovaci\u00f3n (MinCyT). Estas redes tambi\u00e9n funcionan como canales de comunicaci\u00f3n, intercambio, y colaboraci\u00f3n acad\u00e9mica con la comunidad cient\u00edfica en la Argentina. Sin embargo, no existe en la actualidad un recurso digital accesible que permita visualizar la composici\u00f3n de estas redes, sus tem\u00e1ticas de investigaci\u00f3n, conexiones entre ellas y el pa\u00eds, y otros datos relevantes. En este trabajo proponemos desarrollar una herramienta web de visualizaci\u00f3n interactiva que permita acceder a estos datos a trav\u00e9s de una interfaz de usuario y representaciones visuales intuitivas, facilitando la exploraci\u00f3n de los datos desde un navegador web. El objetivo es aplicar t\u00e9cnicas de dise\u00f1o de informaci\u00f3n y experiencia de usuario a los datos de las redes de investigadores argentinos en el exterior a efectos de crear una herramienta que en \u00faltima instancia sirva de recurso para m\u00faltiples audiencias.</p>\n<p><strong>Palabras clave.</strong> redes cient\u00edficas, colaboraci\u00f3n, visualizaci\u00f3n interactiva, dise\u00f1o de datos</p>\n<p><strong>Conocimientos deseables.</strong> Programaci\u00f3n de cliente web en JavaScript, conocimientos b\u00e1sicos de visualizaci\u00f3n de datos</p>\n<p><strong>\u00bfQu\u00e9 podr\u00eda aprender quien realice esta tesis? &#8211;</strong> Dise\u00f1o visual aplicado a la visualizaci\u00f3n de datos, implementaci\u00f3n de visualizaciones interactivas para la web, t\u00e9cnicas de desarrollo cliente-servidor para manejo de datos, la situaci\u00f3n de las redes de investigadores argentinos en el exterior</p>\n<p><strong>Direcci\u00f3n de la tesis</strong><br />\nColubri, Andr\u00e9s<br />\nDepartamento de Gen\u00e9tica y Biolog\u00eda Computacional (GCB) \u2013 Facultad de Medicina de la Universidad de Massachusetts (UMass Chan Medical School), Estados Unidos<br />\nContacto: andres.colubri@umassmed.edu</p>\n<p><strong>Descargar PDF</strong><br />\n<a  data-e-Disable-Page-Transition=\"true\" class=\"download-link\" title=\"\" href=\"https://lcd.exactas.uba.ar/download/2291/?tmstv=1775083716\" rel=\"nofollow\" id=\"download-link-2291\" data-redirect=\"false\" >\n\tVisualizaci\u00f3n Interactiva de la Red de Investigadores Argentinos en el Exterior</a>\n</p>\n",
+        "protected": false
+      },
+      "excerpt": {
+        "rendered": "<p>Resumen. Estimaciones recientes de la cantidad de investigadores argentinos residentes  [&#8230;]</p>\n",
+        "protected": false
+      },
+      "author": 8,
+      "featured_media": 0,
+      "categories": [
+        32
+      ],
+      "tags": []
+    },
+    {
+      "id": 2279,
+      "date_gmt": "2023-10-11T21:05:09",
+      "modified_gmt": "2023-10-17T20:05:46",
+      "slug": "datame-las-charlas-de-lcd-viernes-20-10-a-las-16-hs",
+      "status": "publish",
+      "type": "post",
+      "link": "https://lcd.exactas.uba.ar/datame-las-charlas-de-lcd-viernes-20-10-a-las-16-hs/",
+      "title": {
+        "rendered": "\u00a1D\u00c1TAME! las charlas de LCD \u2013 Viernes 20/10 a las 16 hs"
+      },
+      "content": {
+        "rendered": "<div class=\"fusion-fullwidth fullwidth-box fusion-builder-row-1 fusion-flex-container nonhundred-percent-fullwidth non-hundred-percent-height-scrolling\" style=\"--awb-border-radius-top-left:0px;--awb-border-radius-top-right:0px;--awb-border-radius-bottom-right:0px;--awb-border-radius-bottom-left:0px;--awb-flex-wrap:wrap;\" ><div class=\"fusion-builder-row fusion-row fusion-flex-align-items-flex-start fusion-flex-content-wrap\" style=\"max-width:calc( 1200px + 0px );margin-left: calc(-0px / 2 );margin-right: calc(-0px / 2 );\"><div class=\"fusion-layout-column fusion_builder_column fusion-builder-column-0 fusion_builder_column_1_1 1_1 fusion-flex-column\" style=\"--awb-bg-size:cover;--awb-width-large:100%;--awb-margin-top-large:0px;--awb-spacing-right-large:0px;--awb-margin-bottom-large:0px;--awb-spacing-left-large:0px;--awb-width-medium:100%;--awb-spacing-right-medium:0px;--awb-spacing-left-medium:0px;--awb-width-small:100%;--awb-spacing-right-small:0px;--awb-spacing-left-small:0px;\"><div class=\"fusion-column-wrapper fusion-flex-justify-content-flex-start fusion-content-layout-column\"><div class=\"fusion-text fusion-text-1\"><p>\u00a1D\u00c1TAME! las charlas de LCD \u2013 Viernes 20/10 a las 16 hs</p>\n<p>El viernes 20 de octubre vuelve nuestro ya cl\u00e1sico \u00a1D\u00c1TAME!.</p>\n<p>El encuentro es a las <strong>16hs</strong>. en el <strong>aula 1402</strong> del Edificio 0+Infinito.<br />\nEsta vez, la charla estar\u00e1 a cargo del <strong>Dr. Guillermo Dur\u00e1n</strong>.</p>\n<p><strong>20 a\u00f1os de Optimizaci\u00f3n y Ciencias de Datos en el deporte de Sudam\u00e9rica.<br />\n</strong></p>\n<p><em>Sobre la charla</em></p>\n<p>Haremos en esta charla una recorrida sobre las aplicaciones de optimizaci\u00f3n y ciencias de datos realizadas por nuestro grupo en el \u00e1mbito del deporte en general, y del f\u00fatbol en particular.<br />\nDesde el inicio hace casi ya 20 a\u00f1os atr\u00e1s con la programaci\u00f3n del f\u00fatbol de Chile, proyecto que a\u00fan hoy contin\u00faa, a otras experiencias a lo largo de estos a\u00f1os como la programaci\u00f3n del f\u00fatbol en Ecuador, Argentina y las eliminatorias sudamericanas del Mundial, y el b\u00e1squet y el voley de la Argentina.<br />\nMostraremos adem\u00e1s algunos avances en la predicci\u00f3n de resultados deportivos y su aplicaci\u00f3n al f\u00fatbol, al b\u00e1squet y al rugby; as\u00ed como tambi\u00e9n otros proyectos que combinan matem\u00e1tica y deporte. Discutiremos los resultados pr\u00e1cticos y los desaf\u00edos acad\u00e9micos detr\u00e1s de este tipo de problemas.</p>\n<p><em>Sobre Guillermo</em></p>\n<p>El Dr. Guillermo Dur\u00e1n es Decano de la Facultad de Ciencias Exactas y Naturales, licenciado en Matem\u00e1tica y Doctor en Computaci\u00f3n de la UBA. Es investigador Principal de CONICET y Profesor Asociado en el Departamento de Matem\u00e1tica de Exactas. Su \u00e1rea es la investigaci\u00f3n operativa, la optimizaci\u00f3n combinatoria y la teor\u00eda de grafos. Lleva publicados 70 trabajos cient\u00edficos en importantes revistas internacionales de su disciplina, dirigi\u00f3 cuatro tesis doctorales (con tres m\u00e1s en desarrollo), nueve de maestr\u00eda y 30 de licenciatura. Ha dirigido diversos proyectos cient\u00edficos y grupos de desarrollo tanto en la Universidad de Chile como en Exactas que elaboraron herramientas de optimizaci\u00f3n en el sector p\u00fablico y en el sector privado en los \u00faltimos 20 a\u00f1os.</p>\n<p>Consultas: info.lcd@exactas.uba.ar</p>\n<p><em>Sobre \u00a1D\u00c1TAME!</em></p>\n<p>Este ciclo de charlas busca simult\u00e1neamente:</p>\n<p>\u2013 Ser un lugar de encuentro entre todos/as los/as que nos sentimos cercanos a LCD ya sea por ser estudiantes de la carrera o carrera cercanas, docentes, investigadores/as interesados/as o simplemente amigos/as de LCD.</p>\n<p>\u2013 Ofrecer a estudiantes de la carrera un panorama amplio de posibles caminos que puede recorrer un/a especialista en ciencias de datos.</p>\n<p>\u2013 Exponer a estudiantes de LCD a importantes referentes de la disciplina que trabajan en diversos \u00e1mbitos (investigaci\u00f3n cient\u00edfica, empresas, organismos estatales, ONGs, etc. )</p>\n<p>\u2013 Aprender un mont\u00f3n de cosas sobre datos. Qu\u00e9 tipo de problemas se pueden resolver con ellos y cu\u00e1les no, qu\u00e9 precauciones debemos tener, qu\u00e9 desaf\u00edos afronta la disciplina y mucho m\u00e1s.</p>\n<p>\u2013 Evidenciar la diversidad de disciplinas que confluyen en esta carrera y experimentar c\u00f3mo interact\u00faan.</p>\n<p>\u2013 Compartir un buen rato, un viernes a la tarde, una vez por mes.</p>\n<p>Est\u00e1 destinado principalmente a estudiantes de la carrera, pero todas/os somos bienvenidas/os.</p>\n<p>Nos juntamos el 3er. viernes de cada mes a las 16hs.</p>\n<p>\u00a1Las y los esperamos!</p>\n</div></div></div></div></div>\n",
+        "protected": false
+      },
+      "excerpt": {
+        "rendered": "",
+        "protected": false
+      },
+      "author": 8,
+      "featured_media": 2283,
+      "categories": [
+        13,
+        9
+      ],
+      "tags": []
+    },
+    {
+      "id": 2275,
+      "date_gmt": "2023-10-10T15:40:06",
+      "modified_gmt": "2023-10-10T15:40:49",
+      "slug": "facundo-sapienza-el-argentino-de-la-universidad-de-berkeley-que-estudia-los-glaciares-con-inteligencia-artificial",
+      "status": "publish",
+      "type": "post",
+      "link": "https://lcd.exactas.uba.ar/facundo-sapienza-el-argentino-de-la-universidad-de-berkeley-que-estudia-los-glaciares-con-inteligencia-artificial/",
+      "title": {
+        "rendered": "Facundo Sapienza, el argentino de la Universidad de Berkeley que estudia los glaciares con inteligencia artificial"
+      },
+      "content": {
+        "rendered": "<p>Les compartimos el interesante art\u00edculo sobre el estudio de glaciares con inteligencia artificial: <a href=\"https://www.lanacion.com.ar/sociedad/facundo-sapienza-el-argentino-de-la-universidad-de-berkeley-que-estudia-los-glaciares-con-nid09102023/\">https://www.lanacion.com.ar/sociedad/facundo-sapienza-el-argentino-de-la-universidad-de-berkeley-que-estudia-los-glaciares-con-nid09102023/</a></p>\n",
+        "protected": false
+      },
+      "excerpt": {
+        "rendered": "<p>Les compartimos el interesante art\u00edculo sobre el estudio de glaciares  [&#8230;]</p>\n",
+        "protected": false
+      },
+      "author": 8,
+      "featured_media": 2276,
+      "categories": [
+        9
+      ],
+      "tags": []
+    },
+    {
+      "id": 2273,
+      "date_gmt": "2023-10-02T18:44:51",
+      "modified_gmt": "2023-10-02T18:44:51",
+      "slug": "abordando-el-espacio-combinatorio-en-recomendaciones-de-ranking-mediante-la-descomposicion-de-acciones-en-reinforcement-learning",
+      "status": "publish",
+      "type": "post",
+      "link": "https://lcd.exactas.uba.ar/abordando-el-espacio-combinatorio-en-recomendaciones-de-ranking-mediante-la-descomposicion-de-acciones-en-reinforcement-learning/",
+      "title": {
+        "rendered": "Abordando el espacio combinatorio en recomendaciones de ranking mediante la descomposici\u00f3n de acciones en reinforcement learning"
+      },
+      "content": {
+        "rendered": "<p><strong>Resumen.\u00a0</strong>El uso del aprendizaje por refuerzo, tambi\u00e9n conocido como Reinforcement Learning (RL), cuenta con la capacidad de optimizar m\u00e9tricas a largo plazo, a diferencia de t\u00e9cnicas tradicionales de Machine Learning. Sin embargo, en el caso de recomendaciones de contenido (e.g., recomendaciones de pel\u00edculas de Netflix), donde el espacio de posibles acciones es muy grande, se suelen hacer restricciones en qu\u00e9 se recomienda para reducir el tama\u00f1o de dicho espacio. Este estudio propone investigar una nueva representaci\u00f3n de los agentes de RL donde, en lugar de limitar el espacio de acciones, se limita el espacio de distribuci\u00f3n que puede ser representada sobre todas las acciones.</p>\n<p><strong>Palabras clave.</strong> Machine Learning, Reinforcement Learning, Recommender Systems, Learning to Rank</p>\n<p><strong>Conocimientos deseables.</strong> Estad\u00edstica, Reinforcement Learning, Machine Learning, Python, PyTorch</p>\n<p><strong>\u00bfQu\u00e9 podr\u00eda aprender quien realice esta tesis? </strong>&#8211; El estudiante aprender\u00e1 t\u00e9cnicas de recomendaciones usadas actualmente en la industria y sus limitaciones. Habr\u00e1 un \u00e9nfasis en las t\u00e9cnicas basadas en reinforcement learning.</p>\n<p><strong>Direcci\u00f3n de la tesis</strong><br />\nGarcia, Francisco<br />\nRoku | Search and Recommendations<br />\nContacto: fmaxgarcia@gmail.com</p>\n<p><strong>Descargar PDF<br />\n</strong><a  data-e-Disable-Page-Transition=\"true\" class=\"download-link\" title=\"\" href=\"https://lcd.exactas.uba.ar/download/2270/?tmstv=1775083716\" rel=\"nofollow\" id=\"download-link-2270\" data-redirect=\"false\" >\n\tAbordando el espacio combinatorio en recomendaciones de ranking mediante la descomposici\u00f3n de acciones en reinforcement learning</a>\n</p>\n",
+        "protected": false
+      },
+      "excerpt": {
+        "rendered": "<p>Resumen.\u00a0El uso del aprendizaje por refuerzo, tambi\u00e9n conocido como Reinforcement  [&#8230;]</p>\n",
+        "protected": false
+      },
+      "author": 8,
+      "featured_media": 0,
+      "categories": [
+        32
+      ],
+      "tags": []
+    },
+    {
+      "id": 2268,
+      "date_gmt": "2023-10-02T18:41:10",
+      "modified_gmt": "2023-10-02T18:41:10",
+      "slug": "aplicacion-de-machine-learning-al-pronostico-de-eventos-meteorologicos-de-alto-impacto-social",
+      "status": "publish",
+      "type": "post",
+      "link": "https://lcd.exactas.uba.ar/aplicacion-de-machine-learning-al-pronostico-de-eventos-meteorologicos-de-alto-impacto-social/",
+      "title": {
+        "rendered": "Aplicaci\u00f3n de machine learning al pron\u00f3stico de eventos meteorol\u00f3gicos de alto impacto social"
+      },
+      "content": {
+        "rendered": "<p><strong>Palabras clave.</strong> machine learning, modelado numerico de la atm\u00f3sfera, asimilacion de datos, uncertainty quantification</p>\n<p><strong>Conocimientos deseables.</strong> programaci\u00f3n en python, conocimiento basico de t\u00e9cnicas de machine learning (no excluyentes)</p>\n<p><strong>\u00bfQu\u00e9 podr\u00eda aprender quien realice esta tesis? </strong>&#8211; En la tesis se aprenderan conocimientos basicos sobre tecnicas de sensoramiento remoto y modelado num\u00e9rico de la atm\u00f3sfera y a trabajar con los datos derivados de dichas t\u00e9cnicas. Dependiendo el tema elegido tambien se aprender\u00e1n nociones de cuantificaci\u00f3n de incertidumbre en sistemas ca\u00f3ticos complejos y de asimilaci\u00f3n de datos.</p>\n<p><strong>Direcci\u00f3n de la tesis</strong><br />\nRuiz, Juan<br />\nCentro de Investigaciones del Mar y la Atm\u00f3sfera<br />\nContacto: juan.j.ruiz.ar@gmail.com</p>\n<p><strong>Descargar PDF<br />\n</strong><a  data-e-Disable-Page-Transition=\"true\" class=\"download-link\" title=\"\" href=\"https://lcd.exactas.uba.ar/download/2265/?tmstv=1775083716\" rel=\"nofollow\" id=\"download-link-2265\" data-redirect=\"false\" >\n\tAplicaci\u00f3n de machine learning al pron\u00f3stico de eventos meteorol\u00f3gicos de alto impacto social</a>\n</p>\n",
+        "protected": false
+      },
+      "excerpt": {
+        "rendered": "<p>Palabras clave. machine learning, modelado numerico de la atm\u00f3sfera, asimilacion  [&#8230;]</p>\n",
+        "protected": false
+      },
+      "author": 8,
+      "featured_media": 0,
+      "categories": [
+        32
+      ],
+      "tags": []
+    },
+    {
+      "id": 2263,
+      "date_gmt": "2023-10-02T18:36:59",
+      "modified_gmt": "2023-10-02T18:36:59",
+      "slug": "desarrollo-e-implementacion-de-un-modelo-basado-en-self-supervized-learning-para-la-prediccion-de-episodios-de-sueno-a-partir-de-datos-de-uso-de-smartphones-con-sistema-operativo-android",
+      "status": "publish",
+      "type": "post",
+      "link": "https://lcd.exactas.uba.ar/desarrollo-e-implementacion-de-un-modelo-basado-en-self-supervized-learning-para-la-prediccion-de-episodios-de-sueno-a-partir-de-datos-de-uso-de-smartphones-con-sistema-operativo-android/",
+      "title": {
+        "rendered": "Desarrollo e implementaci\u00f3n de un modelo basado en self-supervized learning para la predicci\u00f3n de episodios de sue\u00f1o a partir de datos de uso de smartphones con sistema operativo Android."
+      },
+      "content": {
+        "rendered": "<p><strong>Resumen.\u00a0</strong>En el presente proyecto se propone dise\u00f1ar, desarrollar y evaluar un modelo un modelo basado en self-supervized learning para la predicci\u00f3n de episodios de sue\u00f1o a partir de datos de uso de smartphones con sistema operativo Android. La idea principal del proyecto es la de utilizar una filosof\u00eda de modelado similar a la utilizada por [Yuan et al., 2023] pero con la diferencia que en nuestro caso los datos para la etapa de self-supervized learning ser\u00edan las interacciones con el smartphone y para la etapa de supervized learning nuestra verdad (con la cual taggearemos los datos) ser\u00e1 el status de despierto o dormido obtenido a partir de los datos de actigraf\u00eda (un relojito que mide la actividad similar a un Fitbit). El proyecto ya cuenta con datos taggeados de ~50 sujetos por ~20 noches utilizando actiimetr\u00edas y con registros de actividad de Android de ~100 sujetos de ~600 noches cada uno. Vale la pena mencionar que estamos en proceso de toma de datos, y en medio de un relanzamiento del reclutamiento de participantes. [Yuan et al., 2023] (https://www.medrxiv.org/content/10.1101/2023.07.07.23292251v1.full.pdf)</p>\n<p><strong>Palabras clave.</strong> Sue\u00f1o &#8211; Modelado del comportamiento humano &#8211; Inteligencia Artificial &#8211; Smartphones</p>\n<p><strong>Conocimientos deseables.</strong> Se espera que el candidato tenga experiencia con modelado de datos y preferentemente redes neuronales (pytorch).</p>\n<p><strong>\u00bfQu\u00e9 podr\u00eda aprender quien realice esta tesis? </strong>&#8211; El estudiante deber\u00e1 enfrentarse a datos reales de los cuales deber\u00e1 extraer la informaci\u00f3n relevante para el desarrollo del modelo. Tambi\u00e9n deber\u00e1 familiarizarse con la implementaci\u00f3n de modelos de DNN, en particular en modelos que tienen una etapa de self-supervized learning. Finalmente, el estudiante deber\u00e1 evaluar la validez del modelo propuesto para su uso en el campo de la epidemiolog\u00eda del sue\u00f1o.</p>\n<p><strong>Direcci\u00f3n de la tesis</strong><br />\nSpiousas, Ignacio<br />\nEscuela de Educaci\u00f3n, Universidad de San Andr\u00e9s<br />\nContacto: ispiousas@udesa.edu.ar</p>\n<p><strong>Descargar PDF<br />\n</strong><a  data-e-Disable-Page-Transition=\"true\" class=\"download-link\" title=\"\" href=\"https://lcd.exactas.uba.ar/download/2260/?tmstv=1775083716\" rel=\"nofollow\" id=\"download-link-2260\" data-redirect=\"false\" >\n\tDesarrollo e implementaci\u00f3n de un modelo basado en self-supervized learning para la predicci\u00f3n de episodios de sue\u00f1o a partir de datos de uso de smartphones con sistema operativo Android.</a>\n</p>\n",
+        "protected": false
+      },
+      "excerpt": {
+        "rendered": "<p>Resumen.\u00a0En el presente proyecto se propone dise\u00f1ar, desarrollar y evaluar  [&#8230;]</p>\n",
+        "protected": false
+      },
+      "author": 8,
+      "featured_media": 0,
+      "categories": [
+        32
+      ],
+      "tags": []
+    },
+    {
+      "id": 2255,
+      "date_gmt": "2023-10-02T18:29:39",
+      "modified_gmt": "2023-10-02T18:31:06",
+      "slug": "algas-toxicas-en-los-golfos-norpatagonicos-condiciones-ambientales-y-deteccion-satelital",
+      "status": "publish",
+      "type": "post",
+      "link": "https://lcd.exactas.uba.ar/algas-toxicas-en-los-golfos-norpatagonicos-condiciones-ambientales-y-deteccion-satelital/",
+      "title": {
+        "rendered": "Algas T\u00f3xicas en los Golfos Norpatag\u00f3nicos. Condiciones ambientales y detecci\u00f3n satelital"
+      },
+      "content": {
+        "rendered": "<p><strong>Resumen. </strong>El objetivo de esta investigaci\u00f3n es desarrollar nuevas herramientas para detectar satelitalmente las floraciones algales nocivas (comunmente llamadas MAREA ROJA) y las condiciones oceanogr\u00e1ficas propicias para que se produzcan en la regi\u00f3n de los golfos norpatag\u00f3nicos. Generar pron\u00f3sticos operativos que permitan anticipar las floraciones nocivas, su potencial ubicaci\u00f3n, tama\u00f1o y trayectoria. Se contara tambi\u00e9n con datos in situ de variables biol\u00f3gicas y ambientales.</p>\n<p><strong>Palabras clave.</strong> FAN, Detecci\u00f3n Satelital, SST y Clor, Marea Roja</p>\n<p><strong>Conocimientos deseables.</strong> phyton, probabilidad y estad\u00edstica</p>\n<p><strong>\u00bfQu\u00e9 podr\u00eda aprender quien realice esta tesis? </strong>&#8211; Manejo de bases de datos satelitales y reanalisis utilizados en ciencias de la tierra, uso de series de tiempo, variabilidad espacio temporal de distintas variables ambientales a partir de im\u00e1genes satelitales con aplicaci\u00f3n en oceanograf\u00eda y otras ciencias afines.</p>\n<p><strong>Direcci\u00f3n de la tesis</strong><br />\nRomero, Silvia Ines<br />\nServicio de hidrografia naval/ DCAO-UBA<br />\nContacto: sromero@hidro.gov.ar</p>\n<p><strong>Descargar PDF<br />\n</strong><a  data-e-Disable-Page-Transition=\"true\" class=\"download-link\" title=\"\" href=\"https://lcd.exactas.uba.ar/download/2252/?tmstv=1775083716\" rel=\"nofollow\" id=\"download-link-2252\" data-redirect=\"false\" >\n\tAlgas T\u00f3xicas en los Golfos Norpatag\u00f3nicos. Condiciones ambientales y detecci\u00f3n satelital</a>\n</p>\n",
+        "protected": false
+      },
+      "excerpt": {
+        "rendered": "<p>Resumen. El objetivo de esta investigaci\u00f3n es desarrollar nuevas herramientas  [&#8230;]</p>\n",
+        "protected": false
+      },
+      "author": 8,
+      "featured_media": 0,
+      "categories": [
+        32
+      ],
+      "tags": []
+    }
+  ]
+}

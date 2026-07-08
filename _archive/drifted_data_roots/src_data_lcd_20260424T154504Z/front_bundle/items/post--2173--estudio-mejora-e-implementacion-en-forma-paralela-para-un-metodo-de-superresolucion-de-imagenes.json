@@ -1,0 +1,37 @@
+{
+  "id": "post:2173",
+  "entity_type": "post",
+  "source_id": 2173,
+  "slug": "estudio-mejora-e-implementacion-en-forma-paralela-para-un-metodo-de-superresolucion-de-imagenes",
+  "route_slug": "post--2173--estudio-mejora-e-implementacion-en-forma-paralela-para-un-metodo-de-superresolucion-de-imagenes",
+  "title": "Estudio, mejora e implementación en forma paralela para un método de superresolución de imágenes",
+  "source_url": "https://lcd.exactas.uba.ar/estudio-mejora-e-implementacion-en-forma-paralela-para-un-metodo-de-superresolucion-de-imagenes/",
+  "created_at": "2023-09-01T16:43:12",
+  "modified_at": "2023-09-01T18:28:52",
+  "sort_date": "2023-09-01T18:28:52",
+  "status": "publish",
+  "excerpt_plain": "Palabras clave. Procesamiento de Imágenes, optimización global, GPU Conocimientos deseables. […]",
+  "text": "Palabras clave. Procesamiento de Imágenes, optimización global, GPU Conocimientos deseables. Buen manejo del lenguaje de programación Python o C. ¿Qué podría aprender quien realice esta tesis? – Quien desarrolle este trabajo aprenderá fundamentalmente a interactuar con otras disciplinas que requieren del procesamiento de imágenes para el diagnóstico o análisis cuantitativo. Para poder aplicar métodos de súperresolución además de comprender la matemática subyacente (entender el significado de lo que es un problema mal puesto) y diseñar ejemplos sintéticos para el análisis, es muy importante comprender qué tipo de objetos reales interesan resolver, comprender las escalas y los métodos de medición que se utilizan para entender dónde están los limitantes. El grado de alcance o factibilidad de cada método de superresolución depende de la manera en que son adquiridas las muestras, es importante entonces comprender esos limitantes para saber si las muestras pueden ser adquiridas nuevamente con nuevas configuraciones o si directamente no es posible atacar el problema por estos métodos. Particularmente durante el desarrollo de la tesis aprenderá además a implementar un algoritmo en forma paralela y a hacer un análisis sistemático variando los parámetros del método. Dirección de la tesis Martinez, Sandra Departamento de Matemática-IMAS Contacto: smartin@dm.uba.ar Descargar PDF Estudio, mejora e implementación en forma paralela para un método de superresolución de imágenes",
+  "html_clean": "<p><strong>Palabras clave.</strong> Procesamiento de Imágenes, optimización global, GPU</p>\n<p><strong>Conocimientos deseables.</strong> Buen manejo del lenguaje de programación Python o C.</p>\n<p><strong>¿Qué podría aprender quien realice esta tesis? </strong>&#8211; Quien desarrolle este trabajo aprenderá fundamentalmente a interactuar con otras disciplinas que requieren del procesamiento de imágenes para el diagnóstico o análisis cuantitativo. Para poder aplicar métodos de súperresolución además de comprender la matemática subyacente (entender el significado de lo que es un problema mal puesto) y diseñar ejemplos sintéticos para el análisis, es muy importante comprender qué tipo de objetos reales interesan resolver, comprender las escalas y los métodos de medición que se utilizan para entender dónde están los limitantes. El grado de alcance o factibilidad de cada método de superresolución depende de la manera en que son adquiridas las muestras, es importante entonces comprender esos limitantes para saber si las muestras pueden ser adquiridas nuevamente con nuevas configuraciones o si directamente no es posible atacar el problema por estos métodos. Particularmente durante el desarrollo de la tesis aprenderá además a implementar un algoritmo en forma paralela y a hacer un análisis sistemático variando los parámetros del método.</p>\n<p><strong>Dirección de la tesis</strong><br />\nMartinez, Sandra<br />\nDepartamento de Matemática-IMAS<br />\nContacto: smartin@dm.uba.ar</p>\n<p><strong>Descargar PDF<br />\n</strong><a  class=\"download-link\" title=\"\" href=\"https://lcd.exactas.uba.ar/download/2170/?tmstv=1775083717\" rel=\"nofollow\" id=\"download-link-2170\" >\n\tEstudio, mejora e implementación en forma paralela para un método de superresolución de imágenes</a>\n</p>",
+  "render_mode": "html_clean",
+  "attachments": [
+    {
+      "url": "https://lcd.exactas.uba.ar/download/2170/?tmstv=1775083717",
+      "label": "Descargar PDF",
+      "kind": "pdf",
+      "is_download_like": true
+    }
+  ],
+  "has_attachments": true,
+  "attachment_count": 1,
+  "outlinks": [
+    {
+      "url": "https://lcd.exactas.uba.ar/download/2170/?tmstv=1775083717",
+      "kind": "internal"
+    }
+  ],
+  "is_index_like": false,
+  "index_like_reason": null,
+  "content_hash": "sha256:dc963fbb721210e81c6a73d983294539ed1f3eb1f1e81110357654c168d1abcf",
+  "search_text": "Estudio, mejora e implementación en forma paralela para un método de superresolución de imágenes estudio-mejora-e-implementacion-en-forma-paralela-para-un-metodo-de-superresolucion-de-imagenes Palabras clave. Procesamiento de Imágenes, optimización global, GPU Conocimientos deseables. […] Palabras clave. Procesamiento de Imágenes, optimización global, GPU Conocimientos deseables. Buen manejo del lenguaje de programación Python o C. ¿Qué podría aprender quien realice esta tesis? – Quien desarrolle este trabajo aprenderá fundamentalmente a interactuar con otras disciplinas que requieren del procesamiento de imágenes para el diagnóstico o análisis cuantitativo. Para poder aplicar métodos de súperresolución además de comprender la matemática subyacente (entender el significado de lo que es un problema mal puesto) y diseñar ejemplos sintéticos para el análisis, es muy importante comprender qué tipo de objetos reales interesan resolver, comprender las escalas y los métodos de medición que se utilizan para entender dónde están los limitantes. El grado de alcance o factibilidad de cada método de superresolución depende de la manera en que son adquiridas las muestras, es importante entonces comprender esos limitantes para saber si las muestras pueden ser adquiridas nuevamente con nuevas configuraciones o si directamente no es posible atacar el problema por estos métodos. Particularmente durante el desarrollo de la tesis aprenderá además a implementar un algoritmo en forma paralela y a hacer un análisis sistemático variando los parámetros del método. Dirección de la tesis Martinez, Sandra Departamento de Matemática-IMAS Contacto: smartin@dm.uba.ar Descargar PDF Estudio, mejora e implementación en forma paralela para un método de superresolución de imágenes"
+}

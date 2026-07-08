@@ -1,0 +1,30 @@
+{
+  "id": "post:1902",
+  "entity_type": "post",
+  "source_id": 1902,
+  "slug": "encuentro-sobre-modelado-matematico-de-dinamicas-sociales-y-epidemias",
+  "route_slug": "post--1902--encuentro-sobre-modelado-matematico-de-dinamicas-sociales-y-epidemias",
+  "title": "Encuentro sobre modelado matemático de dinámicas sociales y epidemias",
+  "source_url": "https://lcd.exactas.uba.ar/encuentro-sobre-modelado-matematico-de-dinamicas-sociales-y-epidemias/",
+  "created_at": "2023-05-04T15:05:21",
+  "modified_at": "2023-05-04T15:05:42",
+  "sort_date": "2023-05-04T15:05:42",
+  "status": "publish",
+  "excerpt_plain": "Les comunicamos que del martes 9 al viernes 12 de […]",
+  "text": "Les comunicamos que del martes 9 al viernes 12 de Mayo, tendrá lugar un encuentro sobre modelado matemático de dinámicas sociales y epidemias, un tema de suma importancia después de lo que vivimos en la pandemia y ademas con muchas oportunidades de investigación. Habrá charlas de investigadores locales e internacionales dadas por matemáticos y físicos, con café y medialunas de por medio. Las charlas serán en al aula 1402 del 0-infinito. Toda la información sobre los oradores y las charlas se puede encontrar en: https://sites.google.com/view/ mathsocialhealth/home",
+  "html_clean": "<p>Les comunicamos que del martes 9 al viernes 12 de Mayo, tendrá lugar un encuentro sobre modelado matemático de dinámicas sociales y epidemias, un tema de suma importancia después de lo que vivimos en la pandemia y ademas con muchas oportunidades de investigación. Habrá charlas de investigadores locales e internacionales dadas por matemáticos y físicos, con café y medialunas de por medio. Las charlas serán en al aula 1402 del 0-infinito.  Toda la información sobre los oradores y las charlas se puede encontrar en:<a href=\"https://sites.google.com/view/mathsocialhealth/home\" target=\"_blank\" rel=\"noopener noreferrer\"> https://sites.google.com/view/<wbr />mathsocialhealth/home</a></p>\n<div></div>\n<div></div>",
+  "render_mode": "html_clean",
+  "attachments": [],
+  "has_attachments": false,
+  "attachment_count": 0,
+  "outlinks": [
+    {
+      "url": "https://sites.google.com/view/mathsocialhealth/home",
+      "kind": "external"
+    }
+  ],
+  "is_index_like": false,
+  "index_like_reason": null,
+  "content_hash": "sha256:c8d584e6df66075be7745539f6864c25f499502bba531d595dbdab0d9dcc2866",
+  "search_text": "Encuentro sobre modelado matemático de dinámicas sociales y epidemias encuentro-sobre-modelado-matematico-de-dinamicas-sociales-y-epidemias Les comunicamos que del martes 9 al viernes 12 de […] Les comunicamos que del martes 9 al viernes 12 de Mayo, tendrá lugar un encuentro sobre modelado matemático de dinámicas sociales y epidemias, un tema de suma importancia después de lo que vivimos en la pandemia y ademas con muchas oportunidades de investigación. Habrá charlas de investigadores locales e internacionales dadas por matemáticos y físicos, con café y medialunas de por medio. Las charlas serán en al aula 1402 del 0-infinito. Toda la información sobre los oradores y las charlas se puede encontrar en: https://sites.google.com/view/ mathsocialhealth/home"
+}
