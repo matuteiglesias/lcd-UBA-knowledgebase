@@ -1,0 +1,34 @@
+{
+  "id": "post:2122",
+  "entity_type": "post",
+  "source_id": 2122,
+  "slug": "acceso-a-las-listas-de-correo",
+  "route_slug": "post--2122--acceso-a-las-listas-de-correo",
+  "title": "Acceso a las listas de correo",
+  "source_url": "https://lcd.exactas.uba.ar/acceso-a-las-listas-de-correo/",
+  "created_at": "2023-08-11T19:35:38",
+  "modified_at": "2023-08-11T19:36:16",
+  "sort_date": "2023-08-11T19:36:16",
+  "status": "publish",
+  "excerpt_plain": "Les compartimos el acceso a las listas de correo de […]",
+  "text": "Les compartimos el acceso a las listas de correo de la carrera. Recuerden que deben inscribirse con el correo registrado en el SUI Guarani. Link de lista de información general de datos: https://listas.exactas.uba.ar/cgi-bin/mailman/listinfo/general_dat Link de listas general: https://listas.exactas.uba.ar/",
+  "html_clean": "<p>Les compartimos el acceso a las listas de correo de la carrera. Recuerden que deben inscribirse con el correo registrado en el SUI Guarani.<br />\nLink de lista de información general de datos: <a href=\"https://listas.exactas.uba.ar/cgi-bin/mailman/listinfo/general_dat\">https://listas.exactas.uba.ar/cgi-bin/mailman/listinfo/general_dat</a></p>\n<p>Link de listas general: <a href=\"https://listas.exactas.uba.ar/\">https://listas.exactas.uba.ar/</a></p>",
+  "render_mode": "html_clean",
+  "attachments": [],
+  "has_attachments": false,
+  "attachment_count": 0,
+  "outlinks": [
+    {
+      "url": "https://listas.exactas.uba.ar/cgi-bin/mailman/listinfo/general_dat",
+      "kind": "external"
+    },
+    {
+      "url": "https://listas.exactas.uba.ar/",
+      "kind": "external"
+    }
+  ],
+  "is_index_like": false,
+  "index_like_reason": null,
+  "content_hash": "sha256:859dfa52b522020de1a24059f1dee0dee770f23331c8d2cf34401fef23cb860c",
+  "search_text": "Acceso a las listas de correo acceso-a-las-listas-de-correo Les compartimos el acceso a las listas de correo de […] Les compartimos el acceso a las listas de correo de la carrera. Recuerden que deben inscribirse con el correo registrado en el SUI Guarani. Link de lista de información general de datos: https://listas.exactas.uba.ar/cgi-bin/mailman/listinfo/general_dat Link de listas general: https://listas.exactas.uba.ar/"
+}

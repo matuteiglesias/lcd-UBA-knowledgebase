@@ -1,0 +1,58 @@
+{
+  "id": "page:650",
+  "entity_type": "page",
+  "source_id": 650,
+  "slug": "comisiones",
+  "route_slug": "page--650--comisiones",
+  "title": "Comisión de Carrera Original",
+  "source_url": "https://lcd.exactas.uba.ar/comisiones/",
+  "created_at": "2020-11-19T03:27:27",
+  "modified_at": "2020-12-16T03:39:19",
+  "sort_date": "2020-12-16T03:39:19",
+  "status": "publish",
+  "excerpt_plain": "Profesores/as Ana Bianco Instituto de Cálculo (directora adjunta) Rodrigo Castro Computación Pablo Groisman Matemática (director) Enzo Tagliazucchi Física Graduados/as Manuel Maurette Juan Manuel Pérez Estudiantes Leonard Ehrhorn Sofía Goy Suplentes Sergio Dasso Profesor – DCAO…",
+  "text": "Profesores/as Ana Bianco Instituto de Cálculo (directora adjunta) Rodrigo Castro Computación Pablo Groisman Matemática (director) Enzo Tagliazucchi Física Graduados/as Manuel Maurette Juan Manuel Pérez Estudiantes Leonard Ehrhorn Sofía Goy Suplentes Sergio Dasso Profesor – DCAO Guillermo Durán Profesor – Instituto de Cálculo Luciana Ferrer Profesora – Computación Laura Kamenetzky Profesora – FBMC Victoria Paternostro Profesora – Matemática Maximiliano Camporino Graduado Yanina Giménez Graduada Abril Marcolongo Estudiante Oscar Martínez Estudiante",
+  "html_clean": "",
+  "render_mode": "text_only",
+  "attachments": [],
+  "has_attachments": false,
+  "attachment_count": 0,
+  "outlinks": [
+    {
+      "url": "https://modsimu.exp.dc.uba.ar/",
+      "kind": "external"
+    },
+    {
+      "url": "http://mate.dm.uba.ar/~pgroisma/",
+      "kind": "external"
+    },
+    {
+      "url": "https://www.cocucolab.com/",
+      "kind": "external"
+    },
+    {
+      "url": "http://jmperez.com.ar",
+      "kind": "external"
+    },
+    {
+      "url": "http://users.df.uba.ar/dasso/",
+      "kind": "external"
+    },
+    {
+      "url": "http://mate.dm.uba.ar/~gduran/",
+      "kind": "external"
+    },
+    {
+      "url": "https://www.fbmc.fcen.uba.ar/docentes/laura-kamenetzky/",
+      "kind": "external"
+    },
+    {
+      "url": "https://www.linkedin.com/in/yanina-gimenez-737909113/",
+      "kind": "external"
+    }
+  ],
+  "is_index_like": true,
+  "index_like_reason": "builder_heavy_page",
+  "content_hash": "sha256:627f8f418e2ec3d9d1d8939ee5037e7a41fda2c19936a2e8fa92d6dfd9e2723e",
+  "search_text": "Comisión de Carrera Original comisiones Profesores/as Ana Bianco Instituto de Cálculo (directora adjunta) Rodrigo Castro Computación Pablo Groisman Matemática (director) Enzo Tagliazucchi Física Graduados/as Manuel Maurette Juan Manuel Pérez Estudiantes Leonard Ehrhorn Sofía Goy Suplentes Sergio Dasso Profesor – DCAO… Profesores/as Ana Bianco Instituto de Cálculo (directora adjunta) Rodrigo Castro Computación Pablo Groisman Matemática (director) Enzo Tagliazucchi Física Graduados/as Manuel Maurette Juan Manuel Pérez Estudiantes Leonard Ehrhorn Sofía Goy Suplentes Sergio Dasso Profesor – DCAO Guillermo Durán Profesor – Instituto de Cálculo Luciana Ferrer Profesora – Computación Laura Kamenetzky Profesora – FBMC Victoria Paternostro Profesora – Matemática Maximiliano Camporino Graduado Yanina Giménez Graduada Abril Marcolongo Estudiante Oscar Martínez Estudiante"
+}

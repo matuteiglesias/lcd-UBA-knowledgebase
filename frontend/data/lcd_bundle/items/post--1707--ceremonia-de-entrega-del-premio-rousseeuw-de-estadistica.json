@@ -1,0 +1,30 @@
+{
+  "id": "post:1707",
+  "entity_type": "post",
+  "source_id": 1707,
+  "slug": "ceremonia-de-entrega-del-premio-rousseeuw-de-estadistica",
+  "route_slug": "post--1707--ceremonia-de-entrega-del-premio-rousseeuw-de-estadistica",
+  "title": "Ceremonia de entrega del premio Rousseeuw de Estadística",
+  "source_url": "https://lcd.exactas.uba.ar/ceremonia-de-entrega-del-premio-rousseeuw-de-estadistica/",
+  "created_at": "2022-10-12T14:51:48",
+  "modified_at": "2022-10-12T14:51:48",
+  "sort_date": "2022-10-12T14:51:48",
+  "status": "publish",
+  "excerpt_plain": "El míercoles 12 de octubre se hará la ceremonia de […]",
+  "text": "El míercoles 12 de octubre se hará la ceremonia de entrega del premio Rousseeuw de Estadística, en donde Andrea Rotnitzky @RotnitzkyAndrea recibirá su galardón. Programa y link a la transmisión en vivo en https://wis.kuleuven.be/events/celebrating-statistics",
+  "html_clean": "<div>\n<div>El míercoles 12 de octubre se hará la ceremonia de entrega del premio Rousseeuw de Estadística, en donde Andrea Rotnitzky @RotnitzkyAndrea recibirá su galardón.</div>\n</div>\n<div>\n<div></div>\n</div>\n<div>\n<div>Programa y link a la transmisión en vivo en <a href=\"https://wis.kuleuven.be/events/celebrating-statistics\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">https://wis.kuleuven.be/events/celebrating-statistics</a></div>\n</div>",
+  "render_mode": "html_clean",
+  "attachments": [],
+  "has_attachments": false,
+  "attachment_count": 0,
+  "outlinks": [
+    {
+      "url": "https://wis.kuleuven.be/events/celebrating-statistics",
+      "kind": "external"
+    }
+  ],
+  "is_index_like": false,
+  "index_like_reason": null,
+  "content_hash": "sha256:15d73fb6e2c21d8eae7084928093a7da319746125c002bc3321afe2b2ad1a970",
+  "search_text": "Ceremonia de entrega del premio Rousseeuw de Estadística ceremonia-de-entrega-del-premio-rousseeuw-de-estadistica El míercoles 12 de octubre se hará la ceremonia de […] El míercoles 12 de octubre se hará la ceremonia de entrega del premio Rousseeuw de Estadística, en donde Andrea Rotnitzky @RotnitzkyAndrea recibirá su galardón. Programa y link a la transmisión en vivo en https://wis.kuleuven.be/events/celebrating-statistics"
+}

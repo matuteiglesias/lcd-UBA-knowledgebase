@@ -1,0 +1,70 @@
+{
+  "id": "page:1225",
+  "entity_type": "page",
+  "source_id": 1225,
+  "slug": "semana-de-las-ciencias-de-datos-2021",
+  "route_slug": "page--1225--semana-de-las-ciencias-de-datos-2021",
+  "title": "Semana de las Ciencias de Datos 2021",
+  "source_url": "https://lcd.exactas.uba.ar/semana-de-las-ciencias-de-datos-2021/",
+  "created_at": "2021-10-25T00:06:54",
+  "modified_at": "2022-10-04T19:39:52",
+  "sort_date": "2022-10-04T19:39:52",
+  "status": "publish",
+  "excerpt_plain": "yes",
+  "text": "La Semana de las Ciencias de Datos se realizó en formato virtual del 26 al 28 de octubre . Durante esos tres días, se tuvo charlas en vivo, videos explicativos y talleres participativos para escuelas (con inscripción previa). Hasta el 19/10 estuvo abierta la inscripción a los talleres y para anotar a cursos o escuelas, completaron el formulario haciendo click aquí. Para más información sobre las Semanas de las Ciencias de Datos, visitá la página del Equipo de Popularización de la Ciencia de la Secretaría de Extensión, Cultura Científica y Bienestar . Charlas en vivo por Youtube 2021-10-29T10:30:45-03:00 Sobre dobles, triples y datos: guía para armar un equipo ganador en la NBA Por Ximena Fernández. Martes 26 de octubre 11AM por Youtube . En la era del Big Data, los equipos de la NBA apuestan cada vez más a equipos técnicos de Data Science, que desarrollan estrategias basadas en […] 2021-10-29T10:33:13-03:00 Ética e inteligencia artificial Por María Vanina Martínez. Miércoles 27 de octubre 2PM por Youtube . Los recientes avances en computación en general, y muy en particular, en Inteligencia Artificial, nos ubican en el umbral de un nuevo punto de inflexión […] 2021-10-29T10:33:44-03:00 Una lluvia de datos: como la ciencia de datos sigue revolucionando el pronóstico del tiempo Por Paula Maldonado y Juan Ruiz. Jueves 28 de octubre 2PM por Youtube . Todos los días recibimos información sobre el estado del tiempo y sobre el pronóstico para los próximos días. Esta información es fundamental para […] Talleres participativos para escuelas (requieren inscripción previa) ¿Las computadoras tienen prejuicios? Martes 26 de octubre 10AM ¿Las computadoras tienen prejuicios? En este taller mostraremos ejemplos de sesgos en algoritmos de aprendizaje automático e intentaremos pensar soluciones para problemas comunes. Taller de Inteligencia Artificial Martes 26 de octubre 2PM Taller de Inteligencia Artificial Detective de Datos Miércoles 27 de octubre 10AM Detective de Datos Por Guillermo Solovey Vamos a jugar con datos y ver cómo los gráficos y el azar nos pueden engañar. Taller de Inteligencia Artificial Miércoles 27 de octubre 11AM Taller de Inteligencia Artificial Datos y deportes Jueves 28 de octubre 10AM Datos y deportes Por Iván Monardo. Los campeonatos mundiales son eventos convocantes que despiertan interés en un público muy amplio y puede convertirse en un buen pretexto para cruzarlos con saberes que nada parecen tener que ver con el deporte. Pero sí tienen que ver: la matemática está en todos lados, y el fútbol no es una excepción. Un acercamiento al mar y la atmósfera a partir de los datos Jueves 28 de octubre 11AM Un acercamiento al mar y la atmósfera a partir de los datos ¿Te interesa la Ciencia de Datos aplicada a variables ambientales? ¡Sumergite con nosotros en los secretos del mar y la atmósfera! En este Taller exploraremos la naturaleza a partir de una variedad de bases de datos que están disponibles online y son gratuitas. Videos temáticos A lo largo de la Semana compartiremos videos estreno sobre Datos en el canal de Youtube del Equipo de Popularización. En qué se parecen el go y las proteínas Fecha de estreno: 26/10/21 13:00 Computadoras que escriben y programan como una persona Fecha de estreno: 27/10/21 9:00 ¿Cuándo “los algoritmos” fallan y por qué debería preocuparnos? Fecha de estreno: 28/10/21 9:00 La física: una ciencia de datos Fecha de estreno: 26/10/21 15:00 Trabajando con datos: imágenes y videos Fecha de estreno: 27/10/21 16:00 ¿Qué son las criptomonedas y cómo funcionan? Fecha de estreno: 28/10/21 11:00",
+  "html_clean": "",
+  "render_mode": "text_only",
+  "attachments": [],
+  "has_attachments": false,
+  "attachment_count": 0,
+  "outlinks": [
+    {
+      "url": "https://forms.gle/R2g9YS3guAiannz59",
+      "kind": "external"
+    },
+    {
+      "url": "https://exactas.uba.ar/popularizacion/semanas-de-las-ciencias/",
+      "kind": "external"
+    },
+    {
+      "url": "https://lcd.exactas.uba.ar/sobre-dobles-triples-y-datos-guia-para-armar-un-equipo-ganador-en-la-nba-por-ximena-fernandez/",
+      "kind": "internal"
+    },
+    {
+      "url": "https://lcd.exactas.uba.ar/sobre-dobles-triples-y-datos-guia-para-armar-un-equipo-ganador-en-la-nba-por-ximena-fernandez/",
+      "kind": "internal"
+    },
+    {
+      "url": "https://www.youtube.com/c/PopExactasUBAOficial",
+      "kind": "external"
+    },
+    {
+      "url": "https://lcd.exactas.uba.ar/etica-e-inteligencia-artificial-por-maria-vanina-martinez/",
+      "kind": "internal"
+    },
+    {
+      "url": "https://lcd.exactas.uba.ar/etica-e-inteligencia-artificial-por-maria-vanina-martinez/",
+      "kind": "internal"
+    },
+    {
+      "url": "https://www.youtube.com/c/PopExactasUBAOficial",
+      "kind": "external"
+    },
+    {
+      "url": "https://lcd.exactas.uba.ar/una-lluvia-de-datos-como-la-ciencia-de-datos-sigue-revolucionando-el-pronostico-del-tiempo-por-paula-maldonado-y-juan-ruiz/",
+      "kind": "internal"
+    },
+    {
+      "url": "https://lcd.exactas.uba.ar/una-lluvia-de-datos-como-la-ciencia-de-datos-sigue-revolucionando-el-pronostico-del-tiempo-por-paula-maldonado-y-juan-ruiz/",
+      "kind": "internal"
+    },
+    {
+      "url": "https://www.youtube.com/c/PopExactasUBAOficial",
+      "kind": "external"
+    }
+  ],
+  "is_index_like": true,
+  "index_like_reason": "embedded_post_grid",
+  "content_hash": "sha256:9f5856fa0a3e1a894c1dd6df026edd2822af79eb1b35915dc41dda95517a6388",
+  "search_text": "Semana de las Ciencias de Datos 2021 semana-de-las-ciencias-de-datos-2021 yes La Semana de las Ciencias de Datos se realizó en formato virtual del 26 al 28 de octubre . Durante esos tres días, se tuvo charlas en vivo, videos explicativos y talleres participativos para escuelas (con inscripción previa). Hasta el 19/10 estuvo abierta la inscripción a los talleres y para anotar a cursos o escuelas, completaron el formulario haciendo click aquí. Para más información sobre las Semanas de las Ciencias de Datos, visitá la página del Equipo de Popularización de la Ciencia de la Secretaría de Extensión, Cultura Científica y Bienestar . Charlas en vivo por Youtube 2021-10-29T10:30:45-03:00 Sobre dobles, triples y datos: guía para armar un equipo ganador en la NBA Por Ximena Fernández. Martes 26 de octubre 11AM por Youtube . En la era del Big Data, los equipos de la NBA apuestan cada vez más a equipos técnicos de Data Science, que desarrollan estrategias basadas en […] 2021-10-29T10:33:13-03:00 Ética e inteligencia artificial Por María Vanina Martínez. Miércoles 27 de octubre 2PM por Youtube . Los recientes avances en computación en general, y muy en particular, en Inteligencia Artificial, nos ubican en el umbral de un nuevo punto de inflexión […] 2021-10-29T10:33:44-03:00 Una lluvia de datos: como la ciencia de datos sigue revolucionando el pronóstico del tiempo Por Paula Maldonado y Juan Ruiz. Jueves 28 de octubre 2PM por Youtube . Todos los días recibimos información sobre el estado del tiempo y sobre el pronóstico para los próximos días. Esta información es fundamental para […] Talleres participativos para escuelas (requieren inscripción previa) ¿Las computadoras tienen prejuicios? Martes 26 de octubre 10AM ¿Las computadoras tienen prejuicios? En este taller mostraremos ejemplos de sesgos en algoritmos de aprendizaje automático e intentaremos pensar soluciones para problemas comunes. Taller de Inteligencia Artificial Martes 26 de octubre 2PM Taller de Inteligencia Artificial Detective de Datos Miércoles 27 de octubre 10AM Detective de Datos Por Guillermo Solovey Vamos a jugar con datos y ver cómo los gráficos y el azar nos pueden engañar. Taller de Inteligencia Artificial Miércoles 27 de octubre 11AM Taller de Inteligencia Artificial Datos y deportes Jueves 28 de octubre 10AM Datos y deportes Por Iván Monardo. Los campeonatos mundiales son eventos convocantes que despiertan interés en un público muy amplio y puede convertirse en un buen pretexto para cruzarlos con saberes que nada parecen tener que ver con el deporte. Pero sí tienen que ver: la matemática está en todos lados, y el fútbol no es una excepción. Un acercamiento al mar y la atmósfera a partir de los datos Jueves 28 de octubre 11AM Un acercamiento al mar y la atmósfera a partir de los datos ¿Te interesa la Ciencia de Datos aplicada a variables ambientales? ¡Sumergite con nosotros en los secretos del mar y la atmósfera! En este Taller exploraremos la naturaleza a partir de una variedad de bases de datos que están disponibles online y son gratuitas. Videos temáticos A lo largo de la Semana compartiremos videos estreno sobre Datos en el canal de Youtube del Equipo de Popularización. En qué se parecen el go y las proteínas Fecha de estreno: 26/10/21 13:00 Computadoras que escriben y programan como una persona Fecha de estreno: 27/10/21 9:00 ¿Cuándo “los algoritmos” fallan y por qué debería preocuparnos? Fecha de estreno: 28/10/21 9:00 La física: una ciencia de datos Fecha de estreno: 26/10/21 15:00 Trabajando con datos: imágenes y videos Fecha de estreno: 27/10/21 16:00 ¿Qué son las criptomonedas y cómo funcionan? Fecha de estreno: 28/10/21 11:00"
+}

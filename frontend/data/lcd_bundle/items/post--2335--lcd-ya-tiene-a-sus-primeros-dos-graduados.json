@@ -1,0 +1,30 @@
+{
+  "id": "post:2335",
+  "entity_type": "post",
+  "source_id": 2335,
+  "slug": "lcd-ya-tiene-a-sus-primeros-dos-graduados",
+  "route_slug": "post--2335--lcd-ya-tiene-a-sus-primeros-dos-graduados",
+  "title": "¡¡LCD ya tiene a sus primeros dos graduados!!",
+  "source_url": "https://lcd.exactas.uba.ar/lcd-ya-tiene-a-sus-primeros-dos-graduados/",
+  "created_at": "2023-12-14T16:29:59",
+  "modified_at": "2023-12-14T16:29:59",
+  "sort_date": "2023-12-14T16:29:59",
+  "status": "publish",
+  "excerpt_plain": "Axel Fridman y Nicolás Sawczuk son los primeros egresados de […]",
+  "text": "Axel Fridman y Nicolás Sawczuk son los primeros egresados de la carrera. Las defensas de tesis de licenciatura se llevaron a cabo ayer miércoles en el edificio Cero+Infinito. Más información sobre el evento en: https://exactas.uba.ar/los-primeros-datos/",
+  "html_clean": "<p>Axel Fridman y Nicolás Sawczuk son los primeros egresados de la carrera. Las defensas de tesis de licenciatura se llevaron a cabo ayer miércoles en el edificio Cero+Infinito.<br />\nMás información sobre el evento en: <a href=\"https://exactas.uba.ar/los-primeros-datos/\">https://exactas.uba.ar/los-primeros-datos/</a></p>",
+  "render_mode": "html_clean",
+  "attachments": [],
+  "has_attachments": false,
+  "attachment_count": 0,
+  "outlinks": [
+    {
+      "url": "https://exactas.uba.ar/los-primeros-datos/",
+      "kind": "external"
+    }
+  ],
+  "is_index_like": false,
+  "index_like_reason": null,
+  "content_hash": "sha256:7c72625656190a417b7b69134d01c9a0bbad22f7504103e852f9d642b5cf6e4e",
+  "search_text": "¡¡LCD ya tiene a sus primeros dos graduados!! lcd-ya-tiene-a-sus-primeros-dos-graduados Axel Fridman y Nicolás Sawczuk son los primeros egresados de […] Axel Fridman y Nicolás Sawczuk son los primeros egresados de la carrera. Las defensas de tesis de licenciatura se llevaron a cabo ayer miércoles en el edificio Cero+Infinito. Más información sobre el evento en: https://exactas.uba.ar/los-primeros-datos/"
+}

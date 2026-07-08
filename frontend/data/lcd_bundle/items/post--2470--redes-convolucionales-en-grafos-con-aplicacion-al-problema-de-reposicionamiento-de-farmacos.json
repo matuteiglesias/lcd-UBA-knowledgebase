@@ -1,0 +1,37 @@
+{
+  "id": "post:2470",
+  "entity_type": "post",
+  "source_id": 2470,
+  "slug": "redes-convolucionales-en-grafos-con-aplicacion-al-problema-de-reposicionamiento-de-farmacos",
+  "route_slug": "post--2470--redes-convolucionales-en-grafos-con-aplicacion-al-problema-de-reposicionamiento-de-farmacos",
+  "title": "Redes convolucionales en grafos con aplicación al problema de reposicionamiento de fármacos",
+  "source_url": "https://lcd.exactas.uba.ar/redes-convolucionales-en-grafos-con-aplicacion-al-problema-de-reposicionamiento-de-farmacos/",
+  "created_at": "2024-06-27T17:04:51",
+  "modified_at": "2024-06-27T17:04:51",
+  "sort_date": "2024-06-27T17:04:51",
+  "status": "publish",
+  "excerpt_plain": "Resumen. El presente proyecto planea estudiar metodologías que permitan extraer […]",
+  "text": "Resumen. El presente proyecto planea estudiar metodologías que permitan extraer información de relevancia biomédica a partir de la integración de datos heterogéneos. Así, utilizaremos el abordaje de redes convolucionales montadas sobre grafos (Graph Convolutional Networks) para predecir nuevas posibles relaciones entre genes, enfermedades de origen genético, dianas terapéuticas y fármacos. Utilizando redes quimio-genómicas, es posible recomendar nuevos targets terapéuticos para drogas conocidas y ya aprobadas? Utilizando redes de asociaciones gen-enfermedad, es posible inferir nuevas asociaciones entre genes y enfermedades de base-hereditaria? Estas son algunas de las preguntas que nos interesan responder. Palabras clave. Grafos de conocimiento, redes convolucionales en grafos, reposicionamiento de fármacos. Conocimientos deseables. Conocimientos de python, libreria pytorch, conocimientos de R. ¿Qué podría aprender quien realice esta tesis? – Manejo de redes complejas para integración de datos, redes convolucionales, tareas de priorizacion en redes. Dirección de la tesis Chernomoretz, Ariel Dto Fisica, FCEN, UBA Contacto: ariel@df.uba.ar Descargar PDF Redes convolucionales en grafos con aplicación al problema de reposicionamiento de fármacos",
+  "html_clean": "<p><strong>Resumen.</strong> El presente proyecto planea estudiar metodologías que permitan extraer información de relevancia biomédica a partir de la integración de datos heterogéneos. Así, utilizaremos el abordaje de redes convolucionales montadas sobre grafos (Graph Convolutional Networks) para predecir nuevas posibles relaciones entre genes, enfermedades de origen genético, dianas terapéuticas y fármacos. Utilizando redes quimio-genómicas, es posible recomendar nuevos targets terapéuticos para drogas conocidas y ya aprobadas? Utilizando redes de asociaciones gen-enfermedad, es posible inferir nuevas asociaciones entre genes y enfermedades de base-hereditaria? Estas son algunas de las preguntas que nos interesan responder.</p>\n<p><strong>Palabras clave.</strong> Grafos de conocimiento, redes convolucionales en grafos, reposicionamiento de fármacos.</p>\n<p><strong>Conocimientos deseables.</strong> Conocimientos de python, libreria pytorch, conocimientos de R.</p>\n<p><strong>¿Qué podría aprender quien realice esta tesis? &#8211;</strong> Manejo de redes complejas para integración de datos, redes convolucionales, tareas de priorizacion en redes.</p>\n<p><strong>Dirección de la tesis</strong><br />\nChernomoretz, Ariel<br />\nDto Fisica, FCEN, UBA<br />\nContacto: ariel@df.uba.ar</p>\n<p><strong>Descargar PDF</strong><br />\n<a  class=\"download-link\" title=\"\" href=\"https://lcd.exactas.uba.ar/download/2455/?tmstv=1777052100\" rel=\"nofollow\" id=\"download-link-2455\" >\n\tRedes convolucionales en grafos con aplicación al problema de reposicionamiento de fármacos</a>\n</p>",
+  "render_mode": "html_clean",
+  "attachments": [
+    {
+      "url": "https://lcd.exactas.uba.ar/download/2455/?tmstv=1777052100",
+      "label": "Descargar PDF",
+      "kind": "pdf",
+      "is_download_like": true
+    }
+  ],
+  "has_attachments": true,
+  "attachment_count": 1,
+  "outlinks": [
+    {
+      "url": "https://lcd.exactas.uba.ar/download/2455/?tmstv=1777052100",
+      "kind": "internal"
+    }
+  ],
+  "is_index_like": false,
+  "index_like_reason": null,
+  "content_hash": "sha256:1ca963b94bc8337e246e8e3f2c1c556e31aaf7ccc0df4846c2ac2a3f34b05ec0",
+  "search_text": "Redes convolucionales en grafos con aplicación al problema de reposicionamiento de fármacos redes-convolucionales-en-grafos-con-aplicacion-al-problema-de-reposicionamiento-de-farmacos Resumen. El presente proyecto planea estudiar metodologías que permitan extraer […] Resumen. El presente proyecto planea estudiar metodologías que permitan extraer información de relevancia biomédica a partir de la integración de datos heterogéneos. Así, utilizaremos el abordaje de redes convolucionales montadas sobre grafos (Graph Convolutional Networks) para predecir nuevas posibles relaciones entre genes, enfermedades de origen genético, dianas terapéuticas y fármacos. Utilizando redes quimio-genómicas, es posible recomendar nuevos targets terapéuticos para drogas conocidas y ya aprobadas? Utilizando redes de asociaciones gen-enfermedad, es posible inferir nuevas asociaciones entre genes y enfermedades de base-hereditaria? Estas son algunas de las preguntas que nos interesan responder. Palabras clave. Grafos de conocimiento, redes convolucionales en grafos, reposicionamiento de fármacos. Conocimientos deseables. Conocimientos de python, libreria pytorch, conocimientos de R. ¿Qué podría aprender quien realice esta tesis? – Manejo de redes complejas para integración de datos, redes convolucionales, tareas de priorizacion en redes. Dirección de la tesis Chernomoretz, Ariel Dto Fisica, FCEN, UBA Contacto: ariel@df.uba.ar Descargar PDF Redes convolucionales en grafos con aplicación al problema de reposicionamiento de fármacos"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "post:1197",
+  "entity_type": "post",
+  "source_id": 1197,
+  "slug": "semana-de-las-ciencias-2021",
+  "route_slug": "post--1197--semana-de-las-ciencias-2021",
+  "title": "¡Semana de las Ciencias de Datos 2021!",
+  "source_url": "https://lcd.exactas.uba.ar/semana-de-las-ciencias-2021/",
+  "created_at": "2021-10-14T15:00:20",
+  "modified_at": "2021-10-16T18:16:17",
+  "sort_date": "2021-10-16T18:16:17",
+  "status": "publish",
+  "excerpt_plain": "¡Semana de las Ciencias de Datos! Del 26 al 28 […]",
+  "text": "¡Semana de las Ciencias de Datos! Del 26 al 28 de octubre se realizará, en formato virtual, la nueva Semana de las Ciencias de Datos de Exactas UBA. Durante esos tres días, podrán encontrar en el canal de Youtube de Popularización Exactas charlas en vivo, videos temáticos y talleres interactivos- con inscripción previa-. Desde hoy y hasta el 19/10 estará abierta la inscripción a las actividades interactivas. En este link encontrarán el enlace del formulario para inscribir cursos/escuelas ¡Los/as esperamos!",
+  "html_clean": "<p>¡Semana de las Ciencias de Datos!</p>\n<p>Del 26 al 28 de octubre se realizará, en formato virtual, la nueva Semana de las Ciencias de Datos de Exactas UBA. Durante esos tres días, podrán encontrar en el canal de <a href=\"https://www.youtube.com/c/PopExactasUBAOficial\">Youtube de Popularización Exactas</a> charlas en vivo, videos temáticos y talleres interactivos- con inscripción previa-.<br />\nDesde hoy y hasta el 19/10 estará abierta la inscripción a las actividades interactivas. En este <a href=\"https://exactas.uba.ar/popularizacion/semana-de-las-ciencias-de-datos/?fbclid=IwAR1MPt792CCpZ5AVUztCJY3i8ofv3e8tQnIYPoTCm1T4xfEIA8o1PIDrM0k\">link</a> encontrarán el enlace del formulario para inscribir cursos/escuelas</p>\n<p>¡Los/as esperamos!</p>",
+  "render_mode": "html_clean",
+  "attachments": [],
+  "has_attachments": false,
+  "attachment_count": 0,
+  "outlinks": [
+    {
+      "url": "https://www.youtube.com/c/PopExactasUBAOficial",
+      "kind": "external"
+    },
+    {
+      "url": "https://exactas.uba.ar/popularizacion/semana-de-las-ciencias-de-datos/?fbclid=IwAR1MPt792CCpZ5AVUztCJY3i8ofv3e8tQnIYPoTCm1T4xfEIA8o1PIDrM0k",
+      "kind": "external"
+    }
+  ],
+  "is_index_like": false,
+  "index_like_reason": null,
+  "content_hash": "sha256:ac3a1f804be908287b38eab21d82d16a3158f69e572034a25458e9d5e346236d",
+  "search_text": "¡Semana de las Ciencias de Datos 2021! semana-de-las-ciencias-2021 ¡Semana de las Ciencias de Datos! Del 26 al 28 […] ¡Semana de las Ciencias de Datos! Del 26 al 28 de octubre se realizará, en formato virtual, la nueva Semana de las Ciencias de Datos de Exactas UBA. Durante esos tres días, podrán encontrar en el canal de Youtube de Popularización Exactas charlas en vivo, videos temáticos y talleres interactivos- con inscripción previa-. Desde hoy y hasta el 19/10 estará abierta la inscripción a las actividades interactivas. En este link encontrarán el enlace del formulario para inscribir cursos/escuelas ¡Los/as esperamos!"
+}

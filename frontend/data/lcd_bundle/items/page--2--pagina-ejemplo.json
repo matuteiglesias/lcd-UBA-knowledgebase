@@ -1,0 +1,70 @@
+{
+  "id": "page:2",
+  "entity_type": "page",
+  "source_id": 2,
+  "slug": "pagina-ejemplo",
+  "route_slug": "page--2--pagina-ejemplo",
+  "title": "Página de ejemplo",
+  "source_url": "https://lcd.exactas.uba.ar/pagina-ejemplo/",
+  "created_at": "2020-08-11T16:09:48",
+  "modified_at": "2020-12-08T21:55:01",
+  "sort_date": "2020-12-08T21:55:01",
+  "status": "publish",
+  "excerpt_plain": "Esta es una página de ejemplo, es diferente de una […]",
+  "text": "Esta es una página de ejemplo, es diferente de una entrada porque se va a quedar en un solo lugar y va a aparecer en la navegación de tu sitio (en la mayoría de los temas). Muchas gente empieza con una página del tipo “Sobre Mí”, que los introduce a los potenciales visitantes de su sitio. Podés decir algo como esto: ¡Hola! Soy mensajero en bicicleta de día, actor aspirante de noche, y esta es mi página web. Vivo en Los Ángeles, tengo un gran perro llamado Jack, y me gustan las piñas coladas. (Y ser atrapado por la lluvia.) …o algo como esto: La compañia XYZ Trasto fue fundada en 1971, y provee trastos de calidad para el público desde entonces. Ubicado en Ciudad Gótica, XYZ le da empleo a más de 2000 personas y hace todo tipo de cosas asombrosas para la comunidad de Gótica. Como nuevo usuario de WordPress, deberías dirigirte a tu escritorio para borrar esta página y crear nuevas páginas para tu contenido. ¡Divertite!",
+  "html_clean": "<p>Esta es una página de ejemplo, es diferente de una entrada porque se va a quedar en un solo lugar y va a aparecer en la navegación de tu sitio (en la mayoría de los temas). Muchas gente empieza con una página del tipo &#8220;Sobre Mí&#8221;, que los introduce a los potenciales visitantes de su sitio. Podés decir algo como esto:</p>\r\n\r\n\r\n\r\n<blockquote class=\"wp-block-quote is-layout-flow wp-block-quote-is-layout-flow\">\r\n<p>¡Hola! Soy mensajero en bicicleta de día, actor aspirante de noche, y esta es mi página web. Vivo en Los Ángeles, tengo un gran perro llamado Jack, y me gustan las piñas coladas. (Y ser atrapado por la lluvia.)</p>\r\n</blockquote>\r\n\r\n\r\n\r\n<p>&#8230;o algo como esto:</p>\r\n\r\n\r\n\r\n<blockquote class=\"wp-block-quote is-layout-flow wp-block-quote-is-layout-flow\">\r\n<p>La compañia XYZ Trasto fue fundada en 1971, y provee trastos de calidad para el público desde entonces. Ubicado en Ciudad Gótica, XYZ le da empleo a más de 2000 personas y hace todo tipo de cosas asombrosas para la comunidad de Gótica.</p>\r\n</blockquote>\r\n\r\n\r\n\r\n<p>Como nuevo usuario de WordPress, deberías dirigirte a <a href=\"https://lcd.exactas.uba.ar/wp-admin/\">tu escritorio</a> para borrar esta página y crear nuevas páginas para tu contenido. ¡Divertite!</p>\r\n<div><div><div><div></div><div></div><div></div></div><div><a href=\"#\" title=\"Previous\" class=\"prev\"><i class=\"fa fa-arrow-circle-left\"></i></a><a href=\"#\" title=\"Next\" class=\"next\"><i class=\"fa fa-arrow-circle-right\"></i></a></div><ul class=\"carousel-slider gallery\"><li class=\"slide gallery-item image-id-664\"><a href='https://lcd.exactas.uba.ar/dsc_9397/'><img decoding=\"async\" width=\"600\" height=\"400\" src=\"https://lcd.exactas.uba.ar/wp-content/uploads/2020/11/DSC_9397.jpg\" class=\"attachment-large size-large\" alt=\"\" srcset=\"https://lcd.exactas.uba.ar/wp-content/uploads/2020/11/DSC_9397-200x133.jpg 200w, https://lcd.exactas.uba.ar/wp-content/uploads/2020/11/DSC_9397-300x200.jpg 300w, https://lcd.exactas.uba.ar/wp-content/uploads/2020/11/DSC_9397-400x267.jpg 400w, https://lcd.exactas.uba.ar/wp-content/uploads/2020/11/DSC_9397.jpg 600w\" sizes=\"(max-width: 600px) 100vw, 600px\" /></a></li><li class=\"slide gallery-item image-id-663\"><a href='https://lcd.exactas.uba.ar/dsc_8057/'><img decoding=\"async\" width=\"600\" height=\"400\" src=\"https://lcd.exactas.uba.ar/wp-content/uploads/2020/11/DSC_8057.jpg\" class=\"attachment-large size-large\" alt=\"\" srcset=\"https://lcd.exactas.uba.ar/wp-content/uploads/2020/11/DSC_8057-200x133.jpg 200w, https://lcd.exactas.uba.ar/wp-content/uploads/2020/11/DSC_8057-300x200.jpg 300w, https://lcd.exactas.uba.ar/wp-content/uploads/2020/11/DSC_8057-400x267.jpg 400w, https://lcd.exactas.uba.ar/wp-content/uploads/2020/11/DSC_8057.jpg 600w\" sizes=\"(max-width: 600px) 100vw, 600px\" /></a></li><li class=\"slide gallery-item image-id-661\"><a href='https://lcd.exactas.uba.ar/dsc_6008/'><img decoding=\"async\" width=\"600\" height=\"400\" src=\"https://lcd.exactas.uba.ar/wp-content/uploads/2020/11/DSC_6008.jpg\" class=\"attachment-large size-large\" alt=\"\" srcset=\"https://lcd.exactas.uba.ar/wp-content/uploads/2020/11/DSC_6008-200x133.jpg 200w, https://lcd.exactas.uba.ar/wp-content/uploads/2020/11/DSC_6008-300x200.jpg 300w, https://lcd.exactas.uba.ar/wp-content/uploads/2020/11/DSC_6008-400x267.jpg 400w, https://lcd.exactas.uba.ar/wp-content/uploads/2020/11/DSC_6008.jpg 600w\" sizes=\"(max-width: 600px) 100vw, 600px\" /></a></li><li class=\"slide gallery-item image-id-657\"><a href='https://lcd.exactas.uba.ar/dsc_2311/'><img decoding=\"async\" width=\"600\" height=\"400\" src=\"https://lcd.exactas.uba.ar/wp-content/uploads/2020/11/DSC_2311.jpg\" class=\"attachment-large size-large\" alt=\"\" srcset=\"https://lcd.exactas.uba.ar/wp-content/uploads/2020/11/DSC_2311-200x133.jpg 200w, https://lcd.exactas.uba.ar/wp-content/uploads/2020/11/DSC_2311-300x200.jpg 300w, https://lcd.exactas.uba.ar/wp-content/uploads/2020/11/DSC_2311-400x267.jpg 400w, https://lcd.exactas.uba.ar/wp-content/uploads/2020/11/DSC_2311.jpg 600w\" sizes=\"(max-width: 600px) 100vw, 600px\" /></a></li><li class=\"slide gallery-item image-id-658\"><a href='https://lcd.exactas.uba.ar/dsc_2320/'><img decoding=\"async\" width=\"600\" height=\"400\" src=\"https://lcd.exactas.uba.ar/wp-content/uploads/2020/11/DSC_2320.jpg\" class=\"attachment-large size-large\" alt=\"\" srcset=\"https://lcd.exactas.uba.ar/wp-content/uploads/2020/11/DSC_2320-200x133.jpg 200w, https://lcd.exactas.uba.ar/wp-content/uploads/2020/11/DSC_2320-300x200.jpg 300w, https://lcd.exactas.uba.ar/wp-content/uploads/2020/11/DSC_2320-400x267.jpg 400w, https://lcd.exactas.uba.ar/wp-content/uploads/2020/11/DSC_2320.jpg 600w\" sizes=\"(max-width: 600px) 100vw, 600px\" /></a></li><li class=\"slide gallery-item image-id-659\"><a href='https://lcd.exactas.uba.ar/dsc_4752b/'><img decoding=\"async\" width=\"600\" height=\"400\" src=\"https://lcd.exactas.uba.ar/wp-content/uploads/2020/11/DSC_4752b.jpg\" class=\"attachment-large size-large\" alt=\"\" srcset=\"https://lcd.exactas.uba.ar/wp-content/uploads/2020/11/DSC_4752b-200x133.jpg 200w, https://lcd.exactas.uba.ar/wp-content/uploads/2020/11/DSC_4752b-300x200.jpg 300w, https://lcd.exactas.uba.ar/wp-content/uploads/2020/11/DSC_4752b-400x267.jpg 400w, https://lcd.exactas.uba.ar/wp-content/uploads/2020/11/DSC_4752b.jpg 600w\" sizes=\"(max-width: 600px) 100vw, 600px\" /></a></li><li class=\"slide gallery-item image-id-660\"><a href='https://lcd.exactas.uba.ar/dsc_4754/'><img decoding=\"async\" width=\"600\" height=\"400\" src=\"https://lcd.exactas.uba.ar/wp-content/uploads/2020/11/DSC_4754.jpg\" class=\"attachment-large size-large\" alt=\"\" srcset=\"https://lcd.exactas.uba.ar/wp-content/uploads/2020/11/DSC_4754-200x133.jpg 200w, https://lcd.exactas.uba.ar/wp-content/uploads/2020/11/DSC_4754-300x200.jpg 300w, https://lcd.exactas.uba.ar/wp-content/uploads/2020/11/DSC_4754-400x267.jpg 400w, https://lcd.exactas.uba.ar/wp-content/uploads/2020/11/DSC_4754.jpg 600w\" sizes=\"(max-width: 600px) 100vw, 600px\" /></a></li><li class=\"slide gallery-item image-id-662\"><a href='https://lcd.exactas.uba.ar/dsc_6280/'><img decoding=\"async\" width=\"600\" height=\"400\" src=\"https://lcd.exactas.uba.ar/wp-content/uploads/2020/11/DSC_6280.jpg\" class=\"attachment-large size-large\" alt=\"\" srcset=\"https://lcd.exactas.uba.ar/wp-content/uploads/2020/11/DSC_6280-200x133.jpg 200w, https://lcd.exactas.uba.ar/wp-content/uploads/2020/11/DSC_6280-300x200.jpg 300w, https://lcd.exactas.uba.ar/wp-content/uploads/2020/11/DSC_6280-400x267.jpg 400w, https://lcd.exactas.uba.ar/wp-content/uploads/2020/11/DSC_6280.jpg 600w\" sizes=\"(max-width: 600px) 100vw, 600px\" /></a></li></ul><!-- .carousel-slider (end) --></div><!-- .slider-inner (end) --></div><!-- #bne-carousel-564 (end) -->",
+  "render_mode": "html_clean",
+  "attachments": [],
+  "has_attachments": false,
+  "attachment_count": 0,
+  "outlinks": [
+    {
+      "url": "https://lcd.exactas.uba.ar/wp-admin/",
+      "kind": "internal"
+    },
+    {
+      "url": "#",
+      "kind": "external"
+    },
+    {
+      "url": "#",
+      "kind": "external"
+    },
+    {
+      "url": "https://lcd.exactas.uba.ar/dsc_9397/",
+      "kind": "internal"
+    },
+    {
+      "url": "https://lcd.exactas.uba.ar/dsc_8057/",
+      "kind": "internal"
+    },
+    {
+      "url": "https://lcd.exactas.uba.ar/dsc_6008/",
+      "kind": "internal"
+    },
+    {
+      "url": "https://lcd.exactas.uba.ar/dsc_2311/",
+      "kind": "internal"
+    },
+    {
+      "url": "https://lcd.exactas.uba.ar/dsc_2320/",
+      "kind": "internal"
+    },
+    {
+      "url": "https://lcd.exactas.uba.ar/dsc_4752b/",
+      "kind": "internal"
+    },
+    {
+      "url": "https://lcd.exactas.uba.ar/dsc_4754/",
+      "kind": "internal"
+    },
+    {
+      "url": "https://lcd.exactas.uba.ar/dsc_6280/",
+      "kind": "internal"
+    }
+  ],
+  "is_index_like": false,
+  "index_like_reason": null,
+  "content_hash": "sha256:3559789624426c5d2c6158a941cccb908b6142171c6c798e673dc0983b619ffd",
+  "search_text": "Página de ejemplo pagina-ejemplo Esta es una página de ejemplo, es diferente de una […] Esta es una página de ejemplo, es diferente de una entrada porque se va a quedar en un solo lugar y va a aparecer en la navegación de tu sitio (en la mayoría de los temas). Muchas gente empieza con una página del tipo “Sobre Mí”, que los introduce a los potenciales visitantes de su sitio. Podés decir algo como esto: ¡Hola! Soy mensajero en bicicleta de día, actor aspirante de noche, y esta es mi página web. Vivo en Los Ángeles, tengo un gran perro llamado Jack, y me gustan las piñas coladas. (Y ser atrapado por la lluvia.) …o algo como esto: La compañia XYZ Trasto fue fundada en 1971, y provee trastos de calidad para el público desde entonces. Ubicado en Ciudad Gótica, XYZ le da empleo a más de 2000 personas y hace todo tipo de cosas asombrosas para la comunidad de Gótica. Como nuevo usuario de WordPress, deberías dirigirte a tu escritorio para borrar esta página y crear nuevas páginas para tu contenido. ¡Divertite!"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "post:2637",
+  "entity_type": "post",
+  "source_id": 2637,
+  "slug": "integracion-de-datos-de-encuestas-y-censos-mediante-modelos-de-aprendizaje-automatico",
+  "route_slug": "post--2637--integracion-de-datos-de-encuestas-y-censos-mediante-modelos-de-aprendizaje-automatico",
+  "title": "Integración de Datos de Encuestas y Censos mediante Modelos de Aprendizaje Automático",
+  "source_url": "https://lcd.exactas.uba.ar/integracion-de-datos-de-encuestas-y-censos-mediante-modelos-de-aprendizaje-automatico/",
+  "created_at": "2024-11-29T21:42:48",
+  "modified_at": "2024-11-29T21:42:48",
+  "sort_date": "2024-11-29T21:42:48",
+  "status": "publish",
+  "excerpt_plain": "Resumen. La expansión de datos de censos utilizando datos de […]",
+  "text": "Resumen. La expansión de datos de censos utilizando datos de encuestas y técnicas de aprendizaje automático para generar nuevas variables y detalles sobre las bases de datos existentes. Este proyecto permite un análisis extremadamente detallado de temas como la pobreza y las condiciones laborales, superando notablemente los metodos de medicion tradicionales. Palabras clave. Modelado predictivo, integración de datos, análisis de pobreza, condiciones laborales. Conocimientos deseables. Programación en Python (numpy, pandas, scikit-learn, TensorFlow) Estadística aplicada Análisis y visualización de datos Conocimientos básicos de técnicas de machine learning ¿Qué podría aprender quien realice esta tesis? – Desarrollo y validación de modelos de aprendizaje automático Técnicas de integración de datos y manejo de grandes conjuntos de datos Herramientas avanzadas de análisis y visualización de datos Aplicación de métodos cuantitativos a problemas socioeconómicos Dirección de la tesis Iglesias, Matias Nehuen DC Contacto: matuteiglesias@gmail.com Descargar PDF Integración de Datos de Encuestas y Censos mediante Modelos de Aprendizaje Automático",
+  "html_clean": "<p><strong>Resumen.</strong> La expansión de datos de censos utilizando datos de encuestas y técnicas de aprendizaje automático para generar nuevas variables y detalles sobre las bases de datos existentes. Este proyecto permite un análisis extremadamente detallado de temas como la pobreza y las condiciones laborales, superando notablemente los metodos de medicion tradicionales.</p>\n<p><strong>Palabras clave.</strong> Modelado predictivo, integración de datos, análisis de pobreza, condiciones laborales.</p>\n<p><strong>Conocimientos deseables.</strong> Programación en Python (numpy, pandas, scikit-learn, TensorFlow) Estadística aplicada Análisis y visualización de datos Conocimientos básicos de técnicas de machine learning</p>\n<p><strong>¿Qué podría aprender quien realice esta tesis? &#8211;</strong> Desarrollo y validación de modelos de aprendizaje automático Técnicas de integración de datos y manejo de grandes conjuntos de datos Herramientas avanzadas de análisis y visualización de datos Aplicación de métodos cuantitativos a problemas socioeconómicos</p>\n<p><strong>Dirección de la tesis</strong><br />\nIglesias, Matias Nehuen<br />\nDC<br />\nContacto: matuteiglesias@gmail.com</p>\n<p><strong>Descargar PDF</strong><br />\n<a  class=\"download-link\" title=\"\" href=\"https://lcd.exactas.uba.ar/download/2634/?tmstv=1777052099\" rel=\"nofollow\" id=\"download-link-2634\" >\n\tIntegración de Datos de Encuestas y Censos mediante Modelos de Aprendizaje Automático</a>\n</p>",
+  "render_mode": "html_clean",
+  "attachments": [
+    {
+      "url": "https://lcd.exactas.uba.ar/download/2634/?tmstv=1777052099",
+      "label": "Descargar PDF",
+      "kind": "pdf",
+      "is_download_like": true
+    }
+  ],
+  "has_attachments": true,
+  "attachment_count": 1,
+  "outlinks": [
+    {
+      "url": "https://lcd.exactas.uba.ar/download/2634/?tmstv=1777052099",
+      "kind": "internal"
+    }
+  ],
+  "is_index_like": false,
+  "index_like_reason": null,
+  "content_hash": "sha256:b32fc0cc4df10c8103eea21ad0ac11f3a9ad33550a5e09546f9b13643ac500d7",
+  "search_text": "Integración de Datos de Encuestas y Censos mediante Modelos de Aprendizaje Automático integracion-de-datos-de-encuestas-y-censos-mediante-modelos-de-aprendizaje-automatico Resumen. La expansión de datos de censos utilizando datos de […] Resumen. La expansión de datos de censos utilizando datos de encuestas y técnicas de aprendizaje automático para generar nuevas variables y detalles sobre las bases de datos existentes. Este proyecto permite un análisis extremadamente detallado de temas como la pobreza y las condiciones laborales, superando notablemente los metodos de medicion tradicionales. Palabras clave. Modelado predictivo, integración de datos, análisis de pobreza, condiciones laborales. Conocimientos deseables. Programación en Python (numpy, pandas, scikit-learn, TensorFlow) Estadística aplicada Análisis y visualización de datos Conocimientos básicos de técnicas de machine learning ¿Qué podría aprender quien realice esta tesis? – Desarrollo y validación de modelos de aprendizaje automático Técnicas de integración de datos y manejo de grandes conjuntos de datos Herramientas avanzadas de análisis y visualización de datos Aplicación de métodos cuantitativos a problemas socioeconómicos Dirección de la tesis Iglesias, Matias Nehuen DC Contacto: matuteiglesias@gmail.com Descargar PDF Integración de Datos de Encuestas y Censos mediante Modelos de Aprendizaje Automático"
+}

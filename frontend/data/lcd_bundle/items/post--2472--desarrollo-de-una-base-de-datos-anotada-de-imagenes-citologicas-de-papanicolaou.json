@@ -1,0 +1,37 @@
+{
+  "id": "post:2472",
+  "entity_type": "post",
+  "source_id": 2472,
+  "slug": "desarrollo-de-una-base-de-datos-anotada-de-imagenes-citologicas-de-papanicolaou",
+  "route_slug": "post--2472--desarrollo-de-una-base-de-datos-anotada-de-imagenes-citologicas-de-papanicolaou",
+  "title": "Desarrollo de una base de datos anotada de imágenes citológicas de Papanicolaou",
+  "source_url": "https://lcd.exactas.uba.ar/desarrollo-de-una-base-de-datos-anotada-de-imagenes-citologicas-de-papanicolaou/",
+  "created_at": "2024-06-27T17:06:52",
+  "modified_at": "2024-06-27T17:06:52",
+  "sort_date": "2024-06-27T17:06:52",
+  "status": "publish",
+  "excerpt_plain": "Resumen. Este plan se enmarca en un proyecto más general […]",
+  "text": "Resumen. Este plan se enmarca en un proyecto más general para automatizar el diagnóstico de cáncer de cuello uterino. Para entrenar los modelos de AI, es esencial desarrollar una base de datos de imágenes anotadas que permita identificar las células o regiones patológicas. Esta tarea es realizada por personal especializado, por lo que este plan contempla una interacción con personal médico colaborador en este proyecto. En este plan se propone trabajar en la confección de una base de datos anotada que contemple el acuerdo inter-anotador como parte fundamental de la metadata. En este proyecto proponemos las siguientes tareas para mejorar y escalar el proceso actual: 1. Poner a punto un sistema de organización de las imágenes anotadas con el fin de confeccionar una base de datos de uso público. 2. Levantar la base de datos en un servidor de la FCEN-UBA. Palabras clave. Base de Datos – Anatomía Patológica PAPs – Acuerdo Inter-Anotador – Imágenes Citológicas. Conocimientos deseables. Manejo de Bases de Datos. Desarrollo web. ¿Qué podría aprender quien realice esta tesis? – El/La estudiante formará parte de un equipo interdisciplinario que combina expertises de las Cs. de la Computación, Cs. de Datos y Medicina. Trabajará con imágenes de relevancia médica en un problema de aplicación directa a la Salud Pública. Dirección de la tesis Bruno, Luciana Instituto de Cálculo, FCEN, UBA-CONICET Contacto: lucianabrun@gmail.com Descargar PDF Desarrollo de una base de datos anotada de imágenes citológicas de Papanicolaou",
+  "html_clean": "<p><strong>Resumen.</strong> Este plan se enmarca en un proyecto más general para automatizar el diagnóstico de cáncer de cuello uterino. Para entrenar los modelos de AI, es esencial desarrollar una base de datos de imágenes anotadas que permita identificar las células o regiones patológicas. Esta tarea es realizada por personal especializado, por lo que este plan contempla una interacción con personal médico colaborador en este proyecto. En este plan se propone trabajar en la confección de una base de datos anotada que contemple el acuerdo inter-anotador como parte fundamental de la metadata. En este proyecto proponemos las siguientes tareas para mejorar y escalar el proceso actual: 1. Poner a punto un sistema de organización de las imágenes anotadas con el fin de confeccionar una base de datos de uso público. 2. Levantar la base de datos en un servidor de la FCEN-UBA.</p>\n<p><strong>Palabras clave.</strong> Base de Datos &#8211; Anatomía Patológica PAPs &#8211; Acuerdo Inter-Anotador &#8211; Imágenes Citológicas.</p>\n<p><strong>Conocimientos deseables.</strong> Manejo de Bases de Datos. Desarrollo web.</p>\n<p><strong>¿Qué podría aprender quien realice esta tesis? &#8211;</strong> El/La estudiante formará parte de un equipo interdisciplinario que combina expertises de las Cs. de la Computación, Cs. de Datos y Medicina. Trabajará con<br />\nimágenes de relevancia médica en un problema de aplicación directa a la Salud Pública.</p>\n<p><strong>Dirección de la tesis</strong><br />\nBruno, Luciana<br />\nInstituto de Cálculo, FCEN, UBA-CONICET<br />\nContacto: lucianabrun@gmail.com</p>\n<p><strong>Descargar PDF</strong><br />\n<a  class=\"download-link\" title=\"\" href=\"https://lcd.exactas.uba.ar/download/2458/?tmstv=1777052100\" rel=\"nofollow\" id=\"download-link-2458\" >\n\tDesarrollo de una base de datos anotada de imágenes citológicas de Papanicolaou</a>\n</p>",
+  "render_mode": "html_clean",
+  "attachments": [
+    {
+      "url": "https://lcd.exactas.uba.ar/download/2458/?tmstv=1777052100",
+      "label": "Descargar PDF",
+      "kind": "pdf",
+      "is_download_like": true
+    }
+  ],
+  "has_attachments": true,
+  "attachment_count": 1,
+  "outlinks": [
+    {
+      "url": "https://lcd.exactas.uba.ar/download/2458/?tmstv=1777052100",
+      "kind": "internal"
+    }
+  ],
+  "is_index_like": false,
+  "index_like_reason": null,
+  "content_hash": "sha256:e848fd64845983bba65e17dfedd5e94107e39d75fd3152fa853cc753b30599ce",
+  "search_text": "Desarrollo de una base de datos anotada de imágenes citológicas de Papanicolaou desarrollo-de-una-base-de-datos-anotada-de-imagenes-citologicas-de-papanicolaou Resumen. Este plan se enmarca en un proyecto más general […] Resumen. Este plan se enmarca en un proyecto más general para automatizar el diagnóstico de cáncer de cuello uterino. Para entrenar los modelos de AI, es esencial desarrollar una base de datos de imágenes anotadas que permita identificar las células o regiones patológicas. Esta tarea es realizada por personal especializado, por lo que este plan contempla una interacción con personal médico colaborador en este proyecto. En este plan se propone trabajar en la confección de una base de datos anotada que contemple el acuerdo inter-anotador como parte fundamental de la metadata. En este proyecto proponemos las siguientes tareas para mejorar y escalar el proceso actual: 1. Poner a punto un sistema de organización de las imágenes anotadas con el fin de confeccionar una base de datos de uso público. 2. Levantar la base de datos en un servidor de la FCEN-UBA. Palabras clave. Base de Datos – Anatomía Patológica PAPs – Acuerdo Inter-Anotador – Imágenes Citológicas. Conocimientos deseables. Manejo de Bases de Datos. Desarrollo web. ¿Qué podría aprender quien realice esta tesis? – El/La estudiante formará parte de un equipo interdisciplinario que combina expertises de las Cs. de la Computación, Cs. de Datos y Medicina. Trabajará con imágenes de relevancia médica en un problema de aplicación directa a la Salud Pública. Dirección de la tesis Bruno, Luciana Instituto de Cálculo, FCEN, UBA-CONICET Contacto: lucianabrun@gmail.com Descargar PDF Desarrollo de una base de datos anotada de imágenes citológicas de Papanicolaou"
+}

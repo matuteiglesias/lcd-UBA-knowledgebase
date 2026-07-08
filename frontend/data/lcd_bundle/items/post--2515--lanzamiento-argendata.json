@@ -1,0 +1,30 @@
+{
+  "id": "post:2515",
+  "entity_type": "post",
+  "source_id": 2515,
+  "slug": "lanzamiento-argendata",
+  "route_slug": "post--2515--lanzamiento-argendata",
+  "title": "Lanzamiento Argendata",
+  "source_url": "https://lcd.exactas.uba.ar/lanzamiento-argendata/",
+  "created_at": "2024-07-19T15:32:34",
+  "modified_at": "2024-07-19T15:36:17",
+  "sort_date": "2024-07-19T15:36:17",
+  "status": "publish",
+  "excerpt_plain": "Fundar lanzó Argendata, un sitio de referencia con datos sobre […]",
+  "text": "Fundar lanzó Argendata, un sitio de referencia con datos sobre temas fundamentales para la Argentina: cambio climático, transición energética, inflación, pobreza, comercio exterior, desigualdad, minería, salarios, desempleo y muchos más. Los datos están abiertos y descargables. ¡Por acá podés navegarlo! 🔗 https://argendata.fund.ar",
+  "html_clean": "<p>Fundar lanzó Argendata, un sitio de referencia con datos sobre temas fundamentales para la Argentina: cambio climático, transición energética, inflación, pobreza, comercio exterior, desigualdad, minería, salarios, desempleo y muchos más. Los datos están abiertos y descargables.</p>\n<p>¡Por acá podés navegarlo!</p>\n<p>🔗<a href=\"https://argendata.fund.ar\">https://argendata.fund.ar</a></p>",
+  "render_mode": "html_clean",
+  "attachments": [],
+  "has_attachments": false,
+  "attachment_count": 0,
+  "outlinks": [
+    {
+      "url": "https://argendata.fund.ar",
+      "kind": "external"
+    }
+  ],
+  "is_index_like": false,
+  "index_like_reason": null,
+  "content_hash": "sha256:fb87e98e4a34eff1e1d2c1ff50686670a44c6e3b1e2d490d546e88ba53e0c6f9",
+  "search_text": "Lanzamiento Argendata lanzamiento-argendata Fundar lanzó Argendata, un sitio de referencia con datos sobre […] Fundar lanzó Argendata, un sitio de referencia con datos sobre temas fundamentales para la Argentina: cambio climático, transición energética, inflación, pobreza, comercio exterior, desigualdad, minería, salarios, desempleo y muchos más. Los datos están abiertos y descargables. ¡Por acá podés navegarlo! 🔗 https://argendata.fund.ar"
+}

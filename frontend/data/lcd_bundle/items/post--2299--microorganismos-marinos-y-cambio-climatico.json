@@ -1,0 +1,37 @@
+{
+  "id": "post:2299",
+  "entity_type": "post",
+  "source_id": 2299,
+  "slug": "microorganismos-marinos-y-cambio-climatico",
+  "route_slug": "post--2299--microorganismos-marinos-y-cambio-climatico",
+  "title": "Microorganismos marinos y cambio climático",
+  "source_url": "https://lcd.exactas.uba.ar/microorganismos-marinos-y-cambio-climatico/",
+  "created_at": "2023-11-03T19:00:27",
+  "modified_at": "2023-11-03T19:00:27",
+  "sort_date": "2023-11-03T19:00:27",
+  "status": "publish",
+  "excerpt_plain": "Resumen. El océano global se extiende a lo largo de […]",
+  "text": "Resumen. El océano global se extiende a lo largo de más del 70% de la superficie del mundo y tiene una profundidad promedio de >3,5 kms. Sorprendentemente, los organismos microscópicos representan ~70% de la biomasa del océano y realizan casi tanta fotosíntesis como las plantas terrestres, extraen grandes cantidades de dióxido de carbono fuera de la atmósfera y sustentan las redes troficas marinas. Las cambiantes condiciones oceanográficas relacionadas con el cambio climático (calentamiento, acidificación, desoxigenación) están provocando cambios profundos en la microbiología del océano. Utilizando conjuntos de datos de secuenciación de ADN/ARN de muestras de agua de mar recolectadas en las principales regiones oceánicas, planeamos predecir computacionalmente actividades funcionales potencialmente asociados con adaptaciones evolutivas y pronosticar los cambios microbianos en diferentes escenarios de cambio climático. Palabras clave. (meta)genomica Conocimientos deseables. Python o R ¿Qué podría aprender quien realice esta tesis? – manejo de datos de secuenciación metagenómica – detección remota de homología de proteínas -análisis estadísticos de ecológia – aplicaciones de técnicas de aprendizaje automático Dirección de la tesis Pierella Karlusich, Juan Harvard / MIT Contacto: pierella@mit.edu Descargar PDF Microorganismos marinos y cambio climático",
+  "html_clean": "<p><strong>Resumen.</strong> El océano global se extiende a lo largo de más del 70% de la superficie del mundo y tiene una profundidad promedio de &gt;3,5 kms. Sorprendentemente, los organismos microscópicos representan ~70% de la biomasa del océano y realizan casi tanta fotosíntesis como las plantas terrestres, extraen grandes cantidades de dióxido de carbono fuera de la atmósfera y sustentan las redes troficas marinas. Las cambiantes condiciones oceanográficas relacionadas con el cambio climático (calentamiento, acidificación, desoxigenación) están provocando cambios profundos en la microbiología del océano. Utilizando conjuntos de datos de secuenciación de ADN/ARN de muestras de agua de mar recolectadas en las principales regiones oceánicas, planeamos predecir computacionalmente actividades funcionales potencialmente asociados con adaptaciones evolutivas y pronosticar los cambios microbianos en diferentes escenarios de cambio climático.</p>\n<p><strong>Palabras clave.</strong> (meta)genomica</p>\n<p><strong>Conocimientos deseables.</strong> Python o R</p>\n<p><strong>¿Qué podría aprender quien realice esta tesis? &#8211;</strong> manejo de datos de secuenciación metagenómica &#8211; detección remota de homología de proteínas -análisis estadísticos de ecológia &#8211; aplicaciones de técnicas de aprendizaje automático</p>\n<p><strong>Dirección de la tesis</strong><br />\nPierella Karlusich, Juan<br />\nHarvard / MIT<br />\nContacto: pierella@mit.edu</p>\n<p><strong>Descargar PDF</strong><br />\n<a  class=\"download-link\" title=\"\" href=\"https://lcd.exactas.uba.ar/download/2296/?tmstv=1777052102\" rel=\"nofollow\" id=\"download-link-2296\" >\n\tMicroorganismos marinos y cambio climático</a>\n</p>",
+  "render_mode": "html_clean",
+  "attachments": [
+    {
+      "url": "https://lcd.exactas.uba.ar/download/2296/?tmstv=1777052102",
+      "label": "Descargar PDF",
+      "kind": "pdf",
+      "is_download_like": true
+    }
+  ],
+  "has_attachments": true,
+  "attachment_count": 1,
+  "outlinks": [
+    {
+      "url": "https://lcd.exactas.uba.ar/download/2296/?tmstv=1777052102",
+      "kind": "internal"
+    }
+  ],
+  "is_index_like": false,
+  "index_like_reason": null,
+  "content_hash": "sha256:cfa82e379f75dbc38e95bba23cf1e8849117db1775904e47721a6985332fec4a",
+  "search_text": "Microorganismos marinos y cambio climático microorganismos-marinos-y-cambio-climatico Resumen. El océano global se extiende a lo largo de […] Resumen. El océano global se extiende a lo largo de más del 70% de la superficie del mundo y tiene una profundidad promedio de >3,5 kms. Sorprendentemente, los organismos microscópicos representan ~70% de la biomasa del océano y realizan casi tanta fotosíntesis como las plantas terrestres, extraen grandes cantidades de dióxido de carbono fuera de la atmósfera y sustentan las redes troficas marinas. Las cambiantes condiciones oceanográficas relacionadas con el cambio climático (calentamiento, acidificación, desoxigenación) están provocando cambios profundos en la microbiología del océano. Utilizando conjuntos de datos de secuenciación de ADN/ARN de muestras de agua de mar recolectadas en las principales regiones oceánicas, planeamos predecir computacionalmente actividades funcionales potencialmente asociados con adaptaciones evolutivas y pronosticar los cambios microbianos en diferentes escenarios de cambio climático. Palabras clave. (meta)genomica Conocimientos deseables. Python o R ¿Qué podría aprender quien realice esta tesis? – manejo de datos de secuenciación metagenómica – detección remota de homología de proteínas -análisis estadísticos de ecológia – aplicaciones de técnicas de aprendizaje automático Dirección de la tesis Pierella Karlusich, Juan Harvard / MIT Contacto: pierella@mit.edu Descargar PDF Microorganismos marinos y cambio climático"
+}

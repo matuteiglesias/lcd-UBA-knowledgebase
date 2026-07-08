@@ -1,0 +1,37 @@
+{
+  "id": "post:2642",
+  "entity_type": "post",
+  "source_id": 2642,
+  "slug": "evaluacion-de-estrategias-argumentativas-en-debates-entre-ias-capacidades-asimetricas-y-jueces-debiles",
+  "route_slug": "post--2642--evaluacion-de-estrategias-argumentativas-en-debates-entre-ias-capacidades-asimetricas-y-jueces-debiles",
+  "title": "Evaluación de estrategias argumentativas en debates entre IAs: capacidades asimétricas y jueces débiles",
+  "source_url": "https://lcd.exactas.uba.ar/evaluacion-de-estrategias-argumentativas-en-debates-entre-ias-capacidades-asimetricas-y-jueces-debiles/",
+  "created_at": "2024-11-29T21:46:53",
+  "modified_at": "2024-11-29T21:46:53",
+  "sort_date": "2024-11-29T21:46:53",
+  "status": "publish",
+  "excerpt_plain": "Resumen. Este trabajo busca examinar las dinámicas del uso del […]",
+  "text": "Resumen. Este trabajo busca examinar las dinámicas del uso del debate entre sistemas de Inteligencia Artificial (IA) como método para alinear a objetivos y preferencias humanas. Se investigarán las ventajas potenciales de agentes sin restricciones éticas frente a agentes honestos e inofensivos en escenarios de debate, explorando tácticas como mentiras, argumentos engañosos, y apelaciones a falsos consensos. El trabajo también busca analizar las implicaciones de tener un juez de menor capacidad evaluando argumentos de agentes más avanzados, mediante la simulación de debates para exponer cómo esta disparidad puede afectar la legibilidad y la convergencia a la verdad. Palabras clave. AI safety, debate, LLMs, teoría de juegos. Conocimientos deseables. Conocimientos básicos de AI safety, dinámicas de reward hacking y malgeneralización, conocimiento general de LLMs y su entrenamiento. ¿Qué podría aprender quien realice esta tesis? – Profundización en el subcampo de “AI safety via debate”, y estudio de sus puntos débiles como técnica de alineamiento. Diseño y ejecución de experimentos con sistemas de IA, incluyendo la construcción de métricas adecuadas y evaluación. Dirección de la tesis Abriola, Sergio Departamento de Computación Contacto: sabriola@dc.uba.ar Descargar PDF Evaluación de estrategias argumentativas en debates entre IAs: capacidades asimétricas y jueces débiles",
+  "html_clean": "<p><strong>Resumen.</strong> Este trabajo busca examinar las dinámicas del uso del debate entre sistemas de Inteligencia Artificial (IA) como método para alinear a objetivos y preferencias humanas. Se investigarán las ventajas potenciales de agentes sin restricciones éticas frente a agentes honestos e inofensivos en escenarios de debate, explorando tácticas como mentiras, argumentos engañosos, y apelaciones a falsos consensos. El trabajo también busca analizar las implicaciones de tener un juez de menor capacidad evaluando argumentos de agentes más avanzados, mediante la simulación de debates para exponer cómo esta disparidad puede afectar la legibilidad y la convergencia a la verdad.</p>\n<p><strong>Palabras clave.</strong> AI safety, debate, LLMs, teoría de juegos.</p>\n<p><strong>Conocimientos deseables.</strong> Conocimientos básicos de AI safety, dinámicas de reward hacking y malgeneralización, conocimiento general de LLMs y su entrenamiento.</p>\n<p><strong>¿Qué podría aprender quien realice esta tesis? &#8211;</strong> Profundización en el subcampo de &#8220;AI safety via debate&#8221;, y estudio de sus puntos débiles como técnica de alineamiento. Diseño y ejecución de experimentos con sistemas de IA, incluyendo la construcción de métricas adecuadas y evaluación.</p>\n<p><strong>Dirección de la tesis</strong><br />\nAbriola, Sergio<br />\nDepartamento de Computación<br />\nContacto: sabriola@dc.uba.ar</p>\n<p><strong>Descargar PDF</strong><br />\n<a  class=\"download-link\" title=\"\" href=\"https://lcd.exactas.uba.ar/download/2639/?tmstv=1777052099\" rel=\"nofollow\" id=\"download-link-2639\" >\n\tEvaluación de estrategias argumentativas en debates entre IAs: capacidades asimétricas y jueces débiles</a>\n</p>",
+  "render_mode": "html_clean",
+  "attachments": [
+    {
+      "url": "https://lcd.exactas.uba.ar/download/2639/?tmstv=1777052099",
+      "label": "Descargar PDF",
+      "kind": "pdf",
+      "is_download_like": true
+    }
+  ],
+  "has_attachments": true,
+  "attachment_count": 1,
+  "outlinks": [
+    {
+      "url": "https://lcd.exactas.uba.ar/download/2639/?tmstv=1777052099",
+      "kind": "internal"
+    }
+  ],
+  "is_index_like": false,
+  "index_like_reason": null,
+  "content_hash": "sha256:94369758871397787c895287427a0f9a1fd0a0eaeaff9e6aea77e674ac39102a",
+  "search_text": "Evaluación de estrategias argumentativas en debates entre IAs: capacidades asimétricas y jueces débiles evaluacion-de-estrategias-argumentativas-en-debates-entre-ias-capacidades-asimetricas-y-jueces-debiles Resumen. Este trabajo busca examinar las dinámicas del uso del […] Resumen. Este trabajo busca examinar las dinámicas del uso del debate entre sistemas de Inteligencia Artificial (IA) como método para alinear a objetivos y preferencias humanas. Se investigarán las ventajas potenciales de agentes sin restricciones éticas frente a agentes honestos e inofensivos en escenarios de debate, explorando tácticas como mentiras, argumentos engañosos, y apelaciones a falsos consensos. El trabajo también busca analizar las implicaciones de tener un juez de menor capacidad evaluando argumentos de agentes más avanzados, mediante la simulación de debates para exponer cómo esta disparidad puede afectar la legibilidad y la convergencia a la verdad. Palabras clave. AI safety, debate, LLMs, teoría de juegos. Conocimientos deseables. Conocimientos básicos de AI safety, dinámicas de reward hacking y malgeneralización, conocimiento general de LLMs y su entrenamiento. ¿Qué podría aprender quien realice esta tesis? – Profundización en el subcampo de “AI safety via debate”, y estudio de sus puntos débiles como técnica de alineamiento. Diseño y ejecución de experimentos con sistemas de IA, incluyendo la construcción de métricas adecuadas y evaluación. Dirección de la tesis Abriola, Sergio Departamento de Computación Contacto: sabriola@dc.uba.ar Descargar PDF Evaluación de estrategias argumentativas en debates entre IAs: capacidades asimétricas y jueces débiles"
+}

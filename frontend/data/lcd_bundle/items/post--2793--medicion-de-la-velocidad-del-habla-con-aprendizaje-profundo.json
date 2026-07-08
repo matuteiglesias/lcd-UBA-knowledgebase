@@ -1,0 +1,37 @@
+{
+  "id": "post:2793",
+  "entity_type": "post",
+  "source_id": 2793,
+  "slug": "medicion-de-la-velocidad-del-habla-con-aprendizaje-profundo",
+  "route_slug": "post--2793--medicion-de-la-velocidad-del-habla-con-aprendizaje-profundo",
+  "title": "Medición de la velocidad del habla con aprendizaje profundo",
+  "source_url": "https://lcd.exactas.uba.ar/medicion-de-la-velocidad-del-habla-con-aprendizaje-profundo/",
+  "created_at": "2025-08-05T21:41:33",
+  "modified_at": "2025-08-05T21:41:33",
+  "sort_date": "2025-08-05T21:41:33",
+  "status": "publish",
+  "excerpt_plain": "Tesista: Pedro Ortiz Director: Pablo Riera Resumen. En esta […]",
+  "text": "Tesista: Pedro Ortiz Director: Pablo Riera Resumen. En esta tesis se aborda el problema de estimar la velocidad del habla —medida en fonemas por segundo (FPS) o sı́labas por segundo (SPS)— a partir de señales acústicas. Esta tarea resulta relevante en contextos educativos, clínicos y tecnológicos, donde el ritmo del habla puede aportar información clave sobre la producción y comprensión del lenguaje. A diferencia de métodos tradicionales que requieren transcripciones explícitas, aquí se propone una aproximación que trabaja directamente sobre representaciones acústicas derivadas del audio. Se utilizan posteriogramas, matrices temporales que reflejan la probabilidad de activación de cada fonema a lo largo del tiempo, como entrada para modelos de regresión. Se exploran tanto modelos lineales con atributos fonéticos diseñados manualmente como arquitecturas neuronales convolucionales que operan sobre estas representaciones, en particular modelos 1D y 2D con distintas estrategias de convolución y resumen temporal. Los resultados muestran que los modelos que preservan la estructura fonética de las representaciones alcanzan el mejor desempeño en ambas tareas. También se presentan experimentos controlados con oraciones en español e inglés, que permiten observar cómo los modelos responden a cambios en el ritmo del habla, incluso fuera del dominio original de entrenamiento. Estos hallazgos refuerzan la idea de que un diseño de modelo alineado con la estructura del lenguaje puede mejorar significativamente la estimación de la velocidad del habla. Palabras clave: Velocidad del habla, Posteriogramas, Fonemas por segundo, Sílabas por segundo, Redes neuronales convolucionales, Reconocimiento del habla, Representaciones acústicas. Buenos Aires, 2025 Descargar PDF Medición de la velocidad del habla con aprendizaje profundo",
+  "html_clean": "<p><strong>Tesista:</strong> Pedro Ortiz</p>\n<p><strong>Director:</strong> Pablo Riera</p>\n<p>&nbsp;</p>\n<p><strong>Resumen.</strong></p>\n<p>En esta tesis se aborda el problema de estimar la velocidad del habla —medida en fonemas por segundo (FPS) o sı́labas por segundo (SPS)— a partir de señales acústicas. Esta tarea resulta relevante en contextos educativos, clínicos y tecnológicos, donde el ritmo del habla puede aportar información clave sobre la producción y comprensión del lenguaje. A diferencia de métodos tradicionales que requieren transcripciones explícitas, aquí se propone una aproximación que trabaja directamente sobre representaciones acústicas derivadas del audio. Se utilizan posteriogramas, matrices temporales que reflejan la probabilidad de activación de cada fonema a lo largo del tiempo, como entrada para modelos de regresión. Se exploran tanto modelos lineales con atributos fonéticos diseñados manualmente como arquitecturas neuronales convolucionales que operan sobre estas representaciones, en particular modelos 1D y 2D con distintas estrategias de convolución y resumen temporal. Los resultados muestran que los modelos que preservan la estructura fonética de las representaciones alcanzan el mejor desempeño en ambas tareas. También se presentan experimentos controlados con oraciones en español e inglés, que permiten observar cómo los modelos responden a cambios en el ritmo del habla, incluso fuera del dominio original de entrenamiento. Estos hallazgos refuerzan la idea de que un diseño de modelo alineado con<br />\nla estructura del lenguaje puede mejorar significativamente la estimación de la velocidad del habla.</p>\n<p>Palabras clave: Velocidad del habla, Posteriogramas, Fonemas por segundo, Sílabas por segundo, Redes neuronales convolucionales, Reconocimiento del habla, Representaciones acústicas.</p>\n<p>Buenos Aires, 2025</p>\n<p><strong>Descargar PDF</strong><br />\n<a  class=\"download-link\" title=\"\" href=\"https://lcd.exactas.uba.ar/download/2790/?tmstv=1777052097\" rel=\"nofollow\" id=\"download-link-2790\" >\n\tMedición de la velocidad del habla con aprendizaje profundo</a>\n</p>",
+  "render_mode": "html_clean",
+  "attachments": [
+    {
+      "url": "https://lcd.exactas.uba.ar/download/2790/?tmstv=1777052097",
+      "label": "Descargar PDF",
+      "kind": "pdf",
+      "is_download_like": true
+    }
+  ],
+  "has_attachments": true,
+  "attachment_count": 1,
+  "outlinks": [
+    {
+      "url": "https://lcd.exactas.uba.ar/download/2790/?tmstv=1777052097",
+      "kind": "internal"
+    }
+  ],
+  "is_index_like": false,
+  "index_like_reason": null,
+  "content_hash": "sha256:6b4af313f4024ad2286e9e3fa1ffb24fd5bb94898a496c5ccaf46a2bb14bce4d",
+  "search_text": "Medición de la velocidad del habla con aprendizaje profundo medicion-de-la-velocidad-del-habla-con-aprendizaje-profundo Tesista: Pedro Ortiz Director: Pablo Riera Resumen. En esta […] Tesista: Pedro Ortiz Director: Pablo Riera Resumen. En esta tesis se aborda el problema de estimar la velocidad del habla —medida en fonemas por segundo (FPS) o sı́labas por segundo (SPS)— a partir de señales acústicas. Esta tarea resulta relevante en contextos educativos, clínicos y tecnológicos, donde el ritmo del habla puede aportar información clave sobre la producción y comprensión del lenguaje. A diferencia de métodos tradicionales que requieren transcripciones explícitas, aquí se propone una aproximación que trabaja directamente sobre representaciones acústicas derivadas del audio. Se utilizan posteriogramas, matrices temporales que reflejan la probabilidad de activación de cada fonema a lo largo del tiempo, como entrada para modelos de regresión. Se exploran tanto modelos lineales con atributos fonéticos diseñados manualmente como arquitecturas neuronales convolucionales que operan sobre estas representaciones, en particular modelos 1D y 2D con distintas estrategias de convolución y resumen temporal. Los resultados muestran que los modelos que preservan la estructura fonética de las representaciones alcanzan el mejor desempeño en ambas tareas. También se presentan experimentos controlados con oraciones en español e inglés, que permiten observar cómo los modelos responden a cambios en el ritmo del habla, incluso fuera del dominio original de entrenamiento. Estos hallazgos refuerzan la idea de que un diseño de modelo alineado con la estructura del lenguaje puede mejorar significativamente la estimación de la velocidad del habla. Palabras clave: Velocidad del habla, Posteriogramas, Fonemas por segundo, Sílabas por segundo, Redes neuronales convolucionales, Reconocimiento del habla, Representaciones acústicas. Buenos Aires, 2025 Descargar PDF Medición de la velocidad del habla con aprendizaje profundo"
+}
