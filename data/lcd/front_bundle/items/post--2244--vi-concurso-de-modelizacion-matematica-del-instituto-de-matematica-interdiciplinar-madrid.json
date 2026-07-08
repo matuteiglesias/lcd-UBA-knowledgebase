@@ -1,0 +1,30 @@
+{
+  "id": "post:2244",
+  "entity_type": "post",
+  "source_id": 2244,
+  "slug": "vi-concurso-de-modelizacion-matematica-del-instituto-de-matematica-interdiciplinar-madrid",
+  "route_slug": "post--2244--vi-concurso-de-modelizacion-matematica-del-instituto-de-matematica-interdiciplinar-madrid",
+  "title": "VI Concurso de Modelización Matemática del Instituto de Matemática Interdiciplinar (Madrid)",
+  "source_url": "https://lcd.exactas.uba.ar/vi-concurso-de-modelizacion-matematica-del-instituto-de-matematica-interdiciplinar-madrid/",
+  "created_at": "2023-09-15T16:17:40",
+  "modified_at": "2023-09-15T16:19:28",
+  "sort_date": "2023-09-15T16:19:28",
+  "status": "publish",
+  "excerpt_plain": "Les compartimos informacion sobre el VI Concurso de Modelización Matemática […]",
+  "text": "Les compartimos informacion sobre el VI Concurso de Modelización Matemática del IMI (CMM-IMI 2023), organizado por el Instituto de Matemática Interdiciplinar de la Universidad Complutense de Madrid, que tendrá lugar del 28 de septiembre al 2 de octubre de 2023 dirigido a estudiantes universitarios de Grados de Ciencias e Ingenierías. La propuesta es modelar matemáticamente un problema real en 4 días, para ellos los estudiantes pueden formar equipos de hasta 3 personas. Detalles y condiciones en: https://blogs.mat.ucm.es/cmm/",
+  "html_clean": "<p>Les compartimos informacion sobre el VI Concurso de Modelización Matemática del IMI (CMM-IMI 2023), organizado por el Instituto de Matemática Interdiciplinar de la Universidad Complutense de Madrid, que tendrá lugar del 28 de septiembre al 2 de octubre de 2023 dirigido a estudiantes universitarios de Grados de Ciencias e Ingenierías. La propuesta es modelar matemáticamente un problema real en 4 días, para ellos los estudiantes pueden formar equipos de hasta 3 personas.<br />\nDetalles y condiciones en: <a href=\"https://blogs.mat.ucm.es/cmm/\">https://blogs.mat.ucm.es/cmm/</a></p>",
+  "render_mode": "html_clean",
+  "attachments": [],
+  "has_attachments": false,
+  "attachment_count": 0,
+  "outlinks": [
+    {
+      "url": "https://blogs.mat.ucm.es/cmm/",
+      "kind": "external"
+    }
+  ],
+  "is_index_like": false,
+  "index_like_reason": null,
+  "content_hash": "sha256:573746ab3e4d49144b69c5055138bcbebd260b8266e989574f463d48d62e8be6",
+  "search_text": "VI Concurso de Modelización Matemática del Instituto de Matemática Interdiciplinar (Madrid) vi-concurso-de-modelizacion-matematica-del-instituto-de-matematica-interdiciplinar-madrid Les compartimos informacion sobre el VI Concurso de Modelización Matemática […] Les compartimos informacion sobre el VI Concurso de Modelización Matemática del IMI (CMM-IMI 2023), organizado por el Instituto de Matemática Interdiciplinar de la Universidad Complutense de Madrid, que tendrá lugar del 28 de septiembre al 2 de octubre de 2023 dirigido a estudiantes universitarios de Grados de Ciencias e Ingenierías. La propuesta es modelar matemáticamente un problema real en 4 días, para ellos los estudiantes pueden formar equipos de hasta 3 personas. Detalles y condiciones en: https://blogs.mat.ucm.es/cmm/"
+}

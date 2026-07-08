@@ -1,0 +1,30 @@
+{
+  "id": "post:1215",
+  "entity_type": "post",
+  "source_id": 1215,
+  "slug": "sobre-dobles-triples-y-datos-guia-para-armar-un-equipo-ganador-en-la-nba-por-ximena-fernandez",
+  "route_slug": "post--1215--sobre-dobles-triples-y-datos-guia-para-armar-un-equipo-ganador-en-la-nba-por-ximena-fernandez",
+  "title": "Sobre dobles, triples y datos: guía para armar un equipo ganador en la NBA",
+  "source_url": "https://lcd.exactas.uba.ar/sobre-dobles-triples-y-datos-guia-para-armar-un-equipo-ganador-en-la-nba-por-ximena-fernandez/",
+  "created_at": "2021-10-25T00:13:51",
+  "modified_at": "2021-10-29T13:30:45",
+  "sort_date": "2021-10-29T13:30:45",
+  "status": "publish",
+  "excerpt_plain": "Por Ximena Fernández. Martes 26 de octubre 11AM por Youtube. […]",
+  "text": "Por Ximena Fernández. Martes 26 de octubre 11AM por Youtube . En la era del Big Data, los equipos de la NBA apuestan cada vez más a equipos técnicos de Data Science, que desarrollan estrategias basadas en grandes volúmenes de datos para mejorar el rendimiento del equipo. En esta charla veremos cómo el análisis de datos está cambiando la manera en la que se juega y se entiende el básquet en los últimos tiempos. Exploraremos distintas técnicas computacionales basadas en geometría de datos para medir la diversidad de un equipo de la NBA y predecir su éxito en el próximo campeonato.",
+  "html_clean": "<p>Por Ximena Fernández.</p>\n<p>Martes 26 de octubre 11AM por <a href=\"https://www.youtube.com/c/PopExactasUBAOficial\">Youtube</a>.</p>\n<p>En la era del Big Data, los equipos de la NBA apuestan cada vez más a equipos técnicos de Data Science, que desarrollan estrategias basadas en grandes volúmenes de datos para mejorar el rendimiento del equipo. En esta charla veremos cómo el análisis de datos está cambiando la manera en la que se juega y se entiende el básquet en los últimos tiempos. Exploraremos distintas técnicas computacionales basadas en geometría de datos para medir la diversidad de un equipo de la NBA y predecir su éxito en el próximo campeonato.</p>\n<div><iframe title=\"Sobre dobles, triples y datos: guía para armar un equipo ganador en la NBA. Ximena Laura Fernández\" width=\"1200\" height=\"675\" src=\"https://www.youtube.com/embed/8EDJNRZtxZs?list=PL0CgMPgsgatX5rXQyJfyDRhyvIQRe0tmI\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe></div>",
+  "render_mode": "html_clean",
+  "attachments": [],
+  "has_attachments": false,
+  "attachment_count": 0,
+  "outlinks": [
+    {
+      "url": "https://www.youtube.com/c/PopExactasUBAOficial",
+      "kind": "external"
+    }
+  ],
+  "is_index_like": false,
+  "index_like_reason": null,
+  "content_hash": "sha256:aa493a01fb5c943d5930aa4ac59bb9e0945379f10831dccb404581f978d23d19",
+  "search_text": "Sobre dobles, triples y datos: guía para armar un equipo ganador en la NBA sobre-dobles-triples-y-datos-guia-para-armar-un-equipo-ganador-en-la-nba-por-ximena-fernandez Por Ximena Fernández. Martes 26 de octubre 11AM por Youtube. […] Por Ximena Fernández. Martes 26 de octubre 11AM por Youtube . En la era del Big Data, los equipos de la NBA apuestan cada vez más a equipos técnicos de Data Science, que desarrollan estrategias basadas en grandes volúmenes de datos para mejorar el rendimiento del equipo. En esta charla veremos cómo el análisis de datos está cambiando la manera en la que se juega y se entiende el básquet en los últimos tiempos. Exploraremos distintas técnicas computacionales basadas en geometría de datos para medir la diversidad de un equipo de la NBA y predecir su éxito en el próximo campeonato."
+}

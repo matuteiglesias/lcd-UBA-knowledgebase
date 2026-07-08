@@ -1,0 +1,30 @@
+{
+  "id": "post:1684",
+  "entity_type": "post",
+  "source_id": 1684,
+  "slug": "concurso-de-modelizacion-matematica",
+  "route_slug": "post--1684--concurso-de-modelizacion-matematica",
+  "title": "Concurso de Modelización Matemática",
+  "source_url": "https://lcd.exactas.uba.ar/concurso-de-modelizacion-matematica/",
+  "created_at": "2022-09-20T17:35:39",
+  "modified_at": "2022-09-20T17:36:08",
+  "sort_date": "2022-09-20T17:36:08",
+  "status": "publish",
+  "excerpt_plain": "Entre el 29 de septiembre y el 3 de octubre de […]",
+  "text": "Entre el 29 de septiembre y el 3 de octubre de 2022 tendrá lugar el Concurso de Modelización Matemática (CMM-IMI 2022) dirigido a estudiantes universitarios de Grados de Ciencias e Ingenierías a los que se propone modelizar matemáticamente un problema real . Para mas detalles consultar en: https://blogs.mat.ucm.es/ cmm/",
+  "html_clean": "<div><span class=\"gmail_default\">Entre el </span>29 de septiembre<span class=\"gmail_default\"> y el </span>3 de octubre de 2022<span class=\"gmail_default\"> </span>tendrá lugar el<span class=\"gmail_default\"> </span>Concurso de Modelización Matemática (CMM-IMI 2022) dirigido a estudiantes universitarios de Grados de Ciencias e Ingenierías a los que se propone modelizar matemáticamente un problema real<span class=\"gmail_default\">.</span></div>\n<div><span class=\"gmail_default\">Para mas detalles consultar en: </span> <a href=\"https://blogs.mat.ucm.es/cmm/\" target=\"_blank\" rel=\"noopener noreferrer\">https://blogs.mat.ucm.es/<wbr />cmm/</a></div>",
+  "render_mode": "html_clean",
+  "attachments": [],
+  "has_attachments": false,
+  "attachment_count": 0,
+  "outlinks": [
+    {
+      "url": "https://blogs.mat.ucm.es/cmm/",
+      "kind": "external"
+    }
+  ],
+  "is_index_like": false,
+  "index_like_reason": null,
+  "content_hash": "sha256:576044b3c0eb0d24dd6fd42e10f6e05e340a4300ef2b3bcef9fa8a03b6f9bd28",
+  "search_text": "Concurso de Modelización Matemática concurso-de-modelizacion-matematica Entre el 29 de septiembre y el 3 de octubre de […] Entre el 29 de septiembre y el 3 de octubre de 2022 tendrá lugar el Concurso de Modelización Matemática (CMM-IMI 2022) dirigido a estudiantes universitarios de Grados de Ciencias e Ingenierías a los que se propone modelizar matemáticamente un problema real . Para mas detalles consultar en: https://blogs.mat.ucm.es/ cmm/"
+}

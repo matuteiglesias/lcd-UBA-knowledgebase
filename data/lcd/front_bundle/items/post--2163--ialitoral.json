@@ -1,0 +1,30 @@
+{
+  "id": "post:2163",
+  "entity_type": "post",
+  "source_id": 2163,
+  "slug": "ialitoral",
+  "route_slug": "post--2163--ialitoral",
+  "title": "Segunda edición de Las Jornadas en Inteligencia Artificial del Litoral",
+  "source_url": "https://lcd.exactas.uba.ar/ialitoral/",
+  "created_at": "2023-08-29T19:35:31",
+  "modified_at": "2023-08-29T19:41:17",
+  "sort_date": "2023-08-29T19:41:17",
+  "status": "publish",
+  "excerpt_plain": "Les compartimos información sobre la segunda edición de Las Jornadas […]",
+  "text": "Les compartimos información sobre la segunda edición de Las Jornadas en Inteligencia Artificial del Litoral (IA@Litoral 2023). Se van a llevar a cabo el 26 y 27 de octubre en Santa Fe, Argentina . El evento contará con una serie de charlas técnicas, paneles temáticos, crash courses y sesión de pósters. Dirigido a estudiantes de grado, posgrado, docentes, investigadores, profesionales freelance o de empresas, y público general. Todo el evento será en español y presencial. El plazo de inscripción se amplió hasta el lunes 4 de septiembre , hay un cupo limitado de 200 personas y se valorará positivamente la presentación de póster . Se entregarán certificados de asistencia y presentación. Pueden encontrar más información en la página web de las jornadas www.sinc.unl.edu.ar/ia-litoral Saludos, los y las esperamos!",
+  "html_clean": "<div>Les compartimos información sobre la segunda edición de Las Jornadas en Inteligencia Artificial del Litoral (IA@Litoral 2023). Se van a llevar a cabo el<b> 26 y 27 de octubre en Santa Fe, Argentina</b>.</div>\n<p>El evento contará con una serie de charlas técnicas, paneles temáticos, crash courses y sesión de pósters. Dirigido a estudiantes de grado, posgrado, docentes, investigadores, profesionales freelance o de empresas, y público general. <b>Todo el evento será en español y presencial.</b></p>\n<p><b>El plazo de inscripción se amplió hasta el lunes 4 de septiembre</b>, hay un cupo limitado de 200 personas y <b>se valorará positivamente la presentación de póster</b>. Se entregarán certificados de asistencia y presentación.</p>\n<p>Pueden encontrar más información en la página web de las jornadas <a href=\"http://www.sinc.unl.edu.ar/ia-litoral\" target=\"_blank\" rel=\"noopener nofollow noreferrer\">www.sinc.unl.edu.ar/ia-litoral</a></p>\n<p>Saludos, los y las esperamos!</p>",
+  "render_mode": "html_clean",
+  "attachments": [],
+  "has_attachments": false,
+  "attachment_count": 0,
+  "outlinks": [
+    {
+      "url": "http://www.sinc.unl.edu.ar/ia-litoral",
+      "kind": "external"
+    }
+  ],
+  "is_index_like": false,
+  "index_like_reason": null,
+  "content_hash": "sha256:0dfe3558e5feea2c885d73d7627cba6188af64428b0deefa32e25bee4b6f5983",
+  "search_text": "Segunda edición de Las Jornadas en Inteligencia Artificial del Litoral ialitoral Les compartimos información sobre la segunda edición de Las Jornadas […] Les compartimos información sobre la segunda edición de Las Jornadas en Inteligencia Artificial del Litoral (IA@Litoral 2023). Se van a llevar a cabo el 26 y 27 de octubre en Santa Fe, Argentina . El evento contará con una serie de charlas técnicas, paneles temáticos, crash courses y sesión de pósters. Dirigido a estudiantes de grado, posgrado, docentes, investigadores, profesionales freelance o de empresas, y público general. Todo el evento será en español y presencial. El plazo de inscripción se amplió hasta el lunes 4 de septiembre , hay un cupo limitado de 200 personas y se valorará positivamente la presentación de póster . Se entregarán certificados de asistencia y presentación. Pueden encontrar más información en la página web de las jornadas www.sinc.unl.edu.ar/ia-litoral Saludos, los y las esperamos!"
+}

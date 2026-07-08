@@ -1,0 +1,37 @@
+{
+  "id": "post:2461",
+  "entity_type": "post",
+  "source_id": 2461,
+  "slug": "deteccion-de-bloques-de-independencia",
+  "route_slug": "post--2461--deteccion-de-bloques-de-independencia",
+  "title": "Detección de bloques de Independencia",
+  "source_url": "https://lcd.exactas.uba.ar/deteccion-de-bloques-de-independencia/",
+  "created_at": "2024-06-27T16:51:46",
+  "modified_at": "2024-06-27T16:52:16",
+  "sort_date": "2024-06-27T16:52:16",
+  "status": "publish",
+  "excerpt_plain": "Resumen. El objetivo de esta plan es explorar diferentes propuestas […]",
+  "text": "Resumen. El objetivo de esta plan es explorar diferentes propuestas para detectar bloques de independencia de un vector aleatorio. Es decir, estimar cuales son los subvectores cuyas distribuciones factorizan la conjunta. Esta es una herramienta fundamental para reducir dimensión, siendo que bloques independientes se modelan de manera independiente. Palabras clave. Independencia, selección de modelos, penalización Conocimientos deseables. Segundo Ciclo completo de la carrera. ¿Qué podría aprender quien realice esta tesis? – Modelos de Penalización para selección de modelos. Dirección de la tesis Sued, Mariela Instituto de Cálculo, FCEN, UBA. CONICET. Contacto: marielasued@gmail.com Descargar PDF Detección de bloques de Independencia",
+  "html_clean": "<p><strong>Resumen.</strong> El objetivo de esta plan es explorar diferentes propuestas para detectar bloques de independencia de un vector aleatorio. Es decir, estimar cuales son los subvectores cuyas distribuciones factorizan la conjunta. Esta es una herramienta fundamental para reducir dimensión, siendo que bloques independientes se modelan de manera independiente.</p>\n<p><strong>Palabras clave.</strong> Independencia, selección de modelos, penalización</p>\n<p><strong>Conocimientos deseables.</strong> Segundo Ciclo completo de la carrera.</p>\n<p><strong>¿Qué podría aprender quien realice esta tesis? &#8211;</strong> Modelos de Penalización para selección de modelos.</p>\n<p><strong>Dirección de la tesis</strong><br />\nSued, Mariela<br />\nInstituto de Cálculo, FCEN, UBA. CONICET.<br />\nContacto: marielasued@gmail.com</p>\n<p><strong>Descargar PDF</strong><br />\n<a  class=\"download-link\" title=\"\" href=\"https://lcd.exactas.uba.ar/download/2440/?tmstv=1777052100\" rel=\"nofollow\" id=\"download-link-2440\" >\n\tDetección de bloques de Independencia</a>\n</p>",
+  "render_mode": "html_clean",
+  "attachments": [
+    {
+      "url": "https://lcd.exactas.uba.ar/download/2440/?tmstv=1777052100",
+      "label": "Descargar PDF",
+      "kind": "pdf",
+      "is_download_like": true
+    }
+  ],
+  "has_attachments": true,
+  "attachment_count": 1,
+  "outlinks": [
+    {
+      "url": "https://lcd.exactas.uba.ar/download/2440/?tmstv=1777052100",
+      "kind": "internal"
+    }
+  ],
+  "is_index_like": false,
+  "index_like_reason": null,
+  "content_hash": "sha256:440d09ad569bff87685fd83d779ed4d209fbd912aaf8609e9784e75eb5f71dc7",
+  "search_text": "Detección de bloques de Independencia deteccion-de-bloques-de-independencia Resumen. El objetivo de esta plan es explorar diferentes propuestas […] Resumen. El objetivo de esta plan es explorar diferentes propuestas para detectar bloques de independencia de un vector aleatorio. Es decir, estimar cuales son los subvectores cuyas distribuciones factorizan la conjunta. Esta es una herramienta fundamental para reducir dimensión, siendo que bloques independientes se modelan de manera independiente. Palabras clave. Independencia, selección de modelos, penalización Conocimientos deseables. Segundo Ciclo completo de la carrera. ¿Qué podría aprender quien realice esta tesis? – Modelos de Penalización para selección de modelos. Dirección de la tesis Sued, Mariela Instituto de Cálculo, FCEN, UBA. CONICET. Contacto: marielasued@gmail.com Descargar PDF Detección de bloques de Independencia"
+}

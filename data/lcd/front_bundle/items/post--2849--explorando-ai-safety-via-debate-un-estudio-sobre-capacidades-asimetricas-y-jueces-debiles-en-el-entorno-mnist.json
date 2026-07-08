@@ -1,0 +1,37 @@
+{
+  "id": "post:2849",
+  "entity_type": "post",
+  "source_id": 2849,
+  "slug": "explorando-ai-safety-via-debate-un-estudio-sobre-capacidades-asimetricas-y-jueces-debiles-en-el-entorno-mnist",
+  "route_slug": "post--2849--explorando-ai-safety-via-debate-un-estudio-sobre-capacidades-asimetricas-y-jueces-debiles-en-el-entorno-mnist",
+  "title": "Explorando AI Safety via Debate: un estudio sobre capacidades asimétricas y jueces débiles en el entorno MNIST",
+  "source_url": "https://lcd.exactas.uba.ar/explorando-ai-safety-via-debate-un-estudio-sobre-capacidades-asimetricas-y-jueces-debiles-en-el-entorno-mnist/",
+  "created_at": "2025-09-08T21:03:09",
+  "modified_at": "2025-09-08T21:03:09",
+  "sort_date": "2025-09-08T21:03:09",
+  "status": "publish",
+  "excerpt_plain": "Tesista: Joaquı́n Salvador Machulsky Director: Dr. Sergio Abriola Resumen. El […]",
+  "text": "Tesista: Joaquı́n Salvador Machulsky Director: Dr. Sergio Abriola Resumen. El paradigma de “AI Safety via Debate” propone un mecanismo para supervisar sistemas de IA avanzados, haciéndolos competir para convencer a un juez con capacidades limitadas. Basándose en el experimento original sobre MNIST, esta tesis extiende dicho trabajo para investigar la robustez del debate en escenarios con asimetrı́a de capacidades y frente a un “juez débil”. Se estudia la dinámica del debate en un entorno simulado de clasificación de imágenes MNIST, donde se implementan y enfrentan agentes con distintas estrategias (Greedy y MCTS) bajo diferentes protocolos. Los resultados muestran que el debate amplifica la capacidad del juez por encima de una lı́nea base aleatoria. Sin embargo, se observa que un agente mentiroso con mayor capacidad estratégica (MCTS) puede explotar a un adversario honesto más simple (Greedy). El hallazgo central de este estudio es que una regla de protocolo, la condición de precompromiso, puede compensar esta desventaja. En los experimentos realizados, esta regla permitió que la honestidad prevaleciera a pesar de la inferioridad estratégica del agente, a diferencia de los debates sin esta restricción. Se concluye que, dentro de este entorno experimental, el diseño del protocolo es un factor importante para el resultado del debate, sugiriendo que las reglas de la interacción son tan relevantes como la paridad de poder entre los agentes. Palabras claves: AI Safety, Supervisión Escalable, Debate Adversarial, Alineamiento de IA, Asimetrı́a de Capacidades. Buenos Aires, 2025 Descargar PDF Explorando AI Safety via Debate: un estudio sobre capacidades asimétricas y jueces débiles en el entorno MNIST",
+  "html_clean": "<p><strong>Tesista:</strong> Joaquı́n Salvador Machulsky</p>\n<p><strong>Director:</strong> Dr. Sergio Abriola</p>\n<p><strong>Resumen.</strong></p>\n<p>El paradigma de “AI Safety via Debate” propone un mecanismo para supervisar sistemas de IA avanzados, haciéndolos competir para convencer a un juez con capacidades limitadas. Basándose en el experimento original sobre MNIST, esta tesis extiende dicho trabajo para investigar la robustez del debate en escenarios con asimetrı́a de capacidades y frente a un “juez débil”. Se estudia la dinámica del debate en un entorno simulado de clasificación de imágenes MNIST, donde se implementan y enfrentan agentes con distintas estrategias (Greedy y MCTS) bajo diferentes protocolos. Los resultados muestran que el debate amplifica la capacidad del juez por encima de una lı́nea base aleatoria. Sin embargo, se observa que un agente mentiroso con mayor capacidad estratégica (MCTS) puede explotar a un adversario honesto más simple (Greedy). El hallazgo central de este estudio es que una regla de protocolo, la condición de precompromiso, puede compensar esta desventaja. En los experimentos realizados, esta regla<br />\npermitió que la honestidad prevaleciera a pesar de la inferioridad estratégica del agente, a diferencia de los debates sin esta restricción. Se concluye que, dentro de este entorno experimental, el diseño del protocolo es un factor importante para el resultado del debate, sugiriendo que las reglas de la interacción son tan relevantes como la paridad de poder entre los agentes.</p>\n<p>Palabras claves: AI Safety, Supervisión Escalable, Debate Adversarial, Alineamiento de IA, Asimetrı́a de Capacidades.</p>\n<p>Buenos Aires, 2025</p>\n<p><strong>Descargar PDF</strong><br />\n<a  class=\"download-link\" title=\"\" href=\"https://lcd.exactas.uba.ar/download/2846/?tmstv=1777052097\" rel=\"nofollow\" id=\"download-link-2846\" >\n\tExplorando AI Safety via Debate: un estudio sobre capacidades asimétricas y jueces débiles en el entorno MNIST</a>\n</p>",
+  "render_mode": "html_clean",
+  "attachments": [
+    {
+      "url": "https://lcd.exactas.uba.ar/download/2846/?tmstv=1777052097",
+      "label": "Descargar PDF",
+      "kind": "pdf",
+      "is_download_like": true
+    }
+  ],
+  "has_attachments": true,
+  "attachment_count": 1,
+  "outlinks": [
+    {
+      "url": "https://lcd.exactas.uba.ar/download/2846/?tmstv=1777052097",
+      "kind": "internal"
+    }
+  ],
+  "is_index_like": false,
+  "index_like_reason": null,
+  "content_hash": "sha256:d1eb96fbfb27c560221ba8e50674e50d3a87b4052c401edbe15cc5f576c1d298",
+  "search_text": "Explorando AI Safety via Debate: un estudio sobre capacidades asimétricas y jueces débiles en el entorno MNIST explorando-ai-safety-via-debate-un-estudio-sobre-capacidades-asimetricas-y-jueces-debiles-en-el-entorno-mnist Tesista: Joaquı́n Salvador Machulsky Director: Dr. Sergio Abriola Resumen. El […] Tesista: Joaquı́n Salvador Machulsky Director: Dr. Sergio Abriola Resumen. El paradigma de “AI Safety via Debate” propone un mecanismo para supervisar sistemas de IA avanzados, haciéndolos competir para convencer a un juez con capacidades limitadas. Basándose en el experimento original sobre MNIST, esta tesis extiende dicho trabajo para investigar la robustez del debate en escenarios con asimetrı́a de capacidades y frente a un “juez débil”. Se estudia la dinámica del debate en un entorno simulado de clasificación de imágenes MNIST, donde se implementan y enfrentan agentes con distintas estrategias (Greedy y MCTS) bajo diferentes protocolos. Los resultados muestran que el debate amplifica la capacidad del juez por encima de una lı́nea base aleatoria. Sin embargo, se observa que un agente mentiroso con mayor capacidad estratégica (MCTS) puede explotar a un adversario honesto más simple (Greedy). El hallazgo central de este estudio es que una regla de protocolo, la condición de precompromiso, puede compensar esta desventaja. En los experimentos realizados, esta regla permitió que la honestidad prevaleciera a pesar de la inferioridad estratégica del agente, a diferencia de los debates sin esta restricción. Se concluye que, dentro de este entorno experimental, el diseño del protocolo es un factor importante para el resultado del debate, sugiriendo que las reglas de la interacción son tan relevantes como la paridad de poder entre los agentes. Palabras claves: AI Safety, Supervisión Escalable, Debate Adversarial, Alineamiento de IA, Asimetrı́a de Capacidades. Buenos Aires, 2025 Descargar PDF Explorando AI Safety via Debate: un estudio sobre capacidades asimétricas y jueces débiles en el entorno MNIST"
+}

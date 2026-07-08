@@ -1,0 +1,37 @@
+{
+  "id": "post:2345",
+  "entity_type": "post",
+  "source_id": 2345,
+  "slug": "estudio-de-una-nueva-herramienta-para-el-diagnostico-estratificacion-y-monitoreo-en-sepsis",
+  "route_slug": "post--2345--estudio-de-una-nueva-herramienta-para-el-diagnostico-estratificacion-y-monitoreo-en-sepsis",
+  "title": "Estudio de una nueva herramienta para el diagnóstico, estratificación y monitoreo en SEPSIS",
+  "source_url": "https://lcd.exactas.uba.ar/estudio-de-una-nueva-herramienta-para-el-diagnostico-estratificacion-y-monitoreo-en-sepsis/",
+  "created_at": "2024-02-01T19:31:49",
+  "modified_at": "2024-02-01T19:32:10",
+  "sort_date": "2024-02-01T19:32:10",
+  "status": "publish",
+  "excerpt_plain": "Resumen. La sepsis, un grave problema global de salud con […]",
+  "text": "Resumen. La sepsis, un grave problema global de salud con alta mortalidad, afecta principalmente a países de bajos y medianos ingresos. La OMS insta a investigar métodos para abordar esta enfermedad, que se redefine como “disfunción orgánica potencialmente mortal” debido a respuestas desreguladas del huésped a la infección. Aunque la identificación temprana mejora los resultados, el diagnóstico y la diferenciación de cuadros inflamatorios son desafíos. El tratamiento actual incluye antibióticos y terapias de sostén, pero presenta limitaciones. Los análisis multivariados, especialmente en “ómicas” como la peptidómica, junto con modelos predictivos basados en inteligencia artificial, son herramientas prometedoras para abordar la sepsis. En un estudio reciente demostramos la capacidad de distinguir estadios inflamatorios mediante análisis multivariados de huellas biomoleculares, resaltando su potencial en el diagnóstico efectivo en entornos clínicos complejos. Palabras clave. Análisis multivariados. Rstudio. Machine learning. Modelos predictivos Conocimientos deseables. Conocimiento análisis multivariados. Manejo de software Rstudio y/o Python. Conocimientos de estadística. Entusiasmo y trabajo en equipo ¿Qué podría aprender quien realice esta tesis? – Conocimiento de la patología en cuestión. Análisis y desarrollo de variables clínicas relevantes. Conocimiento y manejo de espectrometría de masas (MALDI-TOF). Conocimientos de inmunología. Desarrollo de modelos predictivos y modelos que mejoren el abordaje diagnóstico y pronóstico de la sepsis Dirección de la tesis Rearte, Bárbara IMEX-CONICET-ANM Contacto: barbararearte@yahoo.com.ar Descargar PDF ESTUDIO DE UNA NUEVA HERRAMIENTA PARA EL DIAGNÓSTICO, ESTRATIFICACIÓN Y MONITOREO EN SEPSIS",
+  "html_clean": "<p><strong>Resumen.</strong> La sepsis, un grave problema global de salud con alta mortalidad, afecta principalmente a países de bajos y medianos ingresos. La OMS insta a investigar métodos para abordar esta enfermedad, que se redefine como &#8220;disfunción orgánica potencialmente mortal&#8221; debido a respuestas desreguladas del huésped a la infección. Aunque la identificación temprana mejora los resultados, el diagnóstico y la<br />\ndiferenciación de cuadros inflamatorios son desafíos. El tratamiento actual incluye antibióticos y terapias de sostén, pero presenta limitaciones. Los análisis multivariados, especialmente en &#8220;ómicas&#8221; como la peptidómica, junto con modelos predictivos basados en inteligencia artificial, son herramientas prometedoras para abordar la sepsis. En un estudio reciente demostramos la capacidad de distinguir estadios inflamatorios mediante análisis multivariados de huellas biomoleculares, resaltando su potencial en el diagnóstico efectivo en entornos clínicos complejos.</p>\n<p><strong>Palabras clave.</strong> Análisis multivariados. Rstudio. Machine learning. Modelos predictivos</p>\n<p><strong>Conocimientos deseables.</strong> Conocimiento análisis multivariados. Manejo de software Rstudio y/o Python. Conocimientos de estadística. Entusiasmo y trabajo en equipo</p>\n<p><strong>¿Qué podría aprender quien realice esta tesis? &#8211;</strong> Conocimiento de la patología en cuestión. Análisis y desarrollo de variables clínicas relevantes. Conocimiento y manejo de espectrometría de masas (MALDI-TOF). Conocimientos de inmunología. Desarrollo de modelos predictivos y modelos que mejoren el abordaje diagnóstico y pronóstico de la sepsis</p>\n<p><strong>Dirección de la tesis</strong><br />\nRearte, Bárbara<br />\nIMEX-CONICET-ANM<br />\nContacto: barbararearte@yahoo.com.ar</p>\n<p><strong>Descargar PDF</strong><br />\n<a  class=\"download-link\" title=\"\" href=\"https://lcd.exactas.uba.ar/download/2342/?tmstv=1777052102\" rel=\"nofollow\" id=\"download-link-2342\" >\n\tESTUDIO DE UNA NUEVA HERRAMIENTA PARA EL DIAGNÓSTICO, ESTRATIFICACIÓN Y MONITOREO EN SEPSIS</a>\n</p>",
+  "render_mode": "html_clean",
+  "attachments": [
+    {
+      "url": "https://lcd.exactas.uba.ar/download/2342/?tmstv=1777052102",
+      "label": "Descargar PDF",
+      "kind": "pdf",
+      "is_download_like": true
+    }
+  ],
+  "has_attachments": true,
+  "attachment_count": 1,
+  "outlinks": [
+    {
+      "url": "https://lcd.exactas.uba.ar/download/2342/?tmstv=1777052102",
+      "kind": "internal"
+    }
+  ],
+  "is_index_like": false,
+  "index_like_reason": null,
+  "content_hash": "sha256:e346bc849c88774cf35058d0c9c36134db28cbb44ab08c15d31548b8780d2c1b",
+  "search_text": "Estudio de una nueva herramienta para el diagnóstico, estratificación y monitoreo en SEPSIS estudio-de-una-nueva-herramienta-para-el-diagnostico-estratificacion-y-monitoreo-en-sepsis Resumen. La sepsis, un grave problema global de salud con […] Resumen. La sepsis, un grave problema global de salud con alta mortalidad, afecta principalmente a países de bajos y medianos ingresos. La OMS insta a investigar métodos para abordar esta enfermedad, que se redefine como “disfunción orgánica potencialmente mortal” debido a respuestas desreguladas del huésped a la infección. Aunque la identificación temprana mejora los resultados, el diagnóstico y la diferenciación de cuadros inflamatorios son desafíos. El tratamiento actual incluye antibióticos y terapias de sostén, pero presenta limitaciones. Los análisis multivariados, especialmente en “ómicas” como la peptidómica, junto con modelos predictivos basados en inteligencia artificial, son herramientas prometedoras para abordar la sepsis. En un estudio reciente demostramos la capacidad de distinguir estadios inflamatorios mediante análisis multivariados de huellas biomoleculares, resaltando su potencial en el diagnóstico efectivo en entornos clínicos complejos. Palabras clave. Análisis multivariados. Rstudio. Machine learning. Modelos predictivos Conocimientos deseables. Conocimiento análisis multivariados. Manejo de software Rstudio y/o Python. Conocimientos de estadística. Entusiasmo y trabajo en equipo ¿Qué podría aprender quien realice esta tesis? – Conocimiento de la patología en cuestión. Análisis y desarrollo de variables clínicas relevantes. Conocimiento y manejo de espectrometría de masas (MALDI-TOF). Conocimientos de inmunología. Desarrollo de modelos predictivos y modelos que mejoren el abordaje diagnóstico y pronóstico de la sepsis Dirección de la tesis Rearte, Bárbara IMEX-CONICET-ANM Contacto: barbararearte@yahoo.com.ar Descargar PDF ESTUDIO DE UNA NUEVA HERRAMIENTA PARA EL DIAGNÓSTICO, ESTRATIFICACIÓN Y MONITOREO EN SEPSIS"
+}

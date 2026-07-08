@@ -1,0 +1,30 @@
+{
+  "id": "post:1595",
+  "entity_type": "post",
+  "source_id": 1595,
+  "slug": "ana-bianco-habla-sobre-lcd-en-radio-voz",
+  "route_slug": "post--1595--ana-bianco-habla-sobre-lcd-en-radio-voz",
+  "title": "Ana Bianco habla sobre LCD en Radio Voz",
+  "source_url": "https://lcd.exactas.uba.ar/ana-bianco-habla-sobre-lcd-en-radio-voz/",
+  "created_at": "2022-07-18T15:48:01",
+  "modified_at": "2022-07-18T15:49:03",
+  "sort_date": "2022-07-18T15:49:03",
+  "status": "publish",
+  "excerpt_plain": "Ana Bianco, Directora Alterna de la Licenciatura en Ciencias de […]",
+  "text": "Ana Bianco, Directora Alterna de la Licenciatura en Ciencias de Datos, habló sobre la carrera en el programa La Ciencia y la Salud de Horacio Sola, transmitido por Radio Vozn de Tandil Escuchá lo que dijo en este link",
+  "html_clean": "<p>Ana Bianco, Directora Alterna de la Licenciatura en Ciencias de Datos, habló sobre la carrera en el programa La Ciencia y la Salud de Horacio Sola, transmitido por Radio Vozn de Tandil</p>\n<p>Escuchá lo que dijo en este <a href=\"https://soundcloud.com/fundacionmedife/dra-ana-bianco-directora?in=fundacionmedife/sets/14-2022-junio-18&amp;utm_source=clipboard&amp;utm_medium=text&amp;utm_campaign=social_sharing\">link</a></p>",
+  "render_mode": "html_clean",
+  "attachments": [],
+  "has_attachments": false,
+  "attachment_count": 0,
+  "outlinks": [
+    {
+      "url": "https://soundcloud.com/fundacionmedife/dra-ana-bianco-directora?in=fundacionmedife/sets/14-2022-junio-18&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+      "kind": "external"
+    }
+  ],
+  "is_index_like": false,
+  "index_like_reason": null,
+  "content_hash": "sha256:4f7fe4f456d882a0c0e6a8b3faed17dc33c1d783e59d0a92b45adb20805967a5",
+  "search_text": "Ana Bianco habla sobre LCD en Radio Voz ana-bianco-habla-sobre-lcd-en-radio-voz Ana Bianco, Directora Alterna de la Licenciatura en Ciencias de […] Ana Bianco, Directora Alterna de la Licenciatura en Ciencias de Datos, habló sobre la carrera en el programa La Ciencia y la Salud de Horacio Sola, transmitido por Radio Vozn de Tandil Escuchá lo que dijo en este link"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "post:1669",
+  "entity_type": "post",
+  "source_id": 1669,
+  "slug": "workshop-de-analisis-armonico-teoria-de-muestreo-machine-learning-y-ciencia-de-datos",
+  "route_slug": "post--1669--workshop-de-analisis-armonico-teoria-de-muestreo-machine-learning-y-ciencia-de-datos",
+  "title": "Workshop de Análisis Armónico, Teoría de Muestreo, Machine Learning y Ciencia de Datos",
+  "source_url": "https://lcd.exactas.uba.ar/workshop-de-analisis-armonico-teoria-de-muestreo-machine-learning-y-ciencia-de-datos/",
+  "created_at": "2022-09-15T19:08:01",
+  "modified_at": "2022-09-15T19:22:45",
+  "sort_date": "2022-09-15T19:22:45",
+  "status": "publish",
+  "excerpt_plain": "Los y las invitamos al workshop que se realizará en […]",
+  "text": "Los y las invitamos al workshop que se realizará en Noviembre, que incluye cursos para estudiantes avanzados sobre temas de machine learning. Sitio web: entrar aquí. Para inscribirse: hacer click aquí .",
+  "html_clean": "<p>Los y las invitamos al workshop que se realizará en Noviembre, que incluye cursos para estudiantes avanzados sobre temas de machine learning.<br />\nSitio web: <a href=\"https://sites.google.com/view/2022-workshop-ha\">entrar aquí.</a></p>\n<p>Para inscribirse: hacer <a href=\"https://docs.google.com/forms/d/e/1FAIpQLSclx_vY3dkWrIoevpwz2pi-eyktFmjm2Ap9Cf1IU9TCq1iVMA/viewform\">click aquí</a>.</p>\n<p>&nbsp;</p>",
+  "render_mode": "html_clean",
+  "attachments": [],
+  "has_attachments": false,
+  "attachment_count": 0,
+  "outlinks": [
+    {
+      "url": "https://sites.google.com/view/2022-workshop-ha",
+      "kind": "external"
+    },
+    {
+      "url": "https://docs.google.com/forms/d/e/1FAIpQLSclx_vY3dkWrIoevpwz2pi-eyktFmjm2Ap9Cf1IU9TCq1iVMA/viewform",
+      "kind": "external"
+    }
+  ],
+  "is_index_like": false,
+  "index_like_reason": null,
+  "content_hash": "sha256:af329c276c59681b3282d9712b49886c6d5a609cb99ee8f9f8969585cb51ac6a",
+  "search_text": "Workshop de Análisis Armónico, Teoría de Muestreo, Machine Learning y Ciencia de Datos workshop-de-analisis-armonico-teoria-de-muestreo-machine-learning-y-ciencia-de-datos Los y las invitamos al workshop que se realizará en […] Los y las invitamos al workshop que se realizará en Noviembre, que incluye cursos para estudiantes avanzados sobre temas de machine learning. Sitio web: entrar aquí. Para inscribirse: hacer click aquí ."
+}

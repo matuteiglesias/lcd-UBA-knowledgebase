@@ -1,0 +1,30 @@
+{
+  "id": "post:1583",
+  "entity_type": "post",
+  "source_id": 1583,
+  "slug": "lcd-en-el-diario-clarin",
+  "route_slug": "post--1583--lcd-en-el-diario-clarin",
+  "title": "LCD en el Diario Clarín",
+  "source_url": "https://lcd.exactas.uba.ar/lcd-en-el-diario-clarin/",
+  "created_at": "2022-06-13T16:18:16",
+  "modified_at": "2022-06-13T16:18:16",
+  "sort_date": "2022-06-13T16:18:16",
+  "status": "publish",
+  "excerpt_plain": "Pablo Groisman y Ana Bianco, Director y Directora Adjunta de […]",
+  "text": "Pablo Groisman y Ana Bianco, Director y Directora Adjunta de LCD, dialogaron con el diario sobre la flamante carrera que rompe records de inscriptos y promete salida laboral para sus estudiantes en diversos campos laborales públicos y privados. “Cada vez más sectores necesitan especialistas en manejar datos y en poder inferir cosas a partir de ellos. Se estima que hoy en Argentina hay unos 1.300 puestos vacantes para estos perfiles. Y cuando tengamos los primeros graduados, probablemente estos puestos que no se logran ocupar serán muchos más. Lo que se suma a una alta demanda desde otros países” Leé la nota completa desde este link",
+  "html_clean": "<p>Pablo Groisman y Ana Bianco, Director y Directora Adjunta de LCD, dialogaron con el diario sobre la flamante carrera que rompe records de inscriptos y promete salida laboral para sus estudiantes en diversos campos laborales públicos y privados.</p>\n<p>&#8220;Cada vez más sectores necesitan especialistas en manejar datos y en poder inferir cosas a partir de ellos. Se estima que hoy en Argentina hay unos 1.300 puestos vacantes para estos perfiles. Y cuando tengamos los primeros<br />\ngraduados, probablemente estos puestos que no se logran ocupar serán muchos más. Lo que se suma a una alta<br />\ndemanda desde otros países&#8221;</p>\n<p>Leé la nota completa desde este <a href=\"https://www.clarin.com/servicios/ciencias-datos-nueva-carrera-auge-uba-permite-trabajar_0_MGIlI5lnBz.html\">link</a></p>",
+  "render_mode": "html_clean",
+  "attachments": [],
+  "has_attachments": false,
+  "attachment_count": 0,
+  "outlinks": [
+    {
+      "url": "https://www.clarin.com/servicios/ciencias-datos-nueva-carrera-auge-uba-permite-trabajar_0_MGIlI5lnBz.html",
+      "kind": "external"
+    }
+  ],
+  "is_index_like": false,
+  "index_like_reason": null,
+  "content_hash": "sha256:d4782007e412572fa6559f787d72535815670f33720f3ec9727239d6032c1f60",
+  "search_text": "LCD en el Diario Clarín lcd-en-el-diario-clarin Pablo Groisman y Ana Bianco, Director y Directora Adjunta de […] Pablo Groisman y Ana Bianco, Director y Directora Adjunta de LCD, dialogaron con el diario sobre la flamante carrera que rompe records de inscriptos y promete salida laboral para sus estudiantes en diversos campos laborales públicos y privados. “Cada vez más sectores necesitan especialistas en manejar datos y en poder inferir cosas a partir de ellos. Se estima que hoy en Argentina hay unos 1.300 puestos vacantes para estos perfiles. Y cuando tengamos los primeros graduados, probablemente estos puestos que no se logran ocupar serán muchos más. Lo que se suma a una alta demanda desde otros países” Leé la nota completa desde este link"
+}

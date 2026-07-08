@@ -1,0 +1,37 @@
+{
+  "id": "post:2834",
+  "entity_type": "post",
+  "source_id": 2834,
+  "slug": "lo-que-las-redes-neuronales-no-saben-descubriendo-e-interpretando-el-conocimiento-aprendido-en-redes-neuronales-convolucionales",
+  "route_slug": "post--2834--lo-que-las-redes-neuronales-no-saben-descubriendo-e-interpretando-el-conocimiento-aprendido-en-redes-neuronales-convolucionales",
+  "title": "Lo que las redes neuronales no saben: descubriendo e interpretando el conocimiento aprendido en redes neuronales convolucionales",
+  "source_url": "https://lcd.exactas.uba.ar/lo-que-las-redes-neuronales-no-saben-descubriendo-e-interpretando-el-conocimiento-aprendido-en-redes-neuronales-convolucionales/",
+  "created_at": "2025-09-08T20:32:04",
+  "modified_at": "2025-09-08T20:32:04",
+  "sort_date": "2025-09-08T20:32:04",
+  "status": "publish",
+  "excerpt_plain": "Tesista: Gabriel Baca Rubinztain Director: Gabriel Kreiman Codirector: Pablo Negri […]",
+  "text": "Tesista: Gabriel Baca Rubinztain Director: Gabriel Kreiman Codirector: Pablo Negri Resumen. Este trabajo aborda el problema de inferir el conocimiento adquirido por una red neuronal convolucional para clasificación de imágenes, sin información previa sobre sus datos de entrenamiento. En particular, se estudia si es posible determinar qué clases fueron utilizadas durante el entrenamiento bajo distintas restricciones sobre el acceso a la arquitectura, los pesos y las salidas de la red. Se definen seis variantes del problema, que representan escenarios cada vez más generales y desafiantes. Entre los métodos explorados, el análisis de la proporción de activación neuronal en capas Fully Connected combinado con clustering no supervisado mediante K-Means mostró resultados sólidos, alcanzando scores F1 superiores a 0,8 incluso en configuraciones con hasta siete clases de diez no entrenadas. La principal contribución del trabajo es el desarrollo de un framework basado en DeepDream para la extracción de conocimiento, que es agnóstico al dataset, a la arquitectura del modelo y a la métricas de similitud. Experimentos preliminares con este enfoque alcanzaron scores F1 superiores al 95 % en MNIST con redes artesanales pequeñas y mostraron desempeños comparables en CIFAR-10 utilizando una ResNet20 preentrenada. Palabras clave: Redes neuronales, inferencia de conocimiento, análisis de activaciones, interpretabilidad, DeepDream, out-of-distribution detection, open set recognition. Buenos Aires, 2025 Descargar PDF Lo que las redes neuronales no saben: descubriendo e interpretando el conocimiento aprendido en redes neuronales convolucionales",
+  "html_clean": "<p><strong>Tesista:</strong> Gabriel Baca Rubinztain</p>\n<p><strong>Director:</strong> Gabriel Kreiman<br />\n<strong>Codirector:</strong> Pablo Negri</p>\n<p>&nbsp;</p>\n<p><strong>Resumen.</strong></p>\n<p>Este trabajo aborda el problema de inferir el conocimiento adquirido por una red neuronal convolucional para clasificación de imágenes, sin información previa sobre sus datos de entrenamiento. En particular, se estudia si es posible determinar qué clases fueron utilizadas durante el entrenamiento bajo distintas restricciones sobre el acceso a la arquitectura, los pesos y las salidas de la red. Se definen seis variantes del problema, que representan escenarios cada vez más generales y desafiantes. Entre los métodos explorados, el análisis de la proporción de activación neuronal en capas Fully Connected combinado con clustering no supervisado mediante K-Means mostró resultados sólidos, alcanzando scores F1 superiores a 0,8 incluso en configuraciones con hasta siete clases de diez no entrenadas. La principal contribución del trabajo es el desarrollo de un framework basado en DeepDream para la extracción de conocimiento, que es agnóstico al dataset, a la arquitectura del modelo y a la métricas de similitud. Experimentos preliminares con este enfoque alcanzaron scores F1 superiores al 95 % en MNIST con redes artesanales pequeñas y mostraron desempeños comparables en CIFAR-10 utilizando una ResNet20 preentrenada.</p>\n<p>Palabras clave: Redes neuronales, inferencia de conocimiento, análisis de activaciones, interpretabilidad, DeepDream, out-of-distribution detection, open set recognition.</p>\n<p>&nbsp;</p>\n<p>Buenos Aires, 2025</p>\n<p><strong>Descargar PDF</strong><br />\n<a  class=\"download-link\" title=\"Version tesis final\" href=\"https://lcd.exactas.uba.ar/download/2831/?tmstv=1777052097\" rel=\"nofollow\" id=\"download-link-2831\" >\n\tLo que las redes neuronales no saben: descubriendo e interpretando el conocimiento aprendido en redes neuronales convolucionales</a>\n</p>",
+  "render_mode": "html_clean",
+  "attachments": [
+    {
+      "url": "https://lcd.exactas.uba.ar/download/2831/?tmstv=1777052097",
+      "label": "Descargar PDF",
+      "kind": "pdf",
+      "is_download_like": true
+    }
+  ],
+  "has_attachments": true,
+  "attachment_count": 1,
+  "outlinks": [
+    {
+      "url": "https://lcd.exactas.uba.ar/download/2831/?tmstv=1777052097",
+      "kind": "internal"
+    }
+  ],
+  "is_index_like": false,
+  "index_like_reason": null,
+  "content_hash": "sha256:f72d5d0a3889f811d2cbb7142eae345dfc52f8c7999460e5fded3eade1e51985",
+  "search_text": "Lo que las redes neuronales no saben: descubriendo e interpretando el conocimiento aprendido en redes neuronales convolucionales lo-que-las-redes-neuronales-no-saben-descubriendo-e-interpretando-el-conocimiento-aprendido-en-redes-neuronales-convolucionales Tesista: Gabriel Baca Rubinztain Director: Gabriel Kreiman Codirector: Pablo Negri […] Tesista: Gabriel Baca Rubinztain Director: Gabriel Kreiman Codirector: Pablo Negri Resumen. Este trabajo aborda el problema de inferir el conocimiento adquirido por una red neuronal convolucional para clasificación de imágenes, sin información previa sobre sus datos de entrenamiento. En particular, se estudia si es posible determinar qué clases fueron utilizadas durante el entrenamiento bajo distintas restricciones sobre el acceso a la arquitectura, los pesos y las salidas de la red. Se definen seis variantes del problema, que representan escenarios cada vez más generales y desafiantes. Entre los métodos explorados, el análisis de la proporción de activación neuronal en capas Fully Connected combinado con clustering no supervisado mediante K-Means mostró resultados sólidos, alcanzando scores F1 superiores a 0,8 incluso en configuraciones con hasta siete clases de diez no entrenadas. La principal contribución del trabajo es el desarrollo de un framework basado en DeepDream para la extracción de conocimiento, que es agnóstico al dataset, a la arquitectura del modelo y a la métricas de similitud. Experimentos preliminares con este enfoque alcanzaron scores F1 superiores al 95 % en MNIST con redes artesanales pequeñas y mostraron desempeños comparables en CIFAR-10 utilizando una ResNet20 preentrenada. Palabras clave: Redes neuronales, inferencia de conocimiento, análisis de activaciones, interpretabilidad, DeepDream, out-of-distribution detection, open set recognition. Buenos Aires, 2025 Descargar PDF Lo que las redes neuronales no saben: descubriendo e interpretando el conocimiento aprendido en redes neuronales convolucionales"
+}

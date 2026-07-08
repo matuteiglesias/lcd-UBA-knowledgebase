@@ -1,0 +1,30 @@
+{
+  "id": "post:1342",
+  "entity_type": "post",
+  "source_id": 1342,
+  "slug": "ya-salio-el-corto-de-lcd",
+  "route_slug": "post--1342--ya-salio-el-corto-de-lcd",
+  "title": "¡Ya salió el corto de LCD!",
+  "source_url": "https://lcd.exactas.uba.ar/ya-salio-el-corto-de-lcd/",
+  "created_at": "2022-03-29T19:23:16",
+  "modified_at": "2022-03-30T11:21:26",
+  "sort_date": "2022-03-30T11:21:26",
+  "status": "publish",
+  "excerpt_plain": "Desde la plataforma Pulsar se realizó el primer cortometraje sobre […]",
+  "text": "Desde la plataforma Pulsar se realizó el primer cortometraje sobre la Licenciatura en Ciencias de Datos. Para saber más sobre la flamante carrera y sacarte las dudas de una manera diferente, logueate desde Pulsar",
+  "html_clean": "<p>Desde la plataforma Pulsar se realizó el primer cortometraje sobre la Licenciatura en Ciencias de Datos.</p>\n<p>Para saber más sobre la flamante carrera y sacarte las dudas de una manera diferente, logueate desde <a href=\"https://www.campuspulsar.gob.ar/categoria/series/37/contenido/185\">Pulsar</a></p>\n<p>&nbsp;</p>",
+  "render_mode": "html_clean",
+  "attachments": [],
+  "has_attachments": false,
+  "attachment_count": 0,
+  "outlinks": [
+    {
+      "url": "https://www.campuspulsar.gob.ar/categoria/series/37/contenido/185",
+      "kind": "external"
+    }
+  ],
+  "is_index_like": false,
+  "index_like_reason": null,
+  "content_hash": "sha256:729bb1635e29376503d1131e3899439175cc75ff910fa7fd85b971005b12f9f8",
+  "search_text": "¡Ya salió el corto de LCD! ya-salio-el-corto-de-lcd Desde la plataforma Pulsar se realizó el primer cortometraje sobre […] Desde la plataforma Pulsar se realizó el primer cortometraje sobre la Licenciatura en Ciencias de Datos. Para saber más sobre la flamante carrera y sacarte las dudas de una manera diferente, logueate desde Pulsar"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "page:395",
+  "entity_type": "page",
+  "source_id": 395,
+  "slug": "plan-de-estudios",
+  "route_slug": "page--395--plan-de-estudios",
+  "title": "Plan de estudios",
+  "source_url": "https://lcd.exactas.uba.ar/plan-de-estudios/",
+  "created_at": "2026-03-01T12:00:00",
+  "modified_at": "2026-03-10T12:00:00",
+  "sort_date": "2026-03-10T12:00:00",
+  "status": "publish",
+  "excerpt_plain": "Plan de estudios",
+  "text": "Plan de estudios y programa .",
+  "html_clean": "<p>Plan de estudios y <a href='https://lcd.exactas.uba.ar/programa.pdf'>programa</a>.</p>",
+  "render_mode": "html_clean",
+  "attachments": [
+    {
+      "url": "https://lcd.exactas.uba.ar/programa.pdf",
+      "label": "Descargar PDF",
+      "kind": "pdf",
+      "is_download_like": true
+    }
+  ],
+  "has_attachments": true,
+  "attachment_count": 1,
+  "outlinks": [
+    {
+      "url": "https://lcd.exactas.uba.ar/programa.pdf",
+      "kind": "internal"
+    }
+  ],
+  "is_index_like": false,
+  "index_like_reason": null,
+  "content_hash": "sha256:96efa8958cc0e1158130094a30230b8d7480c53279cbf730b83ef99a623b7171",
+  "search_text": "Plan de estudios plan-de-estudios Plan de estudios Plan de estudios y programa ."
+}

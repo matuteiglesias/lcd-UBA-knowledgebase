@@ -1,0 +1,30 @@
+{
+  "id": "post:1218",
+  "entity_type": "post",
+  "source_id": 1218,
+  "slug": "una-lluvia-de-datos-como-la-ciencia-de-datos-sigue-revolucionando-el-pronostico-del-tiempo-por-paula-maldonado-y-juan-ruiz",
+  "route_slug": "post--1218--una-lluvia-de-datos-como-la-ciencia-de-datos-sigue-revolucionando-el-pronostico-del-tiempo-por-paula-maldonado-y-juan-ruiz",
+  "title": "Una lluvia de datos: como la ciencia de datos sigue revolucionando el pronóstico del tiempo",
+  "source_url": "https://lcd.exactas.uba.ar/una-lluvia-de-datos-como-la-ciencia-de-datos-sigue-revolucionando-el-pronostico-del-tiempo-por-paula-maldonado-y-juan-ruiz/",
+  "created_at": "2021-10-25T00:02:44",
+  "modified_at": "2021-10-29T13:33:44",
+  "sort_date": "2021-10-29T13:33:44",
+  "status": "publish",
+  "excerpt_plain": "Por Paula Maldonado y Juan Ruiz. Jueves 28 de octubre […]",
+  "text": "Por Paula Maldonado y Juan Ruiz. Jueves 28 de octubre 2PM por Youtube . Todos los días recibimos información sobre el estado del tiempo y sobre el pronóstico para los próximos días. Esta información es fundamental para muchas aplicaciones y para proteger a las personas y sus bienes, de fenómenos potencialmente dañinos. Estos datos se obtienen gracias a una de las redes de información global más grandes del mundo, compuesta por diversos tipos de sensores que pueden ser tan simples como un termómetro o tan complejos como radares o satélites meteorológicos. Estos datos alimentan a su vez, sistemas de modelado, que utilizan las computadoras más potentes del planeta para poder anticipar cómo evolucionarán las variables atmosféricas en las próximas horas o días. Más recientemente, los métodos de inteligencia artificial, permiten hacer un uso más eficiente de los datos y las simulaciones para mejorar la precisión de las predicciones. En esta charla daremos una introducción a estos temas y contaremos que se hace actualmente en el Servicio Meteorológico Nacional.",
+  "html_clean": "<p>Por Paula Maldonado y Juan Ruiz.</p>\n<p>Jueves 28 de octubre 2PM por <a href=\"https://www.youtube.com/c/PopExactasUBAOficial\">Youtube</a>.</p>\n<p>Todos los días recibimos información sobre el estado del tiempo y sobre el pronóstico para los próximos días. Esta información es fundamental para muchas aplicaciones y para proteger a las personas y sus bienes, de fenómenos potencialmente dañinos. Estos datos se obtienen gracias a una de las redes de información global más grandes del mundo, compuesta por diversos tipos de sensores que pueden ser tan simples como un termómetro o tan complejos como radares o satélites meteorológicos. Estos datos alimentan a su vez, sistemas de modelado, que utilizan las computadoras más potentes del planeta para poder anticipar cómo evolucionarán las variables atmosféricas en las próximas horas o días. Más recientemente, los métodos de inteligencia artificial, permiten hacer un uso más eficiente de los datos y las simulaciones para mejorar la precisión de las predicciones. En esta charla daremos una introducción a estos temas y contaremos que se hace actualmente en el Servicio Meteorológico Nacional.</p>\n<div><iframe title=\"Una lluvia de datos:como la ciencia de datos sigue revolucionando el pronóstico del tiempo.Juan Ruiz\" width=\"1200\" height=\"675\" src=\"https://www.youtube.com/embed/s2pqq-V4paE?list=PL0CgMPgsgatX5rXQyJfyDRhyvIQRe0tmI\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe></div>",
+  "render_mode": "html_clean",
+  "attachments": [],
+  "has_attachments": false,
+  "attachment_count": 0,
+  "outlinks": [
+    {
+      "url": "https://www.youtube.com/c/PopExactasUBAOficial",
+      "kind": "external"
+    }
+  ],
+  "is_index_like": false,
+  "index_like_reason": null,
+  "content_hash": "sha256:451ec6f1e0714649c16e76b4f6d32b9e6031206389c6dceb36336ad7625c09e5",
+  "search_text": "Una lluvia de datos: como la ciencia de datos sigue revolucionando el pronóstico del tiempo una-lluvia-de-datos-como-la-ciencia-de-datos-sigue-revolucionando-el-pronostico-del-tiempo-por-paula-maldonado-y-juan-ruiz Por Paula Maldonado y Juan Ruiz. Jueves 28 de octubre […] Por Paula Maldonado y Juan Ruiz. Jueves 28 de octubre 2PM por Youtube . Todos los días recibimos información sobre el estado del tiempo y sobre el pronóstico para los próximos días. Esta información es fundamental para muchas aplicaciones y para proteger a las personas y sus bienes, de fenómenos potencialmente dañinos. Estos datos se obtienen gracias a una de las redes de información global más grandes del mundo, compuesta por diversos tipos de sensores que pueden ser tan simples como un termómetro o tan complejos como radares o satélites meteorológicos. Estos datos alimentan a su vez, sistemas de modelado, que utilizan las computadoras más potentes del planeta para poder anticipar cómo evolucionarán las variables atmosféricas en las próximas horas o días. Más recientemente, los métodos de inteligencia artificial, permiten hacer un uso más eficiente de los datos y las simulaciones para mejorar la precisión de las predicciones. En esta charla daremos una introducción a estos temas y contaremos que se hace actualmente en el Servicio Meteorológico Nacional."
+}

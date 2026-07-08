@@ -1,0 +1,150 @@
+{
+  "id": "page:2147",
+  "entity_type": "page",
+  "source_id": 2147,
+  "slug": "temas-de-tesis-de-licenciatura",
+  "route_slug": "page--2147--temas-de-tesis-de-licenciatura",
+  "title": "Cartelera de temas de tesis de licenciatura",
+  "source_url": "https://lcd.exactas.uba.ar/temas-de-tesis-de-licenciatura/",
+  "created_at": "2023-08-29T15:15:15",
+  "modified_at": "2024-09-02T21:14:04",
+  "sort_date": "2024-09-02T21:14:04",
+  "status": "publish",
+  "excerpt_plain": "yes",
+  "text": "La tesis se puede enmarcar en alguno de los siguientes proyectos: 2024-11-29T18:50:45-03:00 Análisis de Fenotipo y Virulencia de infecciones polimicrobianas en pacientes pediátricos con diagnostico de fibrosis quística: Un Enfoque desde la Ciencia de Datos 2024-11-29T18:50:45-03:00 29 noviembre, 2024 | Resumen. En el laboratorio de Interacciones Bacterianas (Dpto. Química Biológica/IQUIBICEN) estudiamos las infecciones polimicrobianas y las diferencias con aquellas infecciones provocadas por un solo microorganismo y como esto impacta en la infección y el tratamiento […] 2024-11-29T18:46:53-03:00 Evaluación de estrategias argumentativas en debates entre IAs: capacidades asimétricas y jueces débiles 2024-11-29T18:46:53-03:00 29 noviembre, 2024 | Resumen. Este trabajo busca examinar las dinámicas del uso del debate entre sistemas de Inteligencia Artificial (IA) como método para alinear a objetivos y preferencias humanas. Se investigarán las ventajas potenciales de agentes sin restricciones […] 2024-11-29T18:42:48-03:00 Integración de Datos de Encuestas y Censos mediante Modelos de Aprendizaje Automático 2024-11-29T18:42:48-03:00 29 noviembre, 2024 | Resumen. La expansión de datos de censos utilizando datos de encuestas y técnicas de aprendizaje automático para generar nuevas variables y detalles sobre las bases de datos existentes. Este proyecto permite un análisis extremadamente detallado […] 2024-11-29T18:17:02-03:00 Cambio climático: machine learning aplicado a la relación entre fenómenos atmosféricos e índices climáticos. 2024-11-29T18:17:02-03:00 29 noviembre, 2024 | Resumen. Basado en 20 años de perfiles de temperatura y humedad atmosféricos obtenidos por el sistema de satélites de navegación global se buscan posibles relaciones espacio temporales con índices climáticos mensuales. Se comienza por un […] 2024-11-29T18:11:25-03:00 Procesamiento del tiempo en el cerebro en una tarea de finger tapping 2024-11-29T18:11:25-03:00 29 noviembre, 2024 | Resumen. Al contrario de lo que sucede con la información espacial, el conocimiento sobre cómo el cerebro procesa la información temporal es muy escaso a pesar de ser crítico para una gran variedad de funciones […] 2024-07-03T16:46:42-03:00 Fronteras físicas e imaginadas dentro de una ciudad 2024-07-03T16:46:42-03:00 3 julio, 2024 | Resumen. La segregación es la concentración de individuos por diferencias étnicas, socioeconómicas, culturales. No es un problema en sí, sino que es un fenómeno, con ventajas y desventajas. El problema es cuando se asocia a […] 2024-07-03T16:42:44-03:00 Uso de datos de genómica funcional y redes regulatorias de la expresión génica para analizar la heterogeneidad de células tumorales mamarias 2024-07-03T16:42:44-03:00 3 julio, 2024 | Resumen. El tratamiento el cáncer de mama triple negativo (TNBC) representa un gran desafío en oncología debido a su extensa heterogeneidad molecular, histológica y clínica. Sin embargo, los avances recientes en la secuenciación de RNA […] 2024-07-03T16:27:24-03:00 Modelos y soluciones para la restauración de imágenes fuera de foco 2024-07-03T16:27:24-03:00 3 julio, 2024 | Resumen. La restauración de imágenes fuera de foco es un área de investigación crucial en el campo de las ciencias de datos y la visión por computadora. Esta tarea es esencial para mejorar la calidad […] 2024-06-27T14:06:52-03:00 Desarrollo de una base de datos anotada de imágenes citológicas de Papanicolaou 2024-06-27T14:06:52-03:00 27 junio, 2024 | Resumen. Este plan se enmarca en un proyecto más general para automatizar el diagnóstico de cáncer de cuello uterino. Para entrenar los modelos de AI, es esencial desarrollar una base de datos de imágenes anotadas […] 2024-06-27T14:04:51-03:00 Redes convolucionales en grafos con aplicación al problema de reposicionamiento de fármacos 2024-06-27T14:04:51-03:00 27 junio, 2024 | Resumen. El presente proyecto planea estudiar metodologías que permitan extraer información de relevancia biomédica a partir de la integración de datos heterogéneos. Así, utilizaremos el abordaje de redes convolucionales montadas sobre grafos (Graph Convolutional Networks) […] 2024-06-27T14:02:08-03:00 Modelos de regresión funcional: aplicaciones, inferencia y algoritmos para su cómputo 2024-06-27T14:02:08-03:00 27 junio, 2024 | Resumen. En muchas aplicaciones, los datos observados provienen de fenómenos que pueden ser supuestos como curvas o funciones suaves más que como vectores finitos. El análisis de datos funcionales ha recibido notable atención por su […] 2024-06-27T13:58:54-03:00 Herramientas cuantitativas para el análisis de datos de localización de proteínas obtenidos por microscopía de superresolución 2024-06-27T13:58:54-03:00 27 junio, 2024 | Resumen. Las taupatías son un grupo de enfermedades neurodegenerativas que presentan agregados de la proteína tau en diferentes regiones cerebrales. Recientes estudios han reportado una distribución de tau en parches o “islas” a lo largo […] 2024-06-27T13:56:12-03:00 Marcos, muestreo y aplicaciones al procesamiento de señales e imágenes 2024-06-27T13:56:12-03:00 27 junio, 2024 | Resumen. La teoría de muestreo (sampling theory) se centra en la reconstrucción precisa de una señal continua a partir de sus muestras discretas. El teorema de muestreo de Nyquist-Shannon establece que una señal puede ser […] 2024-06-27T13:52:16-03:00 Detección de bloques de Independencia 2024-06-27T13:52:16-03:00 27 junio, 2024 | Resumen. El objetivo de esta plan es explorar diferentes propuestas para detectar bloques de independencia de un vector aleatorio. Es decir, estimar cuales son los subvectores cuyas distribuciones factorizan la conjunta. Esta es una herramienta […] 2024-05-20T17:09:37-03:00 Estudios de modelos cosmológicos alternativos con redes neuronales artificiales 2024-05-20T17:09:37-03:00 20 mayo, 2024 | Resumen. En los últimos años, el desarrollo de métodos basados en el aprendizaje automático como nuevas herramientas para analizar datos y modelos físicos se ha incrementado sustancialmente. Entre los métodos que se han desarrollado, existe […] 2024-05-20T17:05:39-03:00 Comparación de Algoritmos de Asignación justa de bienes indivisibles 2024-05-20T17:05:39-03:00 20 mayo, 2024 | Resumen. Cómo repartir un conjunto de bienes (artículos, no plata) entre un grupo de personas no es un problema sencillo. Para fijar ideas supongamos que las personas son un grupo de hermanos que heredan un […] 2024-02-01T16:48:39-03:00 Análisis de experimentos online de funciones ejecutivas 2024-02-01T16:48:39-03:00 1 febrero, 2024 | Resumen. El Trail-Making Test (TMT) es una prueba neuropsicológica estándar para funciones ejecutivas. La misma consiste en unir una serie de números o letras dispersos sin levantar el lápiz. Esta prueba tiene muy alta sensibilidad […] 2024-02-01T16:42:29-03:00 Análisis de movimientos oculares en texto 2024-02-01T16:42:29-03:00 1 febrero, 2024 | Resumen. Los movimientos oculares permiten acceder al foco de atención y los tiempos de procesamiento del cerebro en distintas tareas, como por ejemplo la lectura. Durante la misma, nuestros ojos recorren las palabras realizando sacadas […] 2024-02-01T16:32:10-03:00 Estudio de una nueva herramienta para el diagnóstico, estratificación y monitoreo en SEPSIS 2024-02-01T16:32:10-03:00 1 febrero, 2024 | Resumen. La sepsis, un grave problema global de salud con alta mortalidad, afecta principalmente a países de bajos y medianos ingresos. La OMS insta a investigar métodos para abordar esta enfermedad, que se redefine como […] 2023-11-03T16:00:27-03:00 Microorganismos marinos y cambio climático 2023-11-03T16:00:27-03:00 3 noviembre, 2023 | Resumen. El océano global se extiende a lo largo de más del 70% de la superficie del mundo y tiene una profundidad promedio de >3,5 kms. Sorprendentemente, los organismos microscópicos representan ~70% de la biomasa […] 2023-11-03T15:55:11-03:00 Visualización Interactiva de la Red de Investigadores Argentinos en el Exterior 2023-11-03T15:55:11-03:00 3 noviembre, 2023 | Resumen. Estimaciones recientes de la cantidad de investigadores argentinos residentes en el exterior ponen el número arriba del millón. Muchos de estos investigadores han conformado redes de vinculación, organizadas por país o región de residencia, […] 2023-10-02T15:44:51-03:00 Abordando el espacio combinatorio en recomendaciones de ranking mediante la descomposición de acciones en reinforcement learning 2023-10-02T15:44:51-03:00 2 octubre, 2023 | Resumen. El uso del aprendizaje por refuerzo, también conocido como Reinforcement Learning (RL), cuenta con la capacidad de optimizar métricas a largo plazo, a diferencia de técnicas tradicionales de Machine Learning. Sin embargo, en el caso […] 2023-10-02T15:41:10-03:00 Aplicación de machine learning al pronóstico de eventos meteorológicos de alto impacto social 2023-10-02T15:41:10-03:00 2 octubre, 2023 | Palabras clave. machine learning, modelado numerico de la atmósfera, asimilacion de datos, uncertainty quantification Conocimientos deseables. programación en python, conocimiento basico de técnicas de machine learning (no excluyentes) ¿Qué podría aprender quien realice esta tesis? – En […] 2023-10-02T15:36:59-03:00 Desarrollo e implementación de un modelo basado en self-supervized learning para la predicción de episodios de sueño a partir de datos de uso de smartphones con sistema operativo Android. 2023-10-02T15:36:59-03:00 2 octubre, 2023 | Resumen. En el presente proyecto se propone diseñar, desarrollar y evaluar un modelo un modelo basado en self-supervized learning para la predicción de episodios de sueño a partir de datos de uso de smartphones con sistema […] 2023-10-02T15:31:06-03:00 Algas Tóxicas en los Golfos Norpatagónicos. Condiciones ambientales y detección satelital 2023-10-02T15:31:06-03:00 2 octubre, 2023 | Resumen. El objetivo de esta investigación es desarrollar nuevas herramientas para detectar satelitalmente las floraciones algales nocivas (comunmente llamadas MAREA ROJA) y las condiciones oceanográficas propicias para que se produzcan en la región de los […] 2023-09-01T18:28:48-03:00 Inteligencia artificial y neurociencia 2023-09-01T18:28:48-03:00 1 septiembre, 2023 | Palabras clave. machine learning, artificial intelligence, computational neuroscience Conocimientos deseables. Computer science, Machine learning, ¿Qué podría aprender quien realice esta tesis? – Machine learning, AI, conexiones entre el estudio de la inteligencia natural y artificial, diseño de […] 2023-10-02T13:24:27-03:00 Identificación de marcadores de epileptogenicidad a partir del registro de neuronas individuales en pacientes candidatos a cirugía de epilepsia 2023-10-02T13:24:27-03:00 1 septiembre, 2023 | Resumen. En mi tesis doctoral como neurólogo especialista en epilepsia, analizo señales intracerebrales obtenidas con microelectrodos en pacientes con epilepsia para identificar características del comportamiento de neuronas individuales con el fin de comprender mejor la […] 2023-09-01T15:27:57-03:00 Redes neuronales profundas como modelos del sistema visual humano 2023-09-01T15:27:57-03:00 1 septiembre, 2023 | Resumen. En años recientes, las redes neuronales convolucionales profundas se han consolidado como un posible modelo del procesamiento de información en el cerebro humano, especialmente en el dominio de la percepción visual. La mayoría de […] 2023-09-01T15:28:52-03:00 Estudio, mejora e implementación en forma paralela para un método de superresolución de imágenes 2023-09-01T15:28:52-03:00 1 septiembre, 2023 | Palabras clave. Procesamiento de Imágenes, optimización global, GPU Conocimientos deseables. Buen manejo del lenguaje de programación Python o C. ¿Qué podría aprender quien realice esta tesis? – Quien desarrolle este trabajo aprenderá fundamentalmente a interactuar con otras […] 2023-08-29T12:25:21-03:00 Modelos de predicción del abandono universitario en argentina 2023-08-29T12:25:21-03:00 29 agosto, 2023 | Resumen. En Argentina, se estima que en las universidades nacionales sólo el 12% (Período 2010-2016) de los estudiantes que ingresan se gradúa , muy por debajo de otros países de la región, como en Chile, […] 2023-08-29T12:25:51-03:00 Hacia la construcción de un templex para atractores climáticos 2023-08-29T12:25:51-03:00 29 agosto, 2023 | Resumen. El templex [Chaos 32(8), 083108 (2022)] es un objeto matemático que combina elementos de la topología algebraica y el análisis de series temporales para describir la estructura topológica de un flujo en el espacio […]",
+  "html_clean": "",
+  "render_mode": "text_only",
+  "attachments": [],
+  "has_attachments": false,
+  "attachment_count": 0,
+  "outlinks": [
+    {
+      "url": "https://lcd.exactas.uba.ar/analisis-de-fenotipo-y-virulencia-de-infecciones-polimicrobianas-en-pacientes-pediatricos-con-diagnostico-de-fibrosis-quistica-un-enfoque-desde-la-ciencia-de-datos/",
+      "kind": "internal"
+    },
+    {
+      "url": "https://lcd.exactas.uba.ar/evaluacion-de-estrategias-argumentativas-en-debates-entre-ias-capacidades-asimetricas-y-jueces-debiles/",
+      "kind": "internal"
+    },
+    {
+      "url": "https://lcd.exactas.uba.ar/integracion-de-datos-de-encuestas-y-censos-mediante-modelos-de-aprendizaje-automatico/",
+      "kind": "internal"
+    },
+    {
+      "url": "https://lcd.exactas.uba.ar/cambio-climatico-machine-learning-aplicado-a-la-relacion-entre-fenomenos-atmosfericos-e-indices-climaticos/",
+      "kind": "internal"
+    },
+    {
+      "url": "https://lcd.exactas.uba.ar/procesamiento-del-tiempo-en-el-cerebro-en-una-tarea-de-finger-tapping/",
+      "kind": "internal"
+    },
+    {
+      "url": "https://lcd.exactas.uba.ar/fronteras-fisicas-e-imaginadas-dentro-de-una-ciudad/",
+      "kind": "internal"
+    },
+    {
+      "url": "https://lcd.exactas.uba.ar/uso-de-datos-de-genomica-funcional-y-redes-regulatorias-de-la-expresion-genica-para-analizar-la-heterogeneidad-de-celulas-tumorales-mamarias/",
+      "kind": "internal"
+    },
+    {
+      "url": "https://lcd.exactas.uba.ar/modelos-y-soluciones-para-la-restauracion-de-imagenes-fuera-de-foco/",
+      "kind": "internal"
+    },
+    {
+      "url": "https://lcd.exactas.uba.ar/desarrollo-de-una-base-de-datos-anotada-de-imagenes-citologicas-de-papanicolaou/",
+      "kind": "internal"
+    },
+    {
+      "url": "https://lcd.exactas.uba.ar/redes-convolucionales-en-grafos-con-aplicacion-al-problema-de-reposicionamiento-de-farmacos/",
+      "kind": "internal"
+    },
+    {
+      "url": "https://lcd.exactas.uba.ar/modelos-de-regresion-funcional-aplicaciones-inferencia-y-algoritmos-para-su-computo/",
+      "kind": "internal"
+    },
+    {
+      "url": "https://lcd.exactas.uba.ar/herramientas-cuantitativas-para-el-analisis-de-datos-de-localizacion-de-proteinas-obtenidos-por-microscopia-de-superresolucion/",
+      "kind": "internal"
+    },
+    {
+      "url": "https://lcd.exactas.uba.ar/marcos-muestreo-y-aplicaciones-al-procesamiento-de-senales-e-imagenes/",
+      "kind": "internal"
+    },
+    {
+      "url": "https://lcd.exactas.uba.ar/deteccion-de-bloques-de-independencia/",
+      "kind": "internal"
+    },
+    {
+      "url": "https://lcd.exactas.uba.ar/estudios-de-modelos-cosmologicos-alternativos-con-redes-neuronales-artificiales/",
+      "kind": "internal"
+    },
+    {
+      "url": "https://lcd.exactas.uba.ar/comparacion-de-algoritmos-de-asignacion-justa-de-bienes-indivisibles/",
+      "kind": "internal"
+    },
+    {
+      "url": "https://lcd.exactas.uba.ar/analisis-de-experimentos-online-de-funciones-ejecutivas/",
+      "kind": "internal"
+    },
+    {
+      "url": "https://lcd.exactas.uba.ar/analisis-de-movimientos-oculares-en-texto/",
+      "kind": "internal"
+    },
+    {
+      "url": "https://lcd.exactas.uba.ar/estudio-de-una-nueva-herramienta-para-el-diagnostico-estratificacion-y-monitoreo-en-sepsis/",
+      "kind": "internal"
+    },
+    {
+      "url": "https://lcd.exactas.uba.ar/microorganismos-marinos-y-cambio-climatico/",
+      "kind": "internal"
+    },
+    {
+      "url": "https://lcd.exactas.uba.ar/visualizacion-interactiva-de-la-red-de-investigadores-argentinos-en-el-exterior/",
+      "kind": "internal"
+    },
+    {
+      "url": "https://lcd.exactas.uba.ar/abordando-el-espacio-combinatorio-en-recomendaciones-de-ranking-mediante-la-descomposicion-de-acciones-en-reinforcement-learning/",
+      "kind": "internal"
+    },
+    {
+      "url": "https://lcd.exactas.uba.ar/aplicacion-de-machine-learning-al-pronostico-de-eventos-meteorologicos-de-alto-impacto-social/",
+      "kind": "internal"
+    },
+    {
+      "url": "https://lcd.exactas.uba.ar/desarrollo-e-implementacion-de-un-modelo-basado-en-self-supervized-learning-para-la-prediccion-de-episodios-de-sueno-a-partir-de-datos-de-uso-de-smartphones-con-sistema-operativo-android/",
+      "kind": "internal"
+    },
+    {
+      "url": "https://lcd.exactas.uba.ar/algas-toxicas-en-los-golfos-norpatagonicos-condiciones-ambientales-y-deteccion-satelital/",
+      "kind": "internal"
+    },
+    {
+      "url": "https://lcd.exactas.uba.ar/inteligencia-artificial-y-neurociencia/",
+      "kind": "internal"
+    },
+    {
+      "url": "https://lcd.exactas.uba.ar/identificacion-de-marcadores-de-epileptogenicidad-a-partir-del-registro-de-neuronas-individuales-en-pacientes-candidatos-a-cirugia-de-epilepsia/",
+      "kind": "internal"
+    },
+    {
+      "url": "https://lcd.exactas.uba.ar/redes-neuronales-profundas-como-modelos-del-sistema-visual-humano/",
+      "kind": "internal"
+    },
+    {
+      "url": "https://lcd.exactas.uba.ar/estudio-mejora-e-implementacion-en-forma-paralela-para-un-metodo-de-superresolucion-de-imagenes/",
+      "kind": "internal"
+    },
+    {
+      "url": "https://lcd.exactas.uba.ar/modelos-de-prediccion-del-abandono-universitario-en-argentina/",
+      "kind": "internal"
+    },
+    {
+      "url": "https://lcd.exactas.uba.ar/hacia-la-construccion-de-un-templex-para-atractores-climaticos/",
+      "kind": "internal"
+    }
+  ],
+  "is_index_like": true,
+  "index_like_reason": "embedded_post_grid",
+  "content_hash": "sha256:40b50b7de550224d799ccc55adcf013080b338948f6a424519beda024ecc7439",
+  "search_text": "Cartelera de temas de tesis de licenciatura temas-de-tesis-de-licenciatura yes La tesis se puede enmarcar en alguno de los siguientes proyectos: 2024-11-29T18:50:45-03:00 Análisis de Fenotipo y Virulencia de infecciones polimicrobianas en pacientes pediátricos con diagnostico de fibrosis quística: Un Enfoque desde la Ciencia de Datos 2024-11-29T18:50:45-03:00 29 noviembre, 2024 | Resumen. En el laboratorio de Interacciones Bacterianas (Dpto. Química Biológica/IQUIBICEN) estudiamos las infecciones polimicrobianas y las diferencias con aquellas infecciones provocadas por un solo microorganismo y como esto impacta en la infección y el tratamiento […] 2024-11-29T18:46:53-03:00 Evaluación de estrategias argumentativas en debates entre IAs: capacidades asimétricas y jueces débiles 2024-11-29T18:46:53-03:00 29 noviembre, 2024 | Resumen. Este trabajo busca examinar las dinámicas del uso del debate entre sistemas de Inteligencia Artificial (IA) como método para alinear a objetivos y preferencias humanas. Se investigarán las ventajas potenciales de agentes sin restricciones […] 2024-11-29T18:42:48-03:00 Integración de Datos de Encuestas y Censos mediante Modelos de Aprendizaje Automático 2024-11-29T18:42:48-03:00 29 noviembre, 2024 | Resumen. La expansión de datos de censos utilizando datos de encuestas y técnicas de aprendizaje automático para generar nuevas variables y detalles sobre las bases de datos existentes. Este proyecto permite un análisis extremadamente detallado […] 2024-11-29T18:17:02-03:00 Cambio climático: machine learning aplicado a la relación entre fenómenos atmosféricos e índices climáticos. 2024-11-29T18:17:02-03:00 29 noviembre, 2024 | Resumen. Basado en 20 años de perfiles de temperatura y humedad atmosféricos obtenidos por el sistema de satélites de navegación global se buscan posibles relaciones espacio temporales con índices climáticos mensuales. Se comienza por un […] 2024-11-29T18:11:25-03:00 Procesamiento del tiempo en el cerebro en una tarea de finger tapping 2024-11-29T18:11:25-03:00 29 noviembre, 2024 | Resumen. Al contrario de lo que sucede con la información espacial, el conocimiento sobre cómo el cerebro procesa la información temporal es muy escaso a pesar de ser crítico para una gran variedad de funciones […] 2024-07-03T16:46:42-03:00 Fronteras físicas e imaginadas dentro de una ciudad 2024-07-03T16:46:42-03:00 3 julio, 2024 | Resumen. La segregación es la concentración de individuos por diferencias étnicas, socioeconómicas, culturales. No es un problema en sí, sino que es un fenómeno, con ventajas y desventajas. El problema es cuando se asocia a […] 2024-07-03T16:42:44-03:00 Uso de datos de genómica funcional y redes regulatorias de la expresión génica para analizar la heterogeneidad de células tumorales mamarias 2024-07-03T16:42:44-03:00 3 julio, 2024 | Resumen. El tratamiento el cáncer de mama triple negativo (TNBC) representa un gran desafío en oncología debido a su extensa heterogeneidad molecular, histológica y clínica. Sin embargo, los avances recientes en la secuenciación de RNA […] 2024-07-03T16:27:24-03:00 Modelos y soluciones para la restauración de imágenes fuera de foco 2024-07-03T16:27:24-03:00 3 julio, 2024 | Resumen. La restauración de imágenes fuera de foco es un área de investigación crucial en el campo de las ciencias de datos y la visión por computadora. Esta tarea es esencial para mejorar la calidad […] 2024-06-27T14:06:52-03:00 Desarrollo de una base de datos anotada de imágenes citológicas de Papanicolaou 2024-06-27T14:06:52-03:00 27 junio, 2024 | Resumen. Este plan se enmarca en un proyecto más general para automatizar el diagnóstico de cáncer de cuello uterino. Para entrenar los modelos de AI, es esencial desarrollar una base de datos de imágenes anotadas […] 2024-06-27T14:04:51-03:00 Redes convolucionales en grafos con aplicación al problema de reposicionamiento de fármacos 2024-06-27T14:04:51-03:00 27 junio, 2024 | Resumen. El presente proyecto planea estudiar metodologías que permitan extraer información de relevancia biomédica a partir de la integración de datos heterogéneos. Así, utilizaremos el abordaje de redes convolucionales montadas sobre grafos (Graph Convolutional Networks) […] 2024-06-27T14:02:08-03:00 Modelos de regresión funcional: aplicaciones, inferencia y algoritmos para su cómputo 2024-06-27T14:02:08-03:00 27 junio, 2024 | Resumen. En muchas aplicaciones, los datos observados provienen de fenómenos que pueden ser supuestos como curvas o funciones suaves más que como vectores finitos. El análisis de datos funcionales ha recibido notable atención por su […] 2024-06-27T13:58:54-03:00 Herramientas cuantitativas para el análisis de datos de localización de proteínas obtenidos por microscopía de superresolución 2024-06-27T13:58:54-03:00 27 junio, 2024 | Resumen. Las taupatías son un grupo de enfermedades neurodegenerativas que presentan agregados de la proteína tau en diferentes regiones cerebrales. Recientes estudios han reportado una distribución de tau en parches o “islas” a lo largo […] 2024-06-27T13:56:12-03:00 Marcos, muestreo y aplicaciones al procesamiento de señales e imágenes 2024-06-27T13:56:12-03:00 27 junio, 2024 | Resumen. La teoría de muestreo (sampling theory) se centra en la reconstrucción precisa de una señal continua a partir de sus muestras discretas. El teorema de muestreo de Nyquist-Shannon establece que una señal puede ser […] 2024-06-27T13:52:16-03:00 Detección de bloques de Independencia 2024-06-27T13:52:16-03:00 27 junio, 2024 | Resumen. El objetivo de esta plan es explorar diferentes propuestas para detectar bloques de independencia de un vector aleatorio. Es decir, estimar cuales son los subvectores cuyas distribuciones factorizan la conjunta. Esta es una herramienta […] 2024-05-20T17:09:37-03:00 Estudios de modelos cosmológicos alternativos con redes neuronales artificiales 2024-05-20T17:09:37-03:00 20 mayo, 2024 | Resumen. En los últimos años, el desarrollo de métodos basados en el aprendizaje automático como nuevas herramientas para analizar datos y modelos físicos se ha incrementado sustancialmente. Entre los métodos que se han desarrollado, existe […] 2024-05-20T17:05:39-03:00 Comparación de Algoritmos de Asignación justa de bienes indivisibles 2024-05-20T17:05:39-03:00 20 mayo, 2024 | Resumen. Cómo repartir un conjunto de bienes (artículos, no plata) entre un grupo de personas no es un problema sencillo. Para fijar ideas supongamos que las personas son un grupo de hermanos que heredan un […] 2024-02-01T16:48:39-03:00 Análisis de experimentos online de funciones ejecutivas 2024-02-01T16:48:39-03:00 1 febrero, 2024 | Resumen. El Trail-Making Test (TMT) es una prueba neuropsicológica estándar para funciones ejecutivas. La misma consiste en unir una serie de números o letras dispersos sin levantar el lápiz. Esta prueba tiene muy alta sensibilidad […] 2024-02-01T16:42:29-03:00 Análisis de movimientos oculares en texto 2024-02-01T16:42:29-03:00 1 febrero, 2024 | Resumen. Los movimientos oculares permiten acceder al foco de atención y los tiempos de procesamiento del cerebro en distintas tareas, como por ejemplo la lectura. Durante la misma, nuestros ojos recorren las palabras realizando sacadas […] 2024-02-01T16:32:10-03:00 Estudio de una nueva herramienta para el diagnóstico, estratificación y monitoreo en SEPSIS 2024-02-01T16:32:10-03:00 1 febrero, 2024 | Resumen. La sepsis, un grave problema global de salud con alta mortalidad, afecta principalmente a países de bajos y medianos ingresos. La OMS insta a investigar métodos para abordar esta enfermedad, que se redefine como […] 2023-11-03T16:00:27-03:00 Microorganismos marinos y cambio climático 2023-11-03T16:00:27-03:00 3 noviembre, 2023 | Resumen. El océano global se extiende a lo largo de más del 70% de la superficie del mundo y tiene una profundidad promedio de >3,5 kms. Sorprendentemente, los organismos microscópicos representan ~70% de la biomasa […] 2023-11-03T15:55:11-03:00 Visualización Interactiva "
+}

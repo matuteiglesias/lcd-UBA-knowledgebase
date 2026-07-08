@@ -1,0 +1,30 @@
+{
+  "id": "post:1626",
+  "entity_type": "post",
+  "source_id": 1626,
+  "slug": "nuevo-canal-de-telegram-para-info-oficial-de-lcd",
+  "route_slug": "post--1626--nuevo-canal-de-telegram-para-info-oficial-de-lcd",
+  "title": "Nuevo canal de telegram para info oficial de LCD",
+  "source_url": "https://lcd.exactas.uba.ar/nuevo-canal-de-telegram-para-info-oficial-de-lcd/",
+  "created_at": "2022-08-26T20:01:46",
+  "modified_at": "2022-08-29T14:44:04",
+  "sort_date": "2022-08-29T14:44:04",
+  "status": "publish",
+  "excerpt_plain": "Inauguramos un canal de telegram exclusivo para información oficial de […]",
+  "text": "Inauguramos un canal de telegram exclusivo para información oficial de la carrera. Les recomendamos que se unan y les pedimos que nos ayuden a difundirlo entre estudiantes. La dirección del canal es https://t.me/lcdexactasuba",
+  "html_clean": "<p>Inauguramos un canal de telegram exclusivo para información oficial de la carrera. Les recomendamos que se unan y les pedimos que nos ayuden a difundirlo entre estudiantes. La dirección del canal es <a href=\"https://t.me/lcdexactasuba\" target=\"_blank\" rel=\"noopener noreferrer\">https://t.me/lcdexactasuba</a></p>",
+  "render_mode": "html_clean",
+  "attachments": [],
+  "has_attachments": false,
+  "attachment_count": 0,
+  "outlinks": [
+    {
+      "url": "https://t.me/lcdexactasuba",
+      "kind": "external"
+    }
+  ],
+  "is_index_like": false,
+  "index_like_reason": null,
+  "content_hash": "sha256:8c160566df95e7d20c88803b0547d6c8974e95ff29be4c17d5974dc5e5799156",
+  "search_text": "Nuevo canal de telegram para info oficial de LCD nuevo-canal-de-telegram-para-info-oficial-de-lcd Inauguramos un canal de telegram exclusivo para información oficial de […] Inauguramos un canal de telegram exclusivo para información oficial de la carrera. Les recomendamos que se unan y les pedimos que nos ayuden a difundirlo entre estudiantes. La dirección del canal es https://t.me/lcdexactasuba"
+}
