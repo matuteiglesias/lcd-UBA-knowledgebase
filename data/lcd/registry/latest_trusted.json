@@ -1,7 +1,11 @@
 {
-  "run_id": "test_promotion_semantics",
+  "run_id": "local_contract_check_20260424T161417Z",
   "status": "completed_trusted",
-  "manifest_path": "data/lcd/runs/test_promotion_semantics/registry/run_manifest.json",
-  "run_status_path": "data/lcd/runs/test_promotion_semantics/registry/run_status.json",
-  "updated_at": "2026-03-20T02:55:57Z"
+  "run_dir": "data/lcd/runs/local_contract_check_20260424T161417Z",
+  "manifest_path": "data/lcd/runs/local_contract_check_20260424T161417Z/registry/run_manifest.json",
+  "run_status_path": "data/lcd/runs/local_contract_check_20260424T161417Z/registry/run_status.json",
+  "validation_report_path": "data/lcd/runs/local_contract_check_20260424T161417Z/reports/validation_report.json",
+  "drift_report_path": "data/lcd/runs/local_contract_check_20260424T161417Z/reports/drift_report.json",
+  "inventory_path": "data/lcd/runs/local_contract_check_20260424T161417Z/registry/artifact_inventory.json",
+  "updated_at": "2026-04-24T16:14:17Z"
 }

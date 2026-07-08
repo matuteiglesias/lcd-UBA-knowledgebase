@@ -1,12 +1,12 @@
 {
-  "contract": "run_manifest.v1",
+  "contract": "artifact_inventory.v1",
   "run_id": "local_contract_check_20260424T161417Z",
-  "site_id": "lcd.exactas.uba.ar",
-  "started_at": "2026-04-24T16:14:17Z",
-  "completed_at": "2026-04-24T16:14:17Z",
-  "result": "pass",
-  "run_status": "completed_trusted",
-  "trust_level": "trusted",
+  "run_dir": "data/lcd/runs/local_contract_check_20260424T161417Z",
+  "manifest_path": "data/lcd/runs/local_contract_check_20260424T161417Z/registry/run_manifest.json",
+  "index_path": "data/lcd/runs/local_contract_check_20260424T161417Z/indexes/title_slug_index.json",
+  "validation_report_path": "data/lcd/runs/local_contract_check_20260424T161417Z/reports/validation_report.json",
+  "latest_success_path": "data/lcd/registry/latest_success.json",
+  "manifest_result": "pass",
   "entity_counts": {
     "page": 1,
     "post": 1
@@ -94,14 +94,41 @@
       "rows": 2
     }
   ],
-  "notes": [
-    "Manifest generated from current raw and normalized outputs.",
-    "Validation passed; staged outputs were finalized and promoted as trusted."
-  ],
-  "promotion": {
-    "latest_attempted": "data/lcd/registry/latest_attempted.json",
-    "latest_success": "data/lcd/registry/latest_success.json",
-    "latest_trusted": "data/lcd/registry/latest_trusted.json",
-    "promoted": true
-  }
+  "relationships": [
+    {
+      "from": "raw_page",
+      "to": "normalized_page_jsonl",
+      "relationship": "normalized_into"
+    },
+    {
+      "from": "raw_post",
+      "to": "normalized_post_jsonl",
+      "relationship": "normalized_into"
+    },
+    {
+      "from": "normalized_page_jsonl",
+      "to": "chunks_page_jsonl",
+      "relationship": "chunked_into"
+    },
+    {
+      "from": "normalized_post_jsonl",
+      "to": "chunks_post_jsonl",
+      "relationship": "chunked_into"
+    },
+    {
+      "from": "normalized_page_jsonl",
+      "to": "title_slug_index",
+      "relationship": "indexed_into"
+    },
+    {
+      "from": "normalized_post_jsonl",
+      "to": "title_slug_index",
+      "relationship": "indexed_into"
+    },
+    {
+      "from": "run_manifest",
+      "to": "validation_report_json",
+      "relationship": "summarizes_validation_for"
+    }
+  ]
 }

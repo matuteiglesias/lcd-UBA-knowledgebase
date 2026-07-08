@@ -1,0 +1,129 @@
+{
+  "contract": "artifact_inventory.v1",
+  "run_id": "branch_check",
+  "run_dir": "data/lcd/runs/branch_check",
+  "manifest_path": "data/lcd/runs/branch_check/registry/run_manifest.json",
+  "index_path": "data/lcd/runs/branch_check/staging/title_slug_index.json",
+  "validation_report_path": "data/lcd/runs/branch_check/reports/validation_report.json",
+  "latest_success_path": null,
+  "manifest_result": "fail",
+  "entity_counts": {
+    "page": 1,
+    "post": 1
+  },
+  "artifacts": [
+    {
+      "path": "data/lcd/runs/branch_check/staging/page_doc.v1.jsonl",
+      "kind": "normalized_page_jsonl",
+      "sha256": "sha256:b83ea55e5f68045aad5cebbc7bfe5272034d38ecb0bff277793ea5d3a29a587e",
+      "rows": 1
+    },
+    {
+      "path": "data/lcd/runs/branch_check/staging/post_doc.v1.jsonl",
+      "kind": "normalized_post_jsonl",
+      "sha256": "sha256:d0c805ede3fe9ab6587f01711cbcfd07074afefb716e50030a9656ba8916b197",
+      "rows": 1
+    },
+    {
+      "path": "data/lcd/runs/branch_check/staging/page_chunk_doc.v1.jsonl",
+      "kind": "chunks_page_jsonl",
+      "sha256": "sha256:d3ab823830b2ee36f08d382787bfe1c1938c0c8af9a90278a8543bbd476863e0",
+      "rows": 1
+    },
+    {
+      "path": "data/lcd/runs/branch_check/staging/post_chunk_doc.v1.jsonl",
+      "kind": "chunks_post_jsonl",
+      "sha256": "sha256:60a0a374cabc6e61ffc579a4f1f6f45905d6084d664dba02588bf15c4125923a",
+      "rows": 1
+    },
+    {
+      "path": "data/lcd/raw/pages",
+      "kind": "raw_page",
+      "files": 1
+    },
+    {
+      "path": "data/lcd/raw/posts",
+      "kind": "raw_post",
+      "files": 1
+    },
+    {
+      "path": "data/lcd/runs/branch_check/staging/title_slug_index.json",
+      "kind": "staging_title_slug_index",
+      "rows": 2
+    },
+    {
+      "path": "data/lcd/runs/branch_check/reports/validation_report.json",
+      "kind": "validation_report"
+    },
+    {
+      "path": "data/lcd/runs/branch_check/reports/drift_report.json",
+      "kind": "drift_report"
+    },
+    {
+      "path": "data/lcd/runs/branch_check/registry/run_status.json",
+      "kind": "run_status"
+    },
+    {
+      "path": "data/lcd/runs/branch_check/reports/anomalies/duplicate_source_urls.jsonl",
+      "kind": "anomaly_duplicate_source_urls",
+      "rows": 0
+    },
+    {
+      "path": "data/lcd/runs/branch_check/reports/anomalies/empty_text_docs.jsonl",
+      "kind": "anomaly_empty_text_docs",
+      "rows": 0
+    },
+    {
+      "path": "data/lcd/runs/branch_check/reports/anomalies/orphan_chunks.jsonl",
+      "kind": "anomaly_orphan_chunks",
+      "rows": 0
+    },
+    {
+      "path": "data/lcd/runs/branch_check/reports/anomalies/empty_chunks.jsonl",
+      "kind": "anomaly_empty_chunks",
+      "rows": 0
+    },
+    {
+      "path": "data/lcd/runs/branch_check/reports/anomalies/fetch_failures.jsonl",
+      "kind": "anomaly_fetch_failures",
+      "rows": 0
+    }
+  ],
+  "relationships": [
+    {
+      "from": "raw_page",
+      "to": "normalized_page_jsonl",
+      "relationship": "normalized_into"
+    },
+    {
+      "from": "raw_post",
+      "to": "normalized_post_jsonl",
+      "relationship": "normalized_into"
+    },
+    {
+      "from": "normalized_page_jsonl",
+      "to": "chunks_page_jsonl",
+      "relationship": "chunked_into"
+    },
+    {
+      "from": "normalized_post_jsonl",
+      "to": "chunks_post_jsonl",
+      "relationship": "chunked_into"
+    },
+    {
+      "from": "normalized_page_jsonl",
+      "to": "title_slug_index",
+      "relationship": "indexed_into"
+    },
+    {
+      "from": "normalized_post_jsonl",
+      "to": "title_slug_index",
+      "relationship": "indexed_into"
+    },
+    {
+      "from": "run_manifest",
+      "to": "validation_report_json",
+      "relationship": "summarizes_validation_for"
+    }
+  ]
+}

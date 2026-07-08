@@ -1,0 +1,19 @@
+{
+  "contract": "run_status.v1",
+  "run_id": "branch_check",
+  "status": "validation_failed",
+  "result": "fail",
+  "started_at": "2026-03-20T07:10:47Z",
+  "completed_at": "2026-03-20T07:10:47Z",
+  "promotion_performed": false,
+  "trusted": false,
+  "validation_ok": false,
+  "validation_report_path": "data/lcd/runs/branch_check/reports/validation_report.json",
+  "drift_report_path": "data/lcd/runs/branch_check/reports/drift_report.json",
+  "anomaly_directory": "data/lcd/runs/branch_check/reports/anomalies",
+  "manifest_path": "data/lcd/runs/branch_check/registry/run_manifest.json",
+  "notes": [
+    "Manifest generated from current raw and normalized outputs.",
+    "Validation failed; staged outputs were preserved for inspection and not promoted."
+  ]
+}

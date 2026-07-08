@@ -1,0 +1,13 @@
+{
+  "contract": "run_status.v1",
+  "run_id": "local_contract_check_20260424T160058Z",
+  "status": "started",
+  "result": "running",
+  "started_at": "2026-04-24T16:00:58Z",
+  "completed_at": null,
+  "promotion_performed": false,
+  "trusted": false,
+  "notes": [
+    "Build started; artifacts will remain in staging until validation passes."
+  ]
+}

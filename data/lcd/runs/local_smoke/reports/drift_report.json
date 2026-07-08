@@ -1,0 +1,13 @@
+{
+  "contract": "drift_report.v1",
+  "previous_trusted_run_id": "test_promotion_semantics",
+  "current_run_id": "local_smoke",
+  "page_count_delta": 0,
+  "post_count_delta": 0,
+  "added_urls": [],
+  "removed_urls": [],
+  "changed_content_hash_count": 0,
+  "changed_content_hash_urls": [],
+  "slug_churn_count": 0,
+  "suspicious_thresholds_triggered": []
+}

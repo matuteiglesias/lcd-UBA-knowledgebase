@@ -1,0 +1,23 @@
+{
+  "entity": "post",
+  "base_url": "https://lcd.exactas.uba.ar",
+  "output_dir": "data/lcd/raw/posts",
+  "pages_fetched": 8,
+  "records_fetched": 200,
+  "raw_files": [
+    "data/lcd/raw/posts/posts-page-0001.json",
+    "data/lcd/raw/posts/posts-page-0002.json",
+    "data/lcd/raw/posts/posts-page-0003.json",
+    "data/lcd/raw/posts/posts-page-0004.json",
+    "data/lcd/raw/posts/posts-page-0005.json",
+    "data/lcd/raw/posts/posts-page-0006.json",
+    "data/lcd/raw/posts/posts-page-0007.json",
+    "data/lcd/raw/posts/posts-page-0008.json"
+  ],
+  "reported_total": 240,
+  "reported_total_pages": 10,
+  "max_pages": null,
+  "bounded_warning": false,
+  "error_count": 1,
+  "stop_reason": "request_error"
+}

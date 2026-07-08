@@ -1,0 +1,102 @@
+{
+  "contract": "run_manifest.v1",
+  "run_id": "live_lcd_20260424T173509Z",
+  "site_id": "lcd.exactas.uba.ar",
+  "started_at": "2026-04-24T17:35:09Z",
+  "completed_at": "2026-04-24T17:35:09Z",
+  "result": "fail",
+  "run_status": "validation_failed",
+  "trust_level": "untrusted",
+  "entity_counts": {
+    "page": 19,
+    "post": 200
+  },
+  "artifacts": [
+    {
+      "path": "data/lcd/runs/live_lcd_20260424T173509Z/staging/page_doc.v1.jsonl",
+      "kind": "normalized_page_jsonl",
+      "sha256": "sha256:f77331713217e36121c03cd2155c98b8686da20712fdfc3a39fef44a4bec1690",
+      "rows": 19
+    },
+    {
+      "path": "data/lcd/runs/live_lcd_20260424T173509Z/staging/post_doc.v1.jsonl",
+      "kind": "normalized_post_jsonl",
+      "sha256": "sha256:6a2321b8e73a9987b0d0f4ea3b3e57f952bdfb64d7b9c80435b27a082e99b62b",
+      "rows": 200
+    },
+    {
+      "path": "data/lcd/runs/live_lcd_20260424T173509Z/staging/page_chunk_doc.v1.jsonl",
+      "kind": "chunks_page_jsonl",
+      "sha256": "sha256:2fc7ca4945d356708c5c8b3a206289c5ea229f4dd196d5a1d8db89606d7892e5",
+      "rows": 226
+    },
+    {
+      "path": "data/lcd/runs/live_lcd_20260424T173509Z/staging/post_chunk_doc.v1.jsonl",
+      "kind": "chunks_post_jsonl",
+      "sha256": "sha256:07c55df82dc6b8c0d83c5a0dbebdd102eff888dee6594c2d99ea7371ec22e59f",
+      "rows": 978
+    },
+    {
+      "path": "data/lcd/raw/pages",
+      "kind": "raw_page",
+      "files": 1
+    },
+    {
+      "path": "data/lcd/raw/posts",
+      "kind": "raw_post",
+      "files": 8
+    },
+    {
+      "path": "data/lcd/runs/live_lcd_20260424T173509Z/staging/title_slug_index.json",
+      "kind": "staging_title_slug_index",
+      "rows": 219
+    },
+    {
+      "path": "data/lcd/runs/live_lcd_20260424T173509Z/reports/validation_report.json",
+      "kind": "validation_report"
+    },
+    {
+      "path": "data/lcd/runs/live_lcd_20260424T173509Z/reports/drift_report.json",
+      "kind": "drift_report"
+    },
+    {
+      "path": "data/lcd/runs/live_lcd_20260424T173509Z/registry/run_status.json",
+      "kind": "run_status"
+    },
+    {
+      "path": "data/lcd/runs/live_lcd_20260424T173509Z/reports/anomalies/duplicate_source_urls.jsonl",
+      "kind": "anomaly_duplicate_source_urls",
+      "rows": 2
+    },
+    {
+      "path": "data/lcd/runs/live_lcd_20260424T173509Z/reports/anomalies/empty_text_docs.jsonl",
+      "kind": "anomaly_empty_text_docs",
+      "rows": 3
+    },
+    {
+      "path": "data/lcd/runs/live_lcd_20260424T173509Z/reports/anomalies/orphan_chunks.jsonl",
+      "kind": "anomaly_orphan_chunks",
+      "rows": 0
+    },
+    {
+      "path": "data/lcd/runs/live_lcd_20260424T173509Z/reports/anomalies/empty_chunks.jsonl",
+      "kind": "anomaly_empty_chunks",
+      "rows": 0
+    },
+    {
+      "path": "data/lcd/runs/live_lcd_20260424T173509Z/reports/anomalies/fetch_failures.jsonl",
+      "kind": "anomaly_fetch_failures",
+      "rows": 0
+    }
+  ],
+  "notes": [
+    "Manifest generated from current raw and normalized outputs.",
+    "Validation failed; staged outputs were preserved for inspection and not promoted."
+  ],
+  "promotion": {
+    "latest_attempted": "data/lcd/registry/latest_attempted.json",
+    "latest_success": "data/lcd/registry/latest_success.json",
+    "latest_trusted": "data/lcd/registry/latest_trusted.json",
+    "promoted": false
+  }
+}

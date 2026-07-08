@@ -1,0 +1,666 @@
+{
+  "entity": "post",
+  "page": 3,
+  "per_page": 25,
+  "source_url": "https://lcd.exactas.uba.ar/wp-json/wp/v2/posts?page=3&per_page=25&_fields=id%2Cdate_gmt%2Cmodified_gmt%2Cslug%2Cstatus%2Ctype%2Clink%2Ctitle%2Ccontent%2Cexcerpt%2Cauthor%2Cfeatured_media%2Cparent%2Cmenu_order%2Ccategories%2Ctags",
+  "headers": {
+    "x-wp-total": "240",
+    "x-wp-totalpages": "10"
+  },
+  "items": [
+    {
+      "id": 2565,
+      "date_gmt": "2024-09-02T21:10:52",
+      "modified_gmt": "2024-09-03T16:41:16",
+      "slug": "2565-2",
+      "status": "publish",
+      "type": "post",
+      "link": "https://lcd.exactas.uba.ar/2565-2/",
+      "title": {
+        "rendered": "Teor\u00eda de B\u00fasqueda \u00d3ptima y Comportamiento Visual Humano"
+      },
+      "content": {
+        "rendered": "<p><strong>Resumen.</strong></p>\n<p><strong>Tesista: </strong>Rocco Di Tella</p>\n<p><strong>Director: </strong>Gabriel Kreiman &#8211; Harvard Brain Science Initiative<br />\n<strong>Codirector: </strong>Enzo Tagliazucchi &#8211; DF, FCEyN, UBA</p>\n<p><strong>Descargar PDF</strong><br />\n<a  data-e-Disable-Page-Transition=\"true\" class=\"download-link\" title=\"\" href=\"https://lcd.exactas.uba.ar/download/2198/?tmstv=1777052100\" rel=\"nofollow\" id=\"download-link-2198\" data-redirect=\"false\" >\n\tSensibilidad y robustez de m\u00e9todos de estimaci\u00f3n de la eficacia metacognitiva</a>\n</p>\n",
+        "protected": false
+      },
+      "excerpt": {
+        "rendered": "<p>Resumen. Tesista: Rocco Di Tella Director: Gabriel Kreiman &#8211; Harvard  [&#8230;]</p>\n",
+        "protected": false
+      },
+      "author": 3,
+      "featured_media": 0,
+      "categories": [
+        1
+      ],
+      "tags": []
+    },
+    {
+      "id": 2550,
+      "date_gmt": "2024-08-26T20:54:17",
+      "modified_gmt": "2024-08-27T15:37:46",
+      "slug": "lanzamiento-3-edicion-concurso-nacional-de-visualizacion-de-datos-contar-con-datos",
+      "status": "publish",
+      "type": "post",
+      "link": "https://lcd.exactas.uba.ar/lanzamiento-3-edicion-concurso-nacional-de-visualizacion-de-datos-contar-con-datos/",
+      "title": {
+        "rendered": "Lanzamiento 3\u00b0 edici\u00f3n Concurso nacional de visualizaci\u00f3n de datos &#8220;CONTAR CON DATOS&#8221;"
+      },
+      "content": {
+        "rendered": "<p>Les compartimos la noticia sobre el lanzamiento de la 3ra edici\u00f3n del concurso nacional de visualizaci\u00f3n de datos: &#8220;Contar con Datos&#8221;</p>\n<p>El <strong>Data Science Lab de la Universidad de San Andr\u00e9s y la Subsecretar\u00eda de Ciencia y Tecnolog\u00eda de la Naci\u00f3n</strong> te invitan a participar de la tercera edici\u00f3n del <strong>Concurso Nacional de Visualizaci\u00f3n de Datos</strong>; con el objetivo de fomentar la visualizaci\u00f3n de datos cient\u00edficos, promover la comunicaci\u00f3n p\u00fablica de la ciencia, incentivar el periodismo de datos y visibilizar a los investigadores en ciencia de datos en todo el pa\u00eds.</p>\n<p><a href=\"https://docs.google.com/forms/d/e/1FAIpQLSdkcE-8EAoKDhC0r1Sw_BXTcfmMBjYwPDbhcYYP8As8YCZMLw/viewform\"><strong>\u00a1INSCRIBITE AHORA!</strong></a></p>\n<p>Ten\u00e9s tiempo hasta el 23 de septiembre.</p>\n<p><strong>Primer premio:</strong> Computadora similar a laptop Intel\u00ae Core\u2122 i7 Processor 2.8 GHz; placa gr\u00e1fica; Intel Iris X Graphics; Almacenamiento 1Tb; Memoria: 12GB DDR4.<br />\n<strong>Segundo premio:</strong> Tablet similar a Tab S8 11\u201d.</p>\n<p><a href=\"https://drive.google.com/file/d/1RHf6Wmj3chb8wF0eXK3nLLzDnhbxXfqW/view\">Consult\u00e1 las Bases y Condiciones</a></p>\n",
+        "protected": false
+      },
+      "excerpt": {
+        "rendered": "<p>Les compartimos la noticia sobre el lanzamiento de la 3ra  [&#8230;]</p>\n",
+        "protected": false
+      },
+      "author": 8,
+      "featured_media": 2553,
+      "categories": [
+        9
+      ],
+      "tags": []
+    },
+    {
+      "id": 2545,
+      "date_gmt": "2024-08-15T16:12:53",
+      "modified_gmt": "2024-08-15T16:14:25",
+      "slug": "2545-2",
+      "status": "publish",
+      "type": "post",
+      "link": "https://lcd.exactas.uba.ar/2545-2/",
+      "title": {
+        "rendered": "D\u00c1TAME! las charlas de LCD &#8211; Enzo Tagliazucchi &#8211; Viernes 16/8 17hs"
+      },
+      "content": {
+        "rendered": "<pre class=\"moz-quote-pre\">Vuelven las clases y vuelve D\u00c1TAME! En horario especial de las 17hs.\r\n\r\nEl encuentro ser\u00e1 este viernes 16/8 en el aula 1402 del Edificio 0+Infinito. Esta vez, la charla estar\u00e1 a cargo de Enzo Tagliazucchi,\r\npara retomar su charla de 2023 un a\u00f1o despu\u00e9s.\r\n\r\n\u00bfPuede existir la conciencia artificial? \r\n\r\nSobre la charla \r\n  En los \u00faltimos a\u00f1os, la inteligencia artificial pas\u00f3 del \u00e1mbito acad\u00e9mico hacia la vida cotidiana. La idea de que las computadoras pueden imitar nuestras facultades cognitivas es obvia para cualquier\r\npersona que tenga interacciones con ellas. Sin embargo, la cognici\u00f3n humana suele estar acompa\u00f1ada de experiencias subjetivas en primera persona. \u00bfSucede o puede suceder lo mismo para el caso de las\r\ncomputadoras? \u00bfTiene sentido hablar de \"conciencia artificial\", o es la conciencia una propiedad exclusiva de los sistemas vivos? Esta es una versi\u00f3n actualizada de mi charla de hace aproximadamente un a\u00f1o atr\u00e1s, en la que voy a presentar argumentos similares, pero adem\u00e1s algunos resultados emp\u00edricos que se publicaron en los \u00faltimos meses. \r\n\r\n Sobre Enzo \r\n\r\nEnzo Tagliazucchi es Licenciado en F\u00edsica (FCEyN, UBA), Doctor en neurociencias (Universidad de Frankfurt), tuvo cargos como investigador en el Instituto del Cerebro (Par\u00eds) y el Instituto de Neurociencias de\r\nHolanda (Amsterdam) y desde 2017 es Investigador del CONICET. Adem\u00e1s es profesor de Exactas, donde ocasionalmente dicta la materia Laboratorio\r\nde datos y se divierte mucho. Dirige el Laboratorio de Neurociencia Cognitiva Computacional en el INFINA (CONICET) donde se investigan las\r\nbases cerebrales de la conciencia y la cognici\u00f3n humana desde una perspectiva inspirada en la ciencia de datos, el aprendizaje autom\u00e1tico, y los sistemas din\u00e1micos. \r\n\r\n Consultas: <a class=\"moz-txt-link-abbreviated\" href=\"mailto:info.lcd@exactas.uba.ar\">info.lcd@exactas.uba.ar</a> \r\n\r\n Sobre \u00a1D\u00c1TAME! \r\n\r\nEste ciclo de charlas busca simult\u00e1neamente \r\n\r\n- Ser un lugar de encuentro entre todos/as los/as que nos sentimos cercanos a LCD ya sea por ser estudiantes de la carrera o carrera cercanas, docentes, investigadores/as interesados/as o simplemente\r\namigos/as de LCD.\r\n\r\n- Ofrecer a estudiantes de la carrera un panorama amplio de posibles caminos que puede recorrer un/a especialista en ciencias de datos. \r\n\r\n- Exponer a estudiantes de LCD a importantes referentes de la disciplina que trabajan en diversos \u00e1mbitos (investigaci\u00f3n cient\u00edfica, empresas, organismos estatales, ONGs, etc. ) \r\n\r\n- Aprender un mont\u00f3n de cosas sobre datos. Qu\u00e9 tipo de problemas se pueden resolver con ellos y cu\u00e1les no, qu\u00e9 precauciones debemos tener, qu\u00e9 desaf\u00edos afronta la disciplina y mucho m\u00e1s. \r\n\r\n- Evidenciar la diversidad de disciplinas que confluyen en esta carrera y experimentar c\u00f3mo interact\u00faan. \r\n\r\n- Compartir un buen rato, un viernes a la tarde, una vez por mes. \r\n\r\nEst\u00e1 destinado principalmente a estudiantes de la carrera, pero todas/os somos bienvenidas/os. \r\n\r\nNos juntamos el 3er. viernes de cada mes a las 16hs.\r\n\r\n\u00a1Las y los esperamos!</pre>\n",
+        "protected": false
+      },
+      "excerpt": {
+        "rendered": "<p>Vuelven las clases y vuelve D\u00c1TAME! En horario especial de  [&#8230;]</p>\n",
+        "protected": false
+      },
+      "author": 8,
+      "featured_media": 2546,
+      "categories": [
+        13,
+        9
+      ],
+      "tags": []
+    },
+    {
+      "id": 2540,
+      "date_gmt": "2024-07-29T17:43:58",
+      "modified_gmt": "2024-07-29T17:44:57",
+      "slug": "encuentro-de-tesistas-directores-para-la-licenciatura-en-ciencias-de-datos-julio-2024",
+      "status": "publish",
+      "type": "post",
+      "link": "https://lcd.exactas.uba.ar/encuentro-de-tesistas-directores-para-la-licenciatura-en-ciencias-de-datos-julio-2024/",
+      "title": {
+        "rendered": "Encuentro de Tesistas-Directores  para la Licenciatura en Ciencias de Datos (Julio 2024)"
+      },
+      "content": {
+        "rendered": "<div class=\"video-shortcode\"><iframe title=\"Encuentro Tesistas-Directores para la Licenciatura en Ciencias de Datos\" width=\"1200\" height=\"675\" src=\"https://www.youtube.com/embed/CIjdWm6Qz4A?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe></div>\n",
+        "protected": false
+      },
+      "excerpt": {
+        "rendered": "",
+        "protected": false
+      },
+      "author": 8,
+      "featured_media": 1900,
+      "categories": [
+        9
+      ],
+      "tags": []
+    },
+    {
+      "id": 2536,
+      "date_gmt": "2024-07-23T14:10:30",
+      "modified_gmt": "2024-07-23T14:10:30",
+      "slug": "abrieron-las-aplicaciones-para-khipu-2025",
+      "status": "publish",
+      "type": "post",
+      "link": "https://lcd.exactas.uba.ar/abrieron-las-aplicaciones-para-khipu-2025/",
+      "title": {
+        "rendered": "Abrieron las aplicaciones para Khipu 2025"
+      },
+      "content": {
+        "rendered": "<p>Khipu 2025 se llevar\u00e1 a cabo en Santiago, Chile del 10 al 14 de marzo de 2025.</p>\n<p>Apertura de aplicaciones: 22 de julio de 2024</p>\n<p>Cierre de aplicaciones: 19 de agosto de 2024</p>\n<p>No hay tarifa de inscripci\u00f3n y habr\u00e1 numerosas becas disponibles para alojamiento y transporte.</p>\n<p>Estudiantes: tengan en cuenta que se les pedir\u00e1 que proporcionen una carta de recomendaci\u00f3n, as\u00ed que recuerden comunicarse con sus profesores pronto, ya que toman tiempo. Utilicen la siguiente plantilla para la carta: <a href=\"http://khipu.ai/letter-template\">khipu.ai/letter-template</a></p>\n<p>M\u00e1s informaci\u00f3n y aplicaciones en: <a href=\"https://khipu.ai/\">khipu.ai</a></p>\n",
+        "protected": false
+      },
+      "excerpt": {
+        "rendered": "<p>Khipu 2025 se llevar\u00e1 a cabo en Santiago, Chile del  [&#8230;]</p>\n",
+        "protected": false
+      },
+      "author": 5,
+      "featured_media": 2537,
+      "categories": [
+        9
+      ],
+      "tags": []
+    },
+    {
+      "id": 2524,
+      "date_gmt": "2024-07-22T14:12:23",
+      "modified_gmt": "2024-07-22T14:14:54",
+      "slug": "maraton-de-defensas-y-graduadas-os",
+      "status": "publish",
+      "type": "post",
+      "link": "https://lcd.exactas.uba.ar/maraton-de-defensas-y-graduadas-os/",
+      "title": {
+        "rendered": "Marat\u00f3n de defensas y graduadas/os"
+      },
+      "content": {
+        "rendered": "<p>Los d\u00edas 17 y 18 de julio tuvimos las defensas de tesis de la carrera correspondientes al 1er cuatrimestre 2024. Como establece el <a href=\"https://lcd.exactas.uba.ar/tesis-de-licenciatura/\">reglamento de tesis</a>, todos los cutrimestre tendremos un evento similar y las respectivas camadas de graduadas/os. Entre quienes defendieron en 2023 y en este primer cuatrimestre tenemos algo as\u00ed como la primera camada de la carrera (a algunos/as todav\u00eda les faltan algunas -peque\u00f1as- instancias para graduarse, pero vamos a contarlos igual). Aqu\u00ed est\u00e1n, estos/as son:</p>\n<p>Cecilia Bola\u00f1os</p>\n<p>Rocco Di Tella</p>\n<p><span class=\"gI\"><span data-hovercard-id=\"fridman.axel@gmail.com\" data-hovercard-owner-id=\"34\">Axel Fridman </span></span></p>\n<p>Agustin Gianolini</p>\n<p>Micaela Hirsch</p>\n<p>No\u00e9 Fabi\u00e1n Hsueh</p>\n<p>Giovanni Marraffini</p>\n<p><span class=\"gI\"><span data-hovercard-id=\"agusdeotazua@gmail.com\" data-hovercard-owner-id=\"34\">Agust\u00edn de Otazua</span></span></p>\n<p>Tomas Palazzo</p>\n<p><span class=\"gI\"><span data-hovercard-id=\"agusdeotazua@gmail.com\" data-hovercard-owner-id=\"34\">Nicol\u00e1s</span></span> Sawczuk</p>\n<p>Juan Ignacio Tollo</p>\n<p>Juan Wiznia</p>\n<p>Felicitaciones!</p>\n<p>Tambi\u00e9n les contamos que pueden contactarse con ellas/os escribiendo a <a href=\"mailto:graduadoslcd@googlegroups.com\">graduadoslcd@googlegroups.com</a>.</p>\n<p>M\u00e1s fotos de las defensas y graduaciones <a href=\"https://drive.google.com/drive/folders/1zKWz-EZogFpUzQMPSiC4QQBoM7qpgbHR\">ac\u00e1</a>.</p>\n",
+        "protected": false
+      },
+      "excerpt": {
+        "rendered": "<p>Los d\u00edas 17 y 18 de julio tuvimos las defensas  [&#8230;]</p>\n",
+        "protected": false
+      },
+      "author": 5,
+      "featured_media": 2525,
+      "categories": [
+        9
+      ],
+      "tags": []
+    },
+    {
+      "id": 2515,
+      "date_gmt": "2024-07-19T15:32:34",
+      "modified_gmt": "2024-07-19T15:36:17",
+      "slug": "lanzamiento-argendata",
+      "status": "publish",
+      "type": "post",
+      "link": "https://lcd.exactas.uba.ar/lanzamiento-argendata/",
+      "title": {
+        "rendered": "Lanzamiento Argendata"
+      },
+      "content": {
+        "rendered": "<p>Fundar lanz\u00f3 Argendata, un sitio de referencia con datos sobre temas fundamentales para la Argentina: cambio clim\u00e1tico, transici\u00f3n energ\u00e9tica, inflaci\u00f3n, pobreza, comercio exterior, desigualdad, miner\u00eda, salarios, desempleo y muchos m\u00e1s. Los datos est\u00e1n abiertos y descargables.</p>\n<p>\u00a1Por ac\u00e1 pod\u00e9s navegarlo!</p>\n<p>\ud83d\udd17<a href=\"https://argendata.fund.ar\">https://argendata.fund.ar</a></p>\n",
+        "protected": false
+      },
+      "excerpt": {
+        "rendered": "<p>Fundar lanz\u00f3 Argendata, un sitio de referencia con datos sobre  [&#8230;]</p>\n",
+        "protected": false
+      },
+      "author": 8,
+      "featured_media": 2518,
+      "categories": [
+        9
+      ],
+      "tags": []
+    },
+    {
+      "id": 2502,
+      "date_gmt": "2024-07-12T17:27:01",
+      "modified_gmt": "2024-07-12T18:44:25",
+      "slug": "defensas-de-tesis-lcd",
+      "status": "publish",
+      "type": "post",
+      "link": "https://lcd.exactas.uba.ar/defensas-de-tesis-lcd/",
+      "title": {
+        "rendered": "Defensas de tesis LCD"
+      },
+      "content": {
+        "rendered": "<div>Los d\u00edas 17 y 18/7 tendremos las defensas de tesis del 1er cuatrimestre 2024 en el Aula 1309 del edificio 0+infinito. El cronograma de las defensas es el siguiente:</div>\n<div></div>\n<div>\n<table dir=\"ltr\" border=\"1\" cellspacing=\"0\" cellpadding=\"0\">\n<colgroup>\n<col width=\"100\" />\n<col width=\"311\" />\n<col width=\"311\" />\n<col width=\"100\" />\n<col width=\"100\" />\n<col width=\"100\" />\n<col width=\"100\" />\n<col width=\"100\" /></colgroup>\n<tbody>\n<tr>\n<td>Hora</td>\n<td></td>\n<td>T\u00edtulo</td>\n<td></td>\n<td>Director/a</td>\n<td>Co-director/a</td>\n<td>Jurado 1</td>\n<td>Jurado 2</td>\n</tr>\n<tr>\n<td>Mi\u00e9rcoles 17</td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>10:00</td>\n<td>Cecilia Micaela Bola\u00f1os</td>\n<td>An\u00e1lisis de similaridad entre representaciones de palabras generadas por modelos de audio y de texto</td>\n<td>1309</td>\n<td>Pablo Brusco</td>\n<td>Leonardo Pepino</td>\n<td>Mar\u00eda Lara Gauder</td>\n<td>Guillermo Solovey</td>\n</tr>\n<tr>\n<td>11:30</td>\n<td>Agustin Andres Gianolini</td>\n<td>Efectos del cambio de tokenizador de GPT2 en la desambiguaci\u00f3n de palabras polis\u00e9micas</td>\n<td>1309</td>\n<td>Bruno Bianchi</td>\n<td></td>\n<td>Germ\u00e1n Rosati</td>\n<td>Guillermo Solovey</td>\n</tr>\n<tr>\n<td>14:30</td>\n<td>Juan Ignacio Tollo</td>\n<td>Fine-tuning con LoRA de Modelos Grandes de Lenguaje</td>\n<td>1309</td>\n<td>Luciana Ferrer</td>\n<td>Lautaro Estienne</td>\n<td>Francisco Valentini</td>\n<td>Guillermo Solovey</td>\n</tr>\n<tr>\n<td>16:00</td>\n<td>Tomas Alejandro Palazzo</td>\n<td>Predicci\u00f3n de la Velocidad del Habla con Modelos Preentrenados</td>\n<td>1309</td>\n<td>Pablo Riera</td>\n<td></td>\n<td>Gast\u00f3n Buj\u00eda</td>\n<td>Guillermo Solovey</td>\n</tr>\n<tr>\n<td>Jueves 18</td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>10:00</td>\n<td>Giovanni Franco Gabriel Marraffini</td>\n<td>Correspondencia temporal de procesamiento visual de est\u00edmulos r\u00e1pidos entre cerebro humano (EEG) y capas de un transformer de visi\u00f3n</td>\n<td>1309</td>\n<td>Enzo Tagliazucchi</td>\n<td>Eric Lutzow Holm</td>\n<td>Luz Bavassi</td>\n<td>Guillermo Solovey</td>\n</tr>\n<tr>\n<td>11:30</td>\n<td>Rocco Di Tella</td>\n<td>Teor\u00eda de B\u00fasqueda \u00d3ptima y Comportamiento Visual Humano</td>\n<td>1309</td>\n<td>Gabriel Kreiman</td>\n<td>Enzo Tagliazucchi</td>\n<td>Rafael Nicol\u00e1s Gaggion Zulpo</td>\n<td>Guillermo Solovey</td>\n</tr>\n<tr>\n<td>14:30</td>\n<td>No\u00e9 Fabi\u00e1n Hsueh</td>\n<td>Segmentaci\u00f3n de tumores cerebrales mediante t\u00e9cnicas de deep learning</td>\n<td>virtual</td>\n<td>Enzo Ferrante</td>\n<td>Diego Slezak</td>\n<td>Joaquin Ezequiel Gonzalez</td>\n<td>Guillermo Solovey</td>\n</tr>\n</tbody>\n</table>\n</div>\n<div></div>\n<div></div>\n",
+        "protected": false
+      },
+      "excerpt": {
+        "rendered": "<p>Los d\u00edas 17 y 18/7 tendremos las defensas de tesis  [&#8230;]</p>\n",
+        "protected": false
+      },
+      "author": 8,
+      "featured_media": 2504,
+      "categories": [
+        9
+      ],
+      "tags": []
+    },
+    {
+      "id": 2492,
+      "date_gmt": "2024-07-03T19:45:11",
+      "modified_gmt": "2024-07-03T19:46:42",
+      "slug": "fronteras-fisicas-e-imaginadas-dentro-de-una-ciudad",
+      "status": "publish",
+      "type": "post",
+      "link": "https://lcd.exactas.uba.ar/fronteras-fisicas-e-imaginadas-dentro-de-una-ciudad/",
+      "title": {
+        "rendered": "Fronteras f\u00edsicas e imaginadas dentro de una ciudad"
+      },
+      "content": {
+        "rendered": "<p><strong>Resumen.</strong> La segregaci\u00f3n es la concentraci\u00f3n de individuos por diferencias \u00e9tnicas, socioecon\u00f3micas, culturales. No es un problema en s\u00ed, sino que es un fen\u00f3meno, con ventajas y desventajas. El problema es cuando se asocia a inequidades, estigmatizaci\u00f3n y desigualdad en las oportunidades. Describirlo es \u00fatil para enfocar mejores pol\u00edticas p\u00fablicas para disminuir su impacto negativo. Este plan se enmarca en un proyecto que busca estudiar un aspecto de la segregaci\u00f3n: la existencia de fronteras f\u00edsicas e imaginadas en una ciudad. El objetivo espec\u00edfico de esta tesis es combinar resultados de una encuesta realizada en la ciudad de Buenos Aires, conocimiento experto y datos abiertos, para comenzar a describir las fronteras f\u00edsicas e imaginadas dentro de la ciudad de Buenos Aires. El trabajo es parte de un proyecto de colaboraci\u00f3n con investigadores del \u00e1rea de Cultura y Territorio de FLACSO y fue avalado como un proyecto de Extensi\u00f3n del Ministerio de Educaci\u00f3n de la Naci\u00f3n. Se usar\u00e1n encuestas ya realizadas dentro del proyecto Imaginarios Urbanos. Los estudios sobre imaginarios urbanos buscan rescatar y reconocer las ciudades desde las percepciones de las personas.</p>\n<p><strong>Palabras clave.</strong> Segregaci\u00f3n residencial, ciencia de ciudades, imaginarios urbanos.</p>\n<p><strong>Conocimientos deseables.</strong> Python (numpy, pandas, geopandas, plotly, seaborn), procesamiento y tratamiento de texto, redes complejas algo b\u00e1sico.</p>\n<p><strong>\u00bfQu\u00e9 podr\u00eda aprender quien realice esta tesis? &#8211;</strong> An\u00e1lisis de datos de encuestas, visualizaci\u00f3n, algunas herramientas de GIS (red de calles, pol\u00edgonos, elementos de OpenStreetMap).</p>\n<p><strong>Direcci\u00f3n de la tesis</strong><br />\nCaridi, In\u00e9s<br />\nInstituto de C\u00e1lculo FCEN UBA y CONICET<br />\nContacto: inescaridi@gmail.com</p>\n<p><strong>Descargar PDF</strong><br />\n<a  data-e-Disable-Page-Transition=\"true\" class=\"download-link\" title=\"\" href=\"https://lcd.exactas.uba.ar/download/2483/?tmstv=1777052100\" rel=\"nofollow\" id=\"download-link-2483\" data-redirect=\"false\" >\n\tFronteras f\u00edsicas e imaginadas dentro de una ciudad</a>\n</p>\n",
+        "protected": false
+      },
+      "excerpt": {
+        "rendered": "<p>Resumen. La segregaci\u00f3n es la concentraci\u00f3n de individuos por diferencias  [&#8230;]</p>\n",
+        "protected": false
+      },
+      "author": 8,
+      "featured_media": 0,
+      "categories": [
+        32
+      ],
+      "tags": []
+    },
+    {
+      "id": 2490,
+      "date_gmt": "2024-07-03T19:42:44",
+      "modified_gmt": "2024-07-03T19:42:44",
+      "slug": "uso-de-datos-de-genomica-funcional-y-redes-regulatorias-de-la-expresion-genica-para-analizar-la-heterogeneidad-de-celulas-tumorales-mamarias",
+      "status": "publish",
+      "type": "post",
+      "link": "https://lcd.exactas.uba.ar/uso-de-datos-de-genomica-funcional-y-redes-regulatorias-de-la-expresion-genica-para-analizar-la-heterogeneidad-de-celulas-tumorales-mamarias/",
+      "title": {
+        "rendered": "Uso de datos de gen\u00f3mica funcional y redes regulatorias de la expresi\u00f3n g\u00e9nica para analizar la heterogeneidad de c\u00e9lulas tumorales mamarias"
+      },
+      "content": {
+        "rendered": "<p><strong>Resumen.</strong> El tratamiento el c\u00e1ncer de mama triple negativo (TNBC) representa un gran desaf\u00edo en oncolog\u00eda debido a su extensa heterogeneidad molecular, histol\u00f3gica y cl\u00ednica. Sin embargo, los avances recientes en la secuenciaci\u00f3n de RNA (scRNA-seq) y de mapeo de elementos regulatorios activos (scATAC-seq) en c\u00e9lulas \u00fanicas proporcionan informaci\u00f3n sin precedentes sobre la heterogeneidad celular asociada a cancer. La integraci\u00f3n de los datos gen\u00f3micos en el contexto de redes de regulaci\u00f3n de la expression g\u00e9nica permite la inferencia de relaciones regulatorias, pudiendo informarnos sobre c\u00f3mo la desregulaci\u00f3n de determinados genes contribuye a la heterogeneidad y progresi\u00f3n de la enfermedad. Por ejemplo, nuestros resultados sugieren un rol del complejo remodelador de la cromatina BAF en las caracter\u00edsticas de malignidad el TNBC, lo que lleva a preguntarnos sobre las posibles consecuencias de la presencia de heterogeneidad en los componentes de este complejo en para la biolog\u00eda de este tipo de tumores.</p>\n<p><strong>Palabras clave.</strong> Gen\u00f3mica, c\u00e1ncer, scRNA-seq, redes regulatorias.</p>\n<p><strong>Conocimientos deseables.</strong> R y/o Python, inferencia estad\u00edstica.</p>\n<p><strong>\u00bfQu\u00e9 podr\u00eda aprender quien realice esta tesis? &#8211;</strong> La/el estudiante se familiarizar\u00e1 con el manejo de datos gen\u00f3micos, tanto en bulk como en c\u00e9lulas \u00fanicas, a integrarlos y a realizar extracci\u00f3n de conocimiento biolog\u00edco de los mismos aprovechando la existencia de numerosas bases de datos. Tambi\u00e9n podr\u00e1 aprender la inferencia de redes regulatorias por ingenier\u00eda reversa a partir de datos gen\u00f3micos, as\u00ed como su uso para analizar el funcionamiento de las c\u00e9lulas.</p>\n<p><strong>Direcci\u00f3n de la tesis</strong><br />\nSchor, Ignacio<br />\nIFIBYBNE &#8211; DFBMC (FCEN-UBA)<br />\nContacto: naschor@gmail.com</p>\n<p><strong>Descargar PDF</strong><br />\n<a  data-e-Disable-Page-Transition=\"true\" class=\"download-link\" title=\"\" href=\"https://lcd.exactas.uba.ar/download/2480/?tmstv=1777052100\" rel=\"nofollow\" id=\"download-link-2480\" data-redirect=\"false\" >\n\tUso de datos de gen\u00f3mica funcional y redes regulatorias de la expresi\u00f3n g\u00e9nica para analizar la heterogeneidad de c\u00e9lulas tumorales mamarias</a>\n</p>\n",
+        "protected": false
+      },
+      "excerpt": {
+        "rendered": "<p>Resumen. El tratamiento el c\u00e1ncer de mama triple negativo (TNBC)  [&#8230;]</p>\n",
+        "protected": false
+      },
+      "author": 8,
+      "featured_media": 0,
+      "categories": [
+        32
+      ],
+      "tags": []
+    },
+    {
+      "id": 2485,
+      "date_gmt": "2024-07-03T19:27:24",
+      "modified_gmt": "2024-07-03T19:27:24",
+      "slug": "modelos-y-soluciones-para-la-restauracion-de-imagenes-fuera-de-foco",
+      "status": "publish",
+      "type": "post",
+      "link": "https://lcd.exactas.uba.ar/modelos-y-soluciones-para-la-restauracion-de-imagenes-fuera-de-foco/",
+      "title": {
+        "rendered": "Modelos y soluciones para la restauraci\u00f3n de im\u00e1genes fuera de foco"
+      },
+      "content": {
+        "rendered": "<p><strong>Resumen.</strong> La restauraci\u00f3n de im\u00e1genes fuera de foco es un \u00e1rea de investigaci\u00f3n crucial en el campo de las ciencias de datos y la visi\u00f3n por computadora. Esta tarea es esencial para mejorar la calidad de im\u00e1genes en diversas aplicaciones, desde la fotograf\u00eda y videograf\u00eda hasta la medicina y la vigilancia. El problema se dificulta cuando no se dispone de informaci\u00f3n sobre la cantidad de desenfoque, lo que hace necesario el desarrollo de m\u00e9todos de resoluci\u00f3n avanzados y robustos. El proyecto propuesto tiene como objetivo desarrollar modelos y algoritmos que permitan restaurar im\u00e1genes desenfocadas sin conocer a priori el operador de desenfoque.</p>\n<p><strong>Palabras clave.</strong> Procesamiento de im\u00e1genes, m\u00ednimos cuadrados no lineales separables, problemas inversos.</p>\n<p><strong>Conocimientos deseables.</strong> Buen manejo del lenguaje de programaci\u00f3n Python y \u00e1lgebra lineal.</p>\n<p><strong>\u00bfQu\u00e9 podr\u00eda aprender quien realice esta tesis? &#8211;</strong> Quien participe en este proyecto tendr\u00e1n la oportunidad de: 1) aprender y aplicar t\u00e9cnicas avanzadas de procesamiento de im\u00e1genes, optimizaci\u00f3n, y m\u00e9todos num\u00e9ricos para la soluci\u00f3n de problemas inversos y 2) contribuir a la creaci\u00f3n de soluciones pr\u00e1cticas que pueden tener un impacto significativo en m\u00faltiples industrias. Se estar\u00e1 sumando a un proyecto de investigaci\u00f3n en desarrollo donde se proponen nuevos modelos y m\u00e9todos iterativos de optimizaci\u00f3n para resolver problemas de m\u00ednimos cuadrados no lineales separables relacionados a problemas inversos donde los datos est\u00e1n contaminados con ruido. Aprender\u00e1 tambi\u00e9n a desarrollar e implementar algoritmos eficientes usando la transformada de Fourier.</p>\n<p><strong>Direcci\u00f3n de la tesis</strong><br />\nJeronimo, Gabriela<br />\nDepartamento de Matem\u00e1tica, FCEN-UBA &amp; IMAS, CONICET-UBA<br />\nContacto: jeronimo@dm.uba.ar</p>\n<p><strong>Descargar PDF</strong><br />\n<a  data-e-Disable-Page-Transition=\"true\" class=\"download-link\" title=\"\" href=\"https://lcd.exactas.uba.ar/download/2474/?tmstv=1777052100\" rel=\"nofollow\" id=\"download-link-2474\" data-redirect=\"false\" >\n\tModelos y soluciones para la restauraci\u00f3n de im\u00e1genes fuera de foco</a>\n</p>\n",
+        "protected": false
+      },
+      "excerpt": {
+        "rendered": "<p>Resumen. La restauraci\u00f3n de im\u00e1genes fuera de foco es un  [&#8230;]</p>\n",
+        "protected": false
+      },
+      "author": 8,
+      "featured_media": 0,
+      "categories": [
+        32
+      ],
+      "tags": []
+    },
+    {
+      "id": 2472,
+      "date_gmt": "2024-06-27T17:06:52",
+      "modified_gmt": "2024-06-27T17:06:52",
+      "slug": "desarrollo-de-una-base-de-datos-anotada-de-imagenes-citologicas-de-papanicolaou",
+      "status": "publish",
+      "type": "post",
+      "link": "https://lcd.exactas.uba.ar/desarrollo-de-una-base-de-datos-anotada-de-imagenes-citologicas-de-papanicolaou/",
+      "title": {
+        "rendered": "Desarrollo de una base de datos anotada de im\u00e1genes citol\u00f3gicas de Papanicolaou"
+      },
+      "content": {
+        "rendered": "<p><strong>Resumen.</strong> Este plan se enmarca en un proyecto m\u00e1s general para automatizar el diagn\u00f3stico de c\u00e1ncer de cuello uterino. Para entrenar los modelos de AI, es esencial desarrollar una base de datos de im\u00e1genes anotadas que permita identificar las c\u00e9lulas o regiones patol\u00f3gicas. Esta tarea es realizada por personal especializado, por lo que este plan contempla una interacci\u00f3n con personal m\u00e9dico colaborador en este proyecto. En este plan se propone trabajar en la confecci\u00f3n de una base de datos anotada que contemple el acuerdo inter-anotador como parte fundamental de la metadata. En este proyecto proponemos las siguientes tareas para mejorar y escalar el proceso actual: 1. Poner a punto un sistema de organizaci\u00f3n de las im\u00e1genes anotadas con el fin de confeccionar una base de datos de uso p\u00fablico. 2. Levantar la base de datos en un servidor de la FCEN-UBA.</p>\n<p><strong>Palabras clave.</strong> Base de Datos &#8211; Anatom\u00eda Patol\u00f3gica PAPs &#8211; Acuerdo Inter-Anotador &#8211; Im\u00e1genes Citol\u00f3gicas.</p>\n<p><strong>Conocimientos deseables.</strong> Manejo de Bases de Datos. Desarrollo web.</p>\n<p><strong>\u00bfQu\u00e9 podr\u00eda aprender quien realice esta tesis? &#8211;</strong> El/La estudiante formar\u00e1 parte de un equipo interdisciplinario que combina expertises de las Cs. de la Computaci\u00f3n, Cs. de Datos y Medicina. Trabajar\u00e1 con<br />\nim\u00e1genes de relevancia m\u00e9dica en un problema de aplicaci\u00f3n directa a la Salud P\u00fablica.</p>\n<p><strong>Direcci\u00f3n de la tesis</strong><br />\nBruno, Luciana<br />\nInstituto de C\u00e1lculo, FCEN, UBA-CONICET<br />\nContacto: lucianabrun@gmail.com</p>\n<p><strong>Descargar PDF</strong><br />\n<a  data-e-Disable-Page-Transition=\"true\" class=\"download-link\" title=\"\" href=\"https://lcd.exactas.uba.ar/download/2458/?tmstv=1777052100\" rel=\"nofollow\" id=\"download-link-2458\" data-redirect=\"false\" >\n\tDesarrollo de una base de datos anotada de im\u00e1genes citol\u00f3gicas de Papanicolaou</a>\n</p>\n",
+        "protected": false
+      },
+      "excerpt": {
+        "rendered": "<p>Resumen. Este plan se enmarca en un proyecto m\u00e1s general  [&#8230;]</p>\n",
+        "protected": false
+      },
+      "author": 8,
+      "featured_media": 0,
+      "categories": [
+        32
+      ],
+      "tags": []
+    },
+    {
+      "id": 2470,
+      "date_gmt": "2024-06-27T17:04:51",
+      "modified_gmt": "2024-06-27T17:04:51",
+      "slug": "redes-convolucionales-en-grafos-con-aplicacion-al-problema-de-reposicionamiento-de-farmacos",
+      "status": "publish",
+      "type": "post",
+      "link": "https://lcd.exactas.uba.ar/redes-convolucionales-en-grafos-con-aplicacion-al-problema-de-reposicionamiento-de-farmacos/",
+      "title": {
+        "rendered": "Redes convolucionales en grafos con aplicaci\u00f3n al problema de reposicionamiento de f\u00e1rmacos"
+      },
+      "content": {
+        "rendered": "<p><strong>Resumen.</strong> El presente proyecto planea estudiar metodolog\u00edas que permitan extraer informaci\u00f3n de relevancia biom\u00e9dica a partir de la integraci\u00f3n de datos heterog\u00e9neos. As\u00ed, utilizaremos el abordaje de redes convolucionales montadas sobre grafos (Graph Convolutional Networks) para predecir nuevas posibles relaciones entre genes, enfermedades de origen gen\u00e9tico, dianas terap\u00e9uticas y f\u00e1rmacos. Utilizando redes quimio-gen\u00f3micas, es posible recomendar nuevos targets terap\u00e9uticos para drogas conocidas y ya aprobadas? Utilizando redes de asociaciones gen-enfermedad, es posible inferir nuevas asociaciones entre genes y enfermedades de base-hereditaria? Estas son algunas de las preguntas que nos interesan responder.</p>\n<p><strong>Palabras clave.</strong> Grafos de conocimiento, redes convolucionales en grafos, reposicionamiento de f\u00e1rmacos.</p>\n<p><strong>Conocimientos deseables.</strong> Conocimientos de python, libreria pytorch, conocimientos de R.</p>\n<p><strong>\u00bfQu\u00e9 podr\u00eda aprender quien realice esta tesis? &#8211;</strong> Manejo de redes complejas para integraci\u00f3n de datos, redes convolucionales, tareas de priorizacion en redes.</p>\n<p><strong>Direcci\u00f3n de la tesis</strong><br />\nChernomoretz, Ariel<br />\nDto Fisica, FCEN, UBA<br />\nContacto: ariel@df.uba.ar</p>\n<p><strong>Descargar PDF</strong><br />\n<a  data-e-Disable-Page-Transition=\"true\" class=\"download-link\" title=\"\" href=\"https://lcd.exactas.uba.ar/download/2455/?tmstv=1777052100\" rel=\"nofollow\" id=\"download-link-2455\" data-redirect=\"false\" >\n\tRedes convolucionales en grafos con aplicaci\u00f3n al problema de reposicionamiento de f\u00e1rmacos</a>\n</p>\n",
+        "protected": false
+      },
+      "excerpt": {
+        "rendered": "<p>Resumen. El presente proyecto planea estudiar metodolog\u00edas que permitan extraer  [&#8230;]</p>\n",
+        "protected": false
+      },
+      "author": 8,
+      "featured_media": 0,
+      "categories": [
+        32
+      ],
+      "tags": []
+    },
+    {
+      "id": 2468,
+      "date_gmt": "2024-06-27T17:02:08",
+      "modified_gmt": "2024-06-27T17:02:08",
+      "slug": "modelos-de-regresion-funcional-aplicaciones-inferencia-y-algoritmos-para-su-computo",
+      "status": "publish",
+      "type": "post",
+      "link": "https://lcd.exactas.uba.ar/modelos-de-regresion-funcional-aplicaciones-inferencia-y-algoritmos-para-su-computo/",
+      "title": {
+        "rendered": "Modelos de regresi\u00f3n funcional: aplicaciones, inferencia y algoritmos para su c\u00f3mputo"
+      },
+      "content": {
+        "rendered": "<p><strong>Resumen.</strong> En muchas aplicaciones, los datos observados provienen de fen\u00f3menos que pueden ser supuestos como curvas o funciones suaves m\u00e1s que como vectores finitos. El an\u00e1lisis de datos funcionales ha recibido notable atenci\u00f3n por su versatilidad y aplicabilidad en estos contextos. Aunque el modelo lineal funcional de respuesta escalar es una extensi\u00f3n natural del modelo lineal usual, puede resultar restrictivo para ciertas aplicaciones pr\u00e1cticas, y por eso se han desarrollado propuestas polin\u00f3micas para estos contextos. Por otro lado, los procedimientos estad\u00edsticos cl\u00e1sicos son muy sensibles al incumplimiento de las hip\u00f3tesis que los generaron (errores normales u observaciones equidistribu\u00eddas, entre otras). Los m\u00e9todos robustos, en cambio, tienen como objetivo permitir inferencias v\u00e1lidas cuando el modelo no se cumple exactamente y, al mismo tiempo, ser altamente eficientes bajo el modelo central. Por \u00faltimo, muchas de las rutinas que exigen los procedimientos funcionales han sido desarrolladas en librer\u00edas de python y R, aunque R concentra el mayor desarrollo del enfoque robusto. Este contexto permite tener persepectiva de algunos trabajos de tesis que podr\u00edan desarrollarse.</p>\n<p><strong>Palabras clave.</strong> Datos funcionales, Modelos de regresi\u00f3n funcional, Estimaci\u00f3n robusta, Implementaci\u00f3n de rutinas de an\u00e1lisis de datos funcionales en R.</p>\n<p><strong>Conocimientos deseables.</strong> An\u00e1lisis de datos funcionales, estad\u00edstica robusta, modelos lineales y modelo lineal generalizado, programaci\u00f3n en python y en R.</p>\n<p><strong>\u00bfQu\u00e9 podr\u00eda aprender quien realice esta tesis? &#8211;</strong> En la elaboraci\u00f3n de la tesis se aprenderan conocimientos b\u00e1sicos sobre t\u00e9cnicas de estimaci\u00f3n e inferencia en el contexto del an\u00e1lisis de datos funcionales. Dependiendo el tema elegido tambien se aprender\u00e1n nociones de estad\u00edstica robusta y de desarrollo e implementaci\u00f3n de rutinas en R.</p>\n<p><strong>Direcci\u00f3n de la tesis</strong><br />\nParada, Daniela<br />\nInstituto de C\u00e1lculo y CONICET<br />\nContacto: dparada@dm.uba.ar</p>\n<p><strong>Descargar PDF</strong><br />\n<a  data-e-Disable-Page-Transition=\"true\" class=\"download-link\" title=\"\" href=\"https://lcd.exactas.uba.ar/download/2452/?tmstv=1777052100\" rel=\"nofollow\" id=\"download-link-2452\" data-redirect=\"false\" >\n\tModelos de regresi\u00f3n funcional: aplicaciones, inferencia y algoritmos para su c\u00f3mputo</a>\n</p>\n<p>&nbsp;</p>\n",
+        "protected": false
+      },
+      "excerpt": {
+        "rendered": "<p>Resumen. En muchas aplicaciones, los datos observados provienen de fen\u00f3menos  [&#8230;]</p>\n",
+        "protected": false
+      },
+      "author": 8,
+      "featured_media": 0,
+      "categories": [
+        32
+      ],
+      "tags": []
+    },
+    {
+      "id": 2466,
+      "date_gmt": "2024-06-27T16:58:54",
+      "modified_gmt": "2024-06-27T16:58:54",
+      "slug": "herramientas-cuantitativas-para-el-analisis-de-datos-de-localizacion-de-proteinas-obtenidos-por-microscopia-de-superresolucion",
+      "status": "publish",
+      "type": "post",
+      "link": "https://lcd.exactas.uba.ar/herramientas-cuantitativas-para-el-analisis-de-datos-de-localizacion-de-proteinas-obtenidos-por-microscopia-de-superresolucion/",
+      "title": {
+        "rendered": "Herramientas cuantitativas para el an\u00e1lisis de datos de localizaci\u00f3n de prote\u00ednas obtenidos por microscop\u00eda de superresoluci\u00f3n"
+      },
+      "content": {
+        "rendered": "<p><strong>Resumen.</strong> Las taupat\u00edas son un grupo de enfermedades neurodegenerativas que presentan agregados de la prote\u00edna tau en diferentes regiones cerebrales. Recientes estudios han reportado una distribuci\u00f3n de tau en parches o \u201cislas\u201d a lo largo de la neurona. Sin embargo, la localizaci\u00f3n a nivel nanosc\u00f3pico sigue siendo desconocida. Debido a esto, se aplic\u00f3 la t\u00e9cnica de microscop\u00eda de superresoluci\u00f3n iPALM (Interferometric Photoactivation and Localization Microscopy) para determinar la distribuci\u00f3n de tau en neuronas derivadas de c\u00e9lulas madre humanas (i3Neurons). Esta t\u00e9cnica posee una resoluci\u00f3n de ~20 nm, superando ampliamente la resoluci\u00f3n de las microscop\u00edas \u00f3pticas est\u00e1ndares que se encuentran limitadas por difracci\u00f3n (~200 nm). Las im\u00e1genes obtenidas muestran una distribuci\u00f3n heterog\u00e9nea de la prote\u00edna, presente a lo largo de toda la neurona. El objetivo de este trabajo es determinar si su localizaci\u00f3n es distinta en diferentes regiones intracelulares, a partir del an\u00e1lisis cuantitativo de los datos suministrados por iPALM: matriz de posiciones de cada part\u00edcula (x,y,z).</p>\n<p><strong>Palabras clave.</strong> Neuronas-microscop\u00eda-clustering-localizaci\u00f3n.</p>\n<p><strong>Conocimientos deseables.</strong> T\u00e9cnicas de clustering y programaci\u00f3n b\u00e1sica.</p>\n<p><strong>\u00bfQu\u00e9 podr\u00eda aprender quien realice esta tesis? &#8211;</strong> Trabajar\u00e1 con datos reales (localizaci\u00f3n x,y,z de prote\u00ednas en neuronas) obtenidos con t\u00e9cnicas avanzadas de microscop\u00eda de un sistema de relevancia biom\u00e9dica. Esto le permitir\u00e1 conocer de primera mano las herramientas que utilizan bi\u00f3logo/as y biof\u00edsica/os y comprender las hip\u00f3tesis de trabajo en la investigaci\u00f3n b\u00e1sica. Tambi\u00e9n se enfrentar\u00e1 al desaf\u00edo de utilizar herramientas para el an\u00e1lisis cuantitativo y la visualizaci\u00f3n de los datos</p>\n<p><strong>Direcci\u00f3n de la tesis</strong><br />\nBruno, Luciana<br />\nInstituto de C\u00e1lculo<br />\nContacto: lucianabrun@gmail.com</p>\n<p><strong>Descargar PDF</strong><br />\n<a  data-e-Disable-Page-Transition=\"true\" class=\"download-link\" title=\"\" href=\"https://lcd.exactas.uba.ar/download/2449/?tmstv=1777052100\" rel=\"nofollow\" id=\"download-link-2449\" data-redirect=\"false\" >\n\tHerramientas cuantitativas para el an\u00e1lisis de datos de localizaci\u00f3n de prote\u00ednas obtenidos por microscop\u00eda de superresoluci\u00f3n</a>\n</p>\n",
+        "protected": false
+      },
+      "excerpt": {
+        "rendered": "<p>Resumen. Las taupat\u00edas son un grupo de enfermedades neurodegenerativas que  [&#8230;]</p>\n",
+        "protected": false
+      },
+      "author": 8,
+      "featured_media": 0,
+      "categories": [
+        32
+      ],
+      "tags": []
+    },
+    {
+      "id": 2464,
+      "date_gmt": "2024-06-27T16:56:12",
+      "modified_gmt": "2024-06-27T16:56:12",
+      "slug": "marcos-muestreo-y-aplicaciones-al-procesamiento-de-senales-e-imagenes",
+      "status": "publish",
+      "type": "post",
+      "link": "https://lcd.exactas.uba.ar/marcos-muestreo-y-aplicaciones-al-procesamiento-de-senales-e-imagenes/",
+      "title": {
+        "rendered": "Marcos, muestreo y aplicaciones al procesamiento de se\u00f1ales e im\u00e1genes"
+      },
+      "content": {
+        "rendered": "<p><strong>Resumen.</strong> La teor\u00eda de muestreo (sampling theory) se centra en la reconstrucci\u00f3n precisa de una se\u00f1al continua a partir de sus muestras discretas. El teorema de muestreo de Nyquist-Shannon establece que una se\u00f1al puede ser completamente reconstruida si se muestrea a una tasa que sea al menos el doble de su frecuencia m\u00e1xima. Los marcos (frames), por otro lado, son una generalizaci\u00f3n de las bases ortogonales en espacios de Hilbert y permiten una representaci\u00f3n redundante de se\u00f1ales, ofreciendo mayor flexibilidad y robustez frente al ruido y la p\u00e9rdida de datos. En el procesamiento de se\u00f1ales, los marcos se utilizan para mejorar la estabilidad y eficiencia de la reconstrucci\u00f3n de se\u00f1ales, permitiendo una representaci\u00f3n m\u00e1s eficiente y exacta en aplicaciones como la compresi\u00f3n de datos, la eliminaci\u00f3n de ruido y la transmisi\u00f3n de informaci\u00f3n. La combinaci\u00f3n de estas teor\u00edas permite el desarrollo de algoritmos robustos y eficientes para la manipulaci\u00f3n y an\u00e1lisis de se\u00f1ales en diversas aplicaciones tecnol\u00f3gicas.</p>\n<p><strong>Palabras clave.</strong> Muestreo, marcos, teorema de Shanon, wavelets.</p>\n<p><strong>Conocimientos deseables.</strong> An\u00e1lisis Avanzado. Espacios con producto interno (Hilbert).Transformada de Fourier.</p>\n<p><strong>\u00bfQu\u00e9 podr\u00eda aprender quien realice esta tesis? &#8211;</strong> Fundamentos de la teor\u00eda del muestreo y marcos y aplicaciones al procesamiento de se\u00f1ales.</p>\n<p><strong>Direcci\u00f3n de la tesis</strong><br />\nCabrelli, Carlos<br />\nDepartamento de matem\u00e1tica, FCEyN<br />\nContacto: carlos.cabrelli@gmail.com</p>\n<p><strong>Descargar PDF</strong><br />\n<a  data-e-Disable-Page-Transition=\"true\" class=\"download-link\" title=\"\" href=\"https://lcd.exactas.uba.ar/download/2443/?tmstv=1777052100\" rel=\"nofollow\" id=\"download-link-2443\" data-redirect=\"false\" >\n\tMarcos, muestreo y aplicaciones al procesamiento de se\u00f1ales e im\u00e1genes</a>\n</p>\n",
+        "protected": false
+      },
+      "excerpt": {
+        "rendered": "<p>Resumen. La teor\u00eda de muestreo (sampling theory) se centra en  [&#8230;]</p>\n",
+        "protected": false
+      },
+      "author": 8,
+      "featured_media": 0,
+      "categories": [
+        32
+      ],
+      "tags": []
+    },
+    {
+      "id": 2461,
+      "date_gmt": "2024-06-27T16:51:46",
+      "modified_gmt": "2024-06-27T16:52:16",
+      "slug": "deteccion-de-bloques-de-independencia",
+      "status": "publish",
+      "type": "post",
+      "link": "https://lcd.exactas.uba.ar/deteccion-de-bloques-de-independencia/",
+      "title": {
+        "rendered": "Detecci\u00f3n de bloques de Independencia"
+      },
+      "content": {
+        "rendered": "<p><strong>Resumen.</strong> El objetivo de esta plan es explorar diferentes propuestas para detectar bloques de independencia de un vector aleatorio. Es decir, estimar cuales son los subvectores cuyas distribuciones factorizan la conjunta. Esta es una herramienta fundamental para reducir dimensi\u00f3n, siendo que bloques independientes se modelan de manera independiente.</p>\n<p><strong>Palabras clave.</strong> Independencia, selecci\u00f3n de modelos, penalizaci\u00f3n</p>\n<p><strong>Conocimientos deseables.</strong> Segundo Ciclo completo de la carrera.</p>\n<p><strong>\u00bfQu\u00e9 podr\u00eda aprender quien realice esta tesis? &#8211;</strong> Modelos de Penalizaci\u00f3n para selecci\u00f3n de modelos.</p>\n<p><strong>Direcci\u00f3n de la tesis</strong><br />\nSued, Mariela<br />\nInstituto de C\u00e1lculo, FCEN, UBA. CONICET.<br />\nContacto: marielasued@gmail.com</p>\n<p><strong>Descargar PDF</strong><br />\n<a  data-e-Disable-Page-Transition=\"true\" class=\"download-link\" title=\"\" href=\"https://lcd.exactas.uba.ar/download/2440/?tmstv=1777052100\" rel=\"nofollow\" id=\"download-link-2440\" data-redirect=\"false\" >\n\tDetecci\u00f3n de bloques de Independencia</a>\n</p>\n",
+        "protected": false
+      },
+      "excerpt": {
+        "rendered": "<p>Resumen. El objetivo de esta plan es explorar diferentes propuestas  [&#8230;]</p>\n",
+        "protected": false
+      },
+      "author": 8,
+      "featured_media": 0,
+      "categories": [
+        32
+      ],
+      "tags": []
+    },
+    {
+      "id": 2437,
+      "date_gmt": "2024-06-25T19:35:59",
+      "modified_gmt": "2024-06-25T19:35:59",
+      "slug": "datame-las-charlas-de-lcd-enzo-ferrante-viernes-28-6-16hs",
+      "status": "publish",
+      "type": "post",
+      "link": "https://lcd.exactas.uba.ar/datame-las-charlas-de-lcd-enzo-ferrante-viernes-28-6-16hs/",
+      "title": {
+        "rendered": "D\u00c1TAME! las charlas de LCD &#8211; Enzo Ferrante &#8211; Viernes 28/6 16hs"
+      },
+      "content": {
+        "rendered": "<p>Este <strong>viernes 28/6 <em>D\u00e1tame</em>!</strong> El encuentro es a las <strong>16hs. en el aula 1402</strong> del Edificio <strong>0+Infinito.</strong></p>\n<p>Esta vez la charla estar\u00e1 a cargo de Enzo Ferrante (Instituto de Ciencias de la Computaci\u00f3n, UBA / CONICET). El t\u00edtulo de la charla es:<br />\n<strong>De AlexNet a ChatGPT: Un breve recorrido por la historia reciente del aprendizaje profundo</strong></p>\n<p><strong>Sobre la charla</strong></p>\n<p>En la \u00faltima d\u00e9cada, las redes neuronales profundas han revolucionado el campo de la inteligencia artificial, transformando tanto la industria como nuestra vida cotidiana. En esta charla, realizaremos un breve recorrido por la evoluci\u00f3n de estos modelos y los cambios de paradigma que fueron generando, comenzando con AlexNet en el mundo de las im\u00e1genes, hasta ChatGPT y los sucesivos modelos grandes de lenguaje que han convergido recientemente a la multimodalidad, representada hoy en d\u00eda por los grandes modelos de visi\u00f3n lenguaje.</p>\n<p><strong>Sobre Enzo</strong></p>\n<p>Enzo Ferrante estudi\u00f3 Ingenier\u00eda de Sistemas en la UNICEN (Tandil), se doctor\u00f3 en Ciencias de la Computaci\u00f3n en la Universit\u00e9 Paris-Saclay (CentraleSupelec) e INRIA en Par\u00eds (Francia), y realiz\u00f3 su posdoctorado en el Imperial College de Londres (Reino Unido). Fue alumno visitante en el CVGL Lab de la Universidad de Stanford, Fulbright Fellow en el A. Martinos Center for Biomedical Imaging (Massachusetts General Hospital &#8211; Harvard Medical School, 2021) en Boston, Profesor Visitante en la Universit\u00e9 Paris-Saclay en Francia (2023), entre otros. Regres\u00f3 a Argentina en 2017 como Investigador Repatriado del CONICET en el Instituto de Se\u00f1ales, Sistemas e Inteligencia Computacional, sinc(i), en Santa Fe, donde fue adem\u00e1s docente en la Universidad Nacional del Litoral. Recientemente, se incorpor\u00f3 al Laboratorio de Inteligencia Artificial Aplicada (LIAA) en el Instituto de Ciencias de la Computaci\u00f3n ICC (UBA-CONICET), y es actualmente profesor visitante en Exactas UBA. Enzo recibi\u00f3 el Premio Joven Investigador de la Academia Nacional de Ciencias de Argentina y el Premio Mercosur de Ciencia y Tecnolog\u00eda por sus contribuciones cient\u00edficas a la IA para la computaci\u00f3n de im\u00e1genes m\u00e9dicas. En 2022, recibi\u00f3 el Google Award for Inclusion Research por sus trabajos en sesgo algor\u00edtmico. Es profesor en la Maestr\u00eda en Ciencia de Datos de la Universidad de San Andr\u00e9s y la Maestr\u00eda en Management +Analytics de la Universidad Torcuato Di Tella. Sus intereses de investigaci\u00f3n abarcan las redes neuronales profundas y el an\u00e1lisis de im\u00e1genes biom\u00e9dicas, centr\u00e1ndose actualmente en mejorar la equidad y robustez de estos modelos, y trabajando en diversos problemas aplicados, con foco en la segmentaci\u00f3n de im\u00e1genes.</p>\n<p>Consultas: <a href=\"mailto:info.lcd@exactas.uba.ar\" target=\"_blank\" rel=\"noopener noreferrer\">info.lcd@exactas.uba.ar</a></p>\n<p>Sobre \u00a1D\u00c1TAME!</p>\n<p>Este ciclo de charlas busca simult\u00e1neamente:</p>\n<p>&#8211; Ser un lugar de encuentro entre todos/as los/as que nos sentimos cercanos a LCD ya sea por ser estudiantes de la carrera o carrera cercanas, docentes, investigadores/as interesados/as o simplemente amigos/as de LCD.</p>\n<p>&#8211; Ofrecer a estudiantes de la carrera un panorama amplio de posibles caminos que puede recorrer un/a especialista en ciencias de datos.</p>\n<p>&#8211; Exponer a estudiantes de LCD a importantes referentes de la disciplina que trabajan en diversos \u00e1mbitos (investigaci\u00f3n cient\u00edfica, empresas, organismos estatales, ONGs, etc.)</p>\n<p>&#8211; Aprender un mont\u00f3n de cosas sobre datos. Qu\u00e9 tipo de problemas se pueden resolver con ellos y cu\u00e1les no, qu\u00e9 precauciones debemos tener, qu\u00e9 desaf\u00edos afronta la disciplina y mucho m\u00e1s.</p>\n<p>&#8211; Evidenciar la diversidad de disciplinas que confluyen en esta carrera y experimentar c\u00f3mo interact\u00faan.</p>\n<p>&#8211; Compartir un buen rato, un viernes a la tarde, una vez por mes.</p>\n<p>Est\u00e1 destinado principalmente a estudiantes de la carrera, pero todas/os somos bienvenidas/os.</p>\n<p>Nos juntamos el 3er. viernes de cada mes a las 16hs.</p>\n<p>\u00a1Las y los esperamos!</p>\n",
+        "protected": false
+      },
+      "excerpt": {
+        "rendered": "<p>Este viernes 28/6 D\u00e1tame! El encuentro es a las 16hs.  [&#8230;]</p>\n",
+        "protected": false
+      },
+      "author": 8,
+      "featured_media": 2438,
+      "categories": [
+        13,
+        9
+      ],
+      "tags": []
+    },
+    {
+      "id": 2435,
+      "date_gmt": "2024-05-29T15:52:10",
+      "modified_gmt": "2024-05-29T15:52:17",
+      "slug": "encuentro-de-iniciacion-de-tesis",
+      "status": "publish",
+      "type": "post",
+      "link": "https://lcd.exactas.uba.ar/encuentro-de-iniciacion-de-tesis/",
+      "title": {
+        "rendered": "Encuentro de iniciaci\u00f3n de tesis"
+      },
+      "content": {
+        "rendered": "<p>Les compartimos el comunicado de la subcomisi\u00f3n de tesis de datos:</p>\n<p>El mi\u00e9rcoles 5/6 a las 10:00 hs (aula a confirmar) tendremos el encuentro de iniciaci\u00f3n de tesis. Las personas interesadas en realizar su tesis el pr\u00f3ximo cuatrimestre est\u00e1n especialmente invitadas a<br />\nasistir. Les pedimos que por favor completen el siguiente formulario: <a href=\"https://forms.gle/sZ58mi6MBxUDGT4H7\">https://forms.gle/sZ58mi6MBxUDGT4H7</a></p>\n<p>\u00a1Les esperamos!</p>\n<p>Subcomisi\u00f3n de tesis.</p>\n",
+        "protected": false
+      },
+      "excerpt": {
+        "rendered": "<p>Les compartimos el comunicado de la subcomisi\u00f3n de tesis de  [&#8230;]</p>\n",
+        "protected": false
+      },
+      "author": 8,
+      "featured_media": 1900,
+      "categories": [
+        9,
+        1
+      ],
+      "tags": []
+    },
+    {
+      "id": 2432,
+      "date_gmt": "2024-05-20T20:09:37",
+      "modified_gmt": "2024-05-20T20:09:37",
+      "slug": "estudios-de-modelos-cosmologicos-alternativos-con-redes-neuronales-artificiales",
+      "status": "publish",
+      "type": "post",
+      "link": "https://lcd.exactas.uba.ar/estudios-de-modelos-cosmologicos-alternativos-con-redes-neuronales-artificiales/",
+      "title": {
+        "rendered": "Estudios de modelos cosmol\u00f3gicos alternativos con redes neuronales artificiales"
+      },
+      "content": {
+        "rendered": "<p><strong>Resumen.</strong> En los \u00faltimos a\u00f1os, el desarrollo de m\u00e9todos basados en el aprendizaje autom\u00e1tico como nuevas herramientas para analizar datos y modelos f\u00edsicos se ha incrementado sustancialmente. Entre los m\u00e9todos que se han desarrollado, existe uno que permite obtener la soluci\u00f3n de sistemas diferenciales sin requerir el uso de los m\u00e9todos num\u00e9ricos tradicionales. Una de las principales ventajas del m\u00e9todo, es que se pueden obtener soluciones para cualquier valor de los par\u00e1metros del sistema diferencial. Esto resulta en una reducci\u00f3n significativa de los tiempos computacionales de los an\u00e1lisis estad\u00edsticos. El grupo de trabajo conformado por especialistas en machine learning y cosmolog\u00eda, ha aplicado recientemente este m\u00e9todo al escenario cosmol\u00f3gico. Se obtuvieron las soluciones de la din\u00e1mica de fondo de 4 modelos cosmol\u00f3gicos diferentes. Tambi\u00e9n se aplic\u00f3 el m\u00e9todo a la ecuaci\u00f3n que describe la formaci\u00f3n de estructuras como galaxias y c\u00famulos de galaxias utilizando este m\u00e9todo. La propuesta de trabajo para el/la estudiante consiste en calcular el error de la soluci\u00f3n obtenida con el m\u00e9todo de las redes neuronales de esta \u00faltima aplicaci\u00f3n (ecuaci\u00f3n de perturbaciones de la materia.)</p>\n<p><strong>Palabras clave.</strong> cosmolog\u00eda, redes neuronales, m\u00e9todos no supervisados, cadenas de Markov</p>\n<p><strong>Conocimientos deseables.</strong> Conocimientos b\u00e1sicos de python, libreria torch, manejo del idioma ingl\u00e9s</p>\n<p><strong>\u00bfQu\u00e9 podr\u00eda aprender quien realice esta tesis? &#8211;</strong> El estudiante aprender\u00e1 a utilizar la librer\u00eda Neurodiffeq, donde se ha implementado este m\u00e9todo que permite resolver sistemas de ecuaciones diferenciales y tambi\u00e9n integrales. Esta librer\u00eda ha sido desarrollada por el grupo del Prof. Pavlos Protopapas (co-director de la tesis). A su vez, participar\u00e1 del desarrollo de la librer\u00eda, en lo que concierne al c\u00e1lculo del error de las soluciones provistas por el m\u00e9todo de las redes neuronales.</p>\n<p><strong>Direcci\u00f3n de la tesis</strong><br />\nLandau, Susana<br />\nInstituto de F\u00edsica de Buenos Aires<br />\nContacto: landausu@gmail.com</p>\n<p><strong>Descargar PDF</strong><br />\n<a  data-e-Disable-Page-Transition=\"true\" class=\"download-link\" title=\"\" href=\"https://lcd.exactas.uba.ar/download/2429/?tmstv=1777052100\" rel=\"nofollow\" id=\"download-link-2429\" data-redirect=\"false\" >\n\tEstudios de modelos cosmol\u00f3gicos alternativos con redes neuronales artificiales</a>\n</p>\n",
+        "protected": false
+      },
+      "excerpt": {
+        "rendered": "<p>Resumen. En los \u00faltimos a\u00f1os, el desarrollo de m\u00e9todos basados  [&#8230;]</p>\n",
+        "protected": false
+      },
+      "author": 8,
+      "featured_media": 0,
+      "categories": [
+        32
+      ],
+      "tags": []
+    },
+    {
+      "id": 2427,
+      "date_gmt": "2024-05-20T20:05:39",
+      "modified_gmt": "2024-05-20T20:05:39",
+      "slug": "comparacion-de-algoritmos-de-asignacion-justa-de-bienes-indivisibles",
+      "status": "publish",
+      "type": "post",
+      "link": "https://lcd.exactas.uba.ar/comparacion-de-algoritmos-de-asignacion-justa-de-bienes-indivisibles/",
+      "title": {
+        "rendered": "Comparaci\u00f3n de Algoritmos de Asignaci\u00f3n justa de bienes indivisibles"
+      },
+      "content": {
+        "rendered": "<p><strong>Resumen.</strong> C\u00f3mo repartir un conjunto de bienes (art\u00edculos, no plata) entre un grupo de personas no es un problema sencillo. Para fijar ideas supongamos que las personas son un grupo de hermanos que heredan un conjunto de bienes. Cada hermano valora los bienes seg\u00fan su propia valoraci\u00f3n y se desea tener un m\u00e9todo que reparta los bienes de manera que todos queden satisfechos. Hay definidas distintas medidas de justicia y funciones de bienestar para medir cu\u00e1n buenos son los repartos y lo deseable es proponer algoritmos de reparto que se desempe\u00f1en bien respecto a estas medidas. El objetivo del trabajo ser\u00e1 proponer un m\u00e9todo de reparto y compararlo a trav\u00e9s de simulaciones con otros algoritmos conocidos, as\u00e9 como estudiar si el estimador propuesto cumple o no alguna de las medidas de justicia. Es un problema bastante similar al de repartir bienes, el de repartir un conjunto de tareas entre trabajadores, donde cada uno valora las tareas seg\u00fan su percepci\u00f3n. Tambi\u00e9n se estudiar\u00e1 este problema y se propondr\u00e1 un m\u00e9todo de reparto de tareas. Finalmente se crear\u00e1 una aplicaci\u00f3n Shiny para que los usuarios interesados puedan utilizar libremente esta herramienta en cualquiera de los tipos de reparto</p>\n<p><strong>Palabras clave.</strong> Distribuci\u00f3n Justa &#8211; Mecanismos de asignaci\u00f3n &#8211; Bienes Indivisibles &#8211; Simulaci\u00f3n de Monte Carlo</p>\n<p><strong>Conocimientos deseables.</strong> Programaci\u00f3n en R ; Manejo de Paquete Shiny</p>\n<p><strong>\u00bfQu\u00e9 podr\u00eda aprender quien realice esta tesis? &#8211;</strong> Aprender\u00e1 el estado del arte del problema de los repartos de bienes y tareas, las diversas nociones de justicia y cuantificadores de bienestar y conocer\u00e1 los diversos problemas abiertos que hay en el \u00e1rea. Tendr\u00e1 un buen entrenamiento en comprensi\u00f3n, descripci\u00f3n y programaci\u00f3n de algoritmos. Conocer\u00e1 como se aplican t\u00e9cnicas de grafos en ciertos algoritmos. Obtendr\u00e1 un buen manejo de Shiny.</p>\n<p><strong>Direcci\u00f3n de la tesis</strong><br />\nAlvarez, Agust\u00edn<br />\nUniversidad Nacional de General Sarmiento<br />\nContacto: agalvarez@campus.ungs.edu.ar</p>\n<p><strong>Descargar PDF</strong><br />\n<a  data-e-Disable-Page-Transition=\"true\" class=\"download-link\" title=\"\" href=\"https://lcd.exactas.uba.ar/download/2424/?tmstv=1777052100\" rel=\"nofollow\" id=\"download-link-2424\" data-redirect=\"false\" >\n\tComparaci\u00f3n de Algoritmos de Asignaci\u00f3n justa de bienes indivisibles</a>\n</p>\n",
+        "protected": false
+      },
+      "excerpt": {
+        "rendered": "<p>Resumen. C\u00f3mo repartir un conjunto de bienes (art\u00edculos, no plata)  [&#8230;]</p>\n",
+        "protected": false
+      },
+      "author": 8,
+      "featured_media": 0,
+      "categories": [
+        32
+      ],
+      "tags": []
+    },
+    {
+      "id": 2419,
+      "date_gmt": "2024-05-14T15:45:25",
+      "modified_gmt": "2024-05-14T15:45:55",
+      "slug": "mujeres-en-ciencias-de-datos",
+      "status": "publish",
+      "type": "post",
+      "link": "https://lcd.exactas.uba.ar/mujeres-en-ciencias-de-datos/",
+      "title": {
+        "rendered": "Mujeres en Ciencias de Datos"
+      },
+      "content": {
+        "rendered": "<p>\ud83d\udc77\u200d\u2640\ufe0f\ud83d\udc69\u200d\ud83d\udcbb Se viene la WiDS 2024 (Mujeres en Ciencia de Datos)!!</p>\n<p>\u27a1\ufe0f\u27a1\ufe0f La cita es el pr\u00f3ximo jueves 16-05, de 18.30hs a 20hs, en formato webinar, con inscripci\u00f3n previa en:\u00a0<a href=\"https://forms.gle/zdbi8Eo2eWVieShZ7\">https://forms.gle/zdbi8Eo2eWVieShZ7</a></p>\n<p>\u2764\ufe0f\u2728 Nos vemos en el encuentro!</p>\n<div>El pr\u00f3ximo 16 de mayo, de 18.30 a 20.00hs, y de manera online, la FIUBA nuevamente ser\u00e1 sede del evento\u00a0 internacional &#8220;Mujeres en Ciencia de Datos&#8221;, que a\u00f1o a a\u00f1o congrega a destacadas disertantes provenientes de diversas \u00e1reas del conocimiento relacionadas con esta tem\u00e1tica.</div>\n<div></div>\n<div>En esta edici\u00f3n el evento se realiza en cooperaci\u00f3n entre la FIUBA y la Facultad de Ciencias Exactas y Naturales UBA, abordando tem\u00e1ticas relacionadas con disciplinas impartidas en ambas facultades,\u00a0as\u00ed como con diversos desaf\u00edos de la actividad profesional.</div>\n<div></div>\n<div>WiDS Buenos Aires est\u00e1 organizado de forma independiente por la FIUBA para ser parte de la misi\u00f3n de aumentar la participaci\u00f3n de las mujeres en la ciencia de datos y presentar a mujeres destacadas que realizan un trabajo sobresaliente.</div>\n",
+        "protected": false
+      },
+      "excerpt": {
+        "rendered": "<p>\ud83d\udc77\u200d\u2640\ufe0f\ud83d\udc69\u200d\ud83d\udcbb Se viene la WiDS 2024 (Mujeres en Ciencia de  [&#8230;]</p>\n",
+        "protected": false
+      },
+      "author": 8,
+      "featured_media": 2420,
+      "categories": [
+        9
+      ],
+      "tags": []
+    },
+    {
+      "id": 2416,
+      "date_gmt": "2024-05-14T15:39:19",
+      "modified_gmt": "2024-05-14T16:44:34",
+      "slug": "datame-las-charlas-de-lcd-mariela-sued-viernes-17-5-16hs",
+      "status": "publish",
+      "type": "post",
+      "link": "https://lcd.exactas.uba.ar/datame-las-charlas-de-lcd-mariela-sued-viernes-17-5-16hs/",
+      "title": {
+        "rendered": "D\u00c1TAME! las charlas de LCD &#8211; Mariela Sued &#8211; Viernes 17/5 16hs"
+      },
+      "content": {
+        "rendered": "<div>\n<p>Este viernes 17/5 hay <strong>D\u00e1tame!</strong> El encuentro es a las 16hs. en el aula 1402 del Edificio 0+Infinito.</p>\n<p>Esta vez la charla estar\u00e1 a cargo de <strong>Mariela Sued (Instituto de C\u00e1lculo, Exactas-UBA)</strong>. El t\u00edtulo de la charla es</p>\n<p>&nbsp;</p>\n<p><strong>\u00bfYo estoy al derecho, dado vuelta est\u00e1s vos?<br />\n</strong></p>\n<p><strong> Sobre la charla</strong></p>\n<div>En un mundo dominado por la ciencia de datos, en esta charla proponemos hablar de matem\u00e1tica; de estad\u00edstica matem\u00e1tica. Vamos a hablar de \u00a0poblaci\u00f3n en t\u00e9rminos estadisticos, de resultados que se consiguen\u00a0 con l\u00e1piz y papel y, despues,\u00a0 vemos qu\u00e9 hacer con los datos.</div>\n</div>\n<div><strong><br />\nSobre Mariela</strong></div>\n<p>Se doctor\u00f3 en el \u00e1rea de probabilidades en el\u00a0 IMPA, Brasil. Es Profesora Asociada en el Instituto de C\u00e1lculo de la Facultad de\u00a0 Ciencias Exactas y Naturales, UBA e Investigadora Independiente en CONICET. Codirige la Carrera de Especializaci\u00f3n en Estad\u00edstica, FCEN, UBA.\u00a0Sus \u00e1reas de inter\u00e9s incluyen estad\u00edstica matem\u00e1tica (datos funcionales, selecci\u00f3n de modelos, robustez)\u00a0 y\u00a0 aplicaciones estad\u00edsticas (en colaboraci\u00f3n con investigadores de meteorolog\u00eda, qu\u00edmica, biolog\u00eda). Es fundadora\u00a0 de Exactas Programa. Dirige y participa en diferentes iniciativas destinadas a despertar vocaciones cient\u00edficas.</p>\n<p>&nbsp;</p>\n<div>Consultas: <a href=\"mailto:info.lcd@exactas.uba.ar\" target=\"_blank\" rel=\"noopener noreferrer\">info.lcd@exactas.uba.ar</a><br />\n<strong><br />\nSobre \u00a1D\u00c1TAME!</strong>Este ciclo de charlas busca simult\u00e1neamente:</p>\n<p>&#8211; Ser un lugar de encuentro entre todos/as los/as que nos sentimos cercanos a LCD ya sea por ser estudiantes de la carrera o carrera cercanas, docentes, investigadores/as interesados/as o simplemente amigos/as de LCD.</p>\n<p>&#8211; Ofrecer a estudiantes de la carrera un panorama amplio de posibles caminos que puede recorrer un/a especialista en ciencias de datos.</p>\n<p>&#8211; Exponer a estudiantes de LCD a importantes referentes de la disciplina que trabajan en diversos \u00e1mbitos (investigaci\u00f3n cient\u00edfica, empresas, organismos estatales, ONGs, etc. )</p>\n<p>&#8211; Aprender un mont\u00f3n de cosas sobre datos. Qu\u00e9 tipo de problemas se pueden resolver con ellos y cu\u00e1les no, qu\u00e9 precauciones debemos tener, qu\u00e9 desaf\u00edos afronta la disciplina y mucho m\u00e1s.</p>\n<p>&#8211; Evidenciar la diversidad de disciplinas que confluyen en esta carrera y experimentar c\u00f3mo interact\u00faan.</p>\n<p>&#8211; Compartir un buen rato, un viernes a la tarde, una vez por mes.</p>\n<p>Est\u00e1 destinado principalmente a estudiantes de la carrera, pero todas/os somos bienvenidas/os.</p>\n<p>Nos juntamos el 3er. viernes de cada mes a las 16hs.</p>\n<p>\u00a1Las y los esperamos!</p>\n</div>\n",
+        "protected": false
+      },
+      "excerpt": {
+        "rendered": "<p>Este viernes 17/5 hay D\u00e1tame! El encuentro es a las  [&#8230;]</p>\n",
+        "protected": false
+      },
+      "author": 8,
+      "featured_media": 2417,
+      "categories": [
+        13,
+        9
+      ],
+      "tags": []
+    },
+    {
+      "id": 2410,
+      "date_gmt": "2024-04-24T19:18:01",
+      "modified_gmt": "2024-04-25T18:24:32",
+      "slug": "convocatoria-uba-china-en-la-carrera-de-ciencias-de-datos",
+      "status": "publish",
+      "type": "post",
+      "link": "https://lcd.exactas.uba.ar/convocatoria-uba-china-en-la-carrera-de-ciencias-de-datos/",
+      "title": {
+        "rendered": "Convocatoria UBA-China en la carrera de Ciencias de Datos"
+      },
+      "content": {
+        "rendered": "<p>Queremos informarles que se encuentra abierta la Convocatoria 2024-2025 del<strong>\u00a0Programa de Cooperaci\u00f3n Acad\u00e9mica UBA \u2013 CHINA.</strong></p>\n<p>En esta oportunidad, la Convocatoria\u00a0contempla las siguientes modalidades:</p>\n<ul>\n<li>Intercambio de estudiantes</li>\n<li>Intercambio de docentes (incluyendo la invitaci\u00f3n de docentes de las universidades chinas)</li>\n<li>Estancias doctorales</li>\n</ul>\n<p>En la convocatoria completa encontrar\u00e1n, por cada modalidad, informaci\u00f3n relativa a instituciones chinas asociadas, requisitos para participar, financiamiento, selecci\u00f3n, y otras informaciones de relevancia. Es importante se\u00f1alar que cada modalidad cuenta con un\u00a0<strong>cronograma espec\u00edfico. La documentaci\u00f3n detallada en la convocatoria deber\u00e1 ser enviada a la Secretar\u00eda de Relaciones Institucionales de la FCEN (<a href=\"mailto:secdri@de.fcen.uba.ar\" target=\"_blank\" rel=\"noopener noreferrer\">secdri@de.fcen.uba.ar</a>) en las siguientes fechas:</strong></p>\n<p><strong>Cierre convocatoria estudiantes de grado: 29 de abril de 2024</strong></p>\n<p><strong>Cierre convocatoria docentes: 07 de junio de 2024</strong></p>\n<p><strong>Cierre convocatoria para estancias doctorales: 07 de junio de 2024</strong></p>\n<p><strong>La convocatoria completa est\u00e1 disponible en nuestra p\u00e1gina web:\u00a0<a href=\"https://internacionales.exactas.uba.ar/convocatorias-abiertas/\" target=\"_blank\" rel=\"noopener noreferrer\" data-saferedirecturl=\"https://www.google.com/url?q=https://internacionales.exactas.uba.ar/convocatorias-abiertas/&amp;source=gmail&amp;ust=1714072070246000&amp;usg=AOvVaw3dvGcjxV1Hp2TuVgKy9EoR\">https://internacionales.<wbr />exactas.uba.ar/convocatorias-<wbr />abiertas/</a></strong></p>\n",
+        "protected": false
+      },
+      "excerpt": {
+        "rendered": "<p>Queremos informarles que se encuentra abierta la Convocatoria 2024-2025 del\u00a0Programa  [&#8230;]</p>\n",
+        "protected": false
+      },
+      "author": 8,
+      "featured_media": 623,
+      "categories": [
+        9
+      ],
+      "tags": []
+    },
+    {
+      "id": 2407,
+      "date_gmt": "2024-04-24T15:48:16",
+      "modified_gmt": "2024-04-24T15:48:16",
+      "slug": "semana-de-la-matematica-y-de-las-ciencias-de-datos-2024",
+      "status": "publish",
+      "type": "post",
+      "link": "https://lcd.exactas.uba.ar/semana-de-la-matematica-y-de-las-ciencias-de-datos-2024/",
+      "title": {
+        "rendered": "Semana de la Matem\u00e1tica y de las Ciencias de Datos 2024"
+      },
+      "content": {
+        "rendered": "<p>Les recordamos que se est\u00e1 llevando a cabo la <b>Semana de la Matem\u00e1tica y de las Ciencias de Datos</b> del<b> 23 al 25 de abril en el Edificio Cero + Infinito y el Pabell\u00f3n I de Ciudad Universitaria.<br />\n</b></p>\n<ul>\n<li aria-level=\"1\"><b>Mi\u00e9rcoles 24/4\u00a0</b></li>\n</ul>\n<p>9:30hs.\u00a0<strong>Azar al azar</strong> con Pablo Groisman</p>\n<p>9:30hs.<strong>\u00a0\u00bfEs mejor llegar al aeropuerto con tiempo?</strong> con Carolina Mosquera</p>\n<p>10:30hs. <strong>Peinarse, pasear y otras formas de multiplicar</strong> con Hip\u00f3lito Treffinger</p>\n<p>11:30hs. <strong>Econom\u00eda, meteorolog\u00eda y f\u00fatbol: \u00bfPor qu\u00e9 es tan dif\u00edcil predecir con datos?</strong> con Walter Sosa Escudero</p>\n<p>14hs. <strong>Los n\u00fameros primos, preciosas joyas de la matem\u00e1tica: Curiosidades y problemas sin resolver</strong> con Pablo De N\u00e1poli</p>\n<p>15hs. <strong>Explorando los desaf\u00edos de crear un fixture con matem\u00e1tica y el Chat-GPT</strong> con Iv\u00e1n Monardo</p>\n<ul>\n<li aria-level=\"1\"><b>Jueves 25/4\u00a0</b></li>\n</ul>\n<p>9:30hs.\u00a0<strong>La matem\u00e1tica de los colores</strong> con Alicia Dickenstein</p>\n<p>9:30hs.<strong> Explorando el pasado para transformar el futuro: Ciencias de datos en la lucha contra el cambio clim\u00e1tico</strong> con Rodrigo Mart\u00edn</p>\n<p>10:30hs. <strong>La forma de los datos. El rol de la topolog\u00eda en el an\u00e1lisis de datos</strong> con Manuela Cerdeiro</p>\n<p>11:30hs. <strong>\u00bfQu\u00e9 puede hacer un matem\u00e1tico en la industria manufacturera?</strong> con Javier Etcheverry</p>\n<p>14hs. <strong>\u00bfPodemos ver el sonido?</strong> con Alejandra Aguilera</p>\n<p>15hs. <strong>Una introducci\u00f3n amigable a los \u00e1rboles de decisi\u00f3n y teor\u00eda de informaci\u00f3n</strong> con Osvaldo Santill\u00e1n</p>\n<h4><b>TALLERES\u00a0</b></h4>\n<p>Horarios: 10:30, 11:30, 14:00 y 15:00</p>\n<ul>\n<li>TALLER 1: Explorando la 1+1/2 dimensi\u00f3n</li>\n<li>TALLER 2: La matem\u00e1tica del origami</li>\n<li>TALLER 3: B\u00fasqueda del Tesoro</li>\n<li>TALLER 4: (Teor\u00eda de) Juegos</li>\n<li>TALLER 5: \u00bfLas computadoras tienen prejuicios?</li>\n<li>TALLER 6: \u00bfQu\u00e9 hacer ante una invasi\u00f3n zombi?</li>\n<li>TALLER 7: Adivinos de la suerte</li>\n<li>TALLER 8: \u00a1Otra vez polinomios!</li>\n<li>TALLER 9: La vuelta el\u00edptica</li>\n<li>TALLER 10: Rompecabezas infinitos y aperi\u00f3dicos</li>\n<li>TALLER 11: Episodio 1: Dise\u00f1o experimental</li>\n<li>TALLER 12: Arte matem\u00e1tico<br />\n<h4><b>VISITAS GUIADAS TEM\u00c1TICAS\u00a0</b></h4>\n<p>Horarios: 10:30, 11:30, 14:00 y 15:00</p>\n<ul>\n<li>VISITA 1: Visita ambiental por Ciudad Universitaria</li>\n<li>VISITA 2: Conoc\u00e9 Exactas. Visita guiada por sitios de inter\u00e9s de la Facultad a cargo del Equipo de Divulgaci\u00f3n.</li>\n<li>VISITA 3: Los n\u00fameros de la Biblioteca</li>\n</ul>\n<h4><b>ACTIVIDAD ALTERNATIVA</b></h4>\n<p>Mates con Mate y Datos. Horario: 10:30hs.</p>\n<h4><b>ESTACIONES INTERACTIVAS\u00a0</b></h4>\n<p>Recorrido donde encontrar\u00e1n demostraciones, experimentos, exhibiciones y juegos.</p>\n<p>Juegos matem\u00e1ticos |\u00a0Magia y matem\u00e1tica |\u00a0Juegos gigantes |\u00a0Mujeres y diversidades en Matem\u00e1tica y Datos |\u00a0El adivinador |\u00a0Los puentes de K\u00f6nigsberg |\u00a0Arte matem\u00e1tico |\u00a0Poliedros MATE-UBA |\u00a0Posters con problemas y aplicaciones matem\u00e1ticas |\u00a0Murales con problemas y aplicaciones matem\u00e1ticas |\u00a0La Computaci\u00f3n est\u00e1 en todas partes</p>\n<p>Turnos: 9:30, 10:30, 11:30, 13:00, 14:00 y 15:00</li>\n<li>M\u00e1s informaci\u00f3n en: <a href=\"https://exactas.uba.ar/popularizacion/semanas-de-las-ciencias/semanas-2024/#mateydatos\">https://exactas.uba.ar/popularizacion/semanas-de-las-ciencias/semanas-2024/#mateydatos</a></li>\n</ul>\n<p><b>\u00a0</b></p>\n<p>&nbsp;</p>\n",
+        "protected": false
+      },
+      "excerpt": {
+        "rendered": "<p>Les recordamos que se est\u00e1 llevando a cabo la Semana  [&#8230;]</p>\n",
+        "protected": false
+      },
+      "author": 8,
+      "featured_media": 2408,
+      "categories": [
+        9
+      ],
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "contract": "run_status.v1",
+  "run_id": "local_contract_check_20260424T161417Z",
+  "status": "completed_trusted",
+  "result": "pass",
+  "started_at": "2026-04-24T16:14:17Z",
+  "completed_at": "2026-04-24T16:14:17Z",
+  "promotion_performed": true,
+  "trusted": true,
+  "validation_ok": true,
+  "validation_report_path": "data/lcd/runs/local_contract_check_20260424T161417Z/reports/validation_report.json",
+  "drift_report_path": "data/lcd/runs/local_contract_check_20260424T161417Z/reports/drift_report.json",
+  "anomaly_directory": "data/lcd/runs/local_contract_check_20260424T161417Z/reports/anomalies",
+  "manifest_path": "data/lcd/runs/local_contract_check_20260424T161417Z/registry/run_manifest.json",
+  "notes": [
+    "Manifest generated from current raw and normalized outputs.",
+    "Validation passed; staged outputs were finalized and promoted as trusted."
+  ]
+}

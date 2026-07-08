@@ -1,0 +1,18 @@
+[
+  {
+    "slug": "inscripciones-2026",
+    "title": "Inscripciones 2026",
+    "source_url": "https://lcd.exactas.uba.ar/inscripciones-2026/",
+    "entity_type": "post",
+    "source_id": 901,
+    "content_hash": "sha256:a236720b61841cd321fbd8468bac67eceea691f462c81f462e0463e92a8fbebb"
+  },
+  {
+    "slug": "plan-de-estudios",
+    "title": "Plan de estudios",
+    "source_url": "https://lcd.exactas.uba.ar/plan-de-estudios/",
+    "entity_type": "page",
+    "source_id": 395,
+    "content_hash": "sha256:96efa8958cc0e1158130094a30230b8d7480c53279cbf730b83ef99a623b7171"
+  }
+]

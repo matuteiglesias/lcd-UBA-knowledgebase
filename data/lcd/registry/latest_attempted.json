@@ -1,7 +1,11 @@
 {
-  "run_id": "test_promotion_semantics",
-  "status": "completed_trusted",
-  "manifest_path": "data/lcd/runs/test_promotion_semantics/registry/run_manifest.json",
-  "run_status_path": "data/lcd/runs/test_promotion_semantics/registry/run_status.json",
-  "updated_at": "2026-03-20T02:55:57Z"
+  "run_id": "live_lcd_20260424T173509Z",
+  "status": "validation_failed",
+  "run_dir": "data/lcd/runs/live_lcd_20260424T173509Z",
+  "manifest_path": "data/lcd/runs/live_lcd_20260424T173509Z/registry/run_manifest.json",
+  "run_status_path": "data/lcd/runs/live_lcd_20260424T173509Z/registry/run_status.json",
+  "validation_report_path": "data/lcd/runs/live_lcd_20260424T173509Z/reports/validation_report.json",
+  "drift_report_path": "data/lcd/runs/live_lcd_20260424T173509Z/reports/drift_report.json",
+  "inventory_path": "data/lcd/runs/live_lcd_20260424T173509Z/registry/artifact_inventory.json",
+  "updated_at": "2026-04-24T17:35:09Z"
 }

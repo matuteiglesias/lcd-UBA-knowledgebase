@@ -1,0 +1,665 @@
+{
+  "entity": "post",
+  "page": 8,
+  "per_page": 25,
+  "source_url": "https://lcd.exactas.uba.ar/wp-json/wp/v2/posts?page=8&per_page=25&_fields=id%2Cdate_gmt%2Cmodified_gmt%2Cslug%2Cstatus%2Ctype%2Clink%2Ctitle%2Ccontent%2Cexcerpt%2Cauthor%2Cfeatured_media%2Cparent%2Cmenu_order%2Ccategories%2Ctags",
+  "headers": {
+    "x-wp-total": "240",
+    "x-wp-totalpages": "10"
+  },
+  "items": [
+    {
+      "id": 1375,
+      "date_gmt": "2022-04-25T13:16:22",
+      "modified_gmt": "2022-05-04T17:18:24",
+      "slug": "ya-podes-ver-el-video-de-la-charla-de-paula-petrone",
+      "status": "publish",
+      "type": "post",
+      "link": "https://lcd.exactas.uba.ar/ya-podes-ver-el-video-de-la-charla-de-paula-petrone/",
+      "title": {
+        "rendered": "Est\u00e1 disponible en Youtube el video de la charla de Paula Petrone"
+      },
+      "content": {
+        "rendered": "<p>Acced\u00e9 a este <a href=\"https://youtu.be/InxnqsjknnE\">link</a> para ver la charla que brind\u00f3 Paula Petrone en la segunda edici\u00f3n de charlas D\u00c1TAME! 2022.</p>\n<p>T\u00edtulo de la charla: &#8220;Con ciencia de datos es mejor predecir que curar&#8221;</p>\n<p>&nbsp;</p>\n",
+        "protected": false
+      },
+      "excerpt": {
+        "rendered": "<p>Acced\u00e9 a este link para ver la charla que brind\u00f3  [&#8230;]</p>\n",
+        "protected": false
+      },
+      "author": 7,
+      "featured_media": 1377,
+      "categories": [
+        9
+      ],
+      "tags": []
+    },
+    {
+      "id": 1368,
+      "date_gmt": "2022-04-11T19:50:09",
+      "modified_gmt": "2022-04-11T19:50:09",
+      "slug": "sebastian-ceria-en-infobae-los-datos-son-la-nueva-riqueza-porque-a-su-vez-producen-conocimiento",
+      "status": "publish",
+      "type": "post",
+      "link": "https://lcd.exactas.uba.ar/sebastian-ceria-en-infobae-los-datos-son-la-nueva-riqueza-porque-a-su-vez-producen-conocimiento/",
+      "title": {
+        "rendered": "Sebasti\u00e1n Ceria en Infobae: \u201cLos datos son la nueva riqueza porque, a su vez, producen conocimiento\u201d"
+      },
+      "content": {
+        "rendered": "<p><mark class=\"hl_yellow\">En el primer evento de la carrera de Ciencias de Datos en el nuevo edificio de Exactas, Sebasti\u00e1n Ceria, empresario y matem\u00e1tico argentino graduado en la UBA, dio una charla sobre la importancia de la recolecci\u00f3n, selecci\u00f3n y procesamiento de datos para luego convertirlos en conocimiento.</mark>\u00a0El t\u00edtulo de la charla fue elocuente:<b>\u00a0\u201cCon datos no alcanza. Sin datos no se puede\u201d.</b></p>\n<p><a href=\"https://www.infobae.com/educacion/2022/03/16/sebastian-ceria-los-datos-son-la-nueva-riqueza-porque-a-su-vez-producen-conocimiento/\">NOTA COMPLETA</a></p>\n<p>&nbsp;</p>\n",
+        "protected": false
+      },
+      "excerpt": {
+        "rendered": "<p>En el primer evento de la carrera de Ciencias de  [&#8230;]</p>\n",
+        "protected": false
+      },
+      "author": 7,
+      "featured_media": 1370,
+      "categories": [
+        9
+      ],
+      "tags": []
+    },
+    {
+      "id": 1364,
+      "date_gmt": "2022-04-08T19:03:59",
+      "modified_gmt": "2022-04-12T17:53:27",
+      "slug": "1364-2",
+      "status": "publish",
+      "type": "post",
+      "link": "https://lcd.exactas.uba.ar/1364-2/",
+      "title": {
+        "rendered": "Colaboradores para la Semana de la Matem\u00e1tica y las Ciencias de Datos"
+      },
+      "content": {
+        "rendered": "<p>Los d\u00edas martes 26, mi\u00e9rcoles 27, \u00a0jueves 28 y viernes 29 de abril se llevar\u00e1 a cabo la Semana de la Matem\u00e1tica y de las Ciencias de Datos 2022 en su versi\u00f3n normal con vuelta a la presencialidad.</p>\n<p>Les pedimos a todes les docentes del departamento, a graduades y estudiantes de las carreras de Matem\u00e1tica y de Ciencias de Datos que por favor consideren participar para colaborar y se inscriban completando el formulario disponible en:<br />\n<a title=\"\" href=\"https://forms.gle/CFpNdthAjn1ANjp19\" rel=\"noopener noreferrer\" data-link-type=\"custom\">https://forms.gle/CFpNdthAjn1ANjp19</a></p>\n<p>Hay tiempo hasta el mi\u00e9rcoles 13 de abril inclusive para anotarse. La semana de la matem\u00e1tica es la actividad de divulgaci\u00f3n m\u00e1s importante para el Departamento de Matem\u00e1tica y para que se desarrolle con \u00e9xito es necesaria la participaci\u00f3n de la mayor cantidad de personas para llevar a cabo las distintas actividades propuestas.</p>\n<p>Dentro de cada franja horaria habr\u00e1 distintas actividades de diferentes duraciones. Se distribuir\u00e1 a todes en base a las necesidades de cada d\u00eda, asign\u00e1ndoles una franja horaria dentro de una de las se\u00f1aladas como disponibles por ustedes. No es necesario ninguna experiencia en esas actividades. Vamos a organizar una reuni\u00f3n previa para presentar todo el material y actividades.</p>\n<p>La Semana de la Matem\u00e1tica y las Ciencias de Datos se realizar\u00e1 en algunos sectores del pabell\u00f3n 1 y del edificio 0 + Infinito. Agradecemos la colaboraci\u00f3n de todes para la realizaci\u00f3n de esta actividad.</p>\n<p>Pueden encontrar m\u00e1s informaci\u00f3n sobre algunas de las actividades de este a\u00f1o en la p\u00e1gina:</p>\n<p><a title=\"\" href=\"https://web.dm.uba.ar/index.php/extension/semana-de-la-matematica\" target=\"_self\" rel=\"noopener noreferrer\" data-link-type=\"menuitem\">https://web.dm.uba.ar/index.php/extension/semana-de-la-matematica</a></p>\n<p>Saludos cordiales,<br />\nGabriela Jer\u00f3nimo, Paula Kuna, Santiago Laplagne, Ezequiel Rela y Nicol\u00e1s Sirolli</p>\n",
+        "protected": false
+      },
+      "excerpt": {
+        "rendered": "<p>Los d\u00edas martes 26, mi\u00e9rcoles 27, \u00a0jueves 28 y viernes  [&#8230;]</p>\n",
+        "protected": false
+      },
+      "author": 3,
+      "featured_media": 1365,
+      "categories": [
+        9
+      ],
+      "tags": []
+    },
+    {
+      "id": 1354,
+      "date_gmt": "2022-04-05T19:06:18",
+      "modified_gmt": "2022-05-24T21:38:01",
+      "slug": "nueva-edicion-de-datame",
+      "status": "publish",
+      "type": "post",
+      "link": "https://lcd.exactas.uba.ar/nueva-edicion-de-datame/",
+      "title": {
+        "rendered": "D\u00c1TAME! con Paula Petrone"
+      },
+      "content": {
+        "rendered": "<p>D\u00e1tame! del mes de abril de 2022<br />\nA cargo de Paula Petrone</p>\n<p><a href=\"https://www.youtube.com/watch?v=InxnqsjknnE\"><strong>Link a la charla</strong></a></p>\n<div>\n<div><strong>T\u00edtulo: Con Ciencia de Datos es mejor predecir que curar</strong></div>\n</div>\n<div>\n<p>&nbsp;</p>\n<p><strong>Sobre la charla</strong></p>\n<p>Todos los seres humanos somos \u00fanicos, nuestra gen\u00e9tica y nuestro entorno nos define y condiciona nuestro presente y nuestro futuro. En plena era digital, la informaci\u00f3n sobre nuestra identidad, comportamiento y salud se adquiere de tantas maneras que a veces se nos pasan desapercibidas. Mi trabajo y mi ambici\u00f3n consiste en integrar toda la informaci\u00f3n disponible sobre nuestra salud (bienestar, dieta, sentimientos, actividad f\u00edsica, estr\u00e9s, contaminaci\u00f3n, clima) y crear modelos que nos permitan en el futuro cercano comprender mejor y curar enfermedades complejas como el c\u00e1ncer, la depresi\u00f3n, el Alzheimer y la malaria.</p>\n<p>En esta charla contar\u00e9 sobre mi experiencia como cient\u00edfica de datos trabajando\u00a0en temas de biomedicina. Compartir\u00e9 algunas impresiones generales del entorno acad\u00e9mico, industrial y emprendedor, y\u00a0 las oportunidades y desaf\u00edos en cada uno de ellos.</p>\n<p><strong>Sobre Paula<br />\n</strong></p>\n<p>Me gradu\u00e9 como Licenciada en F\u00edsica en el Instituto Balseiro en Bariloche, y desarroll\u00e9 un inter\u00e9s especial por las ciencias de la vida. Durante mi tesis de doctorado en la universidad de Stanford me enfoqu\u00e9 en entender la funci\u00f3n de los grandes complejos moleculares como el ribosoma, y me interes\u00e9 por el descubrimiento de f\u00e1rmacos. En el sector farmac\u00e9utico, aprend\u00ed t\u00e9cnicas de qu\u00edmica inform\u00e1tica y trabaj\u00e9 para\u00a0 Roche y Novartis desarrollando metodolog\u00edas de machine learning para encontrar nuevas drogas. Mi posdoctorado estuvo dedicado al procesamiento de im\u00e1genes de cerebro en el Barcelona Brain Research Center para predecir la enfermedad de Alzheimer. Actualmente dirijo el equipo de Biomedical Data Science en ISGlobal, donde nos enfocamos en el diagn\u00f3stico de enfermedades cr\u00f3nicas e infecciosas. Tambi\u00e9n trabajo como consultora de startups de salud digital, mentora y activista en temas de \u00e9tica y diversidad en las carreras STEM, organizando cada a\u00f1o el Women in Data Science Barcelona. Tengo dos hijos peque\u00f1os y me apasionan los deportes al aire libre (bici y windsurf).</p>\n</div>\n<div><strong>Consultas</strong>:\u00a0<a href=\"mailto:info.lcd@exactas.uba.ar\" target=\"_blank\" rel=\"noopener noreferrer\">info.lcd@exactas.uba.ar</a></div>\n<div>\n<div class=\"adL\">\n<div class=\"im\">\n<div></div>\n<div></div>\n<div></div>\n</div>\n</div>\n</div>\n",
+        "protected": false
+      },
+      "excerpt": {
+        "rendered": "<p>D\u00e1tame! del mes de abril de 2022 A cargo de  [&#8230;]</p>\n",
+        "protected": false
+      },
+      "author": 7,
+      "featured_media": 1361,
+      "categories": [
+        13,
+        9
+      ],
+      "tags": []
+    },
+    {
+      "id": 1351,
+      "date_gmt": "2022-03-31T22:17:52",
+      "modified_gmt": "2022-03-31T22:17:52",
+      "slug": "concurso-de-analisis-de-datos-para-estudiantes-de-grado",
+      "status": "publish",
+      "type": "post",
+      "link": "https://lcd.exactas.uba.ar/concurso-de-analisis-de-datos-para-estudiantes-de-grado/",
+      "title": {
+        "rendered": "Concurso de an\u00e1lisis de datos para estudiantes de grado"
+      },
+      "content": {
+        "rendered": "<p>La Escuela de Estad\u00edstica de la Facultad de Ciencias Econ\u00f3micas y Estad\u00edstica de la Universidad Nacional de Rosario conjuntamente con el Consejo Profesional de Ciencias Econ\u00f3micas de la Provincia de Santa Fe &#8211; C\u00e1mara II y el Colegio de Graduados de Ciencias Econ\u00f3micas de Rosario (CPCE-CGCE) instituyen el Premio a la Investigaci\u00f3n \u201cDra. Elsa Servy\u201d, mediante la realizaci\u00f3n de concurso donde se premiar\u00e1 la capacidad de resoluci\u00f3n de problemas de naturaleza estad\u00edstica.<br />\nEl mismo se realiza con el fin de promover la participaci\u00f3n de alumnos universitarios en la resoluci\u00f3n de una problem\u00e1tica real que les permita poner a prueba los conocimientos adquiridos, adapt\u00e1ndolos a la situaci\u00f3n particular analizada, ofreci\u00e9ndoles la oportunidad de trabajar en equipos multidisciplinarios y enfrentar el desaf\u00edo de presentar los resultados a una audiencia constituida por profesionales de distintas disciplinas.<br />\nLa actividad propuesta por este concurso consiste en la resoluci\u00f3n de un problema mediante la utilizaci\u00f3n de herramientas estad\u00edsticas. La tem\u00e1tica a resolver es acordada conjuntamente entre la Escuela de Estad\u00edstica y el CPCE-CGCE y se relaciona con alg\u00fan problema provisto por una instituci\u00f3n p\u00fablica o privada. Esta actividad se realiza cada dos a\u00f1os.</p>\n<p><a href=\"https://fcecon.unr.edu.ar/web-nueva/premio-dra-elsa-servy\">M\u00c1S INFO</a></p>\n",
+        "protected": false
+      },
+      "excerpt": {
+        "rendered": "<p>La Escuela de Estad\u00edstica de la Facultad de Ciencias Econ\u00f3micas  [&#8230;]</p>\n",
+        "protected": false
+      },
+      "author": 7,
+      "featured_media": 1352,
+      "categories": [
+        9
+      ],
+      "tags": []
+    },
+    {
+      "id": 1347,
+      "date_gmt": "2022-03-31T13:26:05",
+      "modified_gmt": "2022-03-31T13:27:12",
+      "slug": "ya-podes-ver-el-video-de-la-charla-de-silvia-kochen",
+      "status": "publish",
+      "type": "post",
+      "link": "https://lcd.exactas.uba.ar/ya-podes-ver-el-video-de-la-charla-de-silvia-kochen/",
+      "title": {
+        "rendered": "Ya pod\u00e9s ver el video de la charla de Silvia Kochen"
+      },
+      "content": {
+        "rendered": "<p>Si te perdiste la primera charla D\u00c1TAME! del a\u00f1o, a cargo de Silvia Kochen, ya pod\u00e9s verla entera en nuestro canal de Youtube.</p>\n<p>T\u00edtulo de la charla<br />\n\u00bfNos sirve contar con informaci\u00f3n cuantificada objetiva a lxs que trabajamos en diagnosticar y tratar pacientes?\u201d</p>\n<p>M\u00e1s sobre Silvia<br />\nSilvia Kochen es Investigadora del CONICET y Profesora en la Fac. Medicina, Univ. Nacional de Buenos Aires (UBA). Es Vice-Directora de la Unidad Ejecutora en Neurociencias y Sistemas Complejos (ENyS), CONICET \u2013 Univ. Nacional A. Jauretche (UNAJ) \u2013 Hosp. El Cruce \u201cN. Kirchner\u201d, F. Varela, Pcia Buenos Aires.</p>\n<p><a href=\"https://www.youtube.com/watch?v=xgVTlKholps\">Charla completa</a></p>\n",
+        "protected": false
+      },
+      "excerpt": {
+        "rendered": "<p>Si te perdiste la primera charla D\u00c1TAME! del a\u00f1o, a  [&#8230;]</p>\n",
+        "protected": false
+      },
+      "author": 7,
+      "featured_media": 1348,
+      "categories": [
+        9
+      ],
+      "tags": []
+    },
+    {
+      "id": 1342,
+      "date_gmt": "2022-03-29T19:23:16",
+      "modified_gmt": "2022-03-30T11:21:26",
+      "slug": "ya-salio-el-corto-de-lcd",
+      "status": "publish",
+      "type": "post",
+      "link": "https://lcd.exactas.uba.ar/ya-salio-el-corto-de-lcd/",
+      "title": {
+        "rendered": "\u00a1Ya sali\u00f3 el corto de LCD!"
+      },
+      "content": {
+        "rendered": "<p>Desde la plataforma Pulsar se realiz\u00f3 el primer cortometraje sobre la Licenciatura en Ciencias de Datos.</p>\n<p>Para saber m\u00e1s sobre la flamante carrera y sacarte las dudas de una manera diferente, logueate desde <a href=\"https://www.campuspulsar.gob.ar/categoria/series/37/contenido/185\">Pulsar</a></p>\n<p>&nbsp;</p>\n",
+        "protected": false
+      },
+      "excerpt": {
+        "rendered": "<p>Desde la plataforma Pulsar se realiz\u00f3 el primer cortometraje sobre  [&#8230;]</p>\n",
+        "protected": false
+      },
+      "author": 7,
+      "featured_media": 1343,
+      "categories": [
+        9
+      ],
+      "tags": []
+    },
+    {
+      "id": 1329,
+      "date_gmt": "2022-03-17T20:53:20",
+      "modified_gmt": "2022-03-17T20:53:20",
+      "slug": "bienvenida-a-ingresantes-2022",
+      "status": "publish",
+      "type": "post",
+      "link": "https://lcd.exactas.uba.ar/bienvenida-a-ingresantes-2022/",
+      "title": {
+        "rendered": "Bienvenida a ingresantes 2022"
+      },
+      "content": {
+        "rendered": "<p>El jueves 17 de marzo se realiz\u00f3 la bienvenida a ingresantes 2022 de LCD en el Edificio 0+Infinito. Durante la misma, las y los estudiantes compartieron sus miedos y expectativas para esta \u00e9tapa que comienzan.</p>\n",
+        "protected": false
+      },
+      "excerpt": {
+        "rendered": "<p>El jueves 17 de marzo se realiz\u00f3 la bienvenida a  [&#8230;]</p>\n",
+        "protected": false
+      },
+      "author": 5,
+      "featured_media": 1330,
+      "categories": [
+        9
+      ],
+      "tags": []
+    },
+    {
+      "id": 1326,
+      "date_gmt": "2022-03-15T17:39:45",
+      "modified_gmt": "2022-03-15T17:39:45",
+      "slug": "sebastian-ceria-charla-completa",
+      "status": "publish",
+      "type": "post",
+      "link": "https://lcd.exactas.uba.ar/sebastian-ceria-charla-completa/",
+      "title": {
+        "rendered": "Sebasti\u00e1n Ceria &#8211; Charla Completa"
+      },
+      "content": {
+        "rendered": "<p>Ya est\u00e1 disponible la charla que brind\u00f3 Sebasti\u00e1n Ceria, el pasado 9 de marzo, en el 0 + infinito.</p>\n<p>T\u00edtulo de la charla: Con datos no alcanza. Sin datos no se puede.</p>\n<p>M\u00e1s sobre Sebasti\u00e1n Ceria:<br />\nSebasti\u00e1n es empresario y matem\u00e1tico argentino graduado en la Universidad de Buenos Aires y doctorado en Matem\u00e1tica Aplicada en la Universidad Carnegie Mellon. Hace 35 a\u00f1os vive en el exterior y es director ejecutivo de una empresa de base tecnol\u00f3gica llamada Qontigo.<br />\nAnteriormente se desempe\u00f1\u00f3 como CEO de Axioma, empresa que fund\u00f3 y dirigi\u00f3 desde 1998. Fue profesor en Columbia Business School. En el 2021<br />\nfue designado miembro de la Academia Nacional de Ingenier\u00eda de los Estados Unidos y como uno de los 200 egresados destacados de la<br />\nUniversidad de Buenos Aires en el marco de su bicentenario. Fue impulsor de la construcci\u00f3n del nuevo edificio de la Facultad de Ciencias Exactas<br />\ny Naturales de la UBA, Cero + Infinito, e involucr\u00f3 al arquitecto Rafael Vi\u00f1oly para su dise\u00f1o. A fines de 2019 cre\u00f3 y preside Fundar, un think<br />\ntank de pol\u00edticas p\u00fablicas para el desarrollo sustentable e inclusivo de la Argentina-</p>\n<p><a href=\"https://exactas.uba.ar/con-datos-no-alcanza-sin-datos-no-se-puede/\">CHARLA COMPLETA</a></p>\n",
+        "protected": false
+      },
+      "excerpt": {
+        "rendered": "<p>Ya est\u00e1 disponible la charla que brind\u00f3 Sebasti\u00e1n Ceria, el  [&#8230;]</p>\n",
+        "protected": false
+      },
+      "author": 7,
+      "featured_media": 1327,
+      "categories": [
+        9
+      ],
+      "tags": []
+    },
+    {
+      "id": 1322,
+      "date_gmt": "2022-03-15T17:23:47",
+      "modified_gmt": "2022-06-13T14:48:52",
+      "slug": "consultas-presenciales-sobre-lcd",
+      "status": "publish",
+      "type": "post",
+      "link": "https://lcd.exactas.uba.ar/consultas-presenciales-sobre-lcd/",
+      "title": {
+        "rendered": "Consultas presenciales sobre LCD"
+      },
+      "content": {
+        "rendered": "<p>Queremos contarles que durante el 1er. cuatrimestre de este a\u00f1o, estaremos disponibles para cualquier duda, consulta o inquietud que deseen plantearnos sobre el funcionamiento de nuestra Carrera.</p>\n<p>Los jueves de 15 a 17, podr\u00e1n encontrar a Ana Bianco (Vicedirectora de LCD) en la Direcci\u00f3n de la Carrera, of. 2505 del Edificio 0 + Infinito.</p>\n<p>No duden en acercarse.</p>\n<p>\u00a1Los/as esperamos!</p>\n",
+        "protected": false
+      },
+      "excerpt": {
+        "rendered": "<p>Queremos contarles que durante el 1er. cuatrimestre de este a\u00f1o,  [&#8230;]</p>\n",
+        "protected": false
+      },
+      "author": 7,
+      "featured_media": 1323,
+      "categories": [
+        9
+      ],
+      "tags": []
+    },
+    {
+      "id": 1318,
+      "date_gmt": "2022-03-15T11:38:16",
+      "modified_gmt": "2022-03-15T11:38:16",
+      "slug": "convocatoria-segunda-edicion-beca-fundatos",
+      "status": "publish",
+      "type": "post",
+      "link": "https://lcd.exactas.uba.ar/convocatoria-segunda-edicion-beca-fundatos/",
+      "title": {
+        "rendered": "CONVOCATORIA | Segunda edici\u00f3n Beca FunDatos"
+      },
+      "content": {
+        "rendered": "<p>Se lanza la <b>segunda edici\u00f3n de la Beca FunDato</b><b>s</b>, una oportunidad para j\u00f3venes profesionales y estudiantes avanzados con inter\u00e9s en temas relacionados con el uso de datos en el Estado.</p>\n<p>Se convoca a<b> estudiantes pr\u00f3ximos a recibirse y profesionales</b>\u00a0j\u00f3venes de Ingenier\u00eda, Matem\u00e1tica, Estad\u00edstica, Econom\u00eda, Actuarial, Ciencia de Datos y carreras afines para trabajar en proyectos de investigaci\u00f3n acad\u00e9mica en temas relacionados con:</p>\n<ul>\n<li>El\u00a0<b>uso de algoritmo</b>s de aprendizaje autom\u00e1tico e inteligencia artificial para\u00a0<b>dise\u00f1ar, implementar o evaluar pol\u00edticas p\u00fablicas</b>.</li>\n<li>El\u00a0<b>uso y gobernanza de los datos del sector p\u00fablico</b> para resolver problemas p\u00fablicos en Argentina y mejorar la calidad de los servicios que presta el Estado a nivel nacional y/o subnacional.</li>\n</ul>\n<p>La beca tiene una duraci\u00f3n de un a\u00f1o calendario y consta de un estipendio mensual de $60.000. Es de dedicaci\u00f3n<i>\u00a0part-time</i>\u00a0y es compatible con cualquier otra beca, proyecto o financiamiento. La fecha l\u00edmite para presentar postulaciones es el\u00a0<b>10 de abril.\u00a0</b>Para m\u00e1s informaci\u00f3n sobre la convocatoria, requisitos y formas de aplicar, ingres\u00e1 a la <a href=\"https://www.fund.ar/iniciativas/segunda-edicion-beca-fundatos/?utm_source=newsletter&amp;utm_medium=email&amp;utm_campaign=segunda_edicion_beca_fundatos&amp;utm_term=2022-03-14\">web</a>.</p>\n<p>&nbsp;</p>\n",
+        "protected": false
+      },
+      "excerpt": {
+        "rendered": "<p>Se lanza la segunda edici\u00f3n de la Beca FunDatos, una  [&#8230;]</p>\n",
+        "protected": false
+      },
+      "author": 7,
+      "featured_media": 1319,
+      "categories": [
+        9
+      ],
+      "tags": []
+    },
+    {
+      "id": 1311,
+      "date_gmt": "2022-03-14T20:52:27",
+      "modified_gmt": "2022-05-24T21:39:24",
+      "slug": "1311-2",
+      "status": "publish",
+      "type": "post",
+      "link": "https://lcd.exactas.uba.ar/1311-2/",
+      "title": {
+        "rendered": "D\u00c1TAME! con Silvia Kochen"
+      },
+      "content": {
+        "rendered": "<p>D\u00e1tame! del mes marzo de 2022<br />\nA cargo de Silvia Kochen</p>\n<p><strong><a href=\"https://www.youtube.com/watch?v=xgVTlKholps\">Link\u00a0a la charla</a></strong></p>\n<p><strong>T\u00edtulo:\u00a0 \u00bfNos sirve contar con informaci\u00f3n cuantificada objetiva a lxs que trabajamos en diagnosticar y tratar pacientes?</strong></p>\n<p><strong>Sobre Silvia</strong></p>\n<p>Silvia Kochen es Investigadora del CONICET y Profesora en la Fac. Medicina, Univ. Nacional de Buenos Aires (UBA). Es Vice-Directora de la Unidad Ejecutora en Neurociencias y Sistemas Complejos (ENyS), CONICET \u2013 Univ. Nacional A. Jauretche (UNAJ) \u2013 Hosp. El Cruce &#8220;N. Kirchner&#8221;, F. Varela, Pcia Buenos Aires.</p>\n<p><strong>Consultas</strong>:\u00a0<a href=\"mailto:info.lcd@exactas.uba.ar\" target=\"_blank\" rel=\"noopener noreferrer\">info.lcd@exactas.uba.ar</a></p>\n<p>&nbsp;</p>\n",
+        "protected": false
+      },
+      "excerpt": {
+        "rendered": "<p>D\u00e1tame! del mes marzo de 2022 A cargo de Silvia  [&#8230;]</p>\n",
+        "protected": false
+      },
+      "author": 7,
+      "featured_media": 1312,
+      "categories": [
+        13,
+        9
+      ],
+      "tags": []
+    },
+    {
+      "id": 1307,
+      "date_gmt": "2022-03-04T19:38:11",
+      "modified_gmt": "2022-03-04T19:38:11",
+      "slug": "charla-sebastian-ceria-con-datos-no-alcanza-sin-datos-no-se-puede",
+      "status": "publish",
+      "type": "post",
+      "link": "https://lcd.exactas.uba.ar/charla-sebastian-ceria-con-datos-no-alcanza-sin-datos-no-se-puede/",
+      "title": {
+        "rendered": "Charla Sebasti\u00e1n Ceria: Con datos no alcanza. Sin datos no se puede."
+      },
+      "content": {
+        "rendered": "<p>Este mi\u00e9rcoles nos va a visitar Sebasti\u00e1n Ceria, que va a venir al 0+Inf<br />\npara charlar con las y los estudiantes de LCD (y matem\u00e1tica y<br />\ncomputaci\u00f3n).</p>\n<p>El t\u00edtulo de la charla es</p>\n<p>Con datos no alcanza. Sin datos no se puede.</p>\n<p>Luego de la charla habr\u00e1 un espacio para preguntas y conversar.</p>\n<p>Sebasti\u00e1n es empresario y matem\u00e1tico argentino graduado en la<br />\nUniversidad de Buenos Aires y doctorado en Matem\u00e1tica Aplicada en la<br />\nUniversidad Carnegie Mellon. Hace 35 a\u00f1os vive en el exterior y es<br />\ndirector ejecutivo de una empresa de base tecnol\u00f3gica llamada Qontigo.<br />\nAnteriormente se desempe\u00f1\u00f3 como CEO de Axioma, empresa que fund\u00f3 y<br />\ndirigi\u00f3 desde 1998. Fue profesor en Columbia Business School. En el 2021<br />\nfue designado miembro de la Academia Nacional de Ingenier\u00eda de los<br />\nEstados Unidos y como uno de los 200 egresados destacados de la<br />\nUniversidad de Buenos Aires en el marco de su bicentenario. Fue impulsor<br />\nde la construcci\u00f3n del nuevo edificio de la Facultad de Ciencias Exactas<br />\ny Naturales de la UBA, Cero + Infinito, e involucr\u00f3 al arquitecto Rafael<br />\nVi\u00f1oly para su dise\u00f1o. A fines de 2019 cre\u00f3 y preside Fundar, un think<br />\ntank de pol\u00edticas p\u00fablicas para el desarrollo sustentable e inclusivo de<br />\nla Argentina</p>\n<p>Mi\u00e9rcoles 9/3 a las 12hs.<br />\nInscribite para asegurarte un lugar y obtener informaci\u00f3n de acceso.</p>\n<p><a href=\"https://forms.gle/CT8KfQrDQ9YFfZv38\">Link de inscripci\u00f3n</a></p>\n<p>\u00a1Te esperamos!</p>\n",
+        "protected": false
+      },
+      "excerpt": {
+        "rendered": "<p>Este mi\u00e9rcoles nos va a visitar Sebasti\u00e1n Ceria, que va  [&#8230;]</p>\n",
+        "protected": false
+      },
+      "author": 7,
+      "featured_media": 1308,
+      "categories": [
+        9
+      ],
+      "tags": []
+    },
+    {
+      "id": 1297,
+      "date_gmt": "2022-02-11T16:49:43",
+      "modified_gmt": "2022-02-11T16:50:51",
+      "slug": "inscripcion-a-materias-del-dcao",
+      "status": "publish",
+      "type": "post",
+      "link": "https://lcd.exactas.uba.ar/inscripcion-a-materias-del-dcao/",
+      "title": {
+        "rendered": "Inscripci\u00f3n a materias del DCAO"
+      },
+      "content": {
+        "rendered": "<p>A quienes est\u00e9n interesades en la materias que dictara el Departamento de Ciencias de la Atmosfera y los Oc\u00e9anos (DCAO) durante el primer cuatrimestre de 2022, les informamos que habr\u00e1 una pre-inscripci\u00f3n a las mismas y la FECHA L\u00cdMITE es el\u00a023 DE FEBRERO DE 2022.</p>\n<p>Los links de preinscripci\u00f3n a las materias del DCAO son los siguientes:</p>\n<p>-Pre-inscripci\u00f3n a Meteorolog\u00eda General que se dictar\u00e1 durante el primer<br />\ncuatrimestre los lunes y mi\u00e9rcoles en turno ma\u00f1ana:<br />\n<a href=\"https://forms.gle/2bAU43wPK5fAz89N7\" target=\"_blank\" rel=\"noopener noreferrer\" data-saferedirecturl=\"https://www.google.com/url?q=https://forms.gle/2bAU43wPK5fAz89N7&amp;source=gmail&amp;ust=1644672220844000&amp;usg=AOvVaw3f_Ba1u9RSiM6a2Z3xktSD\">https://forms.gle/<wbr />2bAU43wPK5fAz89N7</a></p>\n<p>-Pre-inscripci\u00f3n a Oceanograf\u00eda General que se dictar\u00e1 durante el primer<br />\ncuatrimestre los martes y jueves en turno tarde:<br />\n<a href=\"https://forms.gle/GbCy8QfHv5WkYivs9\" target=\"_blank\" rel=\"noopener noreferrer\" data-saferedirecturl=\"https://www.google.com/url?q=https://forms.gle/GbCy8QfHv5WkYivs9&amp;source=gmail&amp;ust=1644672220844000&amp;usg=AOvVaw1E_vwt673ytDBcU7uXKkpq\">https://forms.gle/<wbr />GbCy8QfHv5WkYivs9</a></p>\n<p>-Pre-inscripci\u00f3n a Introducci\u00f3n a la Din\u00e1mica de Geofluidos que se<br />\ndictar\u00e1 durante el primer bimestre los martes y jueves en el turno<br />\nma\u00f1ana:<br />\n<a href=\"https://forms.gle/e9bon7vhFGVT3e5q6\" target=\"_blank\" rel=\"noopener noreferrer\" data-saferedirecturl=\"https://www.google.com/url?q=https://forms.gle/e9bon7vhFGVT3e5q6&amp;source=gmail&amp;ust=1644672220844000&amp;usg=AOvVaw3EX3uhppezgpUHbFHEkw_6\">https://forms.gle/<wbr />e9bon7vhFGVT3e5q6</a></p>\n<p>Nos solicita el DCAO que difundamos que no puede garantizar el dictado de las materias a quienes no se pre-inscribieron.</p>\n",
+        "protected": false
+      },
+      "excerpt": {
+        "rendered": "<p>A quienes est\u00e9n interesades en la materias que dictara el  [&#8230;]</p>\n",
+        "protected": false
+      },
+      "author": 7,
+      "featured_media": 1238,
+      "categories": [
+        9
+      ],
+      "tags": []
+    },
+    {
+      "id": 1282,
+      "date_gmt": "2021-12-10T03:12:57",
+      "modified_gmt": "2021-12-10T03:12:57",
+      "slug": "nota-de-el-destape-record-de-inscripciones-para-una-de-las-carreras-universitarias-del-futuro",
+      "status": "publish",
+      "type": "post",
+      "link": "https://lcd.exactas.uba.ar/nota-de-el-destape-record-de-inscripciones-para-una-de-las-carreras-universitarias-del-futuro/",
+      "title": {
+        "rendered": "Nota de El Destape: R\u00e9cord de inscripciones para una de las carreras universitarias del futuro"
+      },
+      "content": {
+        "rendered": "<p>En esta nota de El Destape, Ana Bianco, Directora Adjunta de LCD, habla sobre la carrera y el balance de este prometedor primer a\u00f1o de cursada.</p>\n<p><strong>\u201cYo esto nunca lo vi, estamos todos sorprendidos</strong>\u00a0<strong>\u2013cuenta Ana Bianco, directora adjunta de la \u00a0\u2018comisi\u00f3n de carrera\u2019, ya que a diferencia de otras de la misma facultad, que se desarrollan dentro de un departamento, esta depende de cuatro unidades docentes: \u00a0Matem\u00e1tica, Ciencias de la Computaci\u00f3n, F\u00edsica e Instituto de C\u00e1lculo\u00ad</strong>\u2013. La cantidad de gente que se inscribi\u00f3 este a\u00f1o en el CBC es sideral. Nos pone muy contentos y al mismo tiempo representa un gran desaf\u00edo\u201d.</p>\n<p><a href=\"https://www.eldestapeweb.com/sociedad/universidades/record-de-inscripciones-para-una-de-las-carreras-universitarias-del-futuro-20211297580\">Nota completa</a></p>\n",
+        "protected": false
+      },
+      "excerpt": {
+        "rendered": "<p>En esta nota de El Destape, Ana Bianco, Directora Adjunta  [&#8230;]</p>\n",
+        "protected": false
+      },
+      "author": 7,
+      "featured_media": 1283,
+      "categories": [
+        9
+      ],
+      "tags": []
+    },
+    {
+      "id": 1279,
+      "date_gmt": "2021-11-19T00:29:49",
+      "modified_gmt": "2021-11-19T00:33:40",
+      "slug": "ya-esta-disponible-el-listado-de-materias-obligatorias-2022",
+      "status": "publish",
+      "type": "post",
+      "link": "https://lcd.exactas.uba.ar/ya-esta-disponible-el-listado-de-materias-obligatorias-2022/",
+      "title": {
+        "rendered": "\u00a1Ya est\u00e1 disponible el listado de Materias obligatorias 2022!"
+      },
+      "content": {
+        "rendered": "<p>Ya pod\u00e9s ver el listado de las materias que se dictar\u00e1n este verano y en los dos cuatrimestres de 2022.</p>\n<p>Entr\u00e1 a este <a href=\"https://lcd.exactas.uba.ar/materias-obligatorias/\">link</a> para m\u00e1s info.</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n",
+        "protected": false
+      },
+      "excerpt": {
+        "rendered": "<p>Ya pod\u00e9s ver el listado de las materias que se  [&#8230;]</p>\n",
+        "protected": false
+      },
+      "author": 7,
+      "featured_media": 55,
+      "categories": [
+        9
+      ],
+      "tags": []
+    },
+    {
+      "id": 1271,
+      "date_gmt": "2021-11-08T18:11:17",
+      "modified_gmt": "2021-11-08T18:11:17",
+      "slug": "nueva-charla-lcd",
+      "status": "publish",
+      "type": "post",
+      "link": "https://lcd.exactas.uba.ar/nueva-charla-lcd/",
+      "title": {
+        "rendered": "Nueva charla LCD"
+      },
+      "content": {
+        "rendered": "<p>El jueves 18 de noviembre, a las 15hs, tendremos la pr\u00f3xima y \u00faltima Charla sobre la Licenciatura en Ciencias de Datos, en esta oportunidad a cargo de Ana Bianco y Vanina Mart\u00ednez.</p>\n<p>Como siempre, recomendamos a los/as interesados/as en saber m\u00e1s sobre la carrera o los/as que quieran despejar dudas antes de anotarse, que se sumen y participen de estas charlas ya que son muy interesantes y cargadas de informaci\u00f3n importante sobre la flamante carrera.</p>\n<p>Recuerden que para participar, deben inscribirse previamente en este <a href=\"https://forms.gle/e326G6CTe9wSG7LK6\">link</a></p>\n<p>\u00a1Los/as esperamos!</p>\n",
+        "protected": false
+      },
+      "excerpt": {
+        "rendered": "<p>El jueves 18 de noviembre, a las 15hs, tendremos la  [&#8230;]</p>\n",
+        "protected": false
+      },
+      "author": 7,
+      "featured_media": 1272,
+      "categories": [
+        9
+      ],
+      "tags": []
+    },
+    {
+      "id": 1266,
+      "date_gmt": "2021-11-02T13:14:26",
+      "modified_gmt": "2021-11-02T13:14:26",
+      "slug": "encuentro-con-estudiantes-de-lcd",
+      "status": "publish",
+      "type": "post",
+      "link": "https://lcd.exactas.uba.ar/encuentro-con-estudiantes-de-lcd/",
+      "title": {
+        "rendered": "Encuentro con estudiantes de LCD"
+      },
+      "content": {
+        "rendered": "<p>Ven\u00ed a conocer la facu y sus espacios verdes, y disfrutar de unas horas con tus compa\u00f1eres y el resto de la comunidad.</p>\n<p>\u00bfEmpezaste a cursar la Licenciatura en Ciencia de Datos y todav\u00eda no pisaste Ciudad Universitaria?<br />\n\u00bfYa estuviste en Ciudad y la extra\u00f1as?<br />\n\u00bfQuer\u00e9s conocer en persona a tus compa\u00f1eres?</p>\n<p>Para muches de nosotres les compa\u00f1eres de estudio y la Facultad, como espacio f\u00edsico, jugaron un rol fundamental a lo largo de nuestra formaci\u00f3n. Por eso queremos hacer un primer encuentro, para vernos de manera presencial y estar un rato juntes. Tambi\u00e9n vamos a hacer una recorrida por el glorioso Pabell\u00f3n 1. Lamentablemente el 0+infinito no est\u00e1 habilitado a\u00fan para visitas masivas, \u00a1pero esperamos que lo est\u00e9 muy pronto!</p>\n<p><strong>\u00bfCu\u00e1ndo?</strong>\u00a0S\u00e1bado 6/11 a las 11:00 hs.<br />\n<strong>\u00bfD\u00f3nde?\u00a0</strong>Ciudad Universitaria, nos encontramos en el parque entre el 0+infinito y el Pabell\u00f3n 2. \u00a1Traigan algo para comer durante el picnic y vaso! De la bebida nos ocupamos nosotres.<br />\nNo se olviden del barbijo, y recomendamos traer protector solar y repelente para mosquitos.</p>\n<p>Para participar, complet\u00e1 tus datos en el siguiente formulario:<br />\n<a href=\"https://docs.google.com/forms/d/e/1FAIpQLSeTNIFY6b2Q5l1purwWQ3O3Yrpnq-lN6v6uE8Nv2yikpecxWw/viewform?vc=0&amp;amp;c=0&amp;amp;w=1&amp;amp;flr=0&amp;amp;usp=mail_form_link\">https://docs.google.com/forms/d/e/1FAIpQLSeTNIFY6b2Q5l1purwWQ3O3Yrpnq-lN6v6uE8Nv2yikpecxWw/viewform?vc=0&amp;amp;c=0&amp;amp;w=1&amp;amp;flr=0&amp;amp;usp=mail_form_link</a></p>\n<p>Adem\u00e1s, para poder venir es necesario que completes uno o dos d\u00edas antes la Declaraci\u00f3n Jurada que vas a encontrar en este link:\u00a0<a href=\"https://exactas.uba.ar/higieneyseguridad/coronavirus/declaracion-jurada-covid-19/\">https://exactas.uba.ar/higieneyseguridad/coronavirus/declaracion-jurada-covid-19/</a></p>\n<p>Encontr\u00e1 el sitio de encuentro ac\u00e1: https://goo.gl/maps/fRxpa75tSY4dsSAm6</p>\n<p><strong>\u00bfC\u00f3mo llegar?\u00a0</strong><br />\nSi ven\u00eds en bondi: 28 \u2013 33 \u2013 34 ramal B \u2013 37 \u2013 42 \u2013 45 \u2013 107 \u2013 160 \u2013 166 ramal C<br />\nSi ven\u00eds caminando o en bici, por favor cruz\u00e1 la Av. Lugones por el puente Labruna (el que est\u00e1 atr\u00e1s de la cancha de River). No recomendamos, por temas de seguridad, cruzar por el puente Echeverr\u00eda.<br />\nSi ven\u00eds en tren: L\u00ednea Belgrano Norte, estaci\u00f3n Ciudad Universitaria.</p>\n",
+        "protected": false
+      },
+      "excerpt": {
+        "rendered": "<p>Ven\u00ed a conocer la facu y sus espacios verdes, y  [&#8230;]</p>\n",
+        "protected": false
+      },
+      "author": 3,
+      "featured_media": 1267,
+      "categories": [
+        9
+      ],
+      "tags": []
+    },
+    {
+      "id": 1215,
+      "date_gmt": "2021-10-25T00:13:51",
+      "modified_gmt": "2021-10-29T13:30:45",
+      "slug": "sobre-dobles-triples-y-datos-guia-para-armar-un-equipo-ganador-en-la-nba-por-ximena-fernandez",
+      "status": "publish",
+      "type": "post",
+      "link": "https://lcd.exactas.uba.ar/sobre-dobles-triples-y-datos-guia-para-armar-un-equipo-ganador-en-la-nba-por-ximena-fernandez/",
+      "title": {
+        "rendered": "Sobre dobles, triples y datos: gu\u00eda para armar un equipo ganador en la NBA"
+      },
+      "content": {
+        "rendered": "<p>Por Ximena Fern\u00e1ndez.</p>\n<p>Martes 26 de octubre 11AM por <a href=\"https://www.youtube.com/c/PopExactasUBAOficial\">Youtube</a>.</p>\n<p>En la era del Big Data, los equipos de la NBA apuestan cada vez m\u00e1s a equipos t\u00e9cnicos de Data Science, que desarrollan estrategias basadas en grandes vol\u00famenes de datos para mejorar el rendimiento del equipo. En esta charla veremos c\u00f3mo el an\u00e1lisis de datos est\u00e1 cambiando la manera en la que se juega y se entiende el b\u00e1squet en los \u00faltimos tiempos. Exploraremos distintas t\u00e9cnicas computacionales basadas en geometr\u00eda de datos para medir la diversidad de un equipo de la NBA y predecir su \u00e9xito en el pr\u00f3ximo campeonato.</p>\n<div class=\"video-shortcode\"><iframe title=\"Sobre dobles, triples y datos: gu\u00eda para armar un equipo ganador en la NBA. Ximena Laura Fern\u00e1ndez\" width=\"1200\" height=\"675\" src=\"https://www.youtube.com/embed/8EDJNRZtxZs?list=PL0CgMPgsgatX5rXQyJfyDRhyvIQRe0tmI\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe></div>\n",
+        "protected": false
+      },
+      "excerpt": {
+        "rendered": "<p>Por Ximena Fern\u00e1ndez. Martes 26 de octubre 11AM por Youtube.  [&#8230;]</p>\n",
+        "protected": false
+      },
+      "author": 3,
+      "featured_media": 1216,
+      "categories": [
+        16
+      ],
+      "tags": []
+    },
+    {
+      "id": 1221,
+      "date_gmt": "2021-10-25T00:09:42",
+      "modified_gmt": "2021-10-29T13:33:13",
+      "slug": "etica-e-inteligencia-artificial-por-maria-vanina-martinez",
+      "status": "publish",
+      "type": "post",
+      "link": "https://lcd.exactas.uba.ar/etica-e-inteligencia-artificial-por-maria-vanina-martinez/",
+      "title": {
+        "rendered": "\u00c9tica e inteligencia artificial"
+      },
+      "content": {
+        "rendered": "<p>Por Mar\u00eda Vanina Mart\u00ednez.</p>\n<p>Mi\u00e9rcoles 27 de octubre 2PM por <a href=\"https://www.youtube.com/c/PopExactasUBAOficial\">Youtube</a>.</p>\n<p>Los recientes avances en computaci\u00f3n en general, y muy en particular, en Inteligencia Artificial, nos ubican en el umbral de un nuevo punto de inflexi\u00f3n en la historia de la humanidad. Es probable que pronto confiemos la gesti\u00f3n de nuestro medio ambiente, econom\u00eda, seguridad, infraestructura, producci\u00f3n de alimentos, atenci\u00f3n m\u00e9dica e, incluso, nuestras actividades personales, a sistemas inform\u00e1ticos artificialmente inteligentes.</p>\n<p>Esto plantea muchas preguntas complejas y preocupantes: \u00bfC\u00f3mo responder\u00e1 la sociedad cuando los robots vers\u00e1tiles y los sistemas de aprendizaje autom\u00e1tico desplacen a un espectro cada vez m\u00e1s amplio de trabajadores de carne y hueso? \u00bfLos beneficios de esta revoluci\u00f3n tecnol\u00f3gica se distribuir\u00e1n ampliamente o se acumular\u00e1n para unos pocos afortunados? \u00bfC\u00f3mo podemos asegurarnos de que estos sistemas respeten nuestros principios \u00e9ticos cuando toman decisiones? \u00bfQu\u00e9 derechos legales y responsabilidades, si las hay, debemos otorgarles?</p>\n<div class=\"video-shortcode\"><iframe title=\"\u00c9tica e Inteligencia Artificial. Mar\u00eda Vanina Mart\u00ednez\" width=\"1200\" height=\"675\" src=\"https://www.youtube.com/embed/zxKcMX5SLm8?list=PL0CgMPgsgatX5rXQyJfyDRhyvIQRe0tmI\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe></div>\n",
+        "protected": false
+      },
+      "excerpt": {
+        "rendered": "<p>Por Mar\u00eda Vanina Mart\u00ednez. Mi\u00e9rcoles 27 de octubre 2PM por  [&#8230;]</p>\n",
+        "protected": false
+      },
+      "author": 3,
+      "featured_media": 1222,
+      "categories": [
+        16
+      ],
+      "tags": []
+    },
+    {
+      "id": 1218,
+      "date_gmt": "2021-10-25T00:02:44",
+      "modified_gmt": "2021-10-29T13:33:44",
+      "slug": "una-lluvia-de-datos-como-la-ciencia-de-datos-sigue-revolucionando-el-pronostico-del-tiempo-por-paula-maldonado-y-juan-ruiz",
+      "status": "publish",
+      "type": "post",
+      "link": "https://lcd.exactas.uba.ar/una-lluvia-de-datos-como-la-ciencia-de-datos-sigue-revolucionando-el-pronostico-del-tiempo-por-paula-maldonado-y-juan-ruiz/",
+      "title": {
+        "rendered": "Una lluvia de datos: como la ciencia de datos sigue revolucionando el pron\u00f3stico del tiempo"
+      },
+      "content": {
+        "rendered": "<p>Por Paula Maldonado y Juan Ruiz.</p>\n<p>Jueves 28 de octubre 2PM por <a href=\"https://www.youtube.com/c/PopExactasUBAOficial\">Youtube</a>.</p>\n<p>Todos los d\u00edas recibimos informaci\u00f3n sobre el estado del tiempo y sobre el pron\u00f3stico para los pr\u00f3ximos d\u00edas. Esta informaci\u00f3n es fundamental para muchas aplicaciones y para proteger a las personas y sus bienes, de fen\u00f3menos potencialmente da\u00f1inos. Estos datos se obtienen gracias a una de las redes de informaci\u00f3n global m\u00e1s grandes del mundo, compuesta por diversos tipos de sensores que pueden ser tan simples como un term\u00f3metro o tan complejos como radares o sat\u00e9lites meteorol\u00f3gicos. Estos datos alimentan a su vez, sistemas de modelado, que utilizan las computadoras m\u00e1s potentes del planeta para poder anticipar c\u00f3mo evolucionar\u00e1n las variables atmosf\u00e9ricas en las pr\u00f3ximas horas o d\u00edas. M\u00e1s recientemente, los m\u00e9todos de inteligencia artificial, permiten hacer un uso m\u00e1s eficiente de los datos y las simulaciones para mejorar la precisi\u00f3n de las predicciones. En esta charla daremos una introducci\u00f3n a estos temas y contaremos que se hace actualmente en el Servicio Meteorol\u00f3gico Nacional.</p>\n<div class=\"video-shortcode\"><iframe title=\"Una lluvia de datos:como la ciencia de datos sigue revolucionando el pron\u00f3stico del tiempo.Juan Ruiz\" width=\"1200\" height=\"675\" src=\"https://www.youtube.com/embed/s2pqq-V4paE?list=PL0CgMPgsgatX5rXQyJfyDRhyvIQRe0tmI\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe></div>\n",
+        "protected": false
+      },
+      "excerpt": {
+        "rendered": "<p>Por Paula Maldonado y Juan Ruiz. Jueves 28 de octubre  [&#8230;]</p>\n",
+        "protected": false
+      },
+      "author": 3,
+      "featured_media": 1219,
+      "categories": [
+        16
+      ],
+      "tags": []
+    },
+    {
+      "id": 1211,
+      "date_gmt": "2021-10-19T19:24:59",
+      "modified_gmt": "2021-10-19T19:25:20",
+      "slug": "seguinos-en-facebook",
+      "status": "publish",
+      "type": "post",
+      "link": "https://lcd.exactas.uba.ar/seguinos-en-facebook/",
+      "title": {
+        "rendered": "\u00a1Seguinos en Facebook!"
+      },
+      "content": {
+        "rendered": "<p>Esta semana estrenamos la <a href=\"https://www.facebook.com/CienciasDeDatosUBA/\">p\u00e1gina en Facebook de la Licenciatura en Ciencias de Datos</a>, para difusi\u00f3n de nuestras actividades. \u00a1Seguinos y enterate todas las novedades!</p>\n<p>Nuestra p\u00e1gina es\u00a0<a href=\"https://www.facebook.com/CienciasDeDatosUBA/\">https://www.facebook.com/CienciasDeDatosUBA/</a></p>\n<p>&nbsp;</p>\n",
+        "protected": false
+      },
+      "excerpt": {
+        "rendered": "<p>Esta semana estrenamos la p\u00e1gina en Facebook de la Licenciatura  [&#8230;]</p>\n",
+        "protected": false
+      },
+      "author": 3,
+      "featured_media": 1212,
+      "categories": [
+        9
+      ],
+      "tags": []
+    },
+    {
+      "id": 1197,
+      "date_gmt": "2021-10-14T15:00:20",
+      "modified_gmt": "2021-10-16T18:16:17",
+      "slug": "semana-de-las-ciencias-2021",
+      "status": "publish",
+      "type": "post",
+      "link": "https://lcd.exactas.uba.ar/semana-de-las-ciencias-2021/",
+      "title": {
+        "rendered": "\u00a1Semana de las Ciencias de Datos 2021!"
+      },
+      "content": {
+        "rendered": "<p>\u00a1Semana de las Ciencias de Datos!</p>\n<p>Del 26 al 28 de octubre se realizar\u00e1, en formato virtual, la nueva Semana de las Ciencias de Datos de Exactas UBA. Durante esos tres d\u00edas, podr\u00e1n encontrar en el canal de <a href=\"https://www.youtube.com/c/PopExactasUBAOficial\">Youtube de Popularizaci\u00f3n Exactas</a>\u00a0charlas en vivo, videos tem\u00e1ticos y talleres interactivos- con inscripci\u00f3n previa-.<br />\nDesde hoy y hasta el 19/10 estar\u00e1 abierta la inscripci\u00f3n a las actividades interactivas. En este <a href=\"https://exactas.uba.ar/popularizacion/semana-de-las-ciencias-de-datos/?fbclid=IwAR1MPt792CCpZ5AVUztCJY3i8ofv3e8tQnIYPoTCm1T4xfEIA8o1PIDrM0k\">link</a> encontrar\u00e1n el enlace del formulario para inscribir cursos/escuelas</p>\n<p>\u00a1Los/as esperamos!</p>\n",
+        "protected": false
+      },
+      "excerpt": {
+        "rendered": "<p>\u00a1Semana de las Ciencias de Datos! Del 26 al 28  [&#8230;]</p>\n",
+        "protected": false
+      },
+      "author": 7,
+      "featured_media": 1209,
+      "categories": [
+        9
+      ],
+      "tags": []
+    },
+    {
+      "id": 1170,
+      "date_gmt": "2021-10-12T12:20:40",
+      "modified_gmt": "2022-05-24T21:40:01",
+      "slug": "se-larga-datame-las-charlas-de-lcd",
+      "status": "publish",
+      "type": "post",
+      "link": "https://lcd.exactas.uba.ar/se-larga-datame-las-charlas-de-lcd/",
+      "title": {
+        "rendered": "D\u00c1TAME! con Gabriel Mindlin"
+      },
+      "content": {
+        "rendered": "<div>D\u00e1tame! del mes de octubre 2021<br />\nA cargo de: Gabriel Mindlin</div>\n<div></div>\n<div><a href=\"https://youtu.be/8FJB6elNBms\"><strong>Link a la charla</strong></a></div>\n<div></div>\n<div><strong>T\u00edtulo:</strong> <b>\u00bfLa ciencia de datos se va a llevar puestas a las ciencias tradicionales?</b></div>\n<div></div>\n<div><strong>Sobre la charla</strong></div>\n<div></div>\n<div>Las ciencias tradicionales fueron desarrollando t\u00e9cnicas de medici\u00f3n espec\u00edficas, y marcos conceptuales para interpretar a esas mediciones en t\u00e9rminos de modelos y leyes. Por otro lado, nuestra capacidad actual para almacenar y procesar datos masivamente dio lugar a un modo de atacar problemas sumamente complejos (y obtener respuestas eficientemente) que no requiere dilucidar mecanismos. \u00bfComo cambia esta perspectiva nuestro modo de relacionarnos con la naturaleza? \u00bfEs una s\u00edntesis posible? \u00bfQue podemos ganar si la logramos?</div>\n<div>\n<div>\n<p><b><br />\nSobre Gabriel</b></p>\n</div>\n</div>\n<div>\n<div>Es un renombrado f\u00edsico que estudia -entre otras cosas- el canto de los p\u00e1jaros para tratar de entender -entre otras cosas- c\u00f3mo aprendemos. Autor de 130 art\u00edculos en revistas especializadas y cuatro libros; algunos de esos fueron publicados en Physical Review Letters, PNAS y Nature. Fue director de 18 estudiantes de doctorado y muchos tesistas de licenciatura. Es miembro de la academia latinoamericana de ciencias, fue premio Bunge y Born, fellow de la AAAS, el Santa Fe institute, premio Winfree del ICTP. Dirigi\u00f3 proyectos del NIH en Argentina, adem\u00e1s de varios proyectos nacionales y de colaboraci\u00f3n con el Instituto Max Planck. Su trabajo fue comentado en Nature, New Scientist, Smithsonian, podcasts de la AAAS y&#8230; House of Cards!! Es hincha de Racing, trompetista amateur, padre de dos, y se lleva muy bien con la enorm\u00edsima mayor\u00eda de sus ex disc\u00edpulos. M\u00e1s info en <a href=\"http://www.lsd.df.uba.ar/\">http://www.lsd.df.uba.ar/</a>.</div>\n<div>\n<div>\n<div></div>\n<div>\n<div class=\"adL\">\n<div class=\"im\">\n<div>\n<p><strong>Consultas</strong>:\u00a0<a href=\"mailto:info.lcd@exactas.uba.ar\" target=\"_blank\" rel=\"noopener noreferrer\">info.lcd@exactas.uba.ar</a></p>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div></div>\n<div></div>\n</div>\n<div></div>\n<div>\n<div>\n<p>&nbsp;</p>\n</div>\n<div></div>\n<div>\n<p>&nbsp;</p>\n</div>\n</div>\n</div>\n<div></div>\n",
+        "protected": false
+      },
+      "excerpt": {
+        "rendered": "<p>D\u00e1tame! del mes de octubre 2021 A cargo de: Gabriel  [&#8230;]</p>\n",
+        "protected": false
+      },
+      "author": 5,
+      "featured_media": 1207,
+      "categories": [
+        13,
+        9
+      ],
+      "tags": []
+    },
+    {
+      "id": 1166,
+      "date_gmt": "2021-09-23T15:46:21",
+      "modified_gmt": "2021-09-23T15:46:21",
+      "slug": "iv-concurso-de-modelizacion-matematica",
+      "status": "publish",
+      "type": "post",
+      "link": "https://lcd.exactas.uba.ar/iv-concurso-de-modelizacion-matematica/",
+      "title": {
+        "rendered": "IV Concurso de Modelizaci\u00f3n Matem\u00e1tica"
+      },
+      "content": {
+        "rendered": "<p>El Instituto de Matem\u00e1tica Interdisciplinar (IMI) organiza el IV Concurso de Modelizaci\u00f3n Matem\u00e1tica, que consiste en un desaf\u00edo para grupos de estudiantes de grado, en donde se plantea resolver un problema de la vida real mediante modelizaci\u00f3n matem\u00e1tica.</p>\n<p>El concurso comienza el Jueves 30 de Septiembre \u00a0y la presentaci\u00f3n de las soluciones finaliza el Lunes 4 de Octubre.<br />\nEn esta edici\u00f3n de 2021 los premios ser\u00e1n de 2.400, 1.200 y 600 euros para los equipos clasificados en primera, segunda y tercera posici\u00f3n\u00a0(a esas cantidades se les restar\u00e1 los impuestos que correspondan).</p>\n<p>Mas info y links de inscripci\u00f3n en:</p>\n<p><a href=\"https://ic.fcen.uba.ar/noticias/iv-concurso-de-modelizacion-matematica-del-imi-cmm-imi-2021\" target=\"_blank\" rel=\"noopener noreferrer\" data-saferedirecturl=\"https://www.google.com/url?q=https://ic.fcen.uba.ar/noticias/iv-concurso-de-modelizacion-matematica-del-imi-cmm-imi-2021&amp;source=gmail&amp;ust=1632491804916000&amp;usg=AFQjCNFqNjPqdWdIjxJYcVGHBrrH2PIryw\">https://ic.fcen.uba.ar/<wbr />noticias/iv-concurso-de-<wbr />modelizacion-matematica-del-<wbr />imi-cmm-imi-2021</a></p>\n",
+        "protected": false
+      },
+      "excerpt": {
+        "rendered": "<p>El Instituto de Matem\u00e1tica Interdisciplinar (IMI) organiza el IV Concurso  [&#8230;]</p>\n",
+        "protected": false
+      },
+      "author": 7,
+      "featured_media": 1167,
+      "categories": [
+        9
+      ],
+      "tags": []
+    }
+  ]
+}

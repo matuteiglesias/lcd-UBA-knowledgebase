@@ -1,0 +1,19 @@
+{
+  "contract": "run_status.v1",
+  "run_id": "live_lcd_20260424T173509Z",
+  "status": "validation_failed",
+  "result": "fail",
+  "started_at": "2026-04-24T17:35:09Z",
+  "completed_at": "2026-04-24T17:35:09Z",
+  "promotion_performed": false,
+  "trusted": false,
+  "validation_ok": false,
+  "validation_report_path": "data/lcd/runs/live_lcd_20260424T173509Z/reports/validation_report.json",
+  "drift_report_path": "data/lcd/runs/live_lcd_20260424T173509Z/reports/drift_report.json",
+  "anomaly_directory": "data/lcd/runs/live_lcd_20260424T173509Z/reports/anomalies",
+  "manifest_path": "data/lcd/runs/live_lcd_20260424T173509Z/registry/run_manifest.json",
+  "notes": [
+    "Manifest generated from current raw and normalized outputs.",
+    "Validation failed; staged outputs were preserved for inspection and not promoted."
+  ]
+}
